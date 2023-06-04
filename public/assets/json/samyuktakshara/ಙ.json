@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "key": "ಙ್ಞ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṅña_form1",
+        "path": "ṅña/ṅña_form1/1306_DB52_Isturu_4_4_ṅña.JPG"
+      },
+      {
+        "id": 2,
+        "form": "ṅña_form1",
+        "path": "ṅña/ṅña_form1/1340_Bn111_Ramasamudra_5_5_ṅña.JPG"
+      }
+    ],
+    "IASTform": ""
+  }
+]

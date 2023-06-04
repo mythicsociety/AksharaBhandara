@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "key": "ಛ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "cha_form1",
+        "path": "cha/cha_form1/1340_Bn111_Ramasamudra_24_16_cha.JPG"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "key": "ಛಾ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 3,
+    "key": "ಛಿ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 4,
+    "key": "ಛೀ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 5,
+    "key": "ಛು",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 6,
+    "key": "ಛೂ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 7,
+    "key": "ಛೆ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 8,
+    "key": "ಛೇ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 9,
+    "key": "ಛೊ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 10,
+    "key": "ಛೋ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 11,
+    "key": "ಛೈ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 12,
+    "key": "ಛೌ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 13,
+    "key": "ಛೃ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 14,
+    "key": "ಛಃ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 15,
+    "key": "ಛಂ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  }
+]

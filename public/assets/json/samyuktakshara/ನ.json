@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "key": "ನೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "nai_form1",
+        "path": "nai/nai_form1/1340_Bn111_Ramasamudra_22_12_nai.JPG"
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 2,
+    "key": "ನ್ಮ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "nma_form1",
+        "path": "nma/nma_form1/1342_BN24_Ganigarahalli_10_3_nma.JPG"
+      },
+      {
+        "id": 2,
+        "form": "nma_form1",
+        "path": "nma/nma_form1/1342_BN24_Ganigarahalli_13_12_nma.JPG"
+      },
+      {
+        "id": 3,
+        "form": "nma_form1",
+        "path": "nma/nma_form1/1342_BN24_Ganigarahalli_4_1_nma.JPG"
+      },
+      {
+        "id": 4,
+        "form": "nma_form1",
+        "path": "nma/nma_form1/1342_BN24_Ganigarahalli_7_9_nma.JPG"
+      },
+      {
+        "id": 5,
+        "form": "nma_form1",
+        "path": "nma/nma_form1/1345_Dv3_Jalige_4_2_nma.jpg"
+      },
+      {
+        "id": 6,
+        "form": "nma_form1",
+        "path": "nma/nma_form1/1388_MG20_HuleLinganaAre_2_12_nma.JPG"
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 3,
+    "key": "ನ್ನ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "nna_form1",
+        "path": "nna/nna_form1/1336_Bn110_Byadarahalli_28_3_nna.JPG"
+      },
+      {
+        "id": 2,
+        "form": "nna_form1",
+        "path": "nna/nna_form1/1336_Bn110_Byadarahalli_29_6_nna.JPG"
+      },
+      {
+        "id": 3,
+        "form": "nna_form1",
+        "path": "nna/nna_form1/1336_Bn110_Byadarahalli_31_1_nna.JPG"
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 4,
+    "key": "ನ್ವಾ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "nvā_form1",
+        "path": "nvā/nvā_form1/1336_Bn110_Byadarahalli_10_7_nvā.JPG"
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 5,
+    "key": "ನ್ಯ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "nya_form1",
+        "path": "nya/nya_form1/1336_Bn110_Byadarahalli_34_9_nya.JPG"
+      },
+      {
+        "id": 2,
+        "form": "nya_form1",
+        "path": "nya/nya_form1/1336_Bn110_Byadarahalli_42_7_nya.JPG"
+      },
+      {
+        "id": 3,
+        "form": "nya_form1",
+        "path": "nya/nya_form1/1342_BN21_Jakkur_18_3_nya.jpg"
+      },
+      {
+        "id": 4,
+        "form": "nya_form1",
+        "path": "nya/nya_form1/1363_BN81_AgaraMuseum_14_7_nya.JPG"
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 6,
+    "key": "ನಾಂ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "nāṃ_form1",
+        "path": "nāṃ/nāṃ_form1/1336_Bn110_Byadarahalli_44_1_nāṃ.JPG"
+      }
+    ],
+    "IASTform": ""
+  }
+]

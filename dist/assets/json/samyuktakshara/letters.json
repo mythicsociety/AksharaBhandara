@@ -1,0 +1,198 @@
+[
+  {
+    "IASTform": "I",
+    "key": "ಇ",
+    "id": 1,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "E",
+    "key": "ಎ",
+    "id": 2,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ka",
+    "key": "ಕ",
+    "id": 3,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Khya",
+    "key": "ಖ",
+    "id": 28,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ga",
+    "key": "ಗ",
+    "id": 4,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Gha",
+    "key": "ಘ",
+    "id": 5,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ṅa",
+    "key": "ಙ",
+    "id": 6,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Cha",
+    "key": "ಚ",
+    "id": 7,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ja",
+    "key": "ಜ",
+    "id": 8,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ṭa",
+    "key": "ಟ",
+    "id": 9,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ḍa",
+    "key": "ಡ",
+    "id": 10,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ṇa",
+    "key": "ಣ",
+    "id": 11,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ta",
+    "key": "ತ",
+    "id": 12,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Tha",
+    "key": "ಥ",
+    "id": 13,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Da",
+    "key": "ದ",
+    "id": 14,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Na",
+    "key": "ನ",
+    "id": 15,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Pa",
+    "key": "ಪ",
+    "id": 16,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ba",
+    "key": "ಬ",
+    "id": 17,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ma",
+    "key": "ಮ",
+    "id": 18,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ya",
+    "key": "ಯ",
+    "id": 19,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ra",
+    "key": "ರ",
+    "id": 20,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "La",
+    "key": "ಲ",
+    "id": 21,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Va",
+    "key": "ವ",
+    "id": 22,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Śa",
+    "key": "ಶ",
+    "id": 23,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ṣa",
+    "key": "ಷ",
+    "id": 24,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Sa",
+    "key": "ಸ",
+    "id": 25,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "Ha",
+    "key": "ಹ",
+    "id": 26,
+    "isAvailable": true,
+    "forms": []
+  },
+  {
+    "IASTform": "ḹ",
+    "key": "ಳ",
+    "id": 27,
+    "isAvailable": true,
+    "forms": []
+  }
+]

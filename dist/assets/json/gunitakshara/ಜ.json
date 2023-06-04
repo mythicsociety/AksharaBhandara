@@ -1,0 +1,367 @@
+[
+  {
+    "id": 1,
+    "key": "ಜ",
+    "isAvailable": true,
+    "forms": [],
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1306_DB52_Isturu_4_12_ja.JPG"
+      },
+      {
+        "id": 2,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1306_DB52_Isturu_4_14_ja.JPG"
+      },
+      {
+        "id": 3,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1306_DB52_Isturu_8_2_ja.JPG"
+      },
+      {
+        "id": 4,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1329_IthDar_Kadatanamale_4_7_ja.JPG"
+      },
+      {
+        "id": 5,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1336_Bn110_Byadarahalli_14_4_ja.JPG"
+      },
+      {
+        "id": 6,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1336_Bn110_Byadarahalli_3_4_ja.JPG"
+      },
+      {
+        "id": 7,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1336_Bn110_Byadarahalli_48_5_ja.JPG"
+      },
+      {
+        "id": 8,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1336_Bn110_Byadarahalli_5_10_ja.JPG"
+      },
+      {
+        "id": 9,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1336_Bn120_Katanayakanapura_11_13_ja.jpg"
+      },
+      {
+        "id": 10,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1336_Bn120_Katanayakanapura_2_13_ja.JPG"
+      },
+      {
+        "id": 11,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1336_Bn120_Katanayakanapura_4_3_ja.jpg"
+      },
+      {
+        "id": 12,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1336_DV46_Sadenahalli_11_5_ja.JPG"
+      },
+      {
+        "id": 13,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1336_DV46_Sadenahalli_6_2_ja.JPG"
+      },
+      {
+        "id": 14,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1340_Bn111_Ramasamudra_14_10_ja.JPG"
+      },
+      {
+        "id": 15,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1340_Bn111_Ramasamudra_23_1_ja.JPG"
+      },
+      {
+        "id": 16,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1340_Bn111_Ramasamudra_3_14_ja.JPG"
+      },
+      {
+        "id": 17,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1340_Bn111_Ramasamudra_3_16_ja.JPG"
+      },
+      {
+        "id": 18,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1340_Bn111_Ramasamudra_5_13_ja.JPG"
+      },
+      {
+        "id": 19,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1340_Bn111_Ramasamudra_5_15_ja.JPG"
+      },
+      {
+        "id": 20,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1340_Bn111_Ramasamudra_8_9_ja.JPG"
+      },
+      {
+        "id": 21,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1342_BN21_Jakkur_15_1_ ja.jpg"
+      },
+      {
+        "id": 22,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1342_BN21_Jakkur_2_8_ja.jpg"
+      },
+      {
+        "id": 23,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1342_BN24_Ganigarahalli_17_8_ja.JPG"
+      },
+      {
+        "id": 24,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1353_IthDar_Bidarahalli_4_5_ja.JPG"
+      },
+      {
+        "id": 25,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1369_CP150_Malurpatna_12_11_ja.JPG"
+      },
+      {
+        "id": 26,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1369_CP150_Malurpatna_16_2_ja.JPG"
+      },
+      {
+        "id": 27,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1369_CP150_Malurpatna_5_4_ja.JPG"
+      },
+      {
+        "id": 28,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1370_IthDar_DoddaGubbi_5_7_ja.jpg"
+      },
+      {
+        "id": 29,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1370_IthDar_DoddaGubbi_9_1_ja.jpg"
+      },
+      {
+        "id": 30,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1382_DV57_Chikkajala_5_3_ja.JPG"
+      },
+      {
+        "id": 31,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1382_DV57_Chikkajala_5_5_ja.JPG"
+      },
+      {
+        "id": 32,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1388_MG20_HuleLinganaAre_2_18_ja.JPG"
+      },
+      {
+        "id": 33,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1388_MG20_HuleLinganaAre_2_20_ja.JPG"
+      },
+      {
+        "id": 34,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1400_Hennagara_Unpub_5_3_ja.JPG"
+      },
+      {
+        "id": 35,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1400_Hennagara_Unpub_5_5_ja.JPG"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "key": "ಜಾ",
+    "isAvailable": true,
+    "forms": [],
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "jā_form1",
+        "path": "jā/jā_form1/1306_DB52_Isturu_2_6_jā.JPG"
+      },
+      {
+        "id": 2,
+        "form": "jā_form1",
+        "path": "jā/jā_form1/1336_Bn110_Byadarahalli_2_11_jā.JPG"
+      },
+      {
+        "id": 3,
+        "form": "jā_form1",
+        "path": "jā/jā_form1/1340_Bn111_Ramasamudra_3_9_jā.JPG"
+      },
+      {
+        "id": 4,
+        "form": "jā_form1",
+        "path": "jā/jā_form1/1382_DV57_Chikkajala_3_9_jā.JPG"
+      },
+      {
+        "id": 5,
+        "form": "jā_form1",
+        "path": "jā/jā_form1/1382_DV57_Chikkajala_6_10_jā.JPG"
+      },
+      {
+        "id": 6,
+        "form": "jā_form1",
+        "path": "jā/jā_form1/1388_MG20_HuleLinganaAre_2_15_jā.JPG"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "key": "ಜಿ",
+    "isAvailable": true,
+    "forms": [],
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ji_form1",
+        "path": "ji/ji_form1/1336_Bn120_Katanayakanapura_4_13_ji.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "key": "ಜೀ",
+    "isAvailable": true,
+    "forms": [],
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "jī_form1",
+        "path": "jī/jī_form1/1336_Bn110_Byadarahalli_12_11_jī.JPG"
+      },
+      {
+        "id": 2,
+        "form": "jī_form1",
+        "path": "jī/jī_form1/1340_Bn111_Ramasamudra_38_13_jī.JPG"
+      },
+      {
+        "id": 3,
+        "form": "jī_form1",
+        "path": "jī/jī_form1/1342_BN24_Ganigarahalli_12_17_jī.JPG"
+      },
+      {
+        "id": 4,
+        "form": "jī_form1",
+        "path": "jī/jī_form1/1363_BN81_AgaraMuseum_10_2_jī.JPG"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "key": "ಜು",
+    "isAvailable": false,
+    "forms": []
+  },
+  {
+    "id": 6,
+    "key": "ಜೂ",
+    "isAvailable": false,
+    "forms": []
+  },
+  {
+    "id": 7,
+    "key": "ಜೆ",
+    "isAvailable": true,
+    "forms": [],
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "je_form1",
+        "path": "je/je_form1/1382_DV57_Chikkajala_2_1_je.JPG"
+      },
+      {
+        "id": 2,
+        "form": "je_form1",
+        "path": "je/je_form1/1400_Hennagara_Unpub_2_1_je.JPG"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "key": "ಜೇ",
+    "isAvailable": false,
+    "forms": []
+  },
+  {
+    "id": 9,
+    "key": "ಜೈ",
+    "isAvailable": false,
+    "forms": []
+  },
+  {
+    "id": 10,
+    "key": "ಜೊ",
+    "isAvailable": false,
+    "forms": []
+  },
+  {
+    "id": 11,
+    "key": "ಜೋ",
+    "isAvailable": false,
+    "forms": []
+  },
+  {
+    "id": 12,
+    "key": "ಜೌ",
+    "isAvailable": false,
+    "forms": []
+  },
+  {
+    "id": 13,
+    "key": "ಜೃ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 14,
+    "key": "ಜಃ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 15,
+    "key": "ಜಂ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "jaṃ",
+        "path": "jaṃ/1306_DB52_Isturu_2_9_jaṃ.JPG"
+      },
+      {
+        "id": 2,
+        "form": "jaṃ",
+        "path": "jaṃ/1336_Bn110_Byadarahalli_3_2_jaṃ.JPG"
+      },
+      {
+        "id": 3,
+        "form": "jaṃ",
+        "path": "jaṃ/1336_Bn120_Katanayakanapura_2_5_jaṃ.JPG"
+      },
+      {
+        "id": 4,
+        "form": "jaṃ",
+        "path": "jaṃ/1340_Bn111_Ramasamudra_3_12_jaṃ.JPG"
+      }
+    ]
+  }
+]

@@ -16,10 +16,11 @@ export default {
 <template>
   <div class="body-padding">
     <h2>The Mythic Society</h2>
-    <p>The Mythic Society is a pioneering institution of Indic studies in South India, founded in 1909</p>
+
+    <img :src="`${publicPath}./assets/Mythic-society.png`" :alt="`Mythic society`">
 
     <div class="home-flex-container">
-      <img :src="`${publicPath}./assets/Home-image.png`" :alt="`Image text`">
+      <img :src="`${publicPath}./assets/Home-image.png`" :alt="`Book title cover`" width="500" height="500">
 
       <iframe
         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FThe.Mythic.Society.1909&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"

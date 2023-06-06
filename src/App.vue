@@ -70,6 +70,11 @@ export default {
           ]
         },
         {
+          href: '/map',
+          title: 'ನಕ್ಷೆ',
+          icon: 'fa fa-map'
+        },
+        {
           href: '/about',
           title: 'ನಮ್ಮ ಬಗ್ಗೆ',
           icon: 'fa fa-inbox'

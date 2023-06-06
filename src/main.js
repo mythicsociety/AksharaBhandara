@@ -13,6 +13,7 @@ import Samyuktaksharagalu from './components/Samyuktaksharagalu.vue'
 import Sankegalu from './components/Sankegalu.vue'
 import Symbols from './components/Symbols.vue'
 import Shasanagalu from './components/Shasanagalu.vue'
+import Map from './components/Map.vue'
 
 import 'vue-sidebar-menu/dist/vue-sidebar-menu.css'
 import './assets/main.css'
@@ -59,6 +60,11 @@ const router = createRouter({
             path: '/learn/Shasanagalu',
             name: 'ಶಾಸನಗಳು',
             component: Shasanagalu,
+        },
+        {
+            path: '/map',
+            name: 'Map',
+            component: Map,
         },
         {
             path: '/about',

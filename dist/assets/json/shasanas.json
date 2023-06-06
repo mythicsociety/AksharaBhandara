@@ -1,0 +1,128 @@
+[
+    {
+        "id": 101306,
+        "displayName": "1306 DB52 Isturu",
+        "imagePath": "Shasanas//1306_Isturu01.png",
+        "year": 1306,
+        "key": "1306_DB52_Isturu"
+    },
+    {
+        "id": 1011336,
+        "displayName": "1336 Bn110 Byadarahalli",
+        "imagePath": "Shasanas//1336_byadarahalli02.png",
+        "year": 1336,
+        "key": "1336_Bn110_Byadarahalli"
+    },
+    {
+        "id": 1021336,
+        "displayName": "1336 Bn120 Katanayakanapura",
+        "imagePath": "",
+        "year": 1336,
+        "key": "1336_Bn120_Katanayakanapura"
+    },
+    {
+        "id": 1011340,
+        "displayName": "1340 Bn111 Ramasamudra",
+        "imagePath": "",
+        "year": 1340,
+        "key": "1340_Bn111_Ramasamudra"
+    },
+    {
+        "id": 1011400,
+        "displayName": "1400 Bn90 Begurdoorpost",
+        "imagePath": "",
+        "year": 1400,
+        "key": "1400_Bn90_Begurdoorpost"
+    },
+    {
+        "id": 1011342,
+        "displayName": "1342 BN21 Jakkur",
+        "imagePath": "",
+        "year": 1342,
+        "key": "1342_BN21_Jakkur"
+    },
+    {
+        "id": 1021342,
+        "displayName": "1342 BN24 Ganigarahalli",
+        "imagePath": "Shasanas//1342_Ganigarahalli01.png",
+        "year": 1342,
+        "key": "1342_BN24_Ganigarahalli"
+    },
+    {
+        "id": 1011363,
+        "displayName": "1363 BN81 AgaraMuseum",
+        "imagePath": "",
+        "year": 1363,
+        "key": "1363_BN81_AgaraMuseum"
+    },
+    {
+        "id": 1011382,
+        "displayName": "1382 DV57 Chikkajala",
+        "imagePath": "Shasanas//1382_Chikajala01.png",
+        "year": 1382,
+        "key": "1382_DV57_Chikkajala"
+    },
+    {
+        "id": 1011369,
+        "displayName": "1369 CP150 Malurpatna",
+        "imagePath": "",
+        "year": 1369,
+        "key": "1369_CP150_Malurpatna"
+    },
+    {
+        "id": 1011388,
+        "displayName": "1388 MG20 HuleLinganaAre",
+        "imagePath": "",
+        "year": 1388,
+        "key": "1388_MG20_HuleLinganaAre"
+    },
+    {
+        "id": 1021400,
+        "displayName": "1400 Bommenhallli Unpub",
+        "imagePath": "",
+        "year": 1400,
+        "key": "1400_Bommenhallli_Unpub"
+    },
+    {
+        "id": 1011329,
+        "displayName": "1329 IthDar Kadatanamale",
+        "imagePath": "",
+        "year": 1329,
+        "key": "1329_IthDar_Kadatanamale"
+    },
+    {
+        "id": 1031336,
+        "displayName": "1336 DV46 Sadenahalli",
+        "imagePath": "",
+        "year": 1336,
+        "key": "1336_DV46_Sadenahalli"
+    },
+    {
+        "id": 1011345,
+        "displayName": "1345 Dv3 Jalige",
+        "imagePath": "",
+        "year": 1345,
+        "key": "1345_Dv3_Jalige"
+    },
+    {
+        "id": 1011370,
+        "displayName": "1370 IthDar DoddaGubbi",
+        "imagePath": "",
+        "year": 1370,
+        "key": "1370_IthDar_DoddaGubbi"
+    },
+    {
+        "id": 1031400,
+        "displayName": "1400 Hennagara Unpub",
+        "imagePath": "",
+        "year": 1400,
+        "key": "1400_Hennagara_Unpub"
+    },
+    {
+        "id": 1011353,
+        "displayName": "1353 IthDar Bidarahalli",
+        "imagePath": "",
+        "year": 1353,
+        "key": "1353_IthDar_Bidarahalli"
+    }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "key": "ಪ",
+    "isAvailable": true,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1306_DB52_Isturu_10_16_pa.JPG"
+      },
+      {
+        "id": 2,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1306_DB52_Isturu_10_24_pa.JPG"
+      },
+      {
+        "id": 3,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1306_DB52_Isturu_11_20_pa.JPG"
+      },
+      {
+        "id": 4,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1306_DB52_Isturu_2_10_pa.JPG"
+      },
+      {
+        "id": 5,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1306_DB52_Isturu_2_15_pa.JPG"
+      },
+      {
+        "id": 6,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1306_DB52_Isturu_4_17_pa.JPG"
+      },
+      {
+        "id": 7,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1306_DB52_Isturu_7_7_pa.JPG"
+      },
+      {
+        "id": 8,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1306_DB52_Isturu_8_10_pa.JPG"
+      },
+      {
+        "id": 9,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1329_IthDar_Kadatanamale_13_1_pa.JPG"
+      },
+      {
+        "id": 10,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1329_IthDar_Kadatanamale_3_10_pa.JPG"
+      },
+      {
+        "id": 11,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1329_IthDar_Kadatanamale_6_4_pa.JPG"
+      },
+      {
+        "id": 12,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_15_1_pa.JPG"
+      },
+      {
+        "id": 13,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_15_9_pa.JPG"
+      },
+      {
+        "id": 14,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_16_16_pa.JPG"
+      },
+      {
+        "id": 15,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_18_5_pa.JPG"
+      },
+      {
+        "id": 16,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_23_15_pa.JPG"
+      },
+      {
+        "id": 17,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_28_13_pa.JPG"
+      },
+      {
+        "id": 18,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_28_4_pa.JPG"
+      },
+      {
+        "id": 19,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_29_12_pa.JPG"
+      },
+      {
+        "id": 20,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_29_2_pa.JPG"
+      },
+      {
+        "id": 21,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_31_2_pa.JPG"
+      },
+      {
+        "id": 22,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_3_10_pa.JPG"
+      },
+      {
+        "id": 23,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_3_5_pa.JPG"
+      },
+      {
+        "id": 24,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_46_6_pa.JPG"
+      },
+      {
+        "id": 25,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_6_2_pa.JPG"
+      },
+      {
+        "id": 26,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn110_Byadarahalli_9_13_pa.JPG"
+      },
+      {
+        "id": 27,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_Bn120_Katanayakanapura_9_1_pa.jpg"
+      },
+      {
+        "id": 28,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_DV46_Sadenahalli_5_3_pa.JPG"
+      },
+      {
+        "id": 29,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1336_DV46_Sadenahalli_7_8_pa.JPG"
+      },
+      {
+        "id": 30,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1340_Bn111_Ramasamudra_19_5_pa.JPG"
+      },
+      {
+        "id": 31,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1340_Bn111_Ramasamudra_33_7_pa.JPG"
+      },
+      {
+        "id": 32,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1340_Bn111_Ramasamudra_35_10_pa.JPG"
+      },
+      {
+        "id": 33,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1340_Bn111_Ramasamudra_38_3_pa.JPG"
+      },
+      {
+        "id": 34,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1340_Bn111_Ramasamudra_3_17_pa.JPG"
+      },
+      {
+        "id": 35,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1340_Bn111_Ramasamudra_47_6_pa.JPG"
+      },
+      {
+        "id": 36,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1340_Bn111_Ramasamudra_5_18_pa.JPG"
+      },
+      {
+        "id": 37,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1342_BN21_Jakkur_16_1_pa.jpg"
+      },
+      {
+        "id": 38,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1342_BN21_Jakkur_3_7_pa.jpg"
+      },
+      {
+        "id": 39,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1342_BN21_Jakkur_5_10_pa.jpg"
+      },
+      {
+        "id": 40,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1342_BN21_Jakkur_9_10_pa.jpg"
+      },
+      {
+        "id": 41,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1342_BN24_Ganigarahalli_14_1_pa.JPG"
+      },
+      {
+        "id": 42,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1342_BN24_Ganigarahalli_4_5_pa.JPG"
+      },
+      {
+        "id": 43,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1342_BN24_Ganigarahalli_7_11_pa.JPG"
+      },
+      {
+        "id": 44,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1353_IthDar_Bidarahalli_14_4_pa.JPG"
+      },
+      {
+        "id": 45,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1363_BN81_AgaraMuseum_5_15_pa.JPG"
+      },
+      {
+        "id": 46,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1388_MG20_HuleLinganaAre_2_31_pa.JPG"
+      },
+      {
+        "id": 47,
+        "form": "pa_form1",
+        "path": "pa/pa_form1/1400_Bn90_Begurdoorpost_7_3_pa.jpg"
+      },
+      {
+        "id": 48,
+        "form": "pa_form2",
+        "path": "pa/pa_form2/1336_Bn120_Katanayakanapura_9_15_pa.jpg"
+      },
+      {
+        "id": 49,
+        "form": "pa_form2",
+        "path": "pa/pa_form2/1342_BN24_Ganigarahalli_6_5_pa.JPG"
+      },
+      {
+        "id": 50,
+        "form": "pa_form2",
+        "path": "pa/pa_form2/1369_CP150_Malurpatna_13_12_pa.JPG"
+      },
+      {
+        "id": 51,
+        "form": "pa_form2",
+        "path": "pa/pa_form2/1369_CP150_Malurpatna_2_19_pa.JPG"
+      },
+      {
+        "id": 52,
+        "form": "pa_form2",
+        "path": "pa/pa_form2/1369_CP150_Malurpatna_7_12_pa.JPG"
+      },
+      {
+        "id": 53,
+        "form": "pa_form2",
+        "path": "pa/pa_form2/1388_MG20_HuleLinganaAre_2_21_pa.JPG"
+      },
+      {
+        "id": 54,
+        "form": "pa_form2",
+        "path": "pa/pa_form2/1400_Bommenhallli_Unpub_6_5_pa.JPG"
+      },
+      {
+        "id": 55,
+        "form": "pa_form3",
+        "path": "pa/pa_form3/1336_Bn110_Byadarahalli_29_7_pa.JPG"
+      },
+      {
+        "id": 56,
+        "form": "pa_form3",
+        "path": "pa/pa_form3/1340_Bn111_Ramasamudra_48_15_pa.JPG"
+      },
+      {
+        "id": 57,
+        "form": "pa_form3",
+        "path": "pa/pa_form3/1363_BN81_AgaraMuseum_6_10_pa.JPG"
+      },
+      {
+        "id": 58,
+        "form": "pa_form3",
+        "path": "pa/pa_form3/1369_CP150_Malurpatna_11_6_pa.JPG"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "key": "ಪಾ",
+    "isAvailable": true,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pā_form1",
+        "path": "pā/pā_form1/1306_DB52_Isturu_10_22_pā.JPG"
+      },
+      {
+        "id": 2,
+        "form": "pā_form1",
+        "path": "pā/pā_form1/1336_Bn120_Katanayakanapura_4_9_pā.jpg"
+      },
+      {
+        "id": 3,
+        "form": "pā_form1",
+        "path": "pā/pā_form1/1336_Bn120_Katanayakanapura_8_16_pā.jpg"
+      },
+      {
+        "id": 4,
+        "form": "pā_form1",
+        "path": "pā/pā_form1/1336_Bn120_Katanayakanapura_9_14_pā.jpg"
+      },
+      {
+        "id": 5,
+        "form": "pā_form1",
+        "path": "pā/pā_form1/1340_Bn111_Ramasamudra_35_8_pā.JPG"
+      },
+      {
+        "id": 6,
+        "form": "pā_form1",
+        "path": "pā/pā_form1/1340_Bn111_Ramasamudra_46_13_pā.JPG"
+      },
+      {
+        "id": 7,
+        "form": "pā_form1",
+        "path": "pā/pā_form1/1340_Bn111_Ramasamudra_48_14_pā.JPG"
+      },
+      {
+        "id": 8,
+        "form": "pā_form1",
+        "path": "pā/pā_form1/1345_Dv3_Jalige_2_11_pā.jpg"
+      },
+      {
+        "id": 9,
+        "form": "pā_form2",
+        "path": "pā/pā_form2/1336_Bn110_Byadarahalli_46_5_pā.JPG"
+      },
+      {
+        "id": 10,
+        "form": "pā_form2",
+        "path": "pā/pā_form2/1400_Bn90_Begurdoorpost_10_6_pā.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "key": "ಪಿ",
+    "isAvailable": true,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pi_form1",
+        "path": "pi/pi_form1/1306_DB52_Isturu_10_21_pi.JPG"
+      },
+      {
+        "id": 2,
+        "form": "pi_form1",
+        "path": "pi/pi_form1/1336_Bn110_Byadarahalli_45_17_pi.JPG"
+      },
+      {
+        "id": 3,
+        "form": "pi_form1",
+        "path": "pi/pi_form1/1336_Bn110_Byadarahalli_45_2_pi.JPG"
+      },
+      {
+        "id": 4,
+        "form": "pi_form1",
+        "path": "pi/pi_form1/1340_Bn111_Ramasamudra_48_9_pi.JPG"
+      },
+      {
+        "id": 5,
+        "form": "pi_form1",
+        "path": "pi/pi_form1/1370_IthDar_DoddaGubbi_9_5_pi.jpg"
+      },
+      {
+        "id": 6,
+        "form": "pi_form2",
+        "path": "pi/pi_form2/1400_Bn90_Begurdoorpost_9_5_pi.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "key": "ಪೀ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 5,
+    "key": "ಪು",
+    "isAvailable": true,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pu_form1",
+        "path": "pu/pu_form1/1306_DB52_Isturu_3_7_pu.JPG"
+      },
+      {
+        "id": 2,
+        "form": "pu_form1",
+        "path": "pu/pu_form1/1336_Bn110_Byadarahalli_11_3_pu.JPG"
+      },
+      {
+        "id": 3,
+        "form": "pu_form1",
+        "path": "pu/pu_form1/1340_Bn111_Ramasamudra_4_6_pu.JPG"
+      },
+      {
+        "id": 4,
+        "form": "pu_form1",
+        "path": "pu/pu_form1/1370_IthDar_DoddaGubbi_3_2_pu.jpg"
+      },
+      {
+        "id": 5,
+        "form": "pu_form1",
+        "path": "pu/pu_form1/1400_Bommenhallli_Unpub_5_6_pu.JPG"
+      },
+      {
+        "id": 6,
+        "form": "pu_form2",
+        "path": "pu/pu_form2/1336_Bn120_Katanayakanapura_4_5_pu.jpg"
+      },
+      {
+        "id": 7,
+        "form": "pu_form2",
+        "path": "pu/pu_form2/1336_Bn120_Katanayakanapura_6_4_pu.jpg"
+      },
+      {
+        "id": 8,
+        "form": "pu_form2",
+        "path": "pu/pu_form2/1336_Bn120_Katanayakanapura_6_7_pu.jpg"
+      },
+      {
+        "id": 9,
+        "form": "pu_form2",
+        "path": "pu/pu_form2/1336_Bn120_Katanayakanapura_7_6_pu.jpg"
+      },
+      {
+        "id": 10,
+        "form": "pu_form2",
+        "path": "pu/pu_form2/1336_Bn120_Katanayakanapura_8_11_pu.jpg"
+      },
+      {
+        "id": 11,
+        "form": "pu_form2",
+        "path": "pu/pu_form2/1369_CP150_Malurpatna_2_6_pu.JPG"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "key": "ಪೂ",
+    "isAvailable": true,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pū_form1",
+        "path": "pū/pū_form1/1336_Bn110_Byadarahalli_36_12_pū.JPG"
+      },
+      {
+        "id": 2,
+        "form": "pū_form1",
+        "path": "pū/pū_form1/1336_Bn110_Byadarahalli_36_9_pū.JPG"
+      },
+      {
+        "id": 3,
+        "form": "pū_form1",
+        "path": "pū/pū_form1/1340_Bn111_Ramasamudra_40_11_pū.JPG"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "key": "ಪೆ",
+    "isAvailable": true,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pe_form1",
+        "path": "pe/pe_form1/1342_BN24_Ganigarahalli_15_17_pe.JPG"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "key": "ಪೇ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 9,
+    "key": "ಪೊ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 10,
+    "key": "ಪೋ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 11,
+    "key": "ಪೈ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 12,
+    "key": "ಪೌ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 13,
+    "key": "ಪೃ",
+    "isAvailable": true,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pṛ_form1",
+        "path": "pṛ/pṛ_form1/1342_BN21_Jakkur_6_2_pṛ.jpg"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "key": "ಪಃ",
+    "isAvailable": false,
+    "forms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 15,
+    "key": "ಪಂ",
+    "isAvailable": true,
+    "forms": [],
+    "IASTform": "",
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "paṃ_form1",
+        "path": "paṃ/paṃ_form1/1369_CP150_Malurpatna_9_8_paṃ.JPG"
+      }
+    ]
+  }
+]

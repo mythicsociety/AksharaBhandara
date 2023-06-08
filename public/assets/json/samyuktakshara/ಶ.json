@@ -7,7 +7,8 @@
       {
         "id": 1,
         "form": "śai",
-        "path": "śai/1340_Bn111_Ramasamudra_22_16_śai.JPG"
+        "path": "śai/1340_Bn111_Ramasamudra_22_16_śai.JPG",
+        "year": 1340
       }
     ],
     "IASTform": ""
@@ -20,12 +21,14 @@
       {
         "id": 1,
         "form": "śra_form1",
-        "path": "śra/śra_form1/1340_Bn111_Ramasamudra_2_16_śra.JPG"
+        "path": "śra/śra_form1/1340_Bn111_Ramasamudra_2_16_śra.JPG",
+        "year": 1340
       },
       {
         "id": 2,
         "form": "śra_form2",
-        "path": "śra/śra_form2/1306_DB52_Isturu_1_9_śra.JPG"
+        "path": "śra/śra_form2/1306_DB52_Isturu_1_9_śra.JPG",
+        "year": 1306
       }
     ],
     "IASTform": ""
@@ -38,42 +41,50 @@
       {
         "id": 1,
         "form": "śva_form1",
-        "path": "śva/śva_form1/1340_Bn111_Ramasamudra_14_3_śva.JPG"
+        "path": "śva/śva_form1/1340_Bn111_Ramasamudra_14_3_śva.JPG",
+        "year": 1340
       },
       {
         "id": 2,
         "form": "śva_form1",
-        "path": "śva/śva_form1/1340_Bn111_Ramasamudra_4_11_śva.JPG"
+        "path": "śva/śva_form1/1340_Bn111_Ramasamudra_4_11_śva.JPG",
+        "year": 1340
       },
       {
         "id": 3,
         "form": "śva_form1",
-        "path": "śva/śva_form1/1363_BN81_AgaraMuseum_3_11_śva.JPG"
+        "path": "śva/śva_form1/1363_BN81_AgaraMuseum_3_11_śva.JPG",
+        "year": 1363
       },
       {
         "id": 4,
         "form": "śva_form1",
-        "path": "śva/śva_form1/1369_CP150_Malurpatna_1_11_śva.JPG"
+        "path": "śva/śva_form1/1369_CP150_Malurpatna_1_11_śva.JPG",
+        "year": 1369
       },
       {
         "id": 5,
         "form": "śva_form1",
-        "path": "śva/śva_form1/1388_MG20_HuleLinganaAre_2_24_śva.JPG"
+        "path": "śva/śva_form1/1388_MG20_HuleLinganaAre_2_24_śva.JPG",
+        "year": 1388
       },
       {
         "id": 6,
         "form": "śva_form2",
-        "path": "śva/śva_form2/1336_DV46_Sadenahalli_10_8_śva.JPG"
+        "path": "śva/śva_form2/1336_DV46_Sadenahalli_10_8_śva.JPG",
+        "year": 1336
       },
       {
         "id": 7,
         "form": "śva_form2",
-        "path": "śva/śva_form2/1340_Bn111_Ramasamudra_3_20_śva.JPG"
+        "path": "śva/śva_form2/1340_Bn111_Ramasamudra_3_20_śva.JPG",
+        "year": 1340
       },
       {
         "id": 8,
         "form": "śva_form2",
-        "path": "śva/śva_form2/1400_Bn90_Begurdoorpost_2_1_śva.jpg"
+        "path": "śva/śva_form2/1400_Bn90_Begurdoorpost_2_1_śva.jpg",
+        "year": 1400
       }
     ],
     "IASTform": ""
@@ -86,7 +97,8 @@
       {
         "id": 1,
         "form": "śvī_form1",
-        "path": "śvī/śvī_form1/1342_BN21_Jakkur_2_7_śvī.jpg"
+        "path": "śvī/śvī_form1/1342_BN21_Jakkur_2_7_śvī.jpg",
+        "year": 1342
       }
     ],
     "IASTform": ""
@@ -99,7 +111,8 @@
       {
         "id": 1,
         "form": "śyaṃ_form1",
-        "path": "śyaṃ/śyaṃ_form1/1340_Bn111_Ramasamudra_13_12_śyaṃ.JPG"
+        "path": "śyaṃ/śyaṃ_form1/1340_Bn111_Ramasamudra_13_12_śyaṃ.JPG",
+        "year": 1340
       }
     ],
     "IASTform": ""

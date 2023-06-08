@@ -7,17 +7,20 @@
       {
         "id": 1,
         "form": "ruṃ_form1",
-        "path": "ruṃ/ruṃ_form1/1306_DB52_Isturu_10_26_ruṃ.JPG"
+        "path": "ruṃ/ruṃ_form1/1306_DB52_Isturu_10_26_ruṃ.JPG",
+        "year": 1306
       },
       {
         "id": 2,
         "form": "ruṃ_form1",
-        "path": "ruṃ/ruṃ_form1/1306_DB52_Isturu_5_1_ruṃ.JPG"
+        "path": "ruṃ/ruṃ_form1/1306_DB52_Isturu_5_1_ruṃ.JPG",
+        "year": 1306
       },
       {
         "id": 3,
         "form": "ruṃ_form1",
-        "path": "ruṃ/ruṃ_form1/1340_Bn111_Ramasamudra_6_8_ruṃ.JPG"
+        "path": "ruṃ/ruṃ_form1/1340_Bn111_Ramasamudra_6_8_ruṃ.JPG",
+        "year": 1340
       }
     ],
     "IASTform": ""

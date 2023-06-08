@@ -124,5 +124,47 @@
         "imagePath": "",
         "year": 1353,
         "key": "1353_IthDar_Bidarahalli"
+    },
+    {
+        "id": 1011516,
+        "displayName": "1516 IthDar Rayasandra",
+        "imagePath": "",
+        "year": 1516,
+        "key": "1516_IthDar_Rayasandra"
+    },
+    {
+        "id": 1011000,
+        "displayName": "1000 Cp142 Malurpatna",
+        "imagePath": "",
+        "year": 1000,
+        "key": "1000_Cp142_Malurpatna"
+    },
+    {
+        "id": 1021000,
+        "displayName": "1000 Cp113 Kudluru",
+        "imagePath": "",
+        "year": 1000,
+        "key": "1000_Cp113_Kudluru"
+    },
+    {
+        "id": 1031000,
+        "displayName": "1000 Bp65 Karubele",
+        "imagePath": "",
+        "year": 1000,
+        "key": "1000_Bp65_Karubele"
+    },
+    {
+        "id": 1041000,
+        "displayName": "1000 AksharaMeru Jakkur",
+        "imagePath": "",
+        "year": 1000,
+        "key": "1000_AksharaMeru_Jakkur"
+    },
+    {
+        "id": 1051000,
+        "displayName": "1000 IthDar Kamarasanahalli",
+        "imagePath": "",
+        "year": 1000,
+        "key": "1000_IthDar_Kamarasanahalli"
     }
 ]

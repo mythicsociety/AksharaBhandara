@@ -3,159 +3,191 @@
     "id": 1,
     "key": "ಖ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1329_IthDar_Kadatanamale_7_1_kha.JPG"
+        "path": "kha/kha_form1/1329_IthDar_Kadatanamale_7_1_kha.JPG",
+        "year": 1329
       },
       {
         "id": 2,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1336_Bn110_Byadarahalli_21_15_kha.JPG"
+        "path": "kha/kha_form1/1336_Bn110_Byadarahalli_21_15_kha.JPG",
+        "year": 1336
       },
       {
         "id": 3,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1336_Bn120_Katanayakanapura_1_10_kha.JPG"
+        "path": "kha/kha_form1/1336_Bn120_Katanayakanapura_1_10_kha.JPG",
+        "year": 1336
       },
       {
         "id": 4,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1340_Bn111_Ramasamudra_16_1_kha.JPG"
+        "path": "kha/kha_form1/1340_Bn111_Ramasamudra_16_1_kha.JPG",
+        "year": 1340
       },
       {
         "id": 5,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1340_Bn111_Ramasamudra_44_14_kha.JPG"
+        "path": "kha/kha_form1/1340_Bn111_Ramasamudra_44_14_kha.JPG",
+        "year": 1340
       },
       {
         "id": 6,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1342_BN24_Ganigarahalli_6_11_kha.JPG"
+        "path": "kha/kha_form1/1342_BN24_Ganigarahalli_6_11_kha.JPG",
+        "year": 1342
       },
       {
         "id": 7,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1382_DV57_Chikkajala_1_4_kha.JPG"
+        "path": "kha/kha_form1/1382_DV57_Chikkajala_1_4_kha.JPG",
+        "year": 1382
       },
       {
         "id": 8,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1382_DV57_Chikkajala_1_5_kha.JPG"
+        "path": "kha/kha_form1/1382_DV57_Chikkajala_1_5_kha.JPG",
+        "year": 1382
       },
       {
         "id": 9,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1382_DV57_Chikkajala_2_13_kha.JPG"
+        "path": "kha/kha_form1/1382_DV57_Chikkajala_2_13_kha.JPG",
+        "year": 1382
       },
       {
         "id": 10,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1382_DV57_Chikkajala_4_10_kha.JPG"
+        "path": "kha/kha_form1/1382_DV57_Chikkajala_4_10_kha.JPG",
+        "year": 1382
       },
       {
         "id": 11,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1400_Bommenhallli_Unpub_1_5_kha.JPG"
+        "path": "kha/kha_form1/1400_Bommenhallli_Unpub_1_5_kha.JPG",
+        "year": 1400
       },
       {
         "id": 12,
         "form": "kha_form1",
-        "path": "kha/kha_form1/1400_Hennagara_Unpub_1_4_kha.JPG"
+        "path": "kha/kha_form1/1400_Hennagara_Unpub_1_4_kha.JPG",
+        "year": 1400
+      },
+      {
+        "id": 13,
+        "form": "kha_form1",
+        "path": "kha/kha_form1/1516_IthDar_Rayasandra_4_9_kha.JPG",
+        "year": 1516
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
     "id": 2,
     "key": "ಖಾ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "khā_form1",
-        "path": "khā/khā_form1/1353_IthDar_Bidarahalli_1_5_khā.JPG"
+        "path": "khā/khā_form1/1353_IthDar_Bidarahalli_1_5_khā.JPG",
+        "year": 1353
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
     "id": 3,
     "key": "ಖಿ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 4,
     "key": "ಖೀ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 5,
     "key": "ಖು",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 6,
     "key": "ಖೂ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 7,
-    "key": "ಖೃ",
+    "key": "ಖೆ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 8,
-    "key": "ಖೆ",
+    "key": "ಖೇ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 9,
-    "key": "ಖೇ",
+    "key": "ಖೊ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 10,
-    "key": "ಖೈ",
+    "key": "ಖೋ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 11,
-    "key": "ಖೊ",
+    "key": "ಖೈ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 12,
-    "key": "ಖೋ",
+    "key": "ಖೌ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 13,
-    "key": "ಖೌ",
+    "key": "ಖೃ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 14,
-    "key": "ಖಂ",
+    "key": "ಖಃ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 15,
-    "key": "ಖಃ",
+    "key": "ಖಂ",
     "isAvailable": false,
-    "forms": []
+    "letterForms": [],
+    "IASTform": ""
   }
 ]

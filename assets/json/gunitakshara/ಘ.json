@@ -3,116 +3,130 @@
     "id": 1,
     "key": "ಘ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "gha_form1",
-        "path": "gha/gha_form1/1336_Bn110_Byadarahalli_23_2_gha.JPG"
+        "path": "gha/gha_form1/1336_Bn110_Byadarahalli_23_2_gha.JPG",
+        "year": 1336
       },
       {
         "id": 2,
         "form": "gha_form1",
-        "path": "gha/gha_form1/1369_CP150_Malurpatna_13_19_gha.JPG"
+        "path": "gha/gha_form1/1369_CP150_Malurpatna_13_19_gha.JPG",
+        "year": 1369
+      },
+      {
+        "id": 3,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/900_CP204_Malurpatna_6_5_gha.JPG",
+        "year": 900
+      },
+      {
+        "id": 4,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/900_IthDar_Kaikondrahalli_11_5_gha.JPG",
+        "year": 900
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
     "id": 2,
     "key": "ಘಾ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 3,
     "key": "ಘಿ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 4,
     "key": "ಘೀ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 5,
     "key": "ಘು",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 6,
     "key": "ಘೂ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 7,
     "key": "ಘೆ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 8,
     "key": "ಘೇ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 9,
     "key": "ಘೊ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 10,
     "key": "ಘೋ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 11,
     "key": "ಘೈ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 12,
     "key": "ಘೌ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 13,
     "key": "ಘೃ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 14,
     "key": "ಘಃ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 15,
     "key": "ಘಂ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   }
 ]

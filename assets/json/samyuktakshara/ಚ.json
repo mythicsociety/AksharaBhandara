@@ -1,59 +1,62 @@
 [
   {
-    "id": 6,
-    "IASTform": "cca",
+    "id": 1,
     "key": "ಚ್ಚ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "cca_form1",
-        "path": "cca/cca_form1/1342_BN21_Jakkur_3_8_cca.jpg"
+        "path": "cca/cca_form1/1342_BN21_Jakkur_3_8_cca.jpg",
+        "year": 1342
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
-    "id": 7,
-    "IASTform": "csa",
+    "id": 2,
     "key": "ಚ್ಸ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "csa_form1",
-        "path": "csa/csa_form1/1336_Bn120_Katanayakanapura_1_5_csa.JPG"
+        "path": "csa/csa_form1/1336_Bn120_Katanayakanapura_1_5_csa.JPG",
+        "year": 1336
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
-    "id": 8,
-    "IASTform": "cĕṃ",
+    "id": 3,
     "key": "ಚೆಂ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "cĕṃ_form1",
-        "path": "cĕṃ/cĕṃ_form1/1336_Bn110_Byadarahalli_33_7_cĕṃ.JPG"
+        "path": "cĕṃ/cĕṃ_form1/1336_Bn110_Byadarahalli_33_7_cĕṃ.JPG",
+        "year": 1336
       },
       {
         "id": 2,
         "form": "cĕṃ_form1",
-        "path": "cĕṃ/cĕṃ_form1/1340_Bn111_Ramasamudra_37_1_cĕṃ.JPG"
+        "path": "cĕṃ/cĕṃ_form1/1340_Bn111_Ramasamudra_37_1_cĕṃ.JPG",
+        "year": 1340
       },
       {
         "id": 3,
         "form": "cĕṃ_form1",
-        "path": "cĕṃ/cĕṃ_form1/1340_Bn111_Ramasamudra_43_5_cĕṃ.JPG"
+        "path": "cĕṃ/cĕṃ_form1/1340_Bn111_Ramasamudra_43_5_cĕṃ.JPG",
+        "year": 1340
       },
       {
         "id": 4,
         "form": "cĕṃ_form2",
-        "path": "cĕṃ/cĕṃ_form2/1336_Bn110_Byadarahalli_40_10_cĕṃ.JPG"
+        "path": "cĕṃ/cĕṃ_form2/1336_Bn110_Byadarahalli_40_10_cĕṃ.JPG",
+        "year": 1336
       }
-    ]
+    ],
+    "IASTform": ""
   }
 ]

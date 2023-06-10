@@ -21,6 +21,18 @@
         "form": "dha_form1",
         "path": "dha/dha_form1/1388_MG20_HuleLinganaAre_3_10_dha.JPG",
         "year": 1388
+      },
+      {
+        "id": 4,
+        "form": "dha_form1",
+        "path": "dha/dha_form1/800_Ht185_Khajihosahalli_12_4_dha.JPG",
+        "year": 800
+      },
+      {
+        "id": 5,
+        "form": "dha_form1",
+        "path": "dha/dha_form1/800_UnPub_Sadahalli_8_7_dha.JPG",
+        "year": 800
       }
     ],
     "IASTform": ""
@@ -130,24 +142,48 @@
       },
       {
         "id": 13,
+        "form": "dhi_form1",
+        "path": "dhi/dhi_form1/900_CP134_Malurpatna_2_9_dhi.JPG",
+        "year": 900
+      },
+      {
+        "id": 14,
+        "form": "dhi_form1",
+        "path": "dhi/dhi_form1/900_CP141_Malurpatna_36_2_dhi.JPG",
+        "year": 900
+      },
+      {
+        "id": 15,
+        "form": "dhi_form1",
+        "path": "dhi/dhi_form1/900_CP141_Malurpatna_40_2_dhi.JPG",
+        "year": 900
+      },
+      {
+        "id": 16,
+        "form": "dhi_form1",
+        "path": "dhi/dhi_form1/900_Dv42_Aradeshanahalli_1_19_dhi.JPG",
+        "year": 900
+      },
+      {
+        "id": 17,
         "form": "dhi_form2",
         "path": "dhi/dhi_form2/1336_Bn110_Byadarahalli_23_14_dhi.JPG",
         "year": 1336
       },
       {
-        "id": 14,
+        "id": 18,
         "form": "dhi_form2",
         "path": "dhi/dhi_form2/1336_Bn110_Byadarahalli_2_12_dhi.JPG",
         "year": 1336
       },
       {
-        "id": 15,
+        "id": 19,
         "form": "dhi_form2",
         "path": "dhi/dhi_form2/1336_Bn110_Byadarahalli_8_11_dhi.JPG",
         "year": 1336
       },
       {
-        "id": 16,
+        "id": 20,
         "form": "dhi_form2",
         "path": "dhi/dhi_form2/1340_Bn111_Ramasamudra_3_10_dhi.JPG",
         "year": 1340

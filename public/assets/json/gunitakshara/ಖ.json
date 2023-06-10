@@ -102,8 +102,15 @@
   {
     "id": 3,
     "key": "ಖಿ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "khi_form1",
+        "path": "khi/khi_form1/996_CP144_Malurpatna_1_14_khi.JPG",
+        "year": 996
+      }
+    ],
     "IASTform": ""
   },
   {

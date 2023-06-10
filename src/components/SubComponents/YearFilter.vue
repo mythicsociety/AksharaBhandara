@@ -25,7 +25,7 @@
   
 <script>
 
-const MinYear = 1000;
+const MinYear = 700;
 const MaxYear = 1600;
 const StepYear = 1;
 

@@ -63,6 +63,24 @@
         "form": "bha_form1",
         "path": "bha/bha_form1/1516_IthDar_Rayasandra_1_2_bha.JPG",
         "year": 1516
+      },
+      {
+        "id": 11,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/900_Dv42_Aradeshanahalli_1_14_bha.JPG",
+        "year": 900
+      },
+      {
+        "id": 12,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/900_Dv42_Aradeshanahalli_1_27_bha.JPG",
+        "year": 900
+      },
+      {
+        "id": 13,
+        "form": "bha_form2",
+        "path": "bha/bha_form2/900_Bn94_Begur_1_2_bha.JPG",
+        "year": 900
       }
     ],
     "IASTform": ""
@@ -149,6 +167,18 @@
         "form": "bhā_form1",
         "path": "bhā/bhā_form1/1400_Hennagara_Unpub_4_2_bhā.JPG",
         "year": 1400
+      },
+      {
+        "id": 14,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/900_CP141_Malurpatna_17_3_bhā.JPG",
+        "year": 900
+      },
+      {
+        "id": 15,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/996_CP144_Malurpatna_2_4_bhā.JPG",
+        "year": 996
       }
     ],
     "IASTform": ""
@@ -163,6 +193,18 @@
         "form": "bhi_form1",
         "path": "bhi/bhi_form1/1340_Bn111_Ramasamudra_17_2_bhi.JPG",
         "year": 1340
+      },
+      {
+        "id": 2,
+        "form": "bhi_form1",
+        "path": "bhi/bhi_form1/900_CP141_Malurpatna_5_2_bhi.JPG",
+        "year": 900
+      },
+      {
+        "id": 3,
+        "form": "bhi_form2",
+        "path": "bhi/bhi_form2/950_Paravastu_Haralur_2_6_bhi.JPG",
+        "year": 950
       }
     ],
     "IASTform": ""
@@ -252,6 +294,18 @@
         "form": "bhū_form1",
         "path": "bhū/bhū_form1/1340_Bn111_Ramasamudra_37_11_bhū.JPG",
         "year": 1340
+      },
+      {
+        "id": 3,
+        "form": "bhū_form1",
+        "path": "bhū/bhū_form1/800_UnPub_Sadahalli_7_4_bhū.JPG",
+        "year": 800
+      },
+      {
+        "id": 4,
+        "form": "bhū_form1",
+        "path": "bhū/bhū_form1/900_CP141_Malurpatna_21_3_bhū.JPG",
+        "year": 900
       }
     ],
     "IASTform": ""
@@ -293,6 +347,12 @@
         "form": "bho_form1",
         "path": "bho/bho_form1/1340_Bn111_Ramasamudra_47_1_bho.JPG",
         "year": 1340
+      },
+      {
+        "id": 2,
+        "form": "bho_form1",
+        "path": "bho/bho_form1/913_CP161_Mankunda_5_4_bho.JPG",
+        "year": 913
       }
     ],
     "IASTform": ""

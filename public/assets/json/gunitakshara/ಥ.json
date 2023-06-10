@@ -39,6 +39,12 @@
         "form": "tha_form1",
         "path": "tha/tha_form1/1388_MG20_HuleLinganaAre_3_7_tha.JPG",
         "year": 1388
+      },
+      {
+        "id": 7,
+        "form": "tha_form1",
+        "path": "tha/tha_form1/900_CP134_Malurpatna_4_4_tha.JPG",
+        "year": 900
       }
     ],
     "IASTform": ""
@@ -79,6 +85,30 @@
         "form": "thi_form1",
         "path": "thi/thi_form1/1340_Bn111_Ramasamudra_3_1_thi.JPG",
         "year": 1340
+      },
+      {
+        "id": 3,
+        "form": "thi_form1",
+        "path": "thi/thi_form1/750_UnPub_Sakalavara_2_6_thi.JPG",
+        "year": 750
+      },
+      {
+        "id": 4,
+        "form": "thi_form1",
+        "path": "thi/thi_form1/900_Dv42_Aradeshanahalli_1_10_thi.JPG",
+        "year": 900
+      },
+      {
+        "id": 5,
+        "form": "thi_form1",
+        "path": "thi/thi_form1/900_Dv42_Aradeshanahalli_1_31_thi.JPG",
+        "year": 900
+      },
+      {
+        "id": 6,
+        "form": "thi_form1",
+        "path": "thi/thi_form1/900_ShaManKabaya_Kurudusonenahalli_2_4_thi.JPG",
+        "year": 900
       }
     ],
     "IASTform": ""
@@ -100,6 +130,24 @@
         "form": "thu_form1",
         "path": "thu/thu_form1/1336_Bn110_Byadarahalli_2_2_thu.JPG",
         "year": 1336
+      },
+      {
+        "id": 2,
+        "form": "thu_form1",
+        "path": "thu/thu_form1/750_IthDarHebKit_Hebbal_1_14_thu.JPG",
+        "year": 750
+      },
+      {
+        "id": 3,
+        "form": "thu_form1",
+        "path": "thu/thu_form1/900_HT110_Kumbalahalli_2_1_thu.JPG",
+        "year": 900
+      },
+      {
+        "id": 4,
+        "form": "thu_form2",
+        "path": "thu/thu_form2/750_UnPub_Atturu_1_9_thu.JPG",
+        "year": 750
       }
     ],
     "IASTform": ""

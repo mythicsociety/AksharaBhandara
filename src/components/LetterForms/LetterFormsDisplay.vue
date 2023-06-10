@@ -16,7 +16,7 @@ import { groupBy, getYear } from '../../models/utils';
 
                     <h2 style="border-bottom: 2px solid red;">{{ getGroupName(group[0]) }}</h2>
                     <div class="flex-container">
-                        <BasicLetter v-for="letter in group[1]" :image_src="letter.path" :showLetterText="false"
+                        <BasicLetter v-for="letter in sortedByYear(group[1])" :image_src="letter.path" :showLetterText="false"
                             :imageSizePx="100" :showLetterYear="true" />
                     </div>
 
@@ -50,13 +50,13 @@ export default {
         }
     },
     computed: {
-        sortedByYear(groupedLetters) {
-            return groupedLetters.sort((a, b) => a.year - b.year);
-        },
+        
     },
     methods: {
 
-
+        sortedByYear(groupedLetters) {
+            return groupedLetters.sort((a, b) => a.year - b.year);
+        },
         getLetterForForm(formId) {
             return this.groupedLetters.get(formId)
         },

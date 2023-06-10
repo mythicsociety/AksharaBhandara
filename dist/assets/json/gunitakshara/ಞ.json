@@ -2,113 +2,113 @@
   {
     "id": 1,
     "key": "ಞ",
-    "isAvailable": false,
-    "forms": [],
-    "IASTform": "",
+    "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "ña_form1",
-        "path": "ña/ña_form1/1369_CP150_Malurpatna_12_17_ña.JPG"
+        "path": "ña/ña_form1/1369_CP150_Malurpatna_12_17_ña.JPG",
+        "year": 1369
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
     "id": 2,
     "key": "ಞಾ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 3,
     "key": "ಞಿ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 4,
     "key": "ಞೀ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 5,
     "key": "ಞು",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 6,
     "key": "ಞೂ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 7,
     "key": "ಞೆ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 8,
     "key": "ಞೇ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 9,
     "key": "ಞೊ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 10,
     "key": "ಞೋ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 11,
     "key": "ಞೈ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 12,
     "key": "ಞೌ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 13,
     "key": "ಞೃ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 14,
     "key": "ಞಃ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 15,
     "key": "ಞಂ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "id": 27,
-    "IASTform": "ghna",
+    "id": 1,
     "key": "ಘ್ನ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "ghna_form1",
-        "path": "ghna/ghna_form1/1388_MG20_HuleLinganaAre_1_4_ghna.JPG"
+        "path": "ghna/ghna_form1/1388_MG20_HuleLinganaAre_1_4_ghna.JPG",
+        "year": 1388
       }
-    ]
+    ],
+    "IASTform": ""
   }
 ]

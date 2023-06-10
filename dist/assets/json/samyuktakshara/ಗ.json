@@ -1,64 +1,65 @@
 [
   {
-    "id": 26,
-    "IASTform": "gga",
+    "id": 1,
     "key": "ಗ್ಗ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "gga_form1",
-        "path": "gga/gga_form1/1306_DB52_Isturu_6_5_gga.JPG"
+        "path": "gga/gga_form1/1306_DB52_Isturu_6_5_gga.JPG",
+        "year": 1306
       },
       {
         "id": 2,
         "form": "gga_form1",
-        "path": "gga/gga_form1/1382_DV57_Chikkajala_7_9_gga.JPG"
+        "path": "gga/gga_form1/1382_DV57_Chikkajala_7_9_gga.JPG",
+        "year": 1382
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
-    "id": 28,
-    "IASTform": "gna",
+    "id": 2,
     "key": "ಗ್ನ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "gna_form1",
-        "path": "gna/gna_form1/1336_Bn110_Byadarahalli_5_2_gna.JPG"
+        "path": "gna/gna_form1/1336_Bn110_Byadarahalli_5_2_gna.JPG",
+        "year": 1336
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
-    "id": 29,
-    "IASTform": "grā",
+    "id": 3,
     "key": "ಗ್ರಾ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "grā_form1",
-        "path": "grā/grā_form1/1382_DV57_Chikkajala_7_2_grā.JPG"
+        "path": "grā/grā_form1/1382_DV57_Chikkajala_7_2_grā.JPG",
+        "year": 1382
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
-    "id": 30,
-    "IASTform": "gŏṃ",
+    "id": 4,
     "key": "ಗೊಂ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "gŏṃ_form1",
-        "path": "gŏṃ/gŏṃ_form1/1340_Bn111_Ramasamudra_40_9_gŏṃ.JPG"
+        "path": "gŏṃ/gŏṃ_form1/1340_Bn111_Ramasamudra_40_9_gŏṃ.JPG",
+        "year": 1340
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
     "id": 5,
@@ -68,7 +69,8 @@
       {
         "id": 1,
         "form": "rga_form1",
-        "path": "rga/rga_form1/1369_CP150_Malurpatna_6_6_rga.JPG"
+        "path": "rga/rga_form1/1369_CP150_Malurpatna_6_6_rga.JPG",
+        "year": 1369
       }
     ],
     "IASTform": ""
@@ -81,17 +83,20 @@
       {
         "id": 1,
         "form": "rgga_form1",
-        "path": "rgga/rgga_form1/1340_Bn111_Ramasamudra_11_15_rgga.JPG"
+        "path": "rgga/rgga_form1/1340_Bn111_Ramasamudra_11_15_rgga.JPG",
+        "year": 1340
       },
       {
         "id": 2,
         "form": "rgga_form1",
-        "path": "rgga/rgga_form1/1369_CP150_Malurpatna_15_13_rgga.JPG"
+        "path": "rgga/rgga_form1/1369_CP150_Malurpatna_15_13_rgga.JPG",
+        "year": 1369
       },
       {
         "id": 3,
         "form": "rgga_form1",
-        "path": "rgga/rgga_form1/1388_MG20_HuleLinganaAre_2_2_rgga.JPG"
+        "path": "rgga/rgga_form1/1388_MG20_HuleLinganaAre_2_2_rgga.JPG",
+        "year": 1388
       }
     ],
     "IASTform": ""

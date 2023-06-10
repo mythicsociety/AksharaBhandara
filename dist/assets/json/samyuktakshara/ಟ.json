@@ -1,150 +1,202 @@
 [
   {
-    "id": 5,
+    "id": 1,
     "key": "ಟ್ರಿ",
     "isAvailable": true,
-    "forms": [],
     "letterForms": [
       {
         "id": 1,
         "form": "ṭri_form1",
-        "path": "ṭri/ṭri_form1/1342_BN24_Ganigarahalli_15_19_ṭri.JPG"
+        "path": "ṭri/ṭri_form1/1342_BN24_Ganigarahalli_15_19_ṭri.JPG",
+        "year": 1342
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
-    "id": 6,
+    "id": 2,
     "key": "ಟ್ಟ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1329_IthDar_Kadatanamale_13_7_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1000_AksharaMeru_Jakkur_6_7_ṭṭa.jpg",
+        "year": 1000
       },
       {
         "id": 2,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1329_IthDar_Kadatanamale_19_1_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1000_IthDar_Kamarasanahalli_1_4_ṭṭa.JPG",
+        "year": 1000
       },
       {
         "id": 3,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1329_IthDar_Kadatanamale_6_5_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1329_IthDar_Kadatanamale_13_7_ṭṭa.JPG",
+        "year": 1329
       },
       {
         "id": 4,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1336_Bn120_Katanayakanapura_5_14_ṭṭa.jpg"
+        "path": "ṭṭa/ṭṭa_form1/1329_IthDar_Kadatanamale_19_1_ṭṭa.JPG",
+        "year": 1329
       },
       {
         "id": 5,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1336_Bn120_Katanayakanapura_7_4_ṭṭa.jpg"
+        "path": "ṭṭa/ṭṭa_form1/1329_IthDar_Kadatanamale_6_5_ṭṭa.JPG",
+        "year": 1329
       },
       {
         "id": 6,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1336_DV46_Sadenahalli_7_9_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1336_Bn120_Katanayakanapura_5_14_ṭṭa.jpg",
+        "year": 1336
       },
       {
         "id": 7,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1342_BN21_Jakkur_13_10_ṭṭa.jpg"
+        "path": "ṭṭa/ṭṭa_form1/1336_Bn120_Katanayakanapura_7_4_ṭṭa.jpg",
+        "year": 1336
       },
       {
         "id": 8,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1342_BN21_Jakkur_5_11_ṭṭa.jpg"
+        "path": "ṭṭa/ṭṭa_form1/1336_DV46_Sadenahalli_7_9_ṭṭa.JPG",
+        "year": 1336
       },
       {
         "id": 9,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1342_BN24_Ganigarahalli_18_14_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1342_BN21_Jakkur_13_10_ṭṭa.jpg",
+        "year": 1342
       },
       {
         "id": 10,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1342_BN24_Ganigarahalli_6_6_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1342_BN21_Jakkur_5_11_ṭṭa.jpg",
+        "year": 1342
       },
       {
         "id": 11,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1363_BN81_AgaraMuseum_6_11_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1342_BN24_Ganigarahalli_18_14_ṭṭa.JPG",
+        "year": 1342
       },
       {
         "id": 12,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1369_CP150_Malurpatna_11_7_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1342_BN24_Ganigarahalli_6_6_ṭṭa.JPG",
+        "year": 1342
       },
       {
         "id": 13,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1369_CP150_Malurpatna_13_20_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1363_BN81_AgaraMuseum_6_11_ṭṭa.JPG",
+        "year": 1363
       },
       {
         "id": 14,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1382_DV57_Chikkajala_5_17_ṭṭa.JPG"
+        "path": "ṭṭa/ṭṭa_form1/1369_CP150_Malurpatna_11_7_ṭṭa.JPG",
+        "year": 1369
       },
       {
         "id": 15,
         "form": "ṭṭa_form1",
-        "path": "ṭṭa/ṭṭa_form1/1400_Bn90_Begurdoorpost_7_1_ṭṭa.jpg"
+        "path": "ṭṭa/ṭṭa_form1/1369_CP150_Malurpatna_13_20_ṭṭa.JPG",
+        "year": 1369
       },
       {
         "id": 16,
+        "form": "ṭṭa_form1",
+        "path": "ṭṭa/ṭṭa_form1/1382_DV57_Chikkajala_5_17_ṭṭa.JPG",
+        "year": 1382
+      },
+      {
+        "id": 17,
+        "form": "ṭṭa_form1",
+        "path": "ṭṭa/ṭṭa_form1/1400_Bn90_Begurdoorpost_7_1_ṭṭa.jpg",
+        "year": 1400
+      },
+      {
+        "id": 18,
+        "form": "ṭṭa_form1",
+        "path": "ṭṭa/ṭṭa_form1/1516_IthDar_Rayasandra_8_6_ṭṭa.JPG",
+        "year": 1516
+      },
+      {
+        "id": 19,
         "form": "ṭṭa_form2",
-        "path": "ṭṭa/ṭṭa_form2/1400_Bn90_Begurdoorpost_11_4_ṭṭa.jpg"
+        "path": "ṭṭa/ṭṭa_form2/1000_Cp113_Kudluru_8_4_ṭṭa.JPG",
+        "year": 1000
+      },
+      {
+        "id": 20,
+        "form": "ṭṭa_form2",
+        "path": "ṭṭa/ṭṭa_form2/1400_Bn90_Begurdoorpost_11_4_ṭṭa.jpg",
+        "year": 1400
+      },
+      {
+        "id": 21,
+        "form": "ṭṭa_form3",
+        "path": "ṭṭa/ṭṭa_form3/1000_Cp113_Kudluru_3_16_ṭṭa.JPG",
+        "year": 1000
       }
     ],
     "IASTform": ""
   },
   {
-    "id": 7,
+    "id": 3,
     "key": "ಟ್ಟಿ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "ṭṭi_form1",
-        "path": "ṭṭi/ṭṭi_form1/1400_Bn90_Begurdoorpost_4_3_ṭṭi.jpg"
+        "path": "ṭṭi/ṭṭi_form1/1400_Bn90_Begurdoorpost_4_3_ṭṭi.jpg",
+        "year": 1400
       }
     ],
     "IASTform": ""
   },
   {
-    "id": 8,
+    "id": 4,
     "key": "ಟ್ಟು",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "ṭṭu_form1",
-        "path": "ṭṭu/ṭṭu_form1/1336_Bn120_Katanayakanapura_3_13_ṭṭu.jpg"
+        "path": "ṭṭu/ṭṭu_form1/1336_Bn120_Katanayakanapura_3_13_ṭṭu.jpg",
+        "year": 1336
       },
       {
         "id": 2,
         "form": "ṭṭu_form1",
-        "path": "ṭṭu/ṭṭu_form1/1369_CP150_Malurpatna_10_3_ṭṭu.JPG"
+        "path": "ṭṭu/ṭṭu_form1/1369_CP150_Malurpatna_10_3_ṭṭu.JPG",
+        "year": 1369
       },
       {
         "id": 3,
         "form": "ṭṭu_form2",
-        "path": "ṭṭu/ṭṭu_form2/1363_BN81_AgaraMuseum_9_7_ṭṭu.JPG"
+        "path": "ṭṭu/ṭṭu_form2/1363_BN81_AgaraMuseum_9_7_ṭṭu.JPG",
+        "year": 1363
       }
     ],
     "IASTform": ""
   },
   {
-    "id": 9,
+    "id": 5,
     "key": "ಟ್ಟೆ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "ṭṭĕ_form1",
-        "path": "ṭṭĕ/ṭṭĕ_form1/1363_BN81_AgaraMuseum_17_1_ṭṭĕ.JPG"
+        "path": "ṭṭĕ/ṭṭĕ_form1/1363_BN81_AgaraMuseum_17_1_ṭṭĕ.JPG",
+        "year": 1363
       }
     ],
     "IASTform": ""

@@ -1,133 +1,134 @@
 [
   {
-    "id": 4,
+    "id": 1,
     "key": "ಠ",
     "isAvailable": true,
-    "forms": [],
-    "IASTform": "",
     "letterForms": [
       {
         "id": 1,
         "form": "ṭha_form1",
-        "path": "ṭha/ṭha_form1/1336_Bn110_Byadarahalli_10_2_ṭha.JPG"
+        "path": "ṭha/ṭha_form1/1336_Bn110_Byadarahalli_10_2_ṭha.JPG",
+        "year": 1336
       },
       {
         "id": 2,
         "form": "ṭha_form1",
-        "path": "ṭha/ṭha_form1/1388_MG20_HuleLinganaAre_3_4_ṭha.JPG"
+        "path": "ṭha/ṭha_form1/1388_MG20_HuleLinganaAre_3_4_ṭha.JPG",
+        "year": 1388
       }
-    ]
-  },
-  {
-    "id": 5,
-    "key": "ಠಾ",
-    "isAvailable": false,
-    "forms": [],
+    ],
     "IASTform": ""
   },
   {
-    "id": 6,
+    "id": 2,
+    "key": "ಠಾ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 3,
     "key": "ಠಿ",
     "isAvailable": true,
-    "forms": [],
-    "IASTform": "",
     "letterForms": [
       {
         "id": 1,
         "form": "ṭhi_form1",
-        "path": "ṭhi/ṭhi_form1/1306_DB52_Isturu_6_18_ṭhi.JPG"
+        "path": "ṭhi/ṭhi_form1/1306_DB52_Isturu_6_18_ṭhi.JPG",
+        "year": 1306
       }
-    ]
+    ],
+    "IASTform": ""
   },
   {
-    "id": 7,
+    "id": 4,
     "key": "ಠೀ",
     "isAvailable": true,
-    "forms": [],
-    "IASTform": "",
     "letterForms": [
       {
         "id": 1,
         "form": "ṭhī_form1",
-        "path": "ṭhī/ṭhī_form1/1340_Bn111_Ramasamudra_12_1_ṭhī.JPG"
+        "path": "ṭhī/ṭhī_form1/1340_Bn111_Ramasamudra_12_1_ṭhī.JPG",
+        "year": 1340
       }
-    ]
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 5,
+    "key": "ಠು",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 6,
+    "key": "ಠೂ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": ""
+  },
+  {
+    "id": 7,
+    "key": "ಠೆ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": ""
   },
   {
     "id": 8,
-    "key": "ಠು",
+    "key": "ಠೇ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 9,
-    "key": "ಠೂ",
+    "key": "ಠೊ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 10,
-    "key": "ಠೆ",
+    "key": "ಠೋ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 11,
-    "key": "ಠೇ",
+    "key": "ಠೈ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 12,
-    "key": "ಠೊ",
+    "key": "ಠೌ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 13,
-    "key": "ಠೋ",
+    "key": "ಠೃ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 14,
-    "key": "ಠೈ",
+    "key": "ಠಃ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   },
   {
     "id": 15,
-    "key": "ಠೌ",
-    "isAvailable": false,
-    "forms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 16,
-    "key": "ಠೃ",
-    "isAvailable": false,
-    "forms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 17,
-    "key": "ಠಃ",
-    "isAvailable": false,
-    "forms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 18,
     "key": "ಠಂ",
     "isAvailable": false,
-    "forms": [],
+    "letterForms": [],
     "IASTform": ""
   }
 ]

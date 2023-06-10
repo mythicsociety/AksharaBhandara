@@ -1,124 +1,142 @@
 [
   {
     "id": 1,
-    "key": "ಣ್ಣ",
-    "isAvailable": true,
-    "forms": [],
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "ṇṇa_form1",
-        "path": "ṇṇa/ṇṇa_form1/1363_BN81_AgaraMuseum_5_16_ṇṇa.JPG"
-      },
-      {
-        "id": 2,
-        "form": "ṇṇa_form1",
-        "path": "ṇṇa/ṇṇa_form1/1363_BN81_AgaraMuseum_5_6_ṇṇa.JPG"
-      },
-      {
-        "id": 3,
-        "form": "ṇṇa_form1",
-        "path": "ṇṇa/ṇṇa_form1/1363_BN81_AgaraMuseum_7_11_ṇṇa.JPG"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "key": "ಣ್ಣಾ",
-    "isAvailable": true,
-    "forms": [],
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "ṇṇā_form1",
-        "path": "ṇṇā/ṇṇā_form1/1329_IthDar_Kadatanamale_5_11_ṇṇā.JPG"
-      },
-      {
-        "id": 2,
-        "form": "ṇṇā_form1",
-        "path": "ṇṇā/ṇṇā_form1/1342_BN21_Jakkur_5_7_ṇṇā.jpg"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "key": "ಣ್ಣಿ",
-    "isAvailable": true,
-    "forms": [],
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "ṇṇi_form1",
-        "path": "ṇṇi/ṇṇi_form1/1363_BN81_AgaraMuseum_10_8_ṇṇi.JPG"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "key": "ಣ್ಣೆ",
-    "isAvailable": true,
-    "forms": [],
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "ṇṇĕ_form1",
-        "path": "ṇṇĕ/ṇṇĕ_form1/1363_BN81_AgaraMuseum_11_12_ṇṇĕ.JPG"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "key": "ಣ್ನ",
-    "isAvailable": true,
-    "forms": [],
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "ṇna_form1",
-        "path": "ṇna/ṇna_form1/1340_Bn111_Ramasamudra_50_12_ṇna.JPG"
-      },
-      {
-        "id": 2,
-        "form": "ṇna_form1",
-        "path": "ṇna/ṇna_form1/1340_Bn111_Ramasamudra_51_2_ṇna.JPG"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "key": "ಣ್ನಂ",
-    "isAvailable": true,
-    "forms": [],
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "ṇnaṃ_form1",
-        "path": "ṇnaṃ/ṇnaṃ_form1/1340_Bn111_Ramasamudra_24_6_ṇnaṃ.JPG"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "key": "ಣ್ನಾ",
-    "isAvailable": true,
-    "forms": [],
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "ṇnā_form1",
-        "path": "ṇnā/ṇnā_form1/1342_BN24_Ganigarahalli_6_1_ṇnā.JPG"
-      }
-    ]
-  },
-  {
-    "id": 8,
     "key": "ರ್ಣ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "rṇa_form1",
-        "path": "rṇa/rṇa_form1/1340_Bn111_Ramasamudra_40_12_rṇa.JPG"
+        "path": "rṇa/rṇa_form1/1340_Bn111_Ramasamudra_40_12_rṇa.JPG",
+        "year": 1340
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 2,
+    "key": "ಣ್ನ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇna_form1",
+        "path": "ṇna/ṇna_form1/1000_AksharaMeru_Jakkur_2_1_ṇna.jpg",
+        "year": 1000
+      },
+      {
+        "id": 2,
+        "form": "ṇna_form1",
+        "path": "ṇna/ṇna_form1/1340_Bn111_Ramasamudra_50_12_ṇna.JPG",
+        "year": 1340
+      },
+      {
+        "id": 3,
+        "form": "ṇna_form1",
+        "path": "ṇna/ṇna_form1/1340_Bn111_Ramasamudra_51_2_ṇna.JPG",
+        "year": 1340
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 3,
+    "key": "ಣ್ನಂ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇnaṃ_form1",
+        "path": "ṇnaṃ/ṇnaṃ_form1/1340_Bn111_Ramasamudra_24_6_ṇnaṃ.JPG",
+        "year": 1340
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 4,
+    "key": "ಣ್ನಾ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇnā_form1",
+        "path": "ṇnā/ṇnā_form1/1342_BN24_Ganigarahalli_6_1_ṇnā.JPG",
+        "year": 1342
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 5,
+    "key": "ಣ್ಣ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇṇa_form1",
+        "path": "ṇṇa/ṇṇa_form1/1363_BN81_AgaraMuseum_5_16_ṇṇa.JPG",
+        "year": 1363
+      },
+      {
+        "id": 2,
+        "form": "ṇṇa_form1",
+        "path": "ṇṇa/ṇṇa_form1/1363_BN81_AgaraMuseum_5_6_ṇṇa.JPG",
+        "year": 1363
+      },
+      {
+        "id": 3,
+        "form": "ṇṇa_form1",
+        "path": "ṇṇa/ṇṇa_form1/1363_BN81_AgaraMuseum_7_11_ṇṇa.JPG",
+        "year": 1363
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 6,
+    "key": "ಣ್ಣಿ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇṇi_form1",
+        "path": "ṇṇi/ṇṇi_form1/1363_BN81_AgaraMuseum_10_8_ṇṇi.JPG",
+        "year": 1363
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 7,
+    "key": "ಣ್ಣಾ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇṇā_form1",
+        "path": "ṇṇā/ṇṇā_form1/1329_IthDar_Kadatanamale_5_11_ṇṇā.JPG",
+        "year": 1329
+      },
+      {
+        "id": 2,
+        "form": "ṇṇā_form1",
+        "path": "ṇṇā/ṇṇā_form1/1342_BN21_Jakkur_5_7_ṇṇā.jpg",
+        "year": 1342
+      }
+    ],
+    "IASTform": ""
+  },
+  {
+    "id": 8,
+    "key": "ಣ್ಣೆ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇṇĕ_form1",
+        "path": "ṇṇĕ/ṇṇĕ_form1/1363_BN81_AgaraMuseum_11_12_ṇṇĕ.JPG",
+        "year": 1363
       }
     ],
     "IASTform": ""

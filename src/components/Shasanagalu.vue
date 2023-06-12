@@ -18,13 +18,14 @@ export default {
             groupedShasanaDetails: [],
             totalLines: 0,
             totalCharacters: 0,
-            shasanaImagePath: "",
-            shasanaId: 0
+            // shasanaImagePath: "",
+            // shasanaId: 0,
+            selectedShasanaDetails: null
         }
     },
     watch: {
         selectedShasana(newValue, oldValue) {
-            let selectedShasanaDetails = this.shasanas.find(s => s.key === newValue);
+            this.selectedShasanaDetails = this.shasanas.find(s => s.key === newValue);
             axios.get(`${this.publicPath}./assets/json/shasanas/${newValue}.json`)
                 .then(response => {
                     //group letters by lineNumber
@@ -39,8 +40,8 @@ export default {
                     this.totalLines = sortedMap.size;
                     this.totalCharacters = Array.from(sortedMap.values()).flat().length;
 
-                    this.shasanaImagePath = selectedShasanaDetails.imagePath;
-                    this.shasanaId = selectedShasanaDetails.id;
+                    // this.shasanaImagePath = selectedShasanaDetails.imagePath;
+                    // this.shasanaId = selectedShasanaDetails.id;
 
                 });
         }
@@ -58,8 +59,9 @@ export default {
                         if (selectedShasana == undefined) {
                             alert("No inscription found for ID " + shasanaId)
                         } else {
+                            this.selectedShasanaDetails = selectedShasana;
                             this.selectedShasana = selectedShasana.key;
-                            this.shasanaId = shasanaId;
+                            // this.shasanaId = shasanaId;
                         }
                     }
                 })
@@ -86,8 +88,9 @@ export default {
                 <option v-for="sha in shasanas" :key="sha.id" :value="sha.key">{{ sha.displayName }}</option>
             </select>
 
-            <p v-if="selectedShasana !== null">ಆಯ್ಕೆ ಮಾಡಿದ ಶಾಸನದಲ್ಲಿ (ID: {{ shasanaId }}) {{ totalLines }} ಸಾಲುಗಳು ಮತ್ತು ಒಟ್ಟು {{ totalCharacters
-            }} ಅಕ್ಷರಗಳಿವೆ</p>
+            <p v-if="selectedShasana !== null">ಆಯ್ಕೆ ಮಾಡಿದ ಶಾಸನದಲ್ಲಿ (ID: {{ selectedShasanaDetails.id }}) {{ totalLines }}
+                ಸಾಲುಗಳು ಮತ್ತು ಒಟ್ಟು {{ totalCharacters
+                }} ಅಕ್ಷರಗಳಿವೆ</p>
         </div>
 
         <div v-for="(group, index) in groupedShasanaDetails" :class="flex - container - parent">
@@ -99,9 +102,13 @@ export default {
 
         </div>
 
-        <div style="display: inline-block; padding-top: 25px">
-            <img v-if="shasanaImagePath !== ''" :src="`${publicPath}./assets/${shasanaImagePath}`" :alt="`Shasana image`"
-                style="display: block;" />
+        <div v-if="selectedShasanaDetails != null" style="display: inline-block; padding-top: 25px; width: 500px;">
+            <img v-if="selectedShasanaDetails.imagePath !== ''"
+                :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath}`" :alt="`Shasana image`"
+                style="display: block; max-height: 500px;max-width: 500px;width: 100%;height: 500px;object-fit: fill;" />
+
+            <h2>{{ selectedShasanaDetails.displayName }}</h2>
+            <!-- <h2>{{ selectedShasanaDetails.displayName }} ({{ selectedShasanaDetails.year }} CE)</h2> -->
         </div>
 
     </div>

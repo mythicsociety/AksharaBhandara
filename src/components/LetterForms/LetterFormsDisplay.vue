@@ -1,6 +1,6 @@
 <script setup>
 import BasicLetter from '../../components/LetterForms/BasicLetter.vue'
-import { groupBy, getYear } from '../../models/utils';
+import { groupBy, getYear, getRandomItemsFromArray } from '../../models/utils';
 
 </script>
 
@@ -30,6 +30,8 @@ import { groupBy, getYear } from '../../models/utils';
 </template>
 
 <script>
+const NumberOfImagesToDisplay = 10;
+
 export default {
 
     props: { selectedLetter: Object, showImage: Boolean, yearData: String },
@@ -55,7 +57,8 @@ export default {
     methods: {
 
         sortedByYear(groupedLetters) {
-            return groupedLetters.sort((a, b) => a.year - b.year);
+            let limitedArr = getRandomItemsFromArray(groupedLetters, NumberOfImagesToDisplay);
+            return limitedArr.sort((a, b) => a.year - b.year);
         },
         getLetterForForm(formId) {
             return this.groupedLetters.get(formId)

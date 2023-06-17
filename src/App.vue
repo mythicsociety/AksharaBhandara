@@ -5,7 +5,7 @@
 <template>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  <sidebar-menu v-model:collapsed="collapsed" :menu="menu" :show-child="true" :disable-hover="true"/>
+  <sidebar-menu v-model:collapsed="collapsed" :menu="menu" :show-child="true" :disable-hover="true" />
   <!-- :theme="'white-theme'" -->
   <!-- @update:collapsed="onToggleCollapse" -->
   <div v-if="!collapsed" class="sidebar-overlay" @click="collapsed = true"></div>
@@ -34,9 +34,14 @@ export default {
         },
         {
           href: '/learn',
-          title: 'ವರ್ಣಮಾಲೆ',
+          title: 'ಲಿಪಿ',
           icon: 'fa fa-book',
           child: [
+            {
+              href: '/learn/Varnamale',
+              title: 'ವರ್ಣಮಾಲೆ',
+              icon: 'fa fa-pencil',
+            },
             {
               href: '/learn/AksharaRupagalu',
               title: 'ಅಕ್ಷರ ರೂಪಗಳು',

@@ -3,6 +3,7 @@ import BasicLetter from '../components/LetterForms/BasicLetter.vue'
 import { groupBy } from '../models/utils';
 
 import axios from 'axios';
+import InnerImageZoom from 'vue-inner-image-zoom';
 
 </script>
 
@@ -10,6 +11,9 @@ import axios from 'axios';
 
 export default {
     props: { id: String },
+    components: {
+        'inner-image-zoom': InnerImageZoom
+    },
     data() {
         return {
             selectedShasana: null,
@@ -97,15 +101,23 @@ export default {
             <p>ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿ {{ group[1].length }} ಅಕ್ಷರಗಳಿವೆ - ಸಾಲು {{ index + 1 }}</p>
             <div class="flex-container-no-gap">
                 <BasicLetter v-for="letter in group[1]" :image_src="letter.filePath" :showLetterText="false"
-                    :imageSizePx="50" :showLetterYear="false" :displayText="letter.kannadaWord" :showBackground="false"/>
+                    :imageSizePx="50" :showLetterYear="false" :displayText="letter.kannadaWord" :showBackground="false" />
             </div>
 
         </div>
 
         <div v-if="selectedShasanaDetails != null" style="display: inline-block; padding-top: 25px; width: 500px;">
-            <img v-if="selectedShasanaDetails.imagePath !== ''"
+            <!-- <img v-if="selectedShasanaDetails.imagePath !== ''"
                 :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath}`" :alt="`Shasana image`"
-                style="display: block; max-height: 500px;max-width: 500px;width: 100%;height: 500px;object-fit: fill;" />
+                style="display: block; max-height: 500px;max-width: 500px;width: 100%;height: 500px;object-fit: fill;" /> -->
+
+
+            <h2>ಶಾಸನದ ಸ್ಕ್ಯಾನ್ ಮಾಡಿದ ಚಿತ್ರ</h2>
+            <p>(ಜೂಮ್ ಮಾಡಲು ಚಿತ್ರದ ಮೇಲೆ ಹಾರಿ)</p>
+            <inner-image-zoom v-if="selectedShasanaDetails.imagePath !== ''"
+                :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath}`" :alt="`Shasana image`"
+                :zoomSrc="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath}`" :width="500"
+                :height="500" />
 
             <h2>{{ selectedShasanaDetails.displayName }}</h2>
             <!-- <h2>{{ selectedShasanaDetails.displayName }} ({{ selectedShasanaDetails.year }} CE)</h2> -->

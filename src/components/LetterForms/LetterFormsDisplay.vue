@@ -17,7 +17,7 @@ import { groupBy, getYear, getRandomItemsFromArray } from '../../models/utils';
                     <h2 style="border-bottom: 2px solid red;">{{ getGroupName(group[0]) }}</h2>
                     <div class="flex-container">
                         <BasicLetter v-for="letter in sortedByYear(group[1])" :image_src="letter.path" :showLetterText="false"
-                            :imageSizePx="100" :showLetterYear="true" />
+                            :imageSizePx="125" :showLetterYear="true" />
                     </div>
 
                 </div>
@@ -58,6 +58,7 @@ export default {
 
         sortedByYear(groupedLetters) {
             let limitedArr = getRandomItemsFromArray(groupedLetters, NumberOfImagesToDisplay);
+            // let limitedArr = shuffled.slice(0, NumberOfImagesToDisplay);
             return limitedArr.sort((a, b) => a.year - b.year);
         },
         getLetterForForm(formId) {

@@ -97,7 +97,7 @@ export default {
             <p>ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿ {{ group[1].length }} ಅಕ್ಷರಗಳಿವೆ - ಸಾಲು {{ index + 1 }}</p>
             <div class="flex-container-no-gap">
                 <BasicLetter v-for="letter in group[1]" :image_src="letter.filePath" :showLetterText="false"
-                    :imageSizePx="50" :showLetterYear="false" :displayText="letter.kannadaWord" />
+                    :imageSizePx="50" :showLetterYear="false" :displayText="letter.kannadaWord" :showBackground="false"/>
             </div>
 
         </div>

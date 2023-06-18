@@ -7,7 +7,10 @@ import ImageModal from '../SubComponents/ImageModal.vue';
 <script>
 
 export default {
-    props: { title: String, image_src: String, showLetterText: Boolean, imageSizePx: Number, showLetterYear: Boolean, displayText: String },
+    props: {
+        title: String, image_src: String, showLetterText: Boolean, imageSizePx: Number,
+        showLetterYear: Boolean, displayText: String, showBackground: { type: Boolean, default: true }
+    },
     watch: {
         image_src(newValue, oldValue) {
             this.fileName = getFileNameFromPath(newValue)
@@ -43,96 +46,54 @@ export default {
 </script>
 
 <template>
-    <ImageModal :showModalDialog="showModalDialog" :imagePath="image_src" />
+    <!-- <ImageModal :showModalDialog="showModalDialog" :imagePath="image_src" /> -->
 
-    <div :style="`display: inline-block; margin: 2px; box-shadow: 5px 5px 5px gray; width: ${imageSizePx}px;`">
-        <!-- border: 2px solid lightgray; -->
+    <!-- v-if="showBackground == true" -->
+    <div :style="`display: inline-block; margin: 2px; box-shadow: 5px 5px 5px gray;`">
+        <p v-if="showLetterText">{{ title }}</p>
+        <div class="container">
+            <!-- border: 2px solid lightgray; -->
+            <img :src="`${publicPath}./assets/letter_background.png`" class="background-image"
+                :style="`height: ${imageSizePx}px;`" alt="letter-background">
+
+            <img :src="`${publicPath}./assets/${imagesFolder}/${image_src}`" :alt="`Image text`" class="foreground-image"
+                :style="`max-height: 250px;
+    max-width: ${imageSizePx}px; display: block; width: auto;height: ${imageSizePx}px;object-fit: fill;`"
+                @click="letterClicked(`${image_src}`)" :title="`${fileName}`">
+
+        </div>
+        <p style="font-size: 12px;">{{ displayTextLetter }}</p>
+        <!-- v-if="showLetterYear" -->
+    </div>
+
+    <!-- <div v-else :style="`display: inline-block; margin: 2px; box-shadow: 5px 5px 5px gray; width: ${imageSizePx}px;`">
         <p v-if="showLetterText">{{ title }}</p>
         <img :src="`${publicPath}./assets/${imagesFolder}/${image_src}`" :alt="`Image text`" :style="`max-height: 250px;
     max-width: 100px; display: block; width: 100%;height: ${imageSizePx}px;object-fit: fill;`"
             @click="letterClicked(`${image_src}`)" :title="`${fileName}`">
 
         <p style="font-size: 12px;">{{ displayTextLetter }}</p>
-        <!-- v-if="showLetterYear" -->
-    </div>
-
-    <!-- <div class="container">
-        <img :src="`${publicPath}./assets/${image_src}`" alt="Snow" style="width:100%;">
-        <div class="bottom-left">Bottom Left</div>
-        <div class="top-left">Top Left</div>
-        <div class="top-right">Top Right</div>
-        <div class="bottom-right">Bottom Right</div>
-        <div class="centered">Centered</div>
     </div> -->
+
 </template>
 
 <style>
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
-.content {
-    /* width: 400px; */
-    /* border: 4px solid red; */
-    padding: 5px;
-    overflow: hidden;
-}
-
-.content img {
-    margin-right: 15px;
-    float: left;
-}
-
-.content h3,
-.content p {
-    margin-left: 15px;
-    display: block;
-    margin: 2px 0 0 0;
-}
-
-/* Container holding the image and the text */
 .container {
     position: relative;
-    text-align: center;
-    color: white;
+    width: 100%;
+    display: inline-block;
 }
 
-/* Bottom left text */
-.bottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
+.background-image {
+    width: 100%;
+    opacity: 0.9;
 }
 
-/* Top left text */
-.top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-}
-
-/* Top right text */
-.top-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-}
-
-/* Centered text */
-.centered {
+.foreground-image {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    z-index: 1;
 }
 </style>

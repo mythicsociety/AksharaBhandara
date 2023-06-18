@@ -12,7 +12,7 @@ import axios from 'axios';
         <div class="card">
             <div class="flex-container">
                 <BasicLetter v-for="letter in allLetters" :key="letter.id" :title="letter.key" :image_src="letter.letterForms[0].path"
-                    :showLetterText="true" :imageSizePx="100"/>
+                    :showLetterText="true" :imageSizePx="125"/>
 
             </div>
         </div>

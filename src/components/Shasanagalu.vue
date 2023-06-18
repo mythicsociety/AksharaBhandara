@@ -22,8 +22,6 @@ export default {
             groupedShasanaDetails: [],
             totalLines: 0,
             totalCharacters: 0,
-            // shasanaImagePath: "",
-            // shasanaId: 0,
             selectedShasanaDetails: null
         }
     },
@@ -44,9 +42,6 @@ export default {
                     this.totalLines = sortedMap.size;
                     this.totalCharacters = Array.from(sortedMap.values()).flat().length;
 
-                    // this.shasanaImagePath = selectedShasanaDetails.imagePath;
-                    // this.shasanaId = selectedShasanaDetails.id;
-
                 });
         }
     },
@@ -65,7 +60,6 @@ export default {
                         } else {
                             this.selectedShasanaDetails = selectedShasana;
                             this.selectedShasana = selectedShasana.key;
-                            // this.shasanaId = shasanaId;
                         }
                     }
                 })
@@ -114,9 +108,10 @@ export default {
 
             <h2>ಶಾಸನದ ಸ್ಕ್ಯಾನ್ ಮಾಡಿದ ಚಿತ್ರ</h2>
             <p>(ಜೂಮ್ ಮಾಡಲು ಚಿತ್ರದ ಮೇಲೆ ಹಾರಿ)</p>
-            <inner-image-zoom v-if="selectedShasanaDetails.imagePath !== ''"
-                :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath}`" :alt="`Shasana image`"
-                :zoomSrc="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath}`" :width="500"
+
+            <inner-image-zoom v-if="selectedShasanaDetails.imagePath.length > 0"
+                :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :alt="`Shasana image`"
+                :zoomSrc="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :width="500"
                 :height="500" />
 
             <h2>{{ selectedShasanaDetails.displayName }}</h2>

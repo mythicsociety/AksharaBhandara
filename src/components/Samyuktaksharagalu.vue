@@ -3,6 +3,7 @@ import LetterFormsDisplay from './LetterForms/LetterFormsDisplay.vue';
 import LetterSelector from './LetterForms/LetterSelector.vue'
 import YearFilterVue from './SubComponents/YearFilter.vue';
 import {samyuktaksharaLettersPath} from '../models/paths.js'
+import PageCounter from './SubComponents/PageCounter.vue';
 
 import axios from 'axios';
 
@@ -17,7 +18,8 @@ export default {
             publicPath: import.meta.env.BASE_URL,
             selectedLetter: Object,
             samyuktaksharaChildren: [],
-            yearData: ''
+            yearData: '',
+            pageSize: 10,
         }
     },
     mounted() {
@@ -46,6 +48,9 @@ export default {
         getData(data) {
             this.yearData = data;
         },
+        gePageSize(data) {
+            this.pageSize = data;
+        },
     }
 }
 </script>
@@ -59,7 +64,10 @@ export default {
 
             <LetterSelector :jsonData="samyuktaksharaLetters" @eventname="getSamyuktakshara" />
 
-            <LetterFormsDisplay v-for="letter in samyuktaksharaChildren" :selectedLetter="letter" :showImage="true" :yearData="yearData"/>
+            <PageCounter @pageSize="gePageSize" />
+
+            <LetterFormsDisplay v-for="letter in samyuktaksharaChildren" :selectedLetter="letter" :showImage="true" 
+            :yearData="yearData" :NumberOfImagesToDisplay="pageSize"/>
         </div>
     </div>
 </template>

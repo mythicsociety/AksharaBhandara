@@ -3,6 +3,7 @@ import axios from 'axios';
 import LetterFormsDisplay from './LetterFormsDisplay.vue';
 import LetterSelector from './LetterSelector.vue'
 import YearFilterVue from '../SubComponents/YearFilter.vue';
+import PageCounter from '../SubComponents/PageCounter.vue';
 </script>
 
 <script>
@@ -15,7 +16,8 @@ export default {
             jsonData: [],
             publicPath: import.meta.env.BASE_URL,
             selectedLetter: '',
-            yearData: ''
+            yearData: '',
+            pageSize: 10,
         }
     },
     mounted() {
@@ -45,6 +47,9 @@ export default {
         getData(data) {
             this.yearData = data;
         },
+        gePageSize(data) {
+            this.pageSize = data;
+        },
     }
 }
 
@@ -57,7 +62,10 @@ export default {
 
         <LetterSelector v-if="showImage" :jsonData="jsonData" @eventname="updateLetter" />
 
-        <LetterFormsDisplay :selectedLetter="selectedLetter" :showImage="showImage" :yearData="yearData" />
+        <PageCounter @pageSize="gePageSize" />
+
+        <LetterFormsDisplay :selectedLetter="selectedLetter" :showImage="showImage" :yearData="yearData"
+            :NumberOfImagesToDisplay="pageSize" />
     </div>
 </template>
 

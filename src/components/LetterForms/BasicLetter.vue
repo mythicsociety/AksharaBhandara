@@ -66,15 +66,6 @@ export default {
         <!-- v-if="showLetterYear" -->
     </div>
 
-    <!-- <div v-else :style="`display: inline-block; margin: 2px; box-shadow: 5px 5px 5px gray; width: ${imageSizePx}px;`">
-        <p v-if="showLetterText">{{ title }}</p>
-        <img :src="`${publicPath}./assets/${imagesFolder}/${image_src}`" :alt="`Image text`" :style="`max-height: 250px;
-    max-width: 100px; display: block; width: 100%;height: ${imageSizePx}px;object-fit: fill;`"
-            @click="letterClicked(`${image_src}`)" :title="`${fileName}`">
-
-        <p style="font-size: 12px;">{{ displayTextLetter }}</p>
-    </div> -->
-
 </template>
 
 <style>

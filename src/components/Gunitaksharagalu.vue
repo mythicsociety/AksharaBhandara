@@ -2,7 +2,9 @@
 import LetterFormsDisplay from './LetterForms/LetterFormsDisplay.vue';
 import LetterSelector from './LetterForms/LetterSelector.vue';
 import YearFilterVue from './SubComponents/YearFilter.vue';
-import {gunitaksharaLettersPath} from '../models/paths.js'
+import PageCounter from './SubComponents/PageCounter.vue';
+
+import { gunitaksharaLettersPath } from '../models/paths.js'
 
 import axios from 'axios';
 
@@ -17,7 +19,8 @@ export default {
             publicPath: import.meta.env.BASE_URL,
             selectedLetter: Object,
             gunitaksharaChildren: [],
-            yearData: ''
+            yearData: '',
+            pageSize: 10,
         }
     },
     mounted() {
@@ -46,6 +49,9 @@ export default {
         getData(data) {
             this.yearData = data;
         },
+        gePageSize(data) {
+            this.pageSize = data;
+        },
     }
 }
 </script>
@@ -60,8 +66,10 @@ export default {
             <!-- <LetterSelector :jsonData="gunitaksharaLetters" v-model:selectedLetter="selectedLetter" /> -->
             <LetterSelector :jsonData="gunitaksharaLetters" @eventname="getGunitaksharas" />
 
+            <PageCounter @pageSize="gePageSize" />
+
             <LetterFormsDisplay v-for="letter in gunitaksharaChildren" :selectedLetter="letter" :showImage="true"
-                :yearData="yearData"/>
+                :yearData="yearData" :NumberOfImagesToDisplay="pageSize"/>
         </div>
     </div>
 </template>

@@ -16,8 +16,8 @@ import { groupBy, getYear, getRandomItemsFromArray } from '../../models/utils';
 
                     <h2 style="border-bottom: 2px solid red;">{{ getGroupName(group[0]) }}</h2>
                     <div class="flex-container">
-                        <BasicLetter v-for="letter in sortedByYear(group[1])" :image_src="letter.path" :showLetterText="false"
-                            :imageSizePx="125" :showLetterYear="true" />
+                        <BasicLetter v-for="letter in sortedByYear(group[1])" :image_src="letter.path"
+                            :showLetterText="false" :imageSizePx="125" :showLetterYear="true" />
                     </div>
 
                 </div>
@@ -30,11 +30,15 @@ import { groupBy, getYear, getRandomItemsFromArray } from '../../models/utils';
 </template>
 
 <script>
-const NumberOfImagesToDisplay = 10;
 
 export default {
 
-    props: { selectedLetter: Object, showImage: Boolean, yearData: String },
+    props: {
+        selectedLetter: Object,
+        showImage: Boolean,
+        yearData: String, 
+        NumberOfImagesToDisplay: { type: Number, default: 10 }
+    },
     watch: {
         selectedLetter(newValue, oldValue) {
             // console.log('newValue:', newValue, 'previousValue:', oldValue);
@@ -44,6 +48,9 @@ export default {
         },
         yearData(newValue, oldValue) {
             this.applyYearFilter(this.selectedLetter.letterForms, newValue);
+        },
+        NumberOfImagesToDisplay(newValue, oldValue) {
+            this.applyYearFilter(this.selectedLetter.letterForms, this.yearData);
         }
     },
     data() {
@@ -52,12 +59,12 @@ export default {
         }
     },
     computed: {
-        
+
     },
     methods: {
 
         sortedByYear(groupedLetters) {
-            let limitedArr = getRandomItemsFromArray(groupedLetters, NumberOfImagesToDisplay);
+            let limitedArr = getRandomItemsFromArray(groupedLetters, this.NumberOfImagesToDisplay);
             // let limitedArr = shuffled.slice(0, NumberOfImagesToDisplay);
             return limitedArr.sort((a, b) => a.year - b.year);
         },

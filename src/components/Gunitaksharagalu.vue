@@ -5,6 +5,7 @@ import YearFilterVue from './SubComponents/YearFilter.vue';
 import PageCounter from './SubComponents/PageCounter.vue';
 
 import { gunitaksharaLettersPath } from '../models/paths.js'
+import { DefaultLetterCount } from '../models/constants.js'
 
 import axios from 'axios';
 
@@ -20,7 +21,7 @@ export default {
             selectedLetter: Object,
             gunitaksharaChildren: [],
             yearData: '',
-            pageSize: 10,
+            pageSize: DefaultLetterCount,
         }
     },
     mounted() {

@@ -24,10 +24,7 @@
 </template>
   
 <script>
-
-const MinYear = 700;
-const MaxYear = 1600;
-const StepYear = 1;
+import { MinYear, MaxYear, StepYear } from '../../models/constants.js'
 
 export default {
     data() {

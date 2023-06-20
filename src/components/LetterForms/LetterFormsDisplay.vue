@@ -1,6 +1,7 @@
 <script setup>
 import BasicLetter from '../../components/LetterForms/BasicLetter.vue'
 import { groupBy, getYear, getRandomItemsFromArray } from '../../models/utils';
+import { DefaultLetterCount } from '../../models/constants.js'
 
 </script>
 
@@ -37,7 +38,7 @@ export default {
         selectedLetter: Object,
         showImage: Boolean,
         yearData: String, 
-        NumberOfImagesToDisplay: { type: Number, default: 10 }
+        NumberOfImagesToDisplay: { type: Number, default: DefaultLetterCount }
     },
     watch: {
         selectedLetter(newValue, oldValue) {

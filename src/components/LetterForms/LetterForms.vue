@@ -4,6 +4,9 @@ import LetterFormsDisplay from './LetterFormsDisplay.vue';
 import LetterSelector from './LetterSelector.vue'
 import YearFilterVue from '../SubComponents/YearFilter.vue';
 import PageCounter from '../SubComponents/PageCounter.vue';
+
+import { DefaultLetterCount } from '../../models/constants.js'
+
 </script>
 
 <script>
@@ -17,7 +20,7 @@ export default {
             publicPath: import.meta.env.BASE_URL,
             selectedLetter: '',
             yearData: '',
-            pageSize: 10,
+            pageSize: DefaultLetterCount,
         }
     },
     mounted() {

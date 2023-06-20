@@ -4,6 +4,8 @@ import LetterSelector from './LetterForms/LetterSelector.vue'
 import YearFilterVue from './SubComponents/YearFilter.vue';
 import {samyuktaksharaLettersPath} from '../models/paths.js'
 import PageCounter from './SubComponents/PageCounter.vue';
+import { DefaultLetterCount } from '../models/constants.js'
+
 
 import axios from 'axios';
 
@@ -19,7 +21,7 @@ export default {
             selectedLetter: Object,
             samyuktaksharaChildren: [],
             yearData: '',
-            pageSize: 10,
+            pageSize: DefaultLetterCount,
         }
     },
     mounted() {

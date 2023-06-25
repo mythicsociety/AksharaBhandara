@@ -42,6 +42,8 @@ export default {
                     this.totalLines = sortedMap.size;
                     this.totalCharacters = Array.from(sortedMap.values()).flat().length;
 
+                }).catch(err => {
+                    // console.log(err)
                 });
         }
     },
@@ -67,6 +69,9 @@ export default {
                     console.log(error);
                 });
         },
+        scrollToElement() {
+            this.$refs.inscriptionImage.scrollIntoView();
+        },
 
     }, mounted() {
         this.fetchShasanaData();
@@ -78,17 +83,23 @@ export default {
 <template>
     <div class="body-padding" style="margin: auto;">
         <h2>ಶಾಸನಗಳು</h2>
+        <p>ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p>
 
         <div style="padding: 10px;">
-            <label for="shasana" style="color: black;">ಒಂದು ಆಯ್ಕೆಮಾಡಿ:</label>
+            <label for="shasana" style="color: black;">ಒಂದು ಶಾಸನ ಆಯ್ಕೆಮಾಡಿ:</label>
 
             <select id="shasana" v-model="selectedShasana" style="margin: 10px;">
                 <option v-for="sha in shasanas" :key="sha.id" :value="sha.key">{{ sha.displayName }}</option>
             </select>
 
-            <p v-if="selectedShasana !== null">ಆಯ್ಕೆ ಮಾಡಿದ ಶಾಸನದಲ್ಲಿ (ID: {{ selectedShasanaDetails.id }}) {{ totalLines }}
-                ಸಾಲುಗಳು ಮತ್ತು ಒಟ್ಟು {{ totalCharacters
-                }} ಅಕ್ಷರಗಳಿವೆ</p>
+            <div v-if="selectedShasana !== null">
+                <button @click="scrollToElement">ಶಾಸನದ ಚಿತ್ರವನ್ನು ನೋಡಲು ಹೋಗಿ</button>
+
+                <p>ಆಯ್ಕೆ ಮಾಡಿದ ಶಾಸನದಲ್ಲಿ (ID: {{ selectedShasanaDetails.id }}) {{ totalLines
+                }}
+                    ಸಾಲುಗಳು ಮತ್ತು ಒಟ್ಟು {{ totalCharacters
+                    }} ಅಕ್ಷರಗಳಿವೆ</p>
+            </div>
         </div>
 
         <div v-for="(group, index) in groupedShasanaDetails" :class="flex - container - parent">
@@ -100,7 +111,8 @@ export default {
 
         </div>
 
-        <div v-if="selectedShasanaDetails != null" style="display: inline-block; padding-top: 25px; width: 500px;">
+        <div v-if="selectedShasanaDetails != null" ref="inscriptionImage"
+            style="display: inline-block; padding-top: 25px; width: 500px;">
             <!-- <img v-if="selectedShasanaDetails.imagePath !== ''"
                 :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath}`" :alt="`Shasana image`"
                 style="display: block; max-height: 500px;max-width: 500px;width: 100%;height: 500px;object-fit: fill;" /> -->

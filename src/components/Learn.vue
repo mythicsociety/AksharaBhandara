@@ -17,12 +17,12 @@ import axios from 'axios';
             <div style="padding: 10px;">
                 <button class="page-button" type="button" @click="previousPage" :disabled="currentPage === 1"
                     style="cursor: pointer;">
-                    ಹಿಂದಿನ</button>
+                    ಹಿಂದಿನ ಶತಮಾನ</button>
                 <span style="margin: 0 10px;"></span>
 
                 <button class="page-button" type="button" @click="nextPage" :disabled="isEndOfLimit"
                     style="cursor: pointer;">
-                    ಮುಂದಿನ</button>
+                    ಮುಂದಿನ ಶತಮಾನ</button>
             </div>
 
             <div class="flex-container">

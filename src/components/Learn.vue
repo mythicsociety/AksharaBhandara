@@ -27,7 +27,7 @@ import axios from 'axios';
 
             <div class="flex-container">
                 <BasicLetter v-for="letter in displayedLetters" :key="letter.id" :title="letter.key"
-                    :image_src="getImageSrc(letter)" :showLetterText="true" :imageSizePx="125" />
+                    :image_src="getImageSrc(letter)" :showLetterText="true" :imageSizePx="100" />
 
             </div>
         </div>

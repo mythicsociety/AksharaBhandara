@@ -76,7 +76,7 @@ export default {
         },
         {
           href: '/map',
-          title: 'ನಕ್ಷೆ',
+          title: 'ಶಾಸನಗಳ ನಕ್ಷೆ',
           icon: 'fa fa-map'
         },
         {

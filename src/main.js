@@ -13,6 +13,7 @@ import Samyuktaksharagalu from './components/Samyuktaksharagalu.vue'
 import Sankegalu from './components/Sankegalu.vue'
 import Symbols from './components/Symbols.vue'
 import Shasanagalu from './components/Shasanagalu.vue'
+import SamyuktaksharaPagination from './components/SamyuktaksharaPagination.vue'
 import Introduction from './components/Introduction.vue'
 import Map from './components/Map.vue'
 
@@ -51,7 +52,7 @@ const router = createRouter({
         {
             path: '/learn/Samyuktaksharagalu',
             name: 'ಸಂಯುಕ್ತಾಕ್ಷರಗಳು',
-            component: Samyuktaksharagalu,
+            component: SamyuktaksharaPagination,
         },
         {
             path: '/learn/Sankegalu',

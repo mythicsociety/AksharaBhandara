@@ -54,6 +54,11 @@ export default {
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
             ullamco.</p> -->
         </div>
+
+        <div class="card">
+          <iframe width="720" height="480" src="https://www.youtube.com/embed/N0dQmaiBYSw" title="City’s future inscribed on a stone | #OoruLabs Talking Heads #podcast Episode 21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        
       </div>
       <div class="rightcolumn">
 
@@ -83,7 +88,8 @@ export default {
           </div>
         </div> -->
         <div class="card">
-          <h3>ಪುಸ್ತಕದ ಬಗ್ಗೆ ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ನಮಗೆ <a href="https://bit.ly/ab1feedback" target="_blank">ತಿಳಿಸಿ</a></h3>
+          <h3>ಪುಸ್ತಕದ ಬಗ್ಗೆ ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ನಮಗೆ <a href="https://bit.ly/ab1feedback" target="_blank">ತಿಳಿಸಿ</a>
+          </h3>
         </div>
       </div>
     </div>

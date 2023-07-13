@@ -8,6 +8,10 @@ import InnerImageZoom from 'vue-inner-image-zoom';
 </script>
 
 <script>
+import { storage } from '../models/firestore';
+import { getTokenFromUrl } from '../models/utils';
+
+import { getStorage, ref, getDownloadURL } from "firebase/storage";
 
 export default {
     props: { id: String },
@@ -22,7 +26,8 @@ export default {
             groupedShasanaDetails: [],
             totalLines: 0,
             totalCharacters: 0,
-            selectedShasanaDetails: null
+            selectedShasanaDetails: null,
+            TOKEN: ""
         }
     },
     watch: {
@@ -69,12 +74,39 @@ export default {
                     console.log(error);
                 });
         },
+        fetchFromFB() {
+            getDownloadURL(ref(storage, 'json/shasanas.json')).then(url => {
+                fetch(url)
+                    .then(response => response.json())
+                    .then(data => {
+                        this.shasanas = data.sort((a, b) => parseInt(a.year) - parseInt(b.year));
+
+                        let shasanaId = this.$route.query.id;
+
+                        if (shasanaId !== undefined) {
+                            let selectedShasana = this.shasanas.find(s => s.id === parseInt(shasanaId));
+                            if (selectedShasana == undefined) {
+                                alert("No inscription found for ID " + shasanaId)
+                            } else {
+                                this.selectedShasanaDetails = selectedShasana;
+                                this.selectedShasana = selectedShasana.key;
+                            }
+                        }
+
+                        this.TOKEN = getTokenFromUrl(url)
+                    })
+            })
+        },
+        getFullInscriptionPath(imageFileName){
+            return "https://firebasestorage.googleapis.com/v0/b/mythree-org.appspot.com/o/shasanas%2F" + imageFileName + "?alt=media&token=" + this.TOKEN;
+
+        },
         scrollToElement() {
             this.$refs.inscriptionImage.scrollIntoView();
         },
 
     }, mounted() {
-        this.fetchShasanaData();
+        this.fetchFromFB();
     },
 }
 
@@ -122,8 +154,8 @@ export default {
             <p>(ಜೂಮ್ ಮಾಡಲು ಚಿತ್ರದ ಮೇಲೆ ಹಾರಿ)</p>
 
             <inner-image-zoom v-if="selectedShasanaDetails.imagePath.length > 0"
-                :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :alt="`Shasana image`"
-                :zoomSrc="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :width="500"
+                :src=getFullInscriptionPath(selectedShasanaDetails.imagePath[0]) :alt="`Shasana image`"
+                :zoomSrc=getFullInscriptionPath(selectedShasanaDetails.imagePath[0]) :width="500"
                 :height="500" />
 
             <h2>{{ selectedShasanaDetails.displayName }}</h2>

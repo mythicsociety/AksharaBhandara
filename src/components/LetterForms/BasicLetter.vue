@@ -53,10 +53,10 @@ export default {
         <p v-if="showLetterText">{{ title }}</p>
         <div class="container">
             <!-- border: 2px solid lightgray; -->
-            <img :src="`${publicPath}./assets/letter_background.png`" class="background-image"
-                :style="`height: ${imageSizePx}px;`" alt="letter-background">
+            <!-- <img :src="`${publicPath}./assets/letter_background.png`" class="background-image"
+                :style="`height: ${imageSizePx}px;`" alt="letter-background"> -->
 
-            <img :src="`${publicPath}./assets/${imagesFolder}/${image_src}`" :alt="`Image text`" class="foreground-image"
+            <img :src="`${image_src}`" :alt="`Image text`" class="foreground-image"
                 :style="`max-height: 250px;
     max-width: ${imageSizePx}px; display: block; width: auto;height: ${imageSizePx}px;object-fit: fill;`"
                 @click="letterClicked(`${image_src}`)" :title="`${fileName}`">

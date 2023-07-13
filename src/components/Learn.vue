@@ -27,7 +27,7 @@ import axios from 'axios';
 
             <div class="flex-container">
                 <BasicLetter v-for="letter in displayedLetters" :key="letter.id" :title="letter.key"
-                    :image_src="getImageSrc(letter)" :showLetterText="true" :imageSizePx="100" />
+                    :image_src="getImgFromUrl(letter)" :showLetterText="true" :imageSizePx="100" />
 
             </div>
         </div>
@@ -36,6 +36,11 @@ import axios from 'axios';
 
 <script>
 import { MinYear, MaxYear, JumpByYear } from '../models/constants.js'
+import { storage } from '../models/firestore';
+import { getTokenFromUrl } from '../models/utils';
+
+import { getStorage, ref, getDownloadURL } from "firebase/storage";
+
 
 export default {
     data() {
@@ -44,6 +49,7 @@ export default {
             allLetters: [],
             displayedLetters: [],
             currentPage: 1,
+            TOKEN: ""
         }
     },
     computed: {
@@ -65,6 +71,19 @@ export default {
                     this.allLetters = response.data.filter(l => l.isAvailable == true);
                     this.updateLetters();
                 })
+        },
+        fetchFromFB() {
+            
+            getDownloadURL(ref(storage, 'json/letters.json')).then(url => {
+                fetch(url)
+                    .then(response => response.json())
+                    .then(data => {
+                        this.allLetters = data.filter(l => l.isAvailable == true);
+                        this.updateLetters();
+
+                        this.TOKEN = getTokenFromUrl(url)
+                    })
+            })
         },
         previousPage() {
             if (this.currentPage > 1) {
@@ -97,7 +116,6 @@ export default {
                 return { ...item, letterForms };
             });
 
-            console.log(this.displayedLetters)
         },
         getImageSrc(letter) {
             let filteredArr = letter.letterForms.filter(f => f.isExists == true);
@@ -106,11 +124,14 @@ export default {
             } else {
                 return "letter_missing.png";
             }
+        },
+        getImgFromUrl(letter){
+            return "https://firebasestorage.googleapis.com/v0/b/mythree-org.appspot.com/o/Kannada_Characters%2Fletter_missing.png?alt=media&token=" + this.TOKEN;
         }
     },
     mounted() {
-        this.fetchData('./assets/json/letters.json')
-
+        // this.fetchData('./assets/json/letters.json')
+        this.fetchFromFB();
     },
 }
 </script>

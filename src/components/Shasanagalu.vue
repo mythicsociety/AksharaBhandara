@@ -122,15 +122,25 @@ export default {
             <p>(ಜೂಮ್ ಮಾಡಲು ಚಿತ್ರದ ಮೇಲೆ ಹಾರಿ)</p>
 
             <inner-image-zoom v-if="selectedShasanaDetails.imagePath.length > 0"
-                :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :alt="`Shasana image`"
+                :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :alt="`${selectedShasanaDetails.displayName}`"
                 :zoomSrc="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :width="500"
                 :height="500" />
 
             <h2>{{ selectedShasanaDetails.displayName }}</h2>
-            <!-- <h2>{{ selectedShasanaDetails.displayName }} ({{ selectedShasanaDetails.year }} CE)</h2> -->
         </div>
-
+        <div v-if="selectedShasanaDetails != null">
+            <p>{{ selectedShasanaDetails.description }}</p>
+            <ul>
+                <li v-for="(link, index) in selectedShasanaDetails.links" :key="index">
+                    [{{ index }}] <a :href="link.url" target="_blank">{{ link.title }}</a>
+                </li>
+            </ul>
+        </div>
     </div>
 </template>
 
-<style></style>
+<style>
+ul {
+    list-style-type: none;
+}
+</style>

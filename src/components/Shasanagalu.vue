@@ -4,6 +4,7 @@ import { groupBy } from '../models/utils';
 
 import axios from 'axios';
 import InnerImageZoom from 'vue-inner-image-zoom';
+import { ModelListSelect } from "vue-search-select"
 
 </script>
 
@@ -22,7 +23,8 @@ export default {
             groupedShasanaDetails: [],
             totalLines: 0,
             totalCharacters: 0,
-            selectedShasanaDetails: null
+            selectedShasanaDetails: null,
+            searchText: "",
         }
     },
     watch: {
@@ -73,6 +75,17 @@ export default {
             this.$refs.inscriptionImage.scrollIntoView();
         },
 
+        reset() {
+            this.selectedShasana = {}
+        },
+        selectOption() {
+            // select option from parent component
+            this.selectedShasana = this.shasanas[1]
+        },
+        printSearchText(searchText) {
+            this.searchText = searchText
+        },
+
     }, mounted() {
         this.fetchShasanaData();
     },
@@ -86,11 +99,16 @@ export default {
         <p>ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p>
 
         <div style="padding: 10px;">
-            <label for="shasana" style="color: black;">ಒಂದು ಶಾಸನ ಆಯ್ಕೆಮಾಡಿ:</label>
+            <!-- <label for="shasana" style="color: black;">ಒಂದು ಶಾಸನ ಆಯ್ಕೆಮಾಡಿ:</label> -->
 
-            <select id="shasana" v-model="selectedShasana" style="margin: 10px;">
+            <!-- <select id="shasana" v-model="selectedShasana" style="margin: 10px;">
                 <option v-for="sha in shasanas" :key="sha.id" :value="sha.key">{{ sha.displayName }}</option>
-            </select>
+            </select> -->
+
+            <model-list-select :list="shasanas" v-model="selectedShasana" placeholder="ಒಂದು ಶಾಸನ ಆಯ್ಕೆಮಾಡಿ"
+                option-value="key" option-text="displayName" style="margin: 15px;"
+                @searchchange="printSearchText">
+            </model-list-select>
 
             <div v-if="selectedShasana !== null">
                 <button @click="scrollToElement">ಶಾಸನದ ಚಿತ್ರವನ್ನು ನೋಡಲು ಹೋಗಿ</button>
@@ -122,7 +140,8 @@ export default {
             <p>(ಜೂಮ್ ಮಾಡಲು ಚಿತ್ರದ ಮೇಲೆ ಹಾರಿ)</p>
 
             <inner-image-zoom v-if="selectedShasanaDetails.imagePath.length > 0"
-                :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :alt="`${selectedShasanaDetails.displayName}`"
+                :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`"
+                :alt="`${selectedShasanaDetails.displayName}`"
                 :zoomSrc="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :width="500"
                 :height="500" />
 

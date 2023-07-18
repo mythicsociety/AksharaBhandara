@@ -20,6 +20,7 @@ import Map from './components/Map.vue'
 import 'vue-sidebar-menu/dist/vue-sidebar-menu.css'
 import 'vue-inner-image-zoom/lib/vue-inner-image-zoom.css';
 import './assets/main.css'
+import "vue-search-select/dist/VueSearchSelect.css"
 
 const router = createRouter({
     history: createWebHashHistory(),

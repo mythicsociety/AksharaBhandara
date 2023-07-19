@@ -26,11 +26,36 @@ export default {
             currentPage: 1, // Current page number
             totalPages: 0, // Total number of pages
             displayedData: [], // Data to display on the current page
-
+            visiblePages: 10, // Number of visible page numbers
         }
     },
     mounted() {
         this.fetchData(samyuktaksharaLettersPath);
+    },
+    computed: {
+        totalPageNumbers() {
+            return Array.from({ length: this.totalPages }, (_, index) => index + 1);
+        },
+        visiblePageNumbers() {
+            const currentPageIndex = this.currentPage - 1;
+            const totalPages = this.totalPages;
+            const halfVisiblePages = Math.floor(this.visiblePages / 2);
+
+            let startPageIndex = currentPageIndex - halfVisiblePages;
+            let endPageIndex = currentPageIndex + halfVisiblePages;
+
+            if (startPageIndex < 0) {
+                startPageIndex = 0;
+                endPageIndex = Math.min(this.visiblePages - 1, totalPages - 1);
+            }
+
+            if (endPageIndex >= totalPages) {
+                endPageIndex = totalPages - 1;
+                startPageIndex = Math.max(totalPages - this.visiblePages, 0);
+            }
+
+            return this.totalPageNumbers.slice(startPageIndex, endPageIndex + 1);
+        },
     },
     methods: {
         fetchData(jsonPath) {
@@ -78,6 +103,18 @@ export default {
             }
         },
 
+        goToPage(page) {
+            this.currentPage = page;
+            this.updateDisplayedData();
+        },
+        goToFirstPage() {
+            this.currentPage = 1;
+            this.updateDisplayedData();
+        },
+        goToLastPage() {
+            this.currentPage = this.totalPages;
+            this.updateDisplayedData();
+        },
     }
 }
 </script>
@@ -95,12 +132,22 @@ export default {
                 :yearData="yearData" :NumberOfImagesToDisplay="pageSize" />
 
             <div style="padding: 10px;">
-                <button class="page-button" @click="previousPage" :disabled="currentPage === 1"
+                <!-- <button class="page-button" @click="previousPage" :disabled="currentPage === 1"
                     style="cursor: pointer;">ಹಿಂದೆ</button>
                 <span style="margin: 0 10px;"></span>
 
                 <button class="page-button" @click="nextPage" :disabled="currentPage === totalPages"
-                    style="cursor: pointer;">ಮುಂದೆ</button>
+                    style="cursor: pointer;">ಮುಂದೆ</button> -->
+
+                <button class="page-button" @click="goToFirstPage" :disabled="currentPage === 1">ಒಂದನೆಯ</button>
+                <button class="page-button" @click="previousPage" :disabled="currentPage === 1">ಹಿಂದೆ</button>
+                <button v-for="page in visiblePageNumbers" class="page-button" :key="page" @click="goToPage(page)"
+                    :disabled="currentPage === page">
+                    {{ page }}
+                </button>
+                <button class="page-button" @click="nextPage" :disabled="currentPage === totalPages">ಮುಂದೆ</button>
+                <button class="page-button" @click="goToLastPage" :disabled="currentPage === totalPages">ಕೊನೆಯ</button>
+
             </div>
 
         </div>

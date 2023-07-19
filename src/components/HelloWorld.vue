@@ -25,12 +25,17 @@ export default {
       <router-link :to="{ name: 'ಶಾಸನಗಳು' }">ಶಾಸನಗಳು</router-link>
       <router-link :to="{ name: 'Map' }">ಶಾಸನಗಳ ನಕ್ಷೆ</router-link>
       <router-link :to="{ name: 'About' }" style="float:right">ನಮ್ಮ ಬಗ್ಗೆ</router-link>
+      <a style="float:right" href="https://www.youtube.com/@mythicsocietymedia8880" target="_blank">Youtube</a>
     </div>
 
     <div class="row">
       <div class="leftcolumn">
         <div class="card">
-          <h2>ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ</h2>
+          <!-- <h2>ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ</h2> -->
+          <a target="_blank" href="https://mythicsociety.org/">
+            <h2>ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ</h2>
+          </a>
+
           <!-- <h5>Title description, Dec 7, 2017</h5>
           <div class="fakeimg" style="height:200px;">Image</div> -->
           <p>ಭಾರತೀಯ ಸಾಂಸ್ಕೃತಿಕ ಅಧ್ಯಯನಕ್ಕೆ ಅರ್ಪಿಸಿಕೊೊಂಡ ಅಭಿಜಾತ ಸಂಸ್ಥೆಗಳ ಪೈಕಿ 'ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ'ಯು
@@ -47,7 +52,7 @@ export default {
         </div>
         <div class="card">
           <h2>"ಬೆೆಂಗಳೂರು ಇತಿಹಾಸ ವೈಭವ" ಪುಸ್ತಕ ಮಾಲಿಕೆ</h2>
-          <h5>ಪುಸ್ತಕಗಳು ಈ <a href="https://bit.ly/biv_books" target="_blank">ಲಿಂಕ್</a>ನಲ್ಲಿ ಲಭ್ಯವಿದೆ</h5>
+          <h3>ಪುಸ್ತಕಗಳು ಈ <a href="https://bit.ly/biv_books" target="_blank">ಲಿಂಕ್</a>ನಲ್ಲಿ ಲಭ್ಯವಿದೆ</h3>
           <!-- <div class="fakeimg" style="height:200px;">Image</div>
           <p>Some text..</p>
           <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod
@@ -56,9 +61,21 @@ export default {
         </div>
 
         <div class="card">
-          <iframe width="720" height="480" src="https://www.youtube.com/embed/N0dQmaiBYSw" title="City’s future inscribed on a stone | #OoruLabs Talking Heads #podcast Episode 21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <h2>Digital recreations of inscription stones of Bengaluru</h2>
+          <h3>A treasure trove for Epigraphy teachers, students, researchers, enthusiasts, hobbyists and anyone interested
+            in inscriptions!
+            Over 150 high-quality digital images of Kannada and Tamil inscriptions are shared on Wikimedia Commons</h3>
+          <a target="_blank" href="https://t.co/cKTl0ZOn9P">Digital Images Prepared by Mythic Society Inscriptions
+            Conservation Project Team</a>
         </div>
-        
+
+        <div class="card">
+          <iframe width="720" height="480" src="https://www.youtube.com/embed/N0dQmaiBYSw"
+            title="City’s future inscribed on a stone | #OoruLabs Talking Heads #podcast Episode 21" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+        </div>
+
       </div>
       <div class="rightcolumn">
 
@@ -231,5 +248,4 @@ body {
     float: none;
     width: 100%;
   }
-}
-</style>
+}</style>

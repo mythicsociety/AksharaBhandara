@@ -106,8 +106,7 @@ export default {
             </select> -->
 
             <model-list-select :list="shasanas" v-model="selectedShasana" placeholder="ಒಂದು ಶಾಸನ ಆಯ್ಕೆಮಾಡಿ"
-                option-value="key" option-text="displayName" style="margin: 15px;"
-                @searchchange="printSearchText">
+                option-value="key" option-text="displayName" style="margin: 15px;" @searchchange="printSearchText">
             </model-list-select>
 
             <div v-if="selectedShasana !== null">
@@ -154,6 +153,12 @@ export default {
                     [{{ index }}] <a :href="link.url" target="_blank">{{ link.title }}</a>
                 </li>
             </ul>
+        </div>
+
+        <div style="margin-top: 20px;">
+            <a target="_blank" href="https://t.co/cKTl0ZOn9P" >Wikimedia Commons: Digital Images
+                Prepared by Mythic Society Inscriptions
+                Conservation Project Team</a>
         </div>
     </div>
 </template>

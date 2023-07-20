@@ -6,7 +6,6 @@ import { samyuktaksharaLettersPath } from '../models/paths.js'
 import PageCounter from './SubComponents/PageCounter.vue';
 import { DefaultLetterCount } from '../models/constants.js'
 
-
 import axios from 'axios';
 
 </script>
@@ -21,7 +20,7 @@ export default {
             selectedLetter: Object,
             yearData: '',
             pageSize: DefaultLetterCount,
-            numLettersInPage: 5,
+            numLettersInPage: 10,
 
             currentPage: 1, // Current page number
             totalPages: 0, // Total number of pages

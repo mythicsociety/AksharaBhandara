@@ -5,6 +5,7 @@ import { groupBy } from '../models/utils';
 import axios from 'axios';
 import InnerImageZoom from 'vue-inner-image-zoom';
 import { ModelListSelect } from "vue-search-select"
+import Modal from './SubComponents/Modal.vue'
 
 </script>
 
@@ -13,6 +14,7 @@ import { ModelListSelect } from "vue-search-select"
 export default {
     props: { id: String },
     components: {
+        Modal,
         'inner-image-zoom': InnerImageZoom
     },
     data() {
@@ -25,6 +27,7 @@ export default {
             totalCharacters: 0,
             selectedShasanaDetails: null,
             searchText: "",
+            isModalOpen: false
         }
     },
     watch: {
@@ -74,7 +77,6 @@ export default {
         scrollToElement() {
             this.$refs.inscriptionImage.scrollIntoView();
         },
-
         reset() {
             this.selectedShasana = {}
         },
@@ -84,7 +86,7 @@ export default {
         },
         printSearchText(searchText) {
             this.searchText = searchText
-        },
+        }
 
     }, mounted() {
         this.fetchShasanaData();
@@ -95,10 +97,19 @@ export default {
 
 <template>
     <div class="body-padding" style="margin: auto;">
-        <h2>ಶಾಸನಗಳು</h2>
-        <p>ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p>
+        <div style="position: relative;">
+            <h2>ಶಾಸನಗಳು</h2>
+            <p>ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p>
+
+            <button @click="isModalOpen = true"
+                style="position: absolute; top: 0; right: 0; padding: 5px; display: flex; align-items: center;">
+                <i class="fa fa-asterisk" style="font-size: 24px;"></i> <!-- Font Awesome icon -->
+                <span style="margin-left: 5px;">Feedback</span>
+            </button>
+        </div>
 
         <div style="padding: 10px;">
+
             <!-- <label for="shasana" style="color: black;">ಒಂದು ಶಾಸನ ಆಯ್ಕೆಮಾಡಿ:</label> -->
 
             <!-- <select id="shasana" v-model="selectedShasana" style="margin: 10px;">
@@ -156,10 +167,18 @@ export default {
         </div>
 
         <div style="margin-top: 20px;">
-            <a target="_blank" href="https://t.co/cKTl0ZOn9P" >Wikimedia Commons: Digital Images
+            <a target="_blank" href="https://t.co/cKTl0ZOn9P">Wikimedia Commons: Digital Images
                 Prepared by Mythic Society Inscriptions
                 Conservation Project Team</a>
         </div>
+
+        <Modal :showModal="isModalOpen" @close="isModalOpen = false">
+            <iframe
+                src="https://docs.google.com/forms/d/e/1FAIpQLSf-0wbjL_2vQzwfDbwxj5ZkqcqfI8RkBxiTobAC6etdAVq_Ew/viewform?embedded=true"
+                width="640" height="605" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+        </Modal>
+
     </div>
 </template>
 

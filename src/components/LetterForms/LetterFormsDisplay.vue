@@ -10,7 +10,7 @@ import { DefaultLetterCount } from '../../models/constants.js'
         <div v-if="showImage" class="left-column">
             <h2 style="color: red; background-color: yellow; font-size: 64px;">{{ selectedLetter.key }}</h2>
         </div>
-        <div class="right-column">
+        <div class="right-column" v-bind:style="{ 'flex-basis': showImage ? '80%' : '100%' }">
             <div v-if="groupedLetters.size > 0">
 
                 <div v-for="group in groupedLetters" class="flex-container-parent">

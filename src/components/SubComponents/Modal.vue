@@ -65,7 +65,7 @@ export default {
     padding: 20px;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    flex: 1;
+    /* flex: 1; */
     /* Expand to take available space */
     overflow-y: auto;
     /* Enable scrolling if content overflows */

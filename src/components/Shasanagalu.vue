@@ -158,10 +158,10 @@ export default {
             <h2>{{ selectedShasanaDetails.displayName }}</h2>
         </div>
         <div v-if="selectedShasanaDetails != null">
-            <p>{{ selectedShasanaDetails.description }}</p>
+            <p v-html="selectedShasanaDetails.description"></p>
             <ul>
                 <li v-for="(link, index) in selectedShasanaDetails.links" :key="index">
-                    [{{ index }}] <a :href="link.url" target="_blank">{{ link.title }}</a>
+                    [{{ index+1 }}] <a :href="link.url" target="_blank">{{ link.title }}</a>
                 </li>
             </ul>
         </div>

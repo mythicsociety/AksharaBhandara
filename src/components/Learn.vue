@@ -6,30 +6,28 @@ import axios from 'axios';
 </script>
 
 <template>
-    <div class="body-padding">
-        <h2>ವರ್ಣಮಾಲೆ</h2>
+    <h2 class="page-header">ವರ್ಣಮಾಲೆ</h2>
 
-        <div class="card">
-            <p>
-                ವರ್ಷಗಳ ಶ್ರೇಣಿ: {{ startNumber }} ಇಂದ {{ endNumber }}
-            </p>
 
-            <div style="padding: 10px;">
-                <button class="page-button" type="button" @click="previousPage" :disabled="currentPage === 1"
-                    style="cursor: pointer;">
-                    ಹಿಂದಿನ ಶತಮಾನ</button>
-                <span style="margin: 0 10px;"></span>
+    <div class="body-padding" style="margin: auto;">
+        <p class="sub-heading">
+            ವರ್ಷಗಳ ಶ್ರೇಣಿ: {{ startNumber }} ಇಂದ {{ endNumber }}
+        </p>
 
-                <button class="page-button" type="button" @click="nextPage" :disabled="isEndOfLimit"
-                    style="cursor: pointer;">
-                    ಮುಂದಿನ ಶತಮಾನ</button>
-            </div>
+        <div style="padding: 10px;">
+            <button class="page-button" type="button" @click="previousPage" :disabled="currentPage === 1"
+                style="cursor: pointer;">
+                ಹಿಂದಿನ ಶತಮಾನ</button>
+            <span style="margin: 0 10px;"></span>
 
-            <div class="flex-container">
-                <BasicLetter v-for="letter in displayedLetters" :key="letter.id" :title="letter.key"
-                    :image_src="getImageSrc(letter)" :showLetterText="true" :imageSizePx="100" />
+            <button class="page-button" type="button" @click="nextPage" :disabled="isEndOfLimit" style="cursor: pointer;">
+                ಮುಂದಿನ ಶತಮಾನ</button>
+        </div>
 
-            </div>
+        <div class="flex-container">
+            <BasicLetter v-for="letter in displayedLetters" :key="letter.id" :title="letter.key"
+                :image_src="getImageSrc(letter)" :showLetterText="true" :imageSizePx="100" />
+
         </div>
     </div>
 </template>
@@ -115,6 +113,4 @@ export default {
 }
 </script>
 
-<style>
-
-</style>
+<style></style>

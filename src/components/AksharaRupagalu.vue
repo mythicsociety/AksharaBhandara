@@ -4,12 +4,8 @@ import LetterForms from './LetterForms/LetterForms.vue';
 </script>
 
 <template>
-    <div class="body-padding" style="margin: auto;">
-        <h2>ಅಕ್ಷರ ರೂಪಗಳು</h2>
-
-        <LetterForms :jsonPath="`./assets/json/letters.json`" :showImage="true"/>
-
-    </div>
+    <h2 class="page-header">ಅಕ್ಷರ ರೂಪಗಳು</h2>
+    <LetterForms :jsonPath="`./assets/json/letters.json`" :showImage="true" />
 </template>
 
 <style></style>

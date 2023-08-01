@@ -1,6 +1,6 @@
 <script setup>
 import BasicLetter from '../../components/LetterForms/BasicLetter.vue'
-import { groupBy, getYear, getRandomItemsFromArray } from '../../models/utils';
+import { groupBy, getYear, getRandomItemsFromArray, groupByCentury } from '../../models/utils';
 import { DefaultLetterCount } from '../../models/constants.js'
 
 </script>
@@ -8,23 +8,27 @@ import { DefaultLetterCount } from '../../models/constants.js'
 <template>
     <div class="container">
         <div v-if="showImage" class="left-column">
-            <h2 style="color: red; background-color: yellow; font-size: 64px;">{{ selectedLetter.key }}</h2>
+            <h2 style="color: red; background-color: yellow; font-size: 64px; box-shadow: 5px 5px 5px gray;">{{ selectedLetter.key }}</h2>
         </div>
         <div class="right-column" v-bind:style="{ 'flex-basis': showImage ? '80%' : '100%' }">
             <div v-if="groupedLetters.size > 0">
 
                 <div v-for="group in groupedLetters" class="flex-container-parent">
 
-                    <h2 style="border-bottom: 2px solid red;">{{ getGroupName(group[0]) }}</h2>
-                    <div class="flex-container">
-                        <BasicLetter v-for="letter in sortedByYear(group[1])" :image_src="letter.path"
-                            :showLetterText="false" :imageSizePx="125" :showLetterYear="true" />
+                    <h2 style="border-bottom: 2px solid red; margin-bottom: 20px;background: rosybrown;">{{ getGroupName(group[0]) }}</h2>
+
+                    <div class="flex-container-century" v-for="(subGroup, century) in groupFormsByCentury(group[1])">
+                        <p class="p-heading">{{ century }}ನೆ ಶತಮಾನ</p>
+                        <div class="flex-container" style="background: honeydew;">
+                            <BasicLetter v-for="letter in sortedByYear(subGroup)" :image_src="letter.path"
+                                :showLetterText="false" :imageSizePx="125" :showLetterYear="true" />
+                        </div>
                     </div>
 
                 </div>
             </div>
             <div v-else>
-                <h2>ಈ ಅವಧಿಯಲ್ಲಿ ಯಾವುದೇ ಅಕ್ಷರಗಳು ಲಭ್ಯವಿಲ್ಲ</h2>
+                <h2 style="background: lightgrey;">ಈ ಅವಧಿಯಲ್ಲಿ ಯಾವುದೇ ಅಕ್ಷರಗಳು ಲಭ್ಯವಿಲ್ಲ</h2>
             </div>
         </div>
     </div>
@@ -37,7 +41,7 @@ export default {
     props: {
         selectedLetter: Object,
         showImage: Boolean,
-        yearData: String, 
+        yearData: String,
         NumberOfImagesToDisplay: { type: Number, default: DefaultLetterCount }
     },
     watch: {
@@ -63,7 +67,10 @@ export default {
 
     },
     methods: {
-
+        groupFormsByCentury(group) {
+            let groupedForm = groupByCentury(group, 'year');
+            return groupedForm;
+        },
         sortedByYear(groupedLetters) {
             let limitedArr = getRandomItemsFromArray(groupedLetters, this.NumberOfImagesToDisplay);
             // let limitedArr = shuffled.slice(0, NumberOfImagesToDisplay);
@@ -126,5 +133,18 @@ export default {
 .right-column {
     flex-basis: 80%;
     padding: 20px;
+}
+
+.flex-container-century {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border: 1px solid;
+}
+
+.p-heading {
+    background: lightskyblue;
+    margin-bottom: 5px;
 }
 </style>

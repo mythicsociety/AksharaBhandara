@@ -4,11 +4,9 @@ import LetterForms from './LetterForms/LetterForms.vue';
 </script>
 
 <template>
-    <div class="body-padding" style="margin: auto;">
-        <h2>ಚಿಹ್ನೆಗಳು</h2>
+    <h2 class="page-header">ಚಿಹ್ನೆಗಳು</h2>
 
-        <LetterForms :jsonPath="`./assets/json/symbols.json`" :showImage="false" />
-    </div>
+    <LetterForms :jsonPath="`./assets/json/symbols.json`" :showImage="false" />
 </template>
 
 <style></style>

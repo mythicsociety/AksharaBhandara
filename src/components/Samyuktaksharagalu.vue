@@ -2,7 +2,7 @@
 import LetterFormsDisplay from './LetterForms/LetterFormsDisplay.vue';
 import LetterSelector from './LetterForms/LetterSelector.vue'
 import YearFilterVue from './SubComponents/YearFilter.vue';
-import {samyuktaksharaLettersPath} from '../models/paths.js'
+import { samyuktaksharaLettersPath } from '../models/paths.js'
 import PageCounter from './SubComponents/PageCounter.vue';
 import { DefaultLetterCount } from '../models/constants.js'
 
@@ -58,19 +58,17 @@ export default {
 </script>
 
 <template>
+    <h2 class="page-header">ಸಂಯುಕ್ತಾಕ್ಷರಗಳು</h2>
+
     <div class="body-padding" style="margin: auto;">
-        <h2>ಸಂಯುಕ್ತಾಕ್ಷರಗಳು</h2>
+        <YearFilterVue @yearData="getData" />
 
-        <div class="body-padding" style="margin: auto;">
-            <YearFilterVue @yearData="getData" />
+        <LetterSelector :jsonData="samyuktaksharaLetters" @eventname="getSamyuktakshara" />
 
-            <LetterSelector :jsonData="samyuktaksharaLetters" @eventname="getSamyuktakshara" />
+        <PageCounter @pageSize="gePageSize" />
 
-            <PageCounter @pageSize="gePageSize" />
-
-            <LetterFormsDisplay v-for="letter in samyuktaksharaChildren" :selectedLetter="letter" :showImage="true" 
-            :yearData="yearData" :NumberOfImagesToDisplay="pageSize"/>
-        </div>
+        <LetterFormsDisplay v-for="letter in samyuktaksharaChildren" :selectedLetter="letter" :showImage="true"
+            :yearData="yearData" :NumberOfImagesToDisplay="pageSize" />
     </div>
 </template>
 

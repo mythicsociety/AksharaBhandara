@@ -130,7 +130,7 @@ export default {
 
     <!-- v-if="showBackground == true" -->
     <div :style="`display: inline-block; margin: 2px; box-shadow: 5px 5px 5px gray;`">
-        <p v-if="showLetterText">{{ title }}</p>
+        <p class="p-text" style="font-size: 24px;" v-if="showLetterText">{{ title }}</p>
         <div class="container" @click="letterClicked">
             <!-- border: 2px solid lightgray; -->
             <img :src="`${publicPath}./assets/letter_background.png`" class="background-image"
@@ -142,7 +142,7 @@ export default {
                 :title="`${fileName}`">
 
         </div>
-        <p style="font-size: 12px;">{{ displayTextLetter }}</p>
+        <p class="p-text">{{ displayTextLetter }}</p>
         <!-- v-if="showLetterYear" -->
     </div>
 </template>
@@ -194,5 +194,10 @@ export default {
     padding: 10px;
     border-radius: 5px;
     /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
+}
+
+.p-text{
+    font-size: 12px;
+    background: white;
 }
 </style>

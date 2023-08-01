@@ -14,11 +14,9 @@ export default {
 </script>
 
 <template>
-  <div class="body-padding">
+  <h1 class="page-header" style="font-size: 60px;">ಅಕ್ಷರ ಭಂಡಾರ</h1>
 
-    <div class="header">
-      <h1>ಅಕ್ಷರ ಭಂಡಾರ</h1>
-    </div>
+  <div class="body-padding">
 
     <div class="topnav">
       <router-link :to="{ name: 'ವರ್ಣಮಾಲೆ' }">ವರ್ಣಮಾಲೆ</router-link>
@@ -31,10 +29,7 @@ export default {
     <div class="row">
       <div class="leftcolumn">
         <div class="card">
-          <!-- <h2>ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ</h2> -->
-          <a target="_blank" href="https://mythicsociety.org/">
-            <h2>ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ</h2>
-          </a>
+          <h2>ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ</h2>
 
           <!-- <h5>Title description, Dec 7, 2017</h5>
           <div class="fakeimg" style="height:200px;">Image</div> -->
@@ -248,4 +243,5 @@ body {
     float: none;
     width: 100%;
   }
-}</style>
+}
+</style>

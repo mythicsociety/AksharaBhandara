@@ -58,20 +58,18 @@ export default {
 </script>
 
 <template>
+    <h2 class="page-header">ಗುಣಿತಾಕ್ಷರಗಳು</h2>
+
     <div class="body-padding" style="margin: auto;">
-        <h2>ಗುಣಿತಾಕ್ಷರಗಳು</h2>
+        <YearFilterVue @yearData="getData" />
 
-        <div class="body-padding" style="margin: auto;">
-            <YearFilterVue @yearData="getData" />
+        <!-- <LetterSelector :jsonData="gunitaksharaLetters" v-model:selectedLetter="selectedLetter" /> -->
+        <LetterSelector :jsonData="gunitaksharaLetters" @eventname="getGunitaksharas" />
 
-            <!-- <LetterSelector :jsonData="gunitaksharaLetters" v-model:selectedLetter="selectedLetter" /> -->
-            <LetterSelector :jsonData="gunitaksharaLetters" @eventname="getGunitaksharas" />
+        <PageCounter @pageSize="gePageSize" />
 
-            <PageCounter @pageSize="gePageSize" />
-
-            <LetterFormsDisplay v-for="letter in gunitaksharaChildren" :selectedLetter="letter" :showImage="true"
-                :yearData="yearData" :NumberOfImagesToDisplay="pageSize"/>
-        </div>
+        <LetterFormsDisplay v-for="letter in gunitaksharaChildren" :selectedLetter="letter" :showImage="true"
+            :yearData="yearData" :NumberOfImagesToDisplay="pageSize" />
     </div>
 </template>
 

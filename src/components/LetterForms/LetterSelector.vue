@@ -26,24 +26,17 @@ export default {
 </script>
 
 <template>
-    <div class="flex-container" style="justify-content: center;">
+    <div class="flex-container-parent bottom-border" style="justify-content: center;">
+        <p class="sub-heading">ಒಂದು ಅಕ್ಷರವನ್ನು ಆಯ್ಕೆಮಾಡಿ</p>
         <div class="flex-item-left">
             <div v-for="(item, index) in jsonData" :key="item.id" @click="selectLetter(item.id)"
-                :style="`display: inline-block; border: 2px solid white; margin: 2px; padding: 5px;`">
+                class="letter-parent">
 
+                <p ref="firstP" v-if="index == 0 & selectedLetter == ''" :style="`border: 3px solid red`"
+                    class="letter-background">{{ item.key }}</p>
 
-                <!-- <div ref="firstDiv" class="flex-container" v-if="group === groupedShasanaDetails[0]">
-                    First div element
-                </div>
-                <div class="flex-container" v-else>
-                    Other div elements
-                </div> -->
-
-                <p ref="firstP" v-if="index == 0 & selectedLetter == ''" :style="`border-bottom: 3px solid red`"
-                    style="font-size: 32px; padding: 5px; cursor: pointer;">{{ item.key }}</p>
-
-                <p :style="[selectedLetter.id === item.id ? { 'border-bottom': '3px solid red' } : {}]"
-                    style="font-size: 32px; padding: 5px; cursor: pointer;" v-else>{{ item.key }}</p>
+                <p :style="[selectedLetter.id === item.id ? { 'border': '3px solid red' } : {}]"
+                    class="letter-background" v-else>{{ item.key }}</p>
             </div>
 
         </div>
@@ -52,7 +45,32 @@ export default {
 </template>
 
 <style>
-.red-bottom-border {
-    border-bottom: 3px solid red;
+.flex-item-left {
+  /* background-color: #f1f1f1; */
+  /* padding: 20px; */
+  margin: 5px;
 }
+
+.flex-item-right {
+  background-color: dodgerblue;
+  padding: 20px;
+  margin: 5px;
+}
+
+.letter-parent{
+    display: inline-block;
+    border: 2px solid white;
+    margin: 5px;
+    padding: 5px;
+    background: white;
+    box-shadow: 4px 4px 4px gray;
+}
+
+.letter-background{
+    font-size: 32px;
+    padding: 5px;
+    cursor: pointer;
+    background: white;
+}
+
 </style>

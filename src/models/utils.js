@@ -28,6 +28,20 @@ export function groupBy(list, keyGetter) {
     return map;
 }
 
+export function groupByCentury(array, key) {
+    const result = {};
+    array.forEach(item => {
+        // get the century from the year
+        const century = Math.floor(item[key] / 100) + 1;
+        // use the century as a key in the result object
+        if (!result[century]) {
+            result[century] = [];
+        }
+        result[century].push(item);
+    });
+    return result;
+}
+
 export function getYear(filePath) {
     let fileName = getFileNameFromPath(filePath);
     let indx = fileName.indexOf("_");

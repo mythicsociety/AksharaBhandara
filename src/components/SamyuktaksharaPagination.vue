@@ -119,37 +119,35 @@ export default {
 </script>
 
 <template>
+    <h2 class="page-header">ಸಂಯುಕ್ತಾಕ್ಷರಗಳು</h2>
+
     <div ref="lettersDisplay" class="body-padding" style="margin: auto;">
-        <h2>ಸಂಯುಕ್ತಾಕ್ಷರಗಳು</h2>
+        <YearFilterVue @yearData="getData" />
 
-        <div class="body-padding" style="margin: auto;">
-            <YearFilterVue @yearData="getData" />
+        <PageCounter @pageSize="gePageSize" />
 
-            <PageCounter @pageSize="gePageSize" />
+        <LetterFormsDisplay v-for="letter in displayedData" :selectedLetter="letter" :showImage="true" :yearData="yearData"
+            :NumberOfImagesToDisplay="pageSize" />
 
-            <LetterFormsDisplay v-for="letter in displayedData" :selectedLetter="letter" :showImage="true"
-                :yearData="yearData" :NumberOfImagesToDisplay="pageSize" />
-
-            <div style="padding: 10px;">
-                <!-- <button class="page-button" @click="previousPage" :disabled="currentPage === 1"
+        <div style="padding: 10px;">
+            <!-- <button class="page-button" @click="previousPage" :disabled="currentPage === 1"
                     style="cursor: pointer;">ಹಿಂದೆ</button>
                 <span style="margin: 0 10px;"></span>
 
                 <button class="page-button" @click="nextPage" :disabled="currentPage === totalPages"
                     style="cursor: pointer;">ಮುಂದೆ</button> -->
 
-                <button class="page-button" @click="goToFirstPage" :disabled="currentPage === 1">ಒಂದನೆಯ</button>
-                <button class="page-button" @click="previousPage" :disabled="currentPage === 1">ಹಿಂದೆ</button>
-                <button v-for="page in visiblePageNumbers" class="page-button" :key="page" @click="goToPage(page)"
-                    :disabled="currentPage === page">
-                    {{ page }}
-                </button>
-                <button class="page-button" @click="nextPage" :disabled="currentPage === totalPages">ಮುಂದೆ</button>
-                <button class="page-button" @click="goToLastPage" :disabled="currentPage === totalPages">ಕೊನೆಯ</button>
-
-            </div>
+            <button class="page-button" @click="goToFirstPage" :disabled="currentPage === 1">ಒಂದನೆಯ</button>
+            <button class="page-button" @click="previousPage" :disabled="currentPage === 1">ಹಿಂದೆ</button>
+            <button v-for="page in visiblePageNumbers" class="page-button" :key="page" @click="goToPage(page)"
+                :disabled="currentPage === page">
+                {{ page }}
+            </button>
+            <button class="page-button" @click="nextPage" :disabled="currentPage === totalPages">ಮುಂದೆ</button>
+            <button class="page-button" @click="goToLastPage" :disabled="currentPage === totalPages">ಕೊನೆಯ</button>
 
         </div>
+
     </div>
 </template>
 

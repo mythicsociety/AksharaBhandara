@@ -96,13 +96,14 @@ export default {
 </script>
 
 <template>
+    <h2 class="page-header">ಶಾಸನಗಳು</h2>
+
     <div class="body-padding" style="margin: auto;">
         <div style="position: relative;">
-            <h2>ಶಾಸನಗಳು</h2>
-            <p>ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p>
+            <p class="sub-heading">ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p>
 
-            <button @click="isModalOpen = true"
-                style="position: absolute; top: 0; right: 0; padding: 5px; display: flex; align-items: center;">
+            <button type="button" @click="isModalOpen = true"
+                style="position: absolute; top: 0; right: 0; padding: 5px; display: flex; align-items: center; margin: 10px;">
                 <i class="fa fa-asterisk" style="font-size: 24px;"></i> <!-- Font Awesome icon -->
                 <span style="margin-left: 5px;">Feedback</span>
             </button>
@@ -130,8 +131,8 @@ export default {
             </div>
         </div>
 
-        <div v-for="(group, index) in groupedShasanaDetails" :class="flex - container - parent">
-            <p>ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿ {{ group[1].length }} ಅಕ್ಷರಗಳಿವೆ - ಸಾಲು {{ index + 1 }}</p>
+        <div v-for="(group, index) in groupedShasanaDetails" :class="flex-container-parent" style="border: 1px solid; margin-bottom: 10px;">
+            <p style="background: rosybrown;">ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿ {{ group[1].length }} ಅಕ್ಷರಗಳಿವೆ - ಸಾಲು {{ index + 1 }}</p>
             <div class="flex-container-no-gap">
                 <BasicLetter v-for="letter in group[1]" :image_src="letter.filePath" :showLetterText="false"
                     :imageSizePx="50" :showLetterYear="false" :displayText="letter.kannadaWord" :showBackground="false" />
@@ -161,7 +162,7 @@ export default {
             <p v-html="selectedShasanaDetails.description"></p>
             <ul>
                 <li v-for="(link, index) in selectedShasanaDetails.links" :key="index">
-                    [{{ index+1 }}] <a :href="link.url" target="_blank">{{ link.title }}</a>
+                    [{{ index + 1 }}] <a :href="link.url" target="_blank">{{ link.title }}</a>
                 </li>
             </ul>
         </div>

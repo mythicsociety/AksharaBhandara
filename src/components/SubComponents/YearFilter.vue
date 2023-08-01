@@ -1,5 +1,6 @@
 <template>
-    <div>
+    <div class="bottom-border">
+        <p class="sub-heading">ಶ್ರೇಣಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</p>
         <div>
             <label for="from-year" style="color: black;margin: 10px;">ವರ್ಷದಿಂದ:</label>
             <input type="number" id="from-year" name="from-year" :min="minYear" :max="maxYear" :step="stepYear"

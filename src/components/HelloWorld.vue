@@ -23,7 +23,6 @@ export default {
       <router-link :to="{ name: 'ಶಾಸನಗಳು' }">ಶಾಸನಗಳು</router-link>
       <router-link :to="{ name: 'Map' }">ಶಾಸನಗಳ ನಕ್ಷೆ</router-link>
       <router-link :to="{ name: 'About' }" style="float:right">ನಮ್ಮ ಬಗ್ಗೆ</router-link>
-      <a style="float:right" href="https://www.youtube.com/@mythicsocietymedia8880" target="_blank">Youtube</a>
     </div>
 
     <div class="row">
@@ -33,6 +32,8 @@ export default {
 
           <!-- <h5>Title description, Dec 7, 2017</h5>
           <div class="fakeimg" style="height:200px;">Image</div> -->
+          <img :src="`${publicPath}./assets/mythic-society.png`" :alt="`mythic-society`">
+
           <p>ಭಾರತೀಯ ಸಾಂಸ್ಕೃತಿಕ ಅಧ್ಯಯನಕ್ಕೆ ಅರ್ಪಿಸಿಕೊೊಂಡ ಅಭಿಜಾತ ಸಂಸ್ಥೆಗಳ ಪೈಕಿ 'ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ'ಯು
             ಹೆಮ್ಮೆ ಪಡುವಂಥ ಸ್ಥಾನವನ್್ನ ನು ಪಡೆದುಕೊೊಂಡಿದೆ. 1909ರಲ್ಲಿ ಪ್ರಾರಂಭವಾದ ಸಂಸ್ಥೆಯು ಸತತ 114
             ವರ್್ಷಗಳಿಿಂದ ಭಾರತೀಯ ಅಧ್ಯಯನ ಶಾಸ್ತತ್ರಗಳಾದ ಇತಿಹಾಸ, ಪುರಾತತ್್ವ ಶಾಸ್ತತ್ರ, ಭಾಷಾಶಾಸ್ತತ್ರ, ನಾಣ್್ಯಶಾಸ್ತತ್ರ,
@@ -66,9 +67,85 @@ export default {
 
         <div class="card">
           <iframe width="720" height="480" src="https://www.youtube.com/embed/N0dQmaiBYSw"
-            title="City’s future inscribed on a stone | #OoruLabs Talking Heads #podcast Episode 21" frameborder="0"
+            title="City's future inscribed on a stone | #OoruLabs Talking Heads #podcast Episode 21" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen></iframe>
+        </div>
+
+        <div class="card">
+          <h2>Press Coverage of The Project & Some Reference Material</h2>
+          <table style="border-collapse: collapse;">
+            <!-- <tr>
+              <th>Project Title</th>
+              <th>Link</th>
+            </tr> -->
+            <tr>
+              <td>Deccan Herald: A unique project to trace Bengaluru's history before Kempe Gowda</td>
+              <td><a target="_blank"
+                  href="https://www.deccanherald.com/city/a-unique-project-to-trace-bengalurus-history-before-kempe-gowda-973007.html">Link</a>
+              </td>
+            </tr>
+            <tr>
+              <td>The Times of India: Mythic Society to preserve 175 city inscriptions in 3D</td>
+              <td><a target="_blank"
+                  href="https://timesofindia.indiatimes.com/city/bengaluru/mythic-society-to-preserve-175-city-inscriptions-in-3d/articleshow/87955873.cms">Link</a>
+              </td>
+            </tr>
+            <tr>
+              <td>The Frontline Magazine: Rerecording history: Bengaluru's Inscriptions 3D Digital Conservation Project
+                helps preserve millennia-old stone inscriptions</td>
+              <td><a target="_blank"
+                  href="https://frontline.thehindu.com/the-nation/rerecording-history-bengaluru-based-inscriptions-3d-digital-conservation-project-helps-preserve-millenia-old-stone-inscriptions-article38445335.ece">Link</a>
+              </td>
+            </tr>
+            <tr>
+              <td>Bangalore Mirror: 500 years of history unearthed, demystified</td>
+              <td><a target="_blank"
+                  href="https://bangaloremirror.indiatimes.com/bangalore/others/500-years-of-history-unearthed-demystified/articleshow/88377865.cms">Link</a>
+              </td>
+            </tr>
+            <tr>
+              <td>Bangalore Mirror: History's codebreakers</td>
+              <td><a target="_blank"
+                  href="https://bangaloremirror.indiatimes.com/bangalore/others/historys-codebreakers/articleshow/88131445.cms">Link</a>
+              </td>
+            </tr>
+            <tr>
+              <td>ಹೊಸದಿಗಂತ: ಅಳಿಯುತ್ತಿರುವ ಶಾಸನಗಳಿಗೆ ಡಿಜಿಟಲ್ ರಕ್ಷೆ, ಇದು ಮಿಥಿಕ್ ಸೊಸೈಟಿ ಮಹಾಕಾರ್ಯ!</td>
+              <td><a target="_blank"
+                  href="https://hosadigantha.com/mythic-society-digitising-3dscanning-edicts-bengaluru-history">Link</a>
+              </td>
+            </tr>
+            <tr>
+              <td>ವಿಜಯವಾಣಿ: ಮಿಥಿಕ್ ಸೊಸೈಟಿಯಿಂದ ಡಿಜಿಟಲೀಕರಣ | ಸ್ಥಳೀಯ ಪ್ರದೇಶಗಳ ಇತಿಹಾಸದ ಬಗ್ಗೆ ಮಾಹಿತಿ ಶಾಸನಗಳ 3 ಡಿ ಸಂರಕ್ಷಣೆ
+                ಆರಂಭ</td>
+              <td><a target="_blank"
+                  href="https://epapervijayavani.in/ArticlePage/APpage.php?edn=Bengaluru&articleid=VVAANINEW_BEN_20211127_12_6">Link</a>
+              </td>
+            </tr>
+            <tr>
+              <td>ಕನ್ನಡಪ್ರಭ: ನಗರದ 175 ಶಿಲಾಶಾಸನಕ್ಕೆ ಡಿಜಿಟಲ್ ರೂಪ ದೇಶದಲ್ಲೇ ಮೊದಲ ಬಾರಿ 3 ಡಿ ಸ್ಕ್ಯಾನ್ ಬಳಸಿ ಶಿಲಾಶಾಸನಗಳ ಸಂರಕ್ಷಣೆ
+                : ನಾಗರಾಜ್</td>
+              <td><a target="_blank"
+                  href="https://kpepaper.asianetnews.com/3301343/Bengaluru/Bengaluru%23page/2/2%23page/2/1#page/2/1">Link</a>
+              </td>
+            </tr>
+            <tr>
+              <td>Mythic Society BBMP Endowment Lecture: Digital Conservation of Bengaluru Inscriptions</td>
+              <td><a target="_blank" href="https://youtu.be/MEzgWe8-V1g">Link</a></td>
+            </tr>
+            <tr>
+              <td>Mythic Society Lecture: A Novel Approach for Inscription Studies & Conservation - High Resolution 3D
+                Digital Epigraphy</td>
+              <td><a target="_blank" href="https://youtu.be/2EZEPp3dp9g">Link</a></td>
+            </tr>
+            <tr>
+              <td>ಹೊಸದಿಗಂತ: ಇತಿಹಾಸವನ್ನು ಅಳಿಸದಂತಿಡುತ್ತೇವೆ ಅಂತ ಕೋಟಿ ರುಪಾಯಿ ಖರ್ಚು ಮಾಡಿ ಮಹಾಯತ್ನಕ್ಕೆ ಕೈಹಾಕಿದೆ ಮಿಥಿಕ್ ಸೊಸೈಟಿ.
+              </td>
+              <td><a target="_blank" href="https://youtu.be/PEwsy4UWIvU">Link</a></td>
+            </tr>
+          </table>
+
         </div>
 
       </div>
@@ -82,23 +159,11 @@ export default {
 
         <div class="card">
           <h2>Akshara Bhandara, Vol-1, Kannada Script 1300-1400CE</h2>
-          <!-- <div class="fakeimg" style="height:100px;">Image</div> -->
           <img :src="`${publicPath}./assets/Home-image.png`" :alt="`Book title cover`" width="200" height="300">
           <p>You can download the book from <a href="https://bit.ly/aksharabhandara1" target="_blank">here</a></p>
 
         </div>
-        <!-- <div class="card">
-          <h3>Popular Post</h3>
-          <div class="fakeimg">
-            <p>Image</p>
-          </div>
-          <div class="fakeimg">
-            <p>Image</p>
-          </div>
-          <div class="fakeimg">
-            <p>Image</p>
-          </div>
-        </div> -->
+
         <div class="card">
           <h3>ಪುಸ್ತಕದ ಬಗ್ಗೆ ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ನಮಗೆ <a href="https://bit.ly/ab1feedback" target="_blank">ತಿಳಿಸಿ</a>
           </h3>
@@ -106,28 +171,40 @@ export default {
       </div>
     </div>
 
-    <!-- <div class="footer">
-      <h2>Footer</h2>
-    </div> -->
-
-    <!-- <h2>The Mythic Society</h2>
-
-    <img :src="`${publicPath}./assets/Mythic-society.png`" :alt="`Mythic society`">
-
-    <div class="home-flex-container">
-      <img :src="`${publicPath}./assets/Home-image.png`" :alt="`Book title cover`" width="500" height="500">
-
-      <iframe
-        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FThe.Mythic.Society.1909&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
-        width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true"
-        allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-    </div> -->
+    <div class="footer">
+      <h2>Contact us</h2>
+      <div class="footer-icons">
+        <a href="mailto:3dscanning.mythicsociety@gmail.com"><i class="fa fa-google red-color fa-2x"
+            aria-hidden="true"></i></a>
+        <a href="https://www.facebook.com/groups/inscriptionstones" target="_blank"><i class="fa fa-facebook-square fa-2x"
+            aria-hidden="true"></i></a>
+        <a href="https://twitter.com/MythicSociety" target="_blank"><i class="fa fa-twitter-square teal-color fa-2x"
+            aria-hidden="true"></i></a>
+        <a href="https://www.youtube.com/@mythicsocietymedia8880" target="_blank"><i
+            class="fa fa-youtube-play red-color fa-2x" aria-hidden="true"></i></a>
+      </div>
+    </div>
 
   </div>
 </template>
 
 <style scoped>
+.fa-facebook-square {
+  color: #3b5998;
+  background-image: linear-gradient(to bottom, transparent 20%, white 20%, white 93%, transparent 93%);
+  background-size: 55%;
+  background-position: 70% 0;
+  background-repeat: no-repeat;
+}
+
+.teal-color {
+  color: teal;
+}
+
+.red-color {
+  color: red;
+}
+
 .home-flex-container {
   display: flex;
   flex-wrap: wrap;
@@ -225,6 +302,25 @@ body {
   text-align: center;
   background: #ddd;
   margin-top: 20px;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.footer-icons a {
+  margin: 0 10px;
+  /* Adjust the value to control the spacing between icons */
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */

@@ -586,7 +586,7 @@
       "Aradeshanahalli_Dv43-Image.png"
     ],
     "year": 900,
-    "description": "In this example, links is an array of objects that contain the title and url properties for each link. <br>The v-for directive loops through the array and <b>creates a list item for each link</b>. The :key attribute is used to give each <a href='https://www.example.com' target='_blank'>link to extenral</a> list item a unique identifier.<ol><li>Coffee</li>  <li>Tea</li><li>Milk</li></ol>",
+    "description": "In this dummy dummy example, links is an array of objects that contain the title and url properties for each link. <br>The v-for directive loops through the array and <b>creates a list item for each link</b>. The :key attribute is used to give each <a href='https://www.example.com' target='_blank'>link to extenral</a> list item a unique identifier.<ol><li>Coffee</li>  <li>Tea</li><li>Milk</li></ol>",
     "links": [
       {
         "title": "Link 1",
@@ -598,5 +598,25 @@
       }
     ],
     "key": "900_Dv43_Aradeshanahalli"
+  },
+  {
+    "id": 113903,
+    "displayName": "Dummy Inscription",
+    "imagePath": [
+      "tumkur digital image 2 - Copy.png"
+    ],
+    "year": 2023,
+    "description": "In this dummy dummy example, links is an array of objects that contain the title and url properties for each link. <br>The v-for directive loops through the array and <b>creates a list item for each link</b>. The :key attribute is used to give each <a href='https://www.example.com' target='_blank'>link to extenral</a> list item a unique identifier.<ol><li>Coffee</li>  <li>Tea</li><li>Milk</li></ol>",
+    "links": [
+      {
+        "title": "Link 1",
+        "url": "https://www.example.com"
+      },
+      {
+        "title": "this is Link 2",
+        "url": "https://www.example.com"
+      }
+    ],
+    "key": ""
   }
 ]

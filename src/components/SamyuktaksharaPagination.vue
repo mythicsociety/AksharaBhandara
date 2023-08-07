@@ -1,6 +1,5 @@
 <script setup>
 import LetterFormsDisplay from './LetterForms/LetterFormsDisplay.vue';
-import LetterSelector from './LetterForms/LetterSelector.vue'
 import YearFilterVue from './SubComponents/YearFilter.vue';
 import { samyuktaksharaLettersPath } from '../models/paths.js'
 import PageCounter from './SubComponents/PageCounter.vue';

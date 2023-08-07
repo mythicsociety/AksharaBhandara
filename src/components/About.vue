@@ -1,3 +1,7 @@
+<script setup>
+import Footer from './SubComponents/Footer.vue';
+
+</script>
 
 <template>
     <h2 class="page-header">ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ ಶಾಸನಗಳ 3ಡಿ ಡಿಜಿಟಲ್ ಸಂರಕ್ಷಣಾ ಯೋಜನಾ ತಂಡ</h2>
@@ -43,6 +47,8 @@
 
         <br>
         <p>Developed by: Karthik Aditya, karthikaditya147@gmail.com</p>
+
+        <Footer></Footer>
     </div>
 </template>
 

@@ -15,7 +15,7 @@ import { DefaultLetterCount } from '../../models/constants.js'
 
                 <div v-for="group in groupedLetters" class="flex-container-parent">
 
-                    <h2 style="border-bottom: 2px solid red; margin-bottom: 20px;background: rosybrown;">{{ getGroupName(group[0]) }}</h2>
+                    <h2 style="border-bottom: 2px solid red; margin-bottom: 20px;background-color: rgba(188, 143, 143, 0.5);">{{ getGroupName(group[0], group[1].length) }}</h2>
 
                     <div class="flex-container-century" v-for="(subGroup, century) in groupFormsByCentury(group[1])">
                         <p class="p-heading">{{ century }}ನೆ ಶತಮಾನ</p>
@@ -80,8 +80,8 @@ export default {
             return this.groupedLetters.get(formId)
         },
 
-        getGroupName(formId) {
-            return "ರೂಪ " + formId.substr(-1)
+        getGroupName(formId, groupCount) {
+            return "ರೂಪ " + formId.substr(-1) + "" + groupCount
         },
 
         getGroupedForms(letterForms) {

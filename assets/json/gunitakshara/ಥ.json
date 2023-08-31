@@ -43,6 +43,12 @@
       {
         "id": 7,
         "form": "tha_form1",
+        "path": "tha/tha_form1/1800_Dv05_Nagamangala_3_1_tha.JPG",
+        "year": 1800
+      },
+      {
+        "id": 8,
+        "form": "tha_form1",
         "path": "tha/tha_form1/900_CP134_Malurpatna_4_4_tha.JPG",
         "year": 900
       }
@@ -65,6 +71,12 @@
         "form": "thā_form1",
         "path": "thā/thā_form1/1340_Bn111_Ramasamudra_16_4_thā.JPG",
         "year": 1340
+      },
+      {
+        "id": 3,
+        "form": "thā_form1",
+        "path": "thā/thā_form1/1850_AN111_Bannerughatta_3_11_thā.JPG",
+        "year": 1850
       }
     ],
     "IASTform": ""

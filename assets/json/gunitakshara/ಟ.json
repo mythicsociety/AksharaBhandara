@@ -30,9 +30,33 @@
       },
       {
         "id": 5,
+        "form": "ṭa_form1",
+        "path": "ṭa/ṭa_form1/1850_AN111_Bannerughatta_12_1_ṭa.JPG",
+        "year": 1850
+      },
+      {
+        "id": 6,
+        "form": "ṭa_form1",
+        "path": "ṭa/ṭa_form1/1850_AN111_Bannerughatta_7_13_ṭa.JPG",
+        "year": 1850
+      },
+      {
+        "id": 7,
         "form": "ṭa_form2",
         "path": "ṭa/ṭa_form2/1363_BN81_AgaraMuseum_11_4_ṭa.JPG",
         "year": 1363
+      },
+      {
+        "id": 8,
+        "form": "ṭa_form2",
+        "path": "ṭa/ṭa_form2/1828_Cp108_Kudluru_11_6_ṭa.JPG",
+        "year": 1828
+      },
+      {
+        "id": 9,
+        "form": "ṭa_form2",
+        "path": "ṭa/ṭa_form2/1828_Cp108_Kudluru_21_3_ṭa.JPG",
+        "year": 1828
       }
     ],
     "IASTform": ""

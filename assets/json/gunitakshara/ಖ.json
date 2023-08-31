@@ -81,6 +81,18 @@
         "form": "kha_form1",
         "path": "kha/kha_form1/1516_IthDar_Rayasandra_4_9_kha.JPG",
         "year": 1516
+      },
+      {
+        "id": 14,
+        "form": "kha_form1",
+        "path": "kha/kha_form1/1828_Cp108_Kudluru_5_1_kha.JPG",
+        "year": 1828
+      },
+      {
+        "id": 15,
+        "form": "kha_form1",
+        "path": "kha/kha_form1/1850_AN111_Bannerughatta_13_2_kha.JPG",
+        "year": 1850
       }
     ],
     "IASTform": ""
@@ -95,6 +107,12 @@
         "form": "khā_form1",
         "path": "khā/khā_form1/1353_IthDar_Bidarahalli_1_5_khā.JPG",
         "year": 1353
+      },
+      {
+        "id": 2,
+        "form": "khā_form1",
+        "path": "khā/khā_form1/1850_AN111_Bannerughatta_2_2_khā.JPG",
+        "year": 1850
       }
     ],
     "IASTform": ""

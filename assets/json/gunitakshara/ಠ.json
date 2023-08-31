@@ -22,8 +22,15 @@
   {
     "id": 2,
     "key": "ಠಾ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṭhā_form1",
+        "path": "ṭhā/ṭhā_form1/1850_AN111_Bannerughatta_13_10_ṭhā.JPG",
+        "year": 1850
+      }
+    ],
     "IASTform": ""
   },
   {

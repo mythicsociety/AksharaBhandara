@@ -33,6 +33,12 @@
         "form": "0_form1",
         "path": "0/0_form1/1400_Bommenhallli_Unpub_2_5_0.JPG",
         "year": 1400
+      },
+      {
+        "id": 6,
+        "form": "0_form1",
+        "path": "0/0_form1/1800_BN17_Yalahanka_2_9_0.JPG",
+        "year": 1800
       }
     ],
     "IASTform": ""
@@ -201,6 +207,24 @@
       {
         "id": 27,
         "form": "1_form1",
+        "path": "1/1_form1/1800_BN17_Yalahanka_2_8_1.JPG",
+        "year": 1800
+      },
+      {
+        "id": 28,
+        "form": "1_form1",
+        "path": "1/1_form1/1828_Cp108_Kudluru_6_1_1.JPG",
+        "year": 1828
+      },
+      {
+        "id": 29,
+        "form": "1_form1",
+        "path": "1/1_form1/1828_Cp108_Kudluru_6_4_1.JPG",
+        "year": 1828
+      },
+      {
+        "id": 30,
+        "form": "1_form1",
         "path": "1/1_form1/996_CP144_Malurpatna_1_8_1.JPG",
         "year": 996
       }
@@ -301,6 +325,12 @@
         "form": "2_form1",
         "path": "2/2_form1/1400_Bommenhallli_Unpub_2_6_2.JPG",
         "year": 1400
+      },
+      {
+        "id": 16,
+        "form": "2_form1",
+        "path": "2/2_form1/1828_Cp108_Kudluru_9_7_2.JPG",
+        "year": 1828
       }
     ],
     "IASTform": ""
@@ -439,6 +469,12 @@
         "form": "5_form1",
         "path": "5/5_form1/1342_BN21_Jakkur_2_10_5.jpg",
         "year": 1342
+      },
+      {
+        "id": 9,
+        "form": "5_form1",
+        "path": "5/5_form1/1828_Cp108_Kudluru_6_3_5.JPG",
+        "year": 1828
       }
     ],
     "IASTform": ""
@@ -500,6 +536,12 @@
       },
       {
         "id": 3,
+        "form": "7_form1",
+        "path": "7/7_form1/1828_Cp108_Kudluru_6_2_7.JPG",
+        "year": 1828
+      },
+      {
+        "id": 4,
         "form": "7_form1",
         "path": "7/7_form1/955_TM38_Tumkur_1_5_7.JPG",
         "year": 955

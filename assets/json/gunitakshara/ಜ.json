@@ -235,65 +235,101 @@
       {
         "id": 39,
         "form": "ja_form1",
+        "path": "ja/ja_form1/1800_BN17_Yalahanka_2_6_ja.JPG",
+        "year": 1800
+      },
+      {
+        "id": 40,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1828_Cp108_Kudluru_2_5_ja.JPG",
+        "year": 1828
+      },
+      {
+        "id": 41,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1850_AN111_Bannerughatta_16_3_ja.JPG",
+        "year": 1850
+      },
+      {
+        "id": 42,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1850_AN111_Bannerughatta_3_4_ja.JPG",
+        "year": 1850
+      },
+      {
+        "id": 43,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1850_AN111_Bannerughatta_8_13_ja.JPG",
+        "year": 1850
+      },
+      {
+        "id": 44,
+        "form": "ja_form1",
+        "path": "ja/ja_form1/1850_AN111_Bannerughatta_8_20_ja.JPG",
+        "year": 1850
+      },
+      {
+        "id": 45,
+        "form": "ja_form1",
         "path": "ja/ja_form1/750_BN55_KRPuram_1_8_ja.PNG",
         "year": 750
       },
       {
-        "id": 40,
+        "id": 46,
         "form": "ja_form1",
         "path": "ja/ja_form1/750_UnPub_Sakalavara_2_4_ja.JPG",
         "year": 750
       },
       {
-        "id": 41,
+        "id": 47,
         "form": "ja_form1",
         "path": "ja/ja_form1/800_Ht185_Khajihosahalli_5_7_ja.JPG",
         "year": 800
       },
       {
-        "id": 42,
+        "id": 48,
         "form": "ja_form1",
         "path": "ja/ja_form1/800_Nl34_Totagere_3_1_ja.JPG",
         "year": 800
       },
       {
-        "id": 43,
+        "id": 49,
         "form": "ja_form1",
         "path": "ja/ja_form1/900_CP141_Malurpatna_44_3_ja.JPG",
         "year": 900
       },
       {
-        "id": 44,
+        "id": 50,
         "form": "ja_form1",
         "path": "ja/ja_form1/900_Dv42_Aradeshanahalli_1_18_ja.JPG",
         "year": 900
       },
       {
-        "id": 45,
+        "id": 51,
         "form": "ja_form1",
         "path": "ja/ja_form1/900_Dv42_Aradeshanahalli_1_21_ja.JPG",
         "year": 900
       },
       {
-        "id": 46,
+        "id": 52,
         "form": "ja_form2",
         "path": "ja/ja_form2/800_UnPub_Sadahalli_2_4_ja.JPG",
         "year": 800
       },
       {
-        "id": 47,
+        "id": 53,
         "form": "ja_form2",
         "path": "ja/ja_form2/900_CP134_Malurpatna_2_11_ja.JPG",
         "year": 900
       },
       {
-        "id": 48,
+        "id": 54,
         "form": "ja_form2",
         "path": "ja/ja_form2/900_CP134_Malurpatna_2_6_ja.JPG",
         "year": 900
       },
       {
-        "id": 49,
+        "id": 55,
         "form": "ja_form2",
         "path": "ja/ja_form2/900_HT110_Kumbalahalli_2_11_ja.JPG",
         "year": 900
@@ -345,11 +381,17 @@
       {
         "id": 7,
         "form": "jā_form1",
+        "path": "jā/jā_form1/1800_Dv90_Kamenahalli_3_8_jā.JPG",
+        "year": 1800
+      },
+      {
+        "id": 8,
+        "form": "jā_form1",
         "path": "jā/jā_form1/750_IthDarHebKit_Hebbal_1_12_jā.JPG",
         "year": 750
       },
       {
-        "id": 8,
+        "id": 9,
         "form": "jā_form1",
         "path": "jā/jā_form1/900_CP134_Malurpatna_2_8_jā.JPG",
         "year": 900
@@ -445,6 +487,12 @@
         "form": "je_form1",
         "path": "je/je_form1/1400_Hennagara_Unpub_2_1_je.JPG",
         "year": 1400
+      },
+      {
+        "id": 3,
+        "form": "je_form1",
+        "path": "je/je_form1/1850_AN111_Bannerughatta_17_5_je.JPG",
+        "year": 1850
       }
     ],
     "IASTform": ""
@@ -480,8 +528,15 @@
   {
     "id": 11,
     "key": "ಜೈ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "jai_form1",
+        "path": "jai/jai_form1/1800_BN17_Yalahanka_3_7_jai.JPG",
+        "year": 1800
+      }
+    ],
     "IASTform": ""
   },
   {

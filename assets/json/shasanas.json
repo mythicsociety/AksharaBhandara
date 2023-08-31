@@ -600,6 +600,72 @@
     "key": "900_Dv43_Aradeshanahalli"
   },
   {
+    "id": 115001,
+    "displayName": "Kutaganahalli 1800CE Yelechikkana Lake Construction Inscription",
+    "imagePath": [
+      "Kutaganahalli17.png"
+    ],
+    "year": 1800,
+    "description": "",
+    "links": [],
+    "key": "1800_An23_Kutaganahalli"
+  },
+  {
+    "id": 115002,
+    "displayName": "Yelahanka 1800CE  Kanteerava Arasa's Garuda Kambha Inscription",
+    "imagePath": [
+      "Yelahanka_Bn1702.png"
+    ],
+    "year": 1800,
+    "description": "",
+    "links": [],
+    "key": "1800_BN17_Yalahanka"
+  },
+  {
+    "id": 115003,
+    "displayName": "Nagamangala 1800CE Sriranganatha Inscription",
+    "imagePath": [
+      "Nagamangala.png"
+    ],
+    "year": 1800,
+    "description": "",
+    "links": [],
+    "key": "1800_Dv05_Nagamangala"
+  },
+  {
+    "id": 115004,
+    "displayName": "Kamenahalli 1800CE Chamundeshwari Donation Inscription",
+    "imagePath": [
+      "Kamenahalli01.png"
+    ],
+    "year": 1800,
+    "description": "",
+    "links": [],
+    "key": "1800_Dv90_Kamenahalli"
+  },
+  {
+    "id": 115005,
+    "displayName": "Kudluru 1828CE Venkatalakshmi Sri Rama Temple Donation Inscription",
+    "imagePath": [
+      "Kudlur_RamaNavami.png"
+    ],
+    "year": 1828,
+    "description": "",
+    "links": [],
+    "key": "1828_Cp108_Kudluru"
+  },
+  {
+    "id": 115006,
+    "displayName": "Bannerughatta 1850CE Paapa Vimochane Inscription",
+    "imagePath": [
+      "BannerghattaShapavimochenekallu_An11103.png"
+    ],
+    "year": 1850,
+    "description": "",
+    "links": [],
+    "key": "1850_AN111_Bannerughatta"
+  },
+  {
     "id": 113903,
     "displayName": "Dummy Inscription",
     "imagePath": [

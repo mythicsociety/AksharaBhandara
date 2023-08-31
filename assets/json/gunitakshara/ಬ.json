@@ -386,6 +386,18 @@
       },
       {
         "id": 5,
+        "form": "bā_form1",
+        "path": "bā/bā_form1/1850_AN111_Bannerughatta_12_9_bā.JPG",
+        "year": 1850
+      },
+      {
+        "id": 6,
+        "form": "bā_form1",
+        "path": "bā/bā_form1/1850_AN111_Bannerughatta_14_9_bā.JPG",
+        "year": 1850
+      },
+      {
+        "id": 7,
         "form": "bā_form2",
         "path": "bā/bā_form2/1000_Cp113_Kudluru_9_15_bā.JPG",
         "year": 1000
@@ -623,6 +635,12 @@
       },
       {
         "id": 2,
+        "form": "be_form1",
+        "path": "be/be_form1/1850_AN111_Bannerughatta_10_3_be.JPG",
+        "year": 1850
+      },
+      {
+        "id": 3,
         "form": "be_form2",
         "path": "be/be_form2/1336_Bn110_Byadarahalli_6_10_be.JPG",
         "year": 1336
@@ -726,6 +744,12 @@
         "form": "baṃ_form1",
         "path": "baṃ/baṃ_form1/1400_Bommenhallli_Unpub_10_3_baṃ.JPG",
         "year": 1400
+      },
+      {
+        "id": 5,
+        "form": "baṃ_form1",
+        "path": "baṃ/baṃ_form1/1828_Cp108_Kudluru_20_1_baṃ.JPG",
+        "year": 1828
       }
     ],
     "IASTform": ""

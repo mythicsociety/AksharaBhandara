@@ -593,113 +593,125 @@
       {
         "id": 15,
         "form": "ḍi_form1",
+        "path": "ḍi/ḍi_form1/1800_An23_Kutaganahalli_3_4_ḍi.JPG",
+        "year": 1800
+      },
+      {
+        "id": 16,
+        "form": "ḍi_form1",
+        "path": "ḍi/ḍi_form1/1828_Cp108_Kudluru_16_1_ḍi.JPG",
+        "year": 1828
+      },
+      {
+        "id": 17,
+        "form": "ḍi_form1",
         "path": "ḍi/ḍi_form1/750_IthDarHebKit_Hebbal_4_1_ḍi.JPG",
         "year": 750
       },
       {
-        "id": 16,
+        "id": 18,
         "form": "ḍi_form1",
         "path": "ḍi/ḍi_form1/900_Bn94_Begur_6_2_ḍi.JPG",
         "year": 900
       },
       {
-        "id": 17,
+        "id": 19,
         "form": "ḍi_form1",
         "path": "ḍi/ḍi_form1/900_CP134_Malurpatna_4_9_ḍi.JPG",
         "year": 900
       },
       {
-        "id": 18,
+        "id": 20,
         "form": "ḍi_form1",
         "path": "ḍi/ḍi_form1/900_HT110_Kumbalahalli_3_8_ḍi.JPG",
         "year": 900
       },
       {
-        "id": 19,
+        "id": 21,
         "form": "ḍi_form1",
         "path": "ḍi/ḍi_form1/900_IthDar_Kaikondrahalli_12_5_ḍi.JPG",
         "year": 900
       },
       {
-        "id": 20,
+        "id": 22,
         "form": "ḍi_form1",
         "path": "ḍi/ḍi_form1/900_ShaManKabaya_Kurudusonenahalli_2_2_ḍi.JPG",
         "year": 900
       },
       {
-        "id": 21,
+        "id": 23,
         "form": "ḍi_form1",
         "path": "ḍi/ḍi_form1/913_CP161_Mankunda_3_8_ḍi.JPG",
         "year": 913
       },
       {
-        "id": 22,
+        "id": 24,
         "form": "ḍi_form1",
         "path": "ḍi/ḍi_form1/950_Paravastu_Haralur_1_9_ḍi.JPG",
         "year": 950
       },
       {
-        "id": 23,
+        "id": 25,
         "form": "ḍi_form2",
         "path": "ḍi/ḍi_form2/1000_Cp113_Kudluru_6_14_ḍi.JPG",
         "year": 1000
       },
       {
-        "id": 24,
+        "id": 26,
         "form": "ḍi_form2",
         "path": "ḍi/ḍi_form2/1336_Bn110_Byadarahalli_39_5_ḍi.JPG",
         "year": 1336
       },
       {
-        "id": 25,
+        "id": 27,
         "form": "ḍi_form2",
         "path": "ḍi/ḍi_form2/1336_Bn110_Byadarahalli_45_10_ḍi.JPG",
         "year": 1336
       },
       {
-        "id": 26,
+        "id": 28,
         "form": "ḍi_form2",
         "path": "ḍi/ḍi_form2/1342_BN21_Jakkur_21_6_ḍi.jpg",
         "year": 1342
       },
       {
-        "id": 27,
+        "id": 29,
         "form": "ḍi_form2",
         "path": "ḍi/ḍi_form2/1363_BN81_AgaraMuseum_11_2_ḍi.JPG",
         "year": 1363
       },
       {
-        "id": 28,
+        "id": 30,
         "form": "ḍi_form2",
         "path": "ḍi/ḍi_form2/1363_BN81_AgaraMuseum_16_10_ḍi.JPG",
         "year": 1363
       },
       {
-        "id": 29,
+        "id": 31,
         "form": "ḍi_form2",
         "path": "ḍi/ḍi_form2/1369_CP150_Malurpatna_10_8_ḍi.JPG",
         "year": 1369
       },
       {
-        "id": 30,
+        "id": 32,
         "form": "ḍi_form2",
         "path": "ḍi/ḍi_form2/1400_Bommenhallli_Unpub_11_7_ḍi.JPG",
         "year": 1400
       },
       {
-        "id": 31,
+        "id": 33,
         "form": "ḍi_form3",
         "path": "ḍi/ḍi_form3/1336_Bn110_Byadarahalli_20_9_ḍi.JPG",
         "year": 1336
       },
       {
-        "id": 32,
+        "id": 34,
         "form": "ḍi_form4",
         "path": "ḍi/ḍi_form4/1400_Bn90_Begurdoorpost_4_1_ḍi.jpg",
         "year": 1400
       },
       {
-        "id": 33,
+        "id": 35,
         "form": "ḍi_form4",
         "path": "ḍi/ḍi_form4/1400_Bommenhallli_Unpub_8_2_ḍi.JPG",
         "year": 1400
@@ -710,8 +722,15 @@
   {
     "id": 4,
     "key": "ಢೀ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ḍī_form1",
+        "path": "ḍī/ḍī_form1/1800_Dv90_Kamenahalli_2_3_ḍī.JPG",
+        "year": 1800
+      }
+    ],
     "IASTform": ""
   },
   {

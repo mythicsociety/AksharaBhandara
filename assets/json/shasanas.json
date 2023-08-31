@@ -666,6 +666,17 @@
     "key": "1850_AN111_Bannerughatta"
   },
   {
+    "id": 115006,
+    "displayName": "Totagere 750CE Inscription",
+    "imagePath": [
+      "totagere01.png"
+    ],
+    "year": 750,
+    "description": "",
+    "links": [],
+    "key": "750_NL33_Totagere"
+  },
+  {
     "id": 113903,
     "displayName": "Dummy Inscription",
     "imagePath": [

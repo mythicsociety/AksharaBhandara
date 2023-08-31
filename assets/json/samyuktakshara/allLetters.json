@@ -111,6 +111,12 @@
       {
         "id": 3,
         "form": "bra_form1",
+        "path": "bra/bra_form1/750_NL33_Totagere_2_18_bra.JPG",
+        "year": 750
+      },
+      {
+        "id": 4,
+        "form": "bra_form1",
         "path": "bra/bra_form1/955_TM38_Tumkur_8_11_bra.JPG",
         "year": 955
       }
@@ -243,6 +249,34 @@
   },
   {
     "id": 14,
+    "key": "ಚ್ಛ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ccha_form1",
+        "path": "ccha/ccha_form1/750_NL33_Totagere_6_6_ccha.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "ccha"
+  },
+  {
+    "id": 15,
+    "key": "ಚ್ಛ್ರೇ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "cchre_form1",
+        "path": "cchre/cchre_form1/750_NL33_Totagere_7_7_cchre.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "cchre"
+  },
+  {
+    "id": 16,
     "key": "ಚ್ಚಾ",
     "isAvailable": true,
     "letterForms": [
@@ -256,7 +290,7 @@
     "IASTform": "ccā"
   },
   {
-    "id": 15,
+    "id": 17,
     "key": "ಚ್ಸ",
     "isAvailable": true,
     "letterForms": [
@@ -270,7 +304,7 @@
     "IASTform": "csa"
   },
   {
-    "id": 16,
+    "id": 18,
     "key": "ಚೆಂ",
     "isAvailable": true,
     "letterForms": [
@@ -302,7 +336,21 @@
     "IASTform": "cĕṃ"
   },
   {
-    "id": 17,
+    "id": 19,
+    "key": "ದ್ಭಿ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "dbhi_form1",
+        "path": "dbhi/dbhi_form1/750_NL33_Totagere_4_17_dbhi.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "dbhi"
+  },
+  {
+    "id": 20,
     "key": "ದ್ದ",
     "isAvailable": true,
     "letterForms": [
@@ -352,7 +400,7 @@
     "IASTform": "dda"
   },
   {
-    "id": 18,
+    "id": 21,
     "key": "ದ್ಧ",
     "isAvailable": true,
     "letterForms": [
@@ -378,7 +426,7 @@
     "IASTform": "ddha"
   },
   {
-    "id": 19,
+    "id": 22,
     "key": "ದ್ಧಿ",
     "isAvailable": true,
     "letterForms": [
@@ -404,7 +452,7 @@
     "IASTform": "ddhi"
   },
   {
-    "id": 20,
+    "id": 23,
     "key": "ದ್ಧಾ",
     "isAvailable": true,
     "letterForms": [
@@ -418,7 +466,7 @@
     "IASTform": "ddhā"
   },
   {
-    "id": 21,
+    "id": 24,
     "key": "ದ್ದೆ",
     "isAvailable": true,
     "letterForms": [
@@ -438,7 +486,7 @@
     "IASTform": "ddĕ"
   },
   {
-    "id": 22,
+    "id": 25,
     "key": "ಧ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -452,7 +500,7 @@
     "IASTform": "dhya"
   },
   {
-    "id": 23,
+    "id": 26,
     "key": "ಧ್ಯಾ",
     "isAvailable": true,
     "letterForms": [
@@ -466,7 +514,7 @@
     "IASTform": "dhyā"
   },
   {
-    "id": 24,
+    "id": 27,
     "key": "ದಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -492,7 +540,7 @@
     "IASTform": "diṃ"
   },
   {
-    "id": 25,
+    "id": 28,
     "key": "ದ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -523,23 +571,29 @@
       {
         "id": 5,
         "form": "dra_form1",
+        "path": "dra/dra_form1/750_NL33_Totagere_1_12_dra.JPG",
+        "year": 750
+      },
+      {
+        "id": 6,
+        "form": "dra_form1",
         "path": "dra/dra_form1/900_Bn94_Begur_1_3_dra.JPG",
         "year": 900
       },
       {
-        "id": 6,
+        "id": 7,
         "form": "dra_form1",
         "path": "dra/dra_form1/996_CP144_Malurpatna_2_5_dra.JPG",
         "year": 996
       },
       {
-        "id": 7,
+        "id": 8,
         "form": "dra_form2",
         "path": "dra/dra_form2/1336_Bn110_Byadarahalli_20_6_dra.JPG",
         "year": 1336
       },
       {
-        "id": 8,
+        "id": 9,
         "form": "dra_form2",
         "path": "dra/dra_form2/1369_CP150_Malurpatna_7_11_dra.JPG",
         "year": 1369
@@ -548,7 +602,7 @@
     "IASTform": "dra"
   },
   {
-    "id": 26,
+    "id": 29,
     "key": "ದ್ರೋ",
     "isAvailable": true,
     "letterForms": [
@@ -562,7 +616,7 @@
     "IASTform": "dro"
   },
   {
-    "id": 27,
+    "id": 30,
     "key": "ದ್ರಾ",
     "isAvailable": true,
     "letterForms": [
@@ -600,7 +654,7 @@
     "IASTform": "drā"
   },
   {
-    "id": 28,
+    "id": 31,
     "key": "ದ್ರಾಂ",
     "isAvailable": true,
     "letterForms": [
@@ -614,7 +668,7 @@
     "IASTform": "drāṃ"
   },
   {
-    "id": 29,
+    "id": 32,
     "key": "ದುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -628,7 +682,7 @@
     "IASTform": "duṃ"
   },
   {
-    "id": 30,
+    "id": 33,
     "key": "ದ್ವಿ",
     "isAvailable": true,
     "letterForms": [
@@ -642,7 +696,7 @@
     "IASTform": "dvi"
   },
   {
-    "id": 31,
+    "id": 34,
     "key": "ದ್ವಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -656,7 +710,7 @@
     "IASTform": "dviṃ"
   },
   {
-    "id": 32,
+    "id": 35,
     "key": "ದ್ವಾ",
     "isAvailable": true,
     "letterForms": [
@@ -682,7 +736,7 @@
     "IASTform": "dvā"
   },
   {
-    "id": 33,
+    "id": 36,
     "key": "ದ್ಯು",
     "isAvailable": true,
     "letterForms": [
@@ -696,7 +750,7 @@
     "IASTform": "dyu"
   },
   {
-    "id": 34,
+    "id": 37,
     "key": "ದ್ಯಾ",
     "isAvailable": true,
     "letterForms": [
@@ -710,7 +764,7 @@
     "IASTform": "dyā"
   },
   {
-    "id": 35,
+    "id": 38,
     "key": "ದಾಂ",
     "isAvailable": true,
     "letterForms": [
@@ -724,7 +778,21 @@
     "IASTform": "dāṃ"
   },
   {
-    "id": 36,
+    "id": 39,
+    "key": "ಗ್ಭ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "gbha_form1",
+        "path": "gbha/gbha_form1/750_NL33_Totagere_5_12_gbha.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "gbha"
+  },
+  {
+    "id": 40,
     "key": "ಗ್ಗ",
     "isAvailable": true,
     "letterForms": [
@@ -762,7 +830,7 @@
     "IASTform": "gga"
   },
   {
-    "id": 37,
+    "id": 41,
     "key": "ಗ್ಗಿ",
     "isAvailable": true,
     "letterForms": [
@@ -788,7 +856,7 @@
     "IASTform": "ggi"
   },
   {
-    "id": 38,
+    "id": 42,
     "key": "ಘ್ನ",
     "isAvailable": true,
     "letterForms": [
@@ -802,7 +870,7 @@
     "IASTform": "ghna"
   },
   {
-    "id": 39,
+    "id": 43,
     "key": "ಗ್ನ",
     "isAvailable": true,
     "letterForms": [
@@ -816,7 +884,7 @@
     "IASTform": "gna"
   },
   {
-    "id": 40,
+    "id": 44,
     "key": "ಗ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -836,7 +904,7 @@
     "IASTform": "gra"
   },
   {
-    "id": 41,
+    "id": 45,
     "key": "ಗ್ರಾ",
     "isAvailable": true,
     "letterForms": [
@@ -857,12 +925,18 @@
         "form": "grā_form1",
         "path": "grā/grā_form1/1800_Dv90_Kamenahalli_6_2_grā.JPG",
         "year": 1800
+      },
+      {
+        "id": 4,
+        "form": "grā_form1",
+        "path": "grā/grā_form1/750_NL33_Totagere_2_14_grā.JPG",
+        "year": 750
       }
     ],
     "IASTform": "grā"
   },
   {
-    "id": 42,
+    "id": 46,
     "key": "ಗ್ಯು",
     "isAvailable": true,
     "letterForms": [
@@ -888,7 +962,7 @@
     "IASTform": "gyu"
   },
   {
-    "id": 43,
+    "id": 47,
     "key": "ಗೊಂ",
     "isAvailable": true,
     "letterForms": [
@@ -902,7 +976,7 @@
     "IASTform": "gŏṃ"
   },
   {
-    "id": 44,
+    "id": 48,
     "key": "ಹಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -916,7 +990,7 @@
     "IASTform": "hiṃ"
   },
   {
-    "id": 45,
+    "id": 49,
     "key": "ಹ್ಕ",
     "isAvailable": true,
     "letterForms": [
@@ -930,7 +1004,7 @@
     "IASTform": "hka"
   },
   {
-    "id": 46,
+    "id": 50,
     "key": "ಹ್ಮ",
     "isAvailable": true,
     "letterForms": [
@@ -961,6 +1035,12 @@
       {
         "id": 5,
         "form": "hma_form1",
+        "path": "hma/hma_form1/750_NL33_Totagere_2_19_hma.JPG",
+        "year": 750
+      },
+      {
+        "id": 6,
+        "form": "hma_form1",
         "path": "hma/hma_form1/955_TM38_Tumkur_8_12_hma.JPG",
         "year": 955
       }
@@ -968,7 +1048,7 @@
     "IASTform": "hma"
   },
   {
-    "id": 47,
+    "id": 51,
     "key": "ಹ್ವ",
     "isAvailable": true,
     "letterForms": [
@@ -982,7 +1062,7 @@
     "IASTform": "hva"
   },
   {
-    "id": 48,
+    "id": 52,
     "key": "ಹೆಂ",
     "isAvailable": true,
     "letterForms": [
@@ -996,7 +1076,7 @@
     "IASTform": "hĕṃ"
   },
   {
-    "id": 49,
+    "id": 53,
     "key": "ಹೊಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1034,7 +1114,7 @@
     "IASTform": "hŏṃ"
   },
   {
-    "id": 50,
+    "id": 54,
     "key": "ಇಸ್ಯ್ಮ್ಬೋಲ್",
     "isAvailable": true,
     "letterForms": [
@@ -1054,7 +1134,7 @@
     "IASTform": "Isymbol"
   },
   {
-    "id": 51,
+    "id": 55,
     "key": "ಇಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1068,7 +1148,7 @@
     "IASTform": "iṃ"
   },
   {
-    "id": 52,
+    "id": 56,
     "key": "ಜ್ಜ",
     "isAvailable": true,
     "letterForms": [
@@ -1088,7 +1168,7 @@
     "IASTform": "jja"
   },
   {
-    "id": 53,
+    "id": 57,
     "key": "ಜ್ಜಿ",
     "isAvailable": true,
     "letterForms": [
@@ -1102,7 +1182,7 @@
     "IASTform": "jji"
   },
   {
-    "id": 54,
+    "id": 58,
     "key": "ಜುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1116,7 +1196,7 @@
     "IASTform": "juṃ"
   },
   {
-    "id": 55,
+    "id": 59,
     "key": "ಜ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -1184,7 +1264,7 @@
     "IASTform": "jya"
   },
   {
-    "id": 56,
+    "id": 60,
     "key": "ಜ್ಯಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1288,7 +1368,7 @@
     "IASTform": "jyaṃ"
   },
   {
-    "id": 57,
+    "id": 61,
     "key": "ಜ್ಯೇ",
     "isAvailable": true,
     "letterForms": [
@@ -1314,7 +1394,7 @@
     "IASTform": "jye"
   },
   {
-    "id": 58,
+    "id": 62,
     "key": "ಜ್ಯಾ",
     "isAvailable": true,
     "letterForms": [
@@ -1328,7 +1408,7 @@
     "IASTform": "jyā"
   },
   {
-    "id": 59,
+    "id": 63,
     "key": "ಖ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -1348,7 +1428,7 @@
     "IASTform": "khya"
   },
   {
-    "id": 60,
+    "id": 64,
     "key": "ಕ್ಕ",
     "isAvailable": true,
     "letterForms": [
@@ -1463,89 +1543,95 @@
       {
         "id": 19,
         "form": "kka_form1",
+        "path": "kka/kka_form1/750_NL33_Totagere_2_2_kka.JPG",
+        "year": 750
+      },
+      {
+        "id": 20,
+        "form": "kka_form1",
         "path": "kka/kka_form1/800_Nl34_Totagere_1_12_kka.JPG",
         "year": 800
       },
       {
-        "id": 20,
+        "id": 21,
         "form": "kka_form1",
         "path": "kka/kka_form1/955_TM38_Tumkur_4_2_kka.JPG",
         "year": 955
       },
       {
-        "id": 21,
+        "id": 22,
         "form": "kka_form1",
         "path": "kka/kka_form1/996_CP144_Malurpatna_4_2_kka.JPG",
         "year": 996
       },
       {
-        "id": 22,
+        "id": 23,
         "form": "kka_form2",
         "path": "kka/kka_form2/1336_Bn110_Byadarahalli_25_6_kka.JPG",
         "year": 1336
       },
       {
-        "id": 23,
+        "id": 24,
         "form": "kka_form2",
         "path": "kka/kka_form2/1336_Bn110_Byadarahalli_26_7_kka.JPG",
         "year": 1336
       },
       {
-        "id": 24,
+        "id": 25,
         "form": "kka_form2",
         "path": "kka/kka_form2/1336_Bn110_Byadarahalli_27_13_kka.JPG",
         "year": 1336
       },
       {
-        "id": 25,
+        "id": 26,
         "form": "kka_form2",
         "path": "kka/kka_form2/1336_Bn110_Byadarahalli_29_4_kka.JPG",
         "year": 1336
       },
       {
-        "id": 26,
+        "id": 27,
         "form": "kka_form2",
         "path": "kka/kka_form2/1336_Bn110_Byadarahalli_33_10_kka.JPG",
         "year": 1336
       },
       {
-        "id": 27,
+        "id": 28,
         "form": "kka_form2",
         "path": "kka/kka_form2/1336_Bn110_Byadarahalli_33_6_kka.JPG",
         "year": 1336
       },
       {
-        "id": 28,
+        "id": 29,
         "form": "kka_form2",
         "path": "kka/kka_form2/1336_Bn110_Byadarahalli_40_15_kka.JPG",
         "year": 1336
       },
       {
-        "id": 29,
+        "id": 30,
         "form": "kka_form2",
         "path": "kka/kka_form2/1336_Bn110_Byadarahalli_43_10_kka.JPG",
         "year": 1336
       },
       {
-        "id": 30,
+        "id": 31,
         "form": "kka_form2",
         "path": "kka/kka_form2/1336_Bn110_Byadarahalli_43_7_kka.JPG",
         "year": 1336
       },
       {
-        "id": 31,
+        "id": 32,
         "form": "kka_form2",
         "path": "kka/kka_form2/1340_Bn111_Ramasamudra_20_8_kka.JPG",
         "year": 1340
       },
       {
-        "id": 32,
+        "id": 33,
         "form": "kka_form2",
         "path": "kka/kka_form2/1342_BN24_Ganigarahalli_8_11_kka.JPG",
         "year": 1342
       },
       {
-        "id": 33,
+        "id": 34,
         "form": "kka_form3",
         "path": "kka/kka_form3/1400_Bommenhallli_Unpub_8_4_kka.JPG",
         "year": 1400
@@ -1554,7 +1640,7 @@
     "IASTform": "kka"
   },
   {
-    "id": 61,
+    "id": 65,
     "key": "ಕ್ಕಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1574,7 +1660,7 @@
     "IASTform": "kkaṃ"
   },
   {
-    "id": 62,
+    "id": 66,
     "key": "ಕ್ಕಿ",
     "isAvailable": true,
     "letterForms": [
@@ -1606,7 +1692,7 @@
     "IASTform": "kki"
   },
   {
-    "id": 63,
+    "id": 67,
     "key": "ಕ್ಕು",
     "isAvailable": true,
     "letterForms": [
@@ -1620,7 +1706,7 @@
     "IASTform": "kku"
   },
   {
-    "id": 64,
+    "id": 68,
     "key": "ಕ್ಕುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1634,7 +1720,7 @@
     "IASTform": "kkuṃ"
   },
   {
-    "id": 65,
+    "id": 69,
     "key": "ಕ್ಕಾ",
     "isAvailable": true,
     "letterForms": [
@@ -1648,7 +1734,7 @@
     "IASTform": "kkā"
   },
   {
-    "id": 66,
+    "id": 70,
     "key": "ಕ್ಕೆ",
     "isAvailable": true,
     "letterForms": [
@@ -1716,7 +1802,7 @@
     "IASTform": "kkĕ"
   },
   {
-    "id": 67,
+    "id": 71,
     "key": "ಕ್ಕೊ",
     "isAvailable": true,
     "letterForms": [
@@ -1736,7 +1822,7 @@
     "IASTform": "kkŏ"
   },
   {
-    "id": 68,
+    "id": 72,
     "key": "ಕ್ಕೂ",
     "isAvailable": true,
     "letterForms": [
@@ -1750,7 +1836,7 @@
     "IASTform": "kkū"
   },
   {
-    "id": 69,
+    "id": 73,
     "key": "ಕ್ಲ",
     "isAvailable": true,
     "letterForms": [
@@ -1764,7 +1850,7 @@
     "IASTform": "kla"
   },
   {
-    "id": 70,
+    "id": 74,
     "key": "ಕ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -1886,7 +1972,7 @@
     "IASTform": "kra"
   },
   {
-    "id": 71,
+    "id": 75,
     "key": "ಕ್ರೇ",
     "isAvailable": true,
     "letterForms": [
@@ -1900,7 +1986,21 @@
     "IASTform": "kre"
   },
   {
-    "id": 72,
+    "id": 76,
+    "key": "ಕ್ರಿ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "kri_form1",
+        "path": "kri/kri_form1/750_NL33_Totagere_8_21_kri.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "kri"
+  },
+  {
+    "id": 77,
     "key": "ಕ್ರು",
     "isAvailable": true,
     "letterForms": [
@@ -1914,7 +2014,7 @@
     "IASTform": "kru"
   },
   {
-    "id": 73,
+    "id": 78,
     "key": "ಕ್ತ",
     "isAvailable": true,
     "letterForms": [
@@ -1946,7 +2046,7 @@
     "IASTform": "kta"
   },
   {
-    "id": 74,
+    "id": 79,
     "key": "ಕುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1960,7 +2060,21 @@
     "IASTform": "kuṃ"
   },
   {
-    "id": 75,
+    "id": 80,
+    "key": "ಕ್ಯ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "kya_form1",
+        "path": "kya/kya_form1/750_NL33_Totagere_6_7_kya.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "kya"
+  },
+  {
+    "id": 81,
     "key": "ಕಾಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1986,7 +2100,7 @@
     "IASTform": "kāṃ"
   },
   {
-    "id": 76,
+    "id": 82,
     "key": "ಕೆಂ",
     "isAvailable": true,
     "letterForms": [
@@ -2006,7 +2120,7 @@
     "IASTform": "kĕṃ"
   },
   {
-    "id": 77,
+    "id": 83,
     "key": "ಕೊಂ",
     "isAvailable": true,
     "letterForms": [
@@ -2056,7 +2170,7 @@
     "IASTform": "kŏṃ"
   },
   {
-    "id": 78,
+    "id": 84,
     "key": "ಕ್ಷ",
     "isAvailable": true,
     "letterForms": [
@@ -2074,6 +2188,12 @@
       },
       {
         "id": 3,
+        "form": "kṣa_form1",
+        "path": "kṣa/kṣa_form1/750_NL33_Totagere_5_6_kṣa.JPG",
+        "year": 750
+      },
+      {
+        "id": 4,
         "form": "kṣa_form2",
         "path": "kṣa/kṣa_form2/1336_Bn110_Byadarahalli_13_10_kṣa.JPG",
         "year": 1336
@@ -2082,7 +2202,7 @@
     "IASTform": "kṣa"
   },
   {
-    "id": 79,
+    "id": 85,
     "key": "ಕ್ಷೇ",
     "isAvailable": true,
     "letterForms": [
@@ -2096,7 +2216,7 @@
     "IASTform": "kṣe"
   },
   {
-    "id": 80,
+    "id": 86,
     "key": "ಕ್ಷಿ",
     "isAvailable": true,
     "letterForms": [
@@ -2134,7 +2254,7 @@
     "IASTform": "kṣi"
   },
   {
-    "id": 81,
+    "id": 87,
     "key": "ಕ್ಷ್ಮಿ",
     "isAvailable": true,
     "letterForms": [
@@ -2148,7 +2268,7 @@
     "IASTform": "kṣmi"
   },
   {
-    "id": 82,
+    "id": 88,
     "key": "ಕ್ಷು",
     "isAvailable": true,
     "letterForms": [
@@ -2162,7 +2282,7 @@
     "IASTform": "kṣu"
   },
   {
-    "id": 83,
+    "id": 89,
     "key": "ಲ್ಗು",
     "isAvailable": true,
     "letterForms": [
@@ -2176,7 +2296,7 @@
     "IASTform": "lgu"
   },
   {
-    "id": 84,
+    "id": 90,
     "key": "ಲ್ಗೊ",
     "isAvailable": true,
     "letterForms": [
@@ -2190,7 +2310,7 @@
     "IASTform": "lgŏ"
   },
   {
-    "id": 85,
+    "id": 91,
     "key": "ಲ್ಕ",
     "isAvailable": true,
     "letterForms": [
@@ -2204,7 +2324,7 @@
     "IASTform": "lka"
   },
   {
-    "id": 86,
+    "id": 92,
     "key": "ಲ್ಕೆ",
     "isAvailable": true,
     "letterForms": [
@@ -2218,7 +2338,7 @@
     "IASTform": "lkĕ"
   },
   {
-    "id": 87,
+    "id": 93,
     "key": "ಲ್ಲ",
     "isAvailable": true,
     "letterForms": [
@@ -2334,7 +2454,7 @@
     "IASTform": "lla"
   },
   {
-    "id": 88,
+    "id": 94,
     "key": "ಲ್ಲಿ",
     "isAvailable": true,
     "letterForms": [
@@ -2384,7 +2504,7 @@
     "IASTform": "lli"
   },
   {
-    "id": 89,
+    "id": 95,
     "key": "ಲ್ಲು",
     "isAvailable": true,
     "letterForms": [
@@ -2422,7 +2542,7 @@
     "IASTform": "llu"
   },
   {
-    "id": 90,
+    "id": 96,
     "key": "ಲ್ಲಾ",
     "isAvailable": true,
     "letterForms": [
@@ -2502,7 +2622,7 @@
     "IASTform": "llā"
   },
   {
-    "id": 91,
+    "id": 97,
     "key": "ಲ್ಲಾಂ",
     "isAvailable": true,
     "letterForms": [
@@ -2516,7 +2636,7 @@
     "IASTform": "llāṃ"
   },
   {
-    "id": 92,
+    "id": 98,
     "key": "ಲ್ಲೆ",
     "isAvailable": true,
     "letterForms": [
@@ -2536,7 +2656,7 @@
     "IASTform": "llĕ"
   },
   {
-    "id": 93,
+    "id": 99,
     "key": "ಲ್ಲೊ",
     "isAvailable": true,
     "letterForms": [
@@ -2550,7 +2670,7 @@
     "IASTform": "llŏ"
   },
   {
-    "id": 94,
+    "id": 100,
     "key": "ಲ್ಮ",
     "isAvailable": true,
     "letterForms": [
@@ -2570,7 +2690,7 @@
     "IASTform": "lma"
   },
   {
-    "id": 95,
+    "id": 101,
     "key": "ಲ್ಮಿ",
     "isAvailable": true,
     "letterForms": [
@@ -2584,7 +2704,7 @@
     "IASTform": "lmi"
   },
   {
-    "id": 96,
+    "id": 102,
     "key": "ಲ್ನಾ",
     "isAvailable": true,
     "letterForms": [
@@ -2604,7 +2724,7 @@
     "IASTform": "lnā"
   },
   {
-    "id": 97,
+    "id": 103,
     "key": "ಲ್ಸ",
     "isAvailable": true,
     "letterForms": [
@@ -2618,7 +2738,7 @@
     "IASTform": "lsa"
   },
   {
-    "id": 98,
+    "id": 104,
     "key": "ಲುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -2632,7 +2752,7 @@
     "IASTform": "luṃ"
   },
   {
-    "id": 99,
+    "id": 105,
     "key": "ಲ್ವಾ",
     "isAvailable": true,
     "letterForms": [
@@ -2646,7 +2766,7 @@
     "IASTform": "lvā"
   },
   {
-    "id": 100,
+    "id": 106,
     "key": "ಲಾಂ",
     "isAvailable": true,
     "letterForms": [
@@ -2666,7 +2786,7 @@
     "IASTform": "lāṃ"
   },
   {
-    "id": 101,
+    "id": 107,
     "key": "ಲೆಂ",
     "isAvailable": true,
     "letterForms": [
@@ -2680,7 +2800,7 @@
     "IASTform": "lĕṃ"
   },
   {
-    "id": 102,
+    "id": 108,
     "key": "ಳ್ಚ",
     "isAvailable": true,
     "letterForms": [
@@ -2694,7 +2814,7 @@
     "IASTform": "l̤ca"
   },
   {
-    "id": 103,
+    "id": 109,
     "key": "ಳ್ಧೊ",
     "isAvailable": true,
     "letterForms": [
@@ -2714,7 +2834,7 @@
     "IASTform": "l̤dhŏ"
   },
   {
-    "id": 104,
+    "id": 110,
     "key": "ಳ್ದು",
     "isAvailable": true,
     "letterForms": [
@@ -2728,7 +2848,7 @@
     "IASTform": "l̤du"
   },
   {
-    "id": 105,
+    "id": 111,
     "key": "ಳ್ಗ",
     "isAvailable": true,
     "letterForms": [
@@ -2742,7 +2862,7 @@
     "IASTform": "l̤ga"
   },
   {
-    "id": 106,
+    "id": 112,
     "key": "ಳ್ಗು",
     "isAvailable": true,
     "letterForms": [
@@ -2756,7 +2876,7 @@
     "IASTform": "l̤gu"
   },
   {
-    "id": 107,
+    "id": 113,
     "key": "ಳ್ಕೆ",
     "isAvailable": true,
     "letterForms": [
@@ -2770,7 +2890,7 @@
     "IASTform": "l̤kĕ"
   },
   {
-    "id": 108,
+    "id": 114,
     "key": "ಳ್ಳ",
     "isAvailable": true,
     "letterForms": [
@@ -2808,7 +2928,7 @@
     "IASTform": "l̤l̤a"
   },
   {
-    "id": 109,
+    "id": 115,
     "key": "ಳ್ಳಿ",
     "isAvailable": true,
     "letterForms": [
@@ -2840,7 +2960,7 @@
     "IASTform": "l̤l̤i"
   },
   {
-    "id": 110,
+    "id": 116,
     "key": "ಳ್ನಾ",
     "isAvailable": true,
     "letterForms": [
@@ -2854,7 +2974,7 @@
     "IASTform": "l̤nā"
   },
   {
-    "id": 111,
+    "id": 117,
     "key": "ಳ್ಸ",
     "isAvailable": true,
     "letterForms": [
@@ -2868,7 +2988,7 @@
     "IASTform": "l̤sa"
   },
   {
-    "id": 112,
+    "id": 118,
     "key": "ಳ್ತಿ",
     "isAvailable": true,
     "letterForms": [
@@ -2888,7 +3008,7 @@
     "IASTform": "l̤ti"
   },
   {
-    "id": 113,
+    "id": 119,
     "key": "ಳ್ತು",
     "isAvailable": true,
     "letterForms": [
@@ -2902,7 +3022,7 @@
     "IASTform": "l̤tu"
   },
   {
-    "id": 114,
+    "id": 120,
     "key": "ಳ್ತೊ",
     "isAvailable": true,
     "letterForms": [
@@ -2916,7 +3036,7 @@
     "IASTform": "l̤tŏ"
   },
   {
-    "id": 115,
+    "id": 121,
     "key": "ಮ್ಬ",
     "isAvailable": true,
     "letterForms": [
@@ -2936,7 +3056,7 @@
     "IASTform": "mba"
   },
   {
-    "id": 116,
+    "id": 122,
     "key": "ಮ್ಬಂ",
     "isAvailable": true,
     "letterForms": [
@@ -2950,7 +3070,7 @@
     "IASTform": "mbaṃ"
   },
   {
-    "id": 117,
+    "id": 123,
     "key": "ಮ್ಬು",
     "isAvailable": true,
     "letterForms": [
@@ -2964,7 +3084,7 @@
     "IASTform": "mbu"
   },
   {
-    "id": 118,
+    "id": 124,
     "key": "ಮ್ಬಾ",
     "isAvailable": true,
     "letterForms": [
@@ -2978,7 +3098,7 @@
     "IASTform": "mbā"
   },
   {
-    "id": 119,
+    "id": 125,
     "key": "ಮ್ಬೆ",
     "isAvailable": true,
     "letterForms": [
@@ -2992,7 +3112,7 @@
     "IASTform": "mbĕ"
   },
   {
-    "id": 120,
+    "id": 126,
     "key": "ಮ್ಮ",
     "isAvailable": true,
     "letterForms": [
@@ -3090,7 +3210,7 @@
     "IASTform": "mma"
   },
   {
-    "id": 121,
+    "id": 127,
     "key": "ಮ್ಮಂ",
     "isAvailable": true,
     "letterForms": [
@@ -3110,7 +3230,7 @@
     "IASTform": "mmaṃ"
   },
   {
-    "id": 122,
+    "id": 128,
     "key": "ಮ್ಮಾ",
     "isAvailable": true,
     "letterForms": [
@@ -3130,7 +3250,7 @@
     "IASTform": "mmā"
   },
   {
-    "id": 123,
+    "id": 129,
     "key": "ಮ್ಮೂ",
     "isAvailable": true,
     "letterForms": [
@@ -3144,7 +3264,21 @@
     "IASTform": "mmū"
   },
   {
-    "id": 124,
+    "id": 130,
+    "key": "ಮ್ಪ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "mpa_form1",
+        "path": "mpa/mpa_form1/750_NL33_Totagere_7_16_mpa.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "mpa"
+  },
+  {
+    "id": 131,
     "key": "ಮ್ಪು",
     "isAvailable": true,
     "letterForms": [
@@ -3158,7 +3292,7 @@
     "IASTform": "mpu"
   },
   {
-    "id": 125,
+    "id": 132,
     "key": "ಮ್ರಿ",
     "isAvailable": true,
     "letterForms": [
@@ -3172,7 +3306,7 @@
     "IASTform": "mri"
   },
   {
-    "id": 126,
+    "id": 133,
     "key": "ಮುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -3210,7 +3344,7 @@
     "IASTform": "muṃ"
   },
   {
-    "id": 127,
+    "id": 134,
     "key": "ಮ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -3219,12 +3353,32 @@
         "form": "mya_form1",
         "path": "mya/mya_form1/1369_CP150_Malurpatna_7_4_mya.JPG",
         "year": 1369
+      },
+      {
+        "id": 2,
+        "form": "mya_form1",
+        "path": "mya/mya_form1/750_NL33_Totagere_3_8_mya.JPG",
+        "year": 750
       }
     ],
     "IASTform": "mya"
   },
   {
-    "id": 128,
+    "id": 135,
+    "key": "ನಂ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "nam_form1",
+        "path": "nam/nam_form1/750_NL33_Totagere_7_12_nam.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "nam"
+  },
+  {
+    "id": 136,
     "key": "ನ್ದ",
     "isAvailable": true,
     "letterForms": [
@@ -3310,7 +3464,21 @@
     "IASTform": "nda"
   },
   {
-    "id": 129,
+    "id": 137,
+    "key": "ನ್ಧ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ndha_form1",
+        "path": "ndha/ndha_form1/750_NL33_Totagere_8_5_ndha.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "ndha"
+  },
+  {
+    "id": 138,
     "key": "ನ್ದಿ",
     "isAvailable": true,
     "letterForms": [
@@ -3354,7 +3522,7 @@
     "IASTform": "ndi"
   },
   {
-    "id": 130,
+    "id": 139,
     "key": "ನ್ದೋ",
     "isAvailable": true,
     "letterForms": [
@@ -3368,7 +3536,7 @@
     "IASTform": "ndo"
   },
   {
-    "id": 131,
+    "id": 140,
     "key": "ನ್ದ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -3382,7 +3550,7 @@
     "IASTform": "ndra"
   },
   {
-    "id": 132,
+    "id": 141,
     "key": "ನ್ದ್ರಾ",
     "isAvailable": true,
     "letterForms": [
@@ -3396,7 +3564,7 @@
     "IASTform": "ndrā"
   },
   {
-    "id": 133,
+    "id": 142,
     "key": "ನ್ದು",
     "isAvailable": true,
     "letterForms": [
@@ -3434,18 +3602,44 @@
     "IASTform": "ndu"
   },
   {
-    "id": 134,
+    "id": 143,
+    "key": "ನ್ದುಃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "nduḥ_form1",
+        "path": "nduḥ/nduḥ_form1/750_NL33_Totagere_6_8_nduḥ.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "nduḥ"
+  },
+  {
+    "id": 144,
     "key": "ನ್ದಾ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "ndā_form1",
+        "path": "ndā/ndā_form1/750_NL33_Totagere_6_16_ndā.JPG",
+        "year": 750
+      },
+      {
+        "id": 2,
+        "form": "ndā_form1",
+        "path": "ndā/ndā_form1/750_NL33_Totagere_6_1_ndā.JPG",
+        "year": 750
+      },
+      {
+        "id": 3,
+        "form": "ndā_form1",
         "path": "ndā/ndā_form1/800_Ht185_Khajihosahalli_3_4_ndā.JPG",
         "year": 800
       },
       {
-        "id": 2,
+        "id": 4,
         "form": "ndā_form1",
         "path": "ndā/ndā_form1/900_HT110_Kumbalahalli_3_18_ndā.JPG",
         "year": 900
@@ -3454,7 +3648,7 @@
     "IASTform": "ndā"
   },
   {
-    "id": 135,
+    "id": 145,
     "key": "ನ್ದೆ",
     "isAvailable": true,
     "letterForms": [
@@ -3474,7 +3668,7 @@
     "IASTform": "ndĕ"
   },
   {
-    "id": 136,
+    "id": 146,
     "key": "ನ್ದೊ",
     "isAvailable": true,
     "letterForms": [
@@ -3488,12 +3682,18 @@
     "IASTform": "ndŏ"
   },
   {
-    "id": 137,
+    "id": 147,
     "key": "ನ್ದೂ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
+        "form": "ndū_form1",
+        "path": "ndū/ndū_form1/750_NL33_Totagere_2_11_ndū.JPG",
+        "year": 750
+      },
+      {
+        "id": 2,
         "form": "ndū_form1",
         "path": "ndū/ndū_form1/780_Dv74_Gangavara_3_3_ndū.JPG",
         "year": 780
@@ -3502,7 +3702,7 @@
     "IASTform": "ndū"
   },
   {
-    "id": 138,
+    "id": 148,
     "key": "ನ್ಗ",
     "isAvailable": true,
     "letterForms": [
@@ -3516,7 +3716,7 @@
     "IASTform": "nga"
   },
   {
-    "id": 139,
+    "id": 149,
     "key": "ನ್ಗೊ",
     "isAvailable": true,
     "letterForms": [
@@ -3530,7 +3730,7 @@
     "IASTform": "ngŏ"
   },
   {
-    "id": 140,
+    "id": 150,
     "key": "ನ್ಕು",
     "isAvailable": true,
     "letterForms": [
@@ -3544,7 +3744,7 @@
     "IASTform": "nku"
   },
   {
-    "id": 141,
+    "id": 151,
     "key": "ನ್ಕಾ",
     "isAvailable": true,
     "letterForms": [
@@ -3558,7 +3758,7 @@
     "IASTform": "nkā"
   },
   {
-    "id": 142,
+    "id": 152,
     "key": "ನ್ಮ",
     "isAvailable": true,
     "letterForms": [
@@ -3614,7 +3814,7 @@
     "IASTform": "nma"
   },
   {
-    "id": 143,
+    "id": 153,
     "key": "ನ್ನ",
     "isAvailable": true,
     "letterForms": [
@@ -3694,7 +3894,7 @@
     "IASTform": "nna"
   },
   {
-    "id": 144,
+    "id": 154,
     "key": "ನ್ನಿ",
     "isAvailable": true,
     "letterForms": [
@@ -3720,7 +3920,7 @@
     "IASTform": "nni"
   },
   {
-    "id": 145,
+    "id": 155,
     "key": "ನ್ನು",
     "isAvailable": true,
     "letterForms": [
@@ -3734,7 +3934,7 @@
     "IASTform": "nnu"
   },
   {
-    "id": 146,
+    "id": 156,
     "key": "ನ್ನಾ",
     "isAvailable": true,
     "letterForms": [
@@ -3754,7 +3954,7 @@
     "IASTform": "nnā"
   },
   {
-    "id": 147,
+    "id": 157,
     "key": "ನ್ಪೇ",
     "isAvailable": true,
     "letterForms": [
@@ -3768,7 +3968,7 @@
     "IASTform": "npe"
   },
   {
-    "id": 148,
+    "id": 158,
     "key": "ನ್ತ",
     "isAvailable": true,
     "letterForms": [
@@ -3782,7 +3982,7 @@
     "IASTform": "nta"
   },
   {
-    "id": 149,
+    "id": 159,
     "key": "ನ್ತಂ",
     "isAvailable": true,
     "letterForms": [
@@ -3796,7 +3996,7 @@
     "IASTform": "ntaṃ"
   },
   {
-    "id": 150,
+    "id": 160,
     "key": "ನ್ತೂ",
     "isAvailable": true,
     "letterForms": [
@@ -3810,7 +4010,7 @@
     "IASTform": "ntū"
   },
   {
-    "id": 151,
+    "id": 161,
     "key": "ನುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -3830,7 +4030,7 @@
     "IASTform": "nuṃ"
   },
   {
-    "id": 152,
+    "id": 162,
     "key": "ನ್ವಾ",
     "isAvailable": true,
     "letterForms": [
@@ -3850,7 +4050,7 @@
     "IASTform": "nvā"
   },
   {
-    "id": 153,
+    "id": 163,
     "key": "ನ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -3877,12 +4077,18 @@
         "form": "nya_form1",
         "path": "nya/nya_form1/1363_BN81_AgaraMuseum_14_7_nya.JPG",
         "year": 1363
+      },
+      {
+        "id": 5,
+        "form": "nya_form1",
+        "path": "nya/nya_form1/750_NL33_Totagere_6_11_nya.JPG",
+        "year": 750
       }
     ],
     "IASTform": "nya"
   },
   {
-    "id": 154,
+    "id": 164,
     "key": "ನ್ಯಾ",
     "isAvailable": true,
     "letterForms": [
@@ -3896,7 +4102,7 @@
     "IASTform": "nyā"
   },
   {
-    "id": 155,
+    "id": 165,
     "key": "ನಾಂ",
     "isAvailable": true,
     "letterForms": [
@@ -3910,7 +4116,7 @@
     "IASTform": "nāṃ"
   },
   {
-    "id": 156,
+    "id": 166,
     "key": "ಪಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -3924,7 +4130,7 @@
     "IASTform": "piṃ"
   },
   {
-    "id": 157,
+    "id": 167,
     "key": "ಪ್ಪ",
     "isAvailable": true,
     "letterForms": [
@@ -3998,7 +4204,7 @@
     "IASTform": "ppa"
   },
   {
-    "id": 158,
+    "id": 168,
     "key": "ಪ್ಪಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4012,7 +4218,7 @@
     "IASTform": "ppaṃ"
   },
   {
-    "id": 159,
+    "id": 169,
     "key": "ಪ್ಪಿ",
     "isAvailable": true,
     "letterForms": [
@@ -4026,7 +4232,7 @@
     "IASTform": "ppi"
   },
   {
-    "id": 160,
+    "id": 170,
     "key": "ಪ್ಪು",
     "isAvailable": true,
     "letterForms": [
@@ -4070,7 +4276,7 @@
     "IASTform": "ppu"
   },
   {
-    "id": 161,
+    "id": 171,
     "key": "ಪ್ಪಾ",
     "isAvailable": true,
     "letterForms": [
@@ -4090,7 +4296,7 @@
     "IASTform": "ppā"
   },
   {
-    "id": 162,
+    "id": 172,
     "key": "ಪ್ಪೊ",
     "isAvailable": true,
     "letterForms": [
@@ -4104,7 +4310,7 @@
     "IASTform": "ppŏ"
   },
   {
-    "id": 163,
+    "id": 173,
     "key": "ಪ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -4207,59 +4413,71 @@
       {
         "id": 17,
         "form": "pra_form1",
+        "path": "pra/pra_form1/750_NL33_Totagere_3_23_pra.JPG",
+        "year": 750
+      },
+      {
+        "id": 18,
+        "form": "pra_form1",
+        "path": "pra/pra_form1/750_NL33_Totagere_3_9_pra.JPG",
+        "year": 750
+      },
+      {
+        "id": 19,
+        "form": "pra_form1",
         "path": "pra/pra_form1/900_Dv42_Aradeshanahalli_5_5_pra.JPG",
         "year": 900
       },
       {
-        "id": 18,
+        "id": 20,
         "form": "pra_form2",
         "path": "pra/pra_form2/1306_DB52_Isturu_5_6_pra.JPG",
         "year": 1306
       },
       {
-        "id": 19,
+        "id": 21,
         "form": "pra_form2",
         "path": "pra/pra_form2/1336_DV46_Sadenahalli_5_1_pra.JPG",
         "year": 1336
       },
       {
-        "id": 20,
+        "id": 22,
         "form": "pra_form2",
         "path": "pra/pra_form2/1342_BN21_Jakkur_3_5_pra.jpg",
         "year": 1342
       },
       {
-        "id": 21,
+        "id": 23,
         "form": "pra_form2",
         "path": "pra/pra_form2/1342_BN21_Jakkur_8_4_pra.jpg",
         "year": 1342
       },
       {
-        "id": 22,
+        "id": 24,
         "form": "pra_form2",
         "path": "pra/pra_form2/1382_DV57_Chikkajala_5_14_pra.JPG",
         "year": 1382
       },
       {
-        "id": 23,
+        "id": 25,
         "form": "pra_form2",
         "path": "pra/pra_form2/1400_Hennagara_Unpub_5_14_pra.JPG",
         "year": 1400
       },
       {
-        "id": 24,
+        "id": 26,
         "form": "pra_form3",
         "path": "pra/pra_form3/1336_Bn110_Byadarahalli_18_3_pra.JPG",
         "year": 1336
       },
       {
-        "id": 25,
+        "id": 27,
         "form": "pra_form3",
         "path": "pra/pra_form3/1369_CP150_Malurpatna_10_19_pra.JPG",
         "year": 1369
       },
       {
-        "id": 26,
+        "id": 28,
         "form": "pra_form3",
         "path": "pra/pra_form3/1369_CP150_Malurpatna_16_15_pra.JPG",
         "year": 1369
@@ -4268,7 +4486,7 @@
     "IASTform": "pra"
   },
   {
-    "id": 164,
+    "id": 174,
     "key": "ಪ್ರಿ",
     "isAvailable": true,
     "letterForms": [
@@ -4330,7 +4548,7 @@
     "IASTform": "pri"
   },
   {
-    "id": 165,
+    "id": 175,
     "key": "ಪ್ರು",
     "isAvailable": true,
     "letterForms": [
@@ -4350,7 +4568,7 @@
     "IASTform": "pru"
   },
   {
-    "id": 166,
+    "id": 176,
     "key": "ಪಾಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4376,7 +4594,7 @@
     "IASTform": "pāṃ"
   },
   {
-    "id": 167,
+    "id": 177,
     "key": "ಪೆಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4396,7 +4614,7 @@
     "IASTform": "pĕṃ"
   },
   {
-    "id": 168,
+    "id": 178,
     "key": "ಪೊಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4410,7 +4628,7 @@
     "IASTform": "pŏṃ"
   },
   {
-    "id": 169,
+    "id": 179,
     "key": "ರ್ಬ್ಬ",
     "isAvailable": true,
     "letterForms": [
@@ -4448,7 +4666,7 @@
     "IASTform": "rbba"
   },
   {
-    "id": 170,
+    "id": 180,
     "key": "ರ್ಬೋ",
     "isAvailable": true,
     "letterForms": [
@@ -4462,7 +4680,7 @@
     "IASTform": "rbo"
   },
   {
-    "id": 171,
+    "id": 181,
     "key": "ರ್ಬಾ",
     "isAvailable": true,
     "letterForms": [
@@ -4476,7 +4694,7 @@
     "IASTform": "rbā"
   },
   {
-    "id": 172,
+    "id": 182,
     "key": "ರ್ಬಾಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4490,7 +4708,7 @@
     "IASTform": "rbāṃ"
   },
   {
-    "id": 173,
+    "id": 183,
     "key": "ರ್ದ್ದ",
     "isAvailable": true,
     "letterForms": [
@@ -4510,7 +4728,7 @@
     "IASTform": "rdda"
   },
   {
-    "id": 174,
+    "id": 184,
     "key": "ರ್ಗ",
     "isAvailable": true,
     "letterForms": [
@@ -4530,7 +4748,7 @@
     "IASTform": "rga"
   },
   {
-    "id": 175,
+    "id": 185,
     "key": "ರ್ಗ್ಗ",
     "isAvailable": true,
     "letterForms": [
@@ -4580,7 +4798,7 @@
     "IASTform": "rgga"
   },
   {
-    "id": 176,
+    "id": 186,
     "key": "ರ್ಗು",
     "isAvailable": true,
     "letterForms": [
@@ -4594,7 +4812,7 @@
     "IASTform": "rgu"
   },
   {
-    "id": 177,
+    "id": 187,
     "key": "ರಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4608,7 +4826,7 @@
     "IASTform": "riṃ"
   },
   {
-    "id": 178,
+    "id": 188,
     "key": "ರ್ಜ",
     "isAvailable": true,
     "letterForms": [
@@ -4628,7 +4846,7 @@
     "IASTform": "rja"
   },
   {
-    "id": 179,
+    "id": 189,
     "key": "ರ್ಜ್ಜ",
     "isAvailable": true,
     "letterForms": [
@@ -4642,7 +4860,7 @@
     "IASTform": "rjja"
   },
   {
-    "id": 180,
+    "id": 190,
     "key": "ರ್ಜ್ಜಿ",
     "isAvailable": true,
     "letterForms": [
@@ -4656,7 +4874,7 @@
     "IASTform": "rjji"
   },
   {
-    "id": 181,
+    "id": 191,
     "key": "ರ್ಜ್ಜು",
     "isAvailable": true,
     "letterForms": [
@@ -4670,7 +4888,7 @@
     "IASTform": "rjju"
   },
   {
-    "id": 182,
+    "id": 192,
     "key": "ರ್ಜು",
     "isAvailable": true,
     "letterForms": [
@@ -4684,7 +4902,7 @@
     "IASTform": "rju"
   },
   {
-    "id": 183,
+    "id": 193,
     "key": "ರ್ಕ್ಕ",
     "isAvailable": true,
     "letterForms": [
@@ -4704,7 +4922,7 @@
     "IASTform": "rkka"
   },
   {
-    "id": 184,
+    "id": 194,
     "key": "ರ್ಕ್ಕು",
     "isAvailable": true,
     "letterForms": [
@@ -4718,7 +4936,7 @@
     "IASTform": "rkku"
   },
   {
-    "id": 185,
+    "id": 195,
     "key": "ರ್ಮ",
     "isAvailable": true,
     "letterForms": [
@@ -4738,7 +4956,7 @@
     "IASTform": "rma"
   },
   {
-    "id": 186,
+    "id": 196,
     "key": "ರ್ಮಿ",
     "isAvailable": true,
     "letterForms": [
@@ -4752,7 +4970,7 @@
     "IASTform": "rmi"
   },
   {
-    "id": 187,
+    "id": 197,
     "key": "ರ್ಮ್ಮ",
     "isAvailable": true,
     "letterForms": [
@@ -4819,23 +5037,35 @@
       {
         "id": 11,
         "form": "rmma_form1",
+        "path": "rmma/rmma_form1/750_NL33_Totagere_1_14_rmma.JPG",
+        "year": 750
+      },
+      {
+        "id": 12,
+        "form": "rmma_form1",
+        "path": "rmma/rmma_form1/750_NL33_Totagere_2_6_rmma.JPG",
+        "year": 750
+      },
+      {
+        "id": 13,
+        "form": "rmma_form1",
         "path": "rmma/rmma_form1/780_Dv74_Gangavara_1_7_rmma.JPG",
         "year": 780
       },
       {
-        "id": 12,
+        "id": 14,
         "form": "rmma_form1",
         "path": "rmma/rmma_form1/900_CP141_Malurpatna_51_1_rmma.JPG",
         "year": 900
       },
       {
-        "id": 13,
+        "id": 15,
         "form": "rmma_form1",
         "path": "rmma/rmma_form1/900_CP204_Malurpatna_2_9_rmma.JPG",
         "year": 900
       },
       {
-        "id": 14,
+        "id": 16,
         "form": "rmma_form2",
         "path": "rmma/rmma_form2/1340_Bn111_Ramasamudra_49_17_rmma.JPG",
         "year": 1340
@@ -4844,7 +5074,7 @@
     "IASTform": "rmma"
   },
   {
-    "id": 188,
+    "id": 198,
     "key": "ರ್ಮ್ಮಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4858,7 +5088,7 @@
     "IASTform": "rmmaṃ"
   },
   {
-    "id": 189,
+    "id": 199,
     "key": "ರ್ಮ್ಮೂ",
     "isAvailable": true,
     "letterForms": [
@@ -4872,7 +5102,7 @@
     "IASTform": "rmmū"
   },
   {
-    "id": 190,
+    "id": 200,
     "key": "ರ್ಮು",
     "isAvailable": true,
     "letterForms": [
@@ -4886,7 +5116,7 @@
     "IASTform": "rmu"
   },
   {
-    "id": 191,
+    "id": 201,
     "key": "ರ್ಮಾ",
     "isAvailable": true,
     "letterForms": [
@@ -4900,7 +5130,7 @@
     "IASTform": "rmā"
   },
   {
-    "id": 192,
+    "id": 202,
     "key": "ರ್ಮೆ",
     "isAvailable": true,
     "letterForms": [
@@ -4914,7 +5144,7 @@
     "IASTform": "rmĕ"
   },
   {
-    "id": 193,
+    "id": 203,
     "key": "ರ್ಮೂ",
     "isAvailable": true,
     "letterForms": [
@@ -4928,7 +5158,21 @@
     "IASTform": "rmū"
   },
   {
-    "id": 194,
+    "id": 204,
+    "key": "ರ್ನ್ನಾ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "rnnā_form1",
+        "path": "rnnā/rnnā_form1/750_NL33_Totagere_2_12_rnnā.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "rnnā"
+  },
+  {
+    "id": 205,
     "key": "ರ್ಪ್ಪ",
     "isAvailable": true,
     "letterForms": [
@@ -4948,7 +5192,7 @@
     "IASTform": "rppa"
   },
   {
-    "id": 195,
+    "id": 206,
     "key": "ರ್ಪಾ",
     "isAvailable": true,
     "letterForms": [
@@ -4962,7 +5206,7 @@
     "IASTform": "rpā"
   },
   {
-    "id": 196,
+    "id": 207,
     "key": "ರ್ಪೃ",
     "isAvailable": true,
     "letterForms": [
@@ -4976,7 +5220,7 @@
     "IASTform": "rpṛ"
   },
   {
-    "id": 197,
+    "id": 208,
     "key": "ರ್ರು",
     "isAvailable": true,
     "letterForms": [
@@ -4990,7 +5234,7 @@
     "IASTform": "rru"
   },
   {
-    "id": 198,
+    "id": 209,
     "key": "ರ್ತ",
     "isAvailable": true,
     "letterForms": [
@@ -5004,7 +5248,7 @@
     "IASTform": "rta"
   },
   {
-    "id": 199,
+    "id": 210,
     "key": "ರ್ತಿ",
     "isAvailable": true,
     "letterForms": [
@@ -5036,7 +5280,7 @@
     "IASTform": "rti"
   },
   {
-    "id": 200,
+    "id": 211,
     "key": "ರ್ತ್ತಿ",
     "isAvailable": true,
     "letterForms": [
@@ -5092,7 +5336,21 @@
     "IASTform": "rtti"
   },
   {
-    "id": 201,
+    "id": 212,
+    "key": "ರ್ತ್ತಾ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "rttā_form1",
+        "path": "rttā/rttā_form1/750_NL33_Totagere_4_10_rttā.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "rttā"
+  },
+  {
+    "id": 213,
     "key": "ರುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -5130,7 +5388,7 @@
     "IASTform": "ruṃ"
   },
   {
-    "id": 202,
+    "id": 214,
     "key": "ರ್ವ",
     "isAvailable": true,
     "letterForms": [
@@ -5162,7 +5420,7 @@
     "IASTform": "rva"
   },
   {
-    "id": 203,
+    "id": 215,
     "key": "ರ್ವ್ವ",
     "isAvailable": true,
     "letterForms": [
@@ -5181,29 +5439,41 @@
       {
         "id": 3,
         "form": "rvva_form1",
-        "path": "rvva/rvva_form1/750_Shasana Manthana_Bhoopasandra_9_4_rvva.JPG",
+        "path": "rvva/rvva_form1/750_NL33_Totagere_2_17_rvva.JPG",
         "year": 750
       },
       {
         "id": 4,
         "form": "rvva_form1",
+        "path": "rvva/rvva_form1/750_NL33_Totagere_3_14_rvva.JPG",
+        "year": 750
+      },
+      {
+        "id": 5,
+        "form": "rvva_form1",
+        "path": "rvva/rvva_form1/750_Shasana Manthana_Bhoopasandra_9_4_rvva.JPG",
+        "year": 750
+      },
+      {
+        "id": 6,
+        "form": "rvva_form1",
         "path": "rvva/rvva_form1/800_Ht185_Khajihosahalli_7_7_rvva.JPG",
         "year": 800
       },
       {
-        "id": 5,
+        "id": 7,
         "form": "rvva_form1",
         "path": "rvva/rvva_form1/800_Ht185_Khajihosahalli_9_7_rvva.JPG",
         "year": 800
       },
       {
-        "id": 6,
+        "id": 8,
         "form": "rvva_form1",
         "path": "rvva/rvva_form1/800_Ht185_Khajihosahalli_9_9_rvva.JPG",
         "year": 800
       },
       {
-        "id": 7,
+        "id": 9,
         "form": "rvva_form2",
         "path": "rvva/rvva_form2/800_Ht185_Khajihosahalli_5_6_rvva.JPG",
         "year": 800
@@ -5212,7 +5482,7 @@
     "IASTform": "rvva"
   },
   {
-    "id": 204,
+    "id": 216,
     "key": "ರ್ವ್ವೊ",
     "isAvailable": true,
     "letterForms": [
@@ -5226,7 +5496,7 @@
     "IASTform": "rvvŏ"
   },
   {
-    "id": 205,
+    "id": 217,
     "key": "ರ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -5240,7 +5510,7 @@
     "IASTform": "rya"
   },
   {
-    "id": 206,
+    "id": 218,
     "key": "ರ್ಯ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -5260,7 +5530,7 @@
     "IASTform": "ryya"
   },
   {
-    "id": 207,
+    "id": 219,
     "key": "ರ್ಯಾ",
     "isAvailable": true,
     "letterForms": [
@@ -5286,7 +5556,21 @@
     "IASTform": "ryā"
   },
   {
-    "id": 208,
+    "id": 220,
+    "key": "ರಾಂ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "rāṃ_form1",
+        "path": "rāṃ/rāṃ_form1/750_NL33_Totagere_8_6_rāṃ.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "rāṃ"
+  },
+  {
+    "id": 221,
     "key": "ರೢನಿ",
     "isAvailable": true,
     "letterForms": [
@@ -5300,7 +5584,7 @@
     "IASTform": "rḷni"
   },
   {
-    "id": 209,
+    "id": 222,
     "key": "ರ್ಣ",
     "isAvailable": true,
     "letterForms": [
@@ -5314,18 +5598,30 @@
     "IASTform": "rṇa"
   },
   {
-    "id": 210,
+    "id": 223,
     "key": "ರ್ಷ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "rṣa_form1",
+        "path": "rṣa/rṣa_form1/750_NL33_Totagere_1_5_rṣa.JPG",
+        "year": 750
+      },
+      {
+        "id": 2,
+        "form": "rṣa_form1",
+        "path": "rṣa/rṣa_form1/750_NL33_Totagere_8_10_rṣa.JPG",
+        "year": 750
+      },
+      {
+        "id": 3,
+        "form": "rṣa_form1",
         "path": "rṣa/rṣa_form1/900_Dv42_Aradeshanahalli_1_7_rṣa.JPG",
         "year": 900
       },
       {
-        "id": 2,
+        "id": 4,
         "form": "rṣa_form1",
         "path": "rṣa/rṣa_form1/996_CP144_Malurpatna_1_6_rṣa.JPG",
         "year": 996
@@ -5334,7 +5630,7 @@
     "IASTform": "rṣa"
   },
   {
-    "id": 211,
+    "id": 224,
     "key": "ರ್ಷಂ",
     "isAvailable": true,
     "letterForms": [
@@ -5348,7 +5644,21 @@
     "IASTform": "rṣaṃ"
   },
   {
-    "id": 212,
+    "id": 225,
+    "key": "ರ್ಷ್ಮ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "rṣma_form1",
+        "path": "rṣma/rṣma_form1/750_NL33_Totagere_4_15_rṣma.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "rṣma"
+  },
+  {
+    "id": 226,
     "key": "ಸ್ದಾ",
     "isAvailable": true,
     "letterForms": [
@@ -5362,7 +5672,7 @@
     "IASTform": "sdā"
   },
   {
-    "id": 213,
+    "id": 227,
     "key": "ಸಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -5382,7 +5692,7 @@
     "IASTform": "siṃ"
   },
   {
-    "id": 214,
+    "id": 228,
     "key": "ಸ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -5396,7 +5706,35 @@
     "IASTform": "sra"
   },
   {
-    "id": 215,
+    "id": 229,
+    "key": "ಸ್ರಾ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "srā_form1",
+        "path": "srā/srā_form1/750_NL33_Totagere_8_13_srā.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "srā"
+  },
+  {
+    "id": 230,
+    "key": "ಸ್ಸ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ssa_form1",
+        "path": "ssa/ssa_form1/750_NL33_Totagere_5_8_ssa.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "ssa"
+  },
+  {
+    "id": 231,
     "key": "ಸ್ಸಿ",
     "isAvailable": true,
     "letterForms": [
@@ -5410,7 +5748,7 @@
     "IASTform": "ssi"
   },
   {
-    "id": 216,
+    "id": 232,
     "key": "ಸ್ಸ್ರಿ",
     "isAvailable": true,
     "letterForms": [
@@ -5424,7 +5762,7 @@
     "IASTform": "ssri"
   },
   {
-    "id": 217,
+    "id": 233,
     "key": "ಸ್ಸೀ",
     "isAvailable": true,
     "letterForms": [
@@ -5438,7 +5776,7 @@
     "IASTform": "ssī"
   },
   {
-    "id": 218,
+    "id": 234,
     "key": "ಸ್ತ",
     "isAvailable": true,
     "letterForms": [
@@ -5524,7 +5862,7 @@
     "IASTform": "sta"
   },
   {
-    "id": 219,
+    "id": 235,
     "key": "ಸ್ಥಾ",
     "isAvailable": true,
     "letterForms": [
@@ -5538,7 +5876,7 @@
     "IASTform": "sthā"
   },
   {
-    "id": 220,
+    "id": 236,
     "key": "ಸ್ತಿ",
     "isAvailable": true,
     "letterForms": [
@@ -5629,125 +5967,131 @@
       {
         "id": 15,
         "form": "sti_form1",
-        "path": "sti/sti_form1/750_UnPub_Sakalavara_1_2_sti.JPG",
+        "path": "sti/sti_form1/750_NL33_Totagere_1_2_sti.JPG",
         "year": 750
       },
       {
         "id": 16,
         "form": "sti_form1",
+        "path": "sti/sti_form1/750_UnPub_Sakalavara_1_2_sti.JPG",
+        "year": 750
+      },
+      {
+        "id": 17,
+        "form": "sti_form1",
         "path": "sti/sti_form1/780_Dv74_Gangavara_1_2_sti.JPG",
         "year": 780
       },
       {
-        "id": 17,
+        "id": 18,
         "form": "sti_form1",
         "path": "sti/sti_form1/800_Ht185_Khajihosahalli_1_2_sti.JPG",
         "year": 800
       },
       {
-        "id": 18,
+        "id": 19,
         "form": "sti_form1",
         "path": "sti/sti_form1/800_Nl34_Totagere_1_2_sti.JPG",
         "year": 800
       },
       {
-        "id": 19,
+        "id": 20,
         "form": "sti_form1",
         "path": "sti/sti_form1/900_CP134_Malurpatna_1_4_sti.JPG",
         "year": 900
       },
       {
-        "id": 20,
+        "id": 21,
         "form": "sti_form1",
         "path": "sti/sti_form1/900_CP204_Malurpatna_1_2_sti.JPG",
         "year": 900
       },
       {
-        "id": 21,
+        "id": 22,
         "form": "sti_form1",
         "path": "sti/sti_form1/900_HT110_Kumbalahalli_1_2_sti.JPG",
         "year": 900
       },
       {
-        "id": 22,
+        "id": 23,
         "form": "sti_form1",
         "path": "sti/sti_form1/900_IthDar_Kaikondrahalli_1_2_sti.JPG",
         "year": 900
       },
       {
-        "id": 23,
+        "id": 24,
         "form": "sti_form1",
         "path": "sti/sti_form1/913_CP161_Mankunda_1_2_sti.JPG",
         "year": 913
       },
       {
-        "id": 24,
+        "id": 25,
         "form": "sti_form1",
         "path": "sti/sti_form1/913_CP161_Mankunda_6_5_sti.JPG",
         "year": 913
       },
       {
-        "id": 25,
+        "id": 26,
         "form": "sti_form1",
         "path": "sti/sti_form1/996_CP144_Malurpatna_1_2_sti.JPG",
         "year": 996
       },
       {
-        "id": 26,
+        "id": 27,
         "form": "sti_form2",
         "path": "sti/sti_form2/1342_BN21_Jakkur_1_2_sti.JPG",
         "year": 1342
       },
       {
-        "id": 27,
+        "id": 28,
         "form": "sti_form2",
         "path": "sti/sti_form2/1345_Dv3_Jalige_1_2_sti.jpg",
         "year": 1345
       },
       {
-        "id": 28,
+        "id": 29,
         "form": "sti_form2",
         "path": "sti/sti_form2/1382_DV57_Chikkajala_1_2_sti.JPG",
         "year": 1382
       },
       {
-        "id": 29,
+        "id": 30,
         "form": "sti_form2",
         "path": "sti/sti_form2/1382_DV57_Chikkajala_3_5_sti.JPG",
         "year": 1382
       },
       {
-        "id": 30,
+        "id": 31,
         "form": "sti_form2",
         "path": "sti/sti_form2/1388_MG20_HuleLinganaAre_1_8_sti.JPG",
         "year": 1388
       },
       {
-        "id": 31,
+        "id": 32,
         "form": "sti_form2",
         "path": "sti/sti_form2/1400_Bn90_Begurdoorpost_1_2_sti.jpg",
         "year": 1400
       },
       {
-        "id": 32,
+        "id": 33,
         "form": "sti_form2",
         "path": "sti/sti_form2/1400_Hennagara_Unpub_1_2_sti.JPG",
         "year": 1400
       },
       {
-        "id": 33,
+        "id": 34,
         "form": "sti_form2",
         "path": "sti/sti_form2/800_IthDar_Srinivagilu_1_2_sti.JPG",
         "year": 800
       },
       {
-        "id": 34,
+        "id": 35,
         "form": "sti_form3",
         "path": "sti/sti_form3/1306_DB52_Isturu_1_2_sti.JPG",
         "year": 1306
       },
       {
-        "id": 35,
+        "id": 36,
         "form": "sti_form3",
         "path": "sti/sti_form3/1363_BN81_AgaraMuseum_1_3_sti.JPG",
         "year": 1363
@@ -5756,7 +6100,7 @@
     "IASTform": "sti"
   },
   {
-    "id": 221,
+    "id": 237,
     "key": "ಸ್ತ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -5770,7 +6114,7 @@
     "IASTform": "stra"
   },
   {
-    "id": 222,
+    "id": 238,
     "key": "ಸ್ತ್ರಂ",
     "isAvailable": true,
     "letterForms": [
@@ -5784,7 +6128,7 @@
     "IASTform": "straṃ"
   },
   {
-    "id": 223,
+    "id": 239,
     "key": "ಸ್ತ್ರೀ",
     "isAvailable": true,
     "letterForms": [
@@ -5798,7 +6142,7 @@
     "IASTform": "strī"
   },
   {
-    "id": 224,
+    "id": 240,
     "key": "ಸ್ತು",
     "isAvailable": true,
     "letterForms": [
@@ -5830,7 +6174,7 @@
     "IASTform": "stu"
   },
   {
-    "id": 225,
+    "id": 241,
     "key": "ಸ್ತ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -5844,7 +6188,7 @@
     "IASTform": "stya"
   },
   {
-    "id": 226,
+    "id": 242,
     "key": "ಸ್ತಾ",
     "isAvailable": true,
     "letterForms": [
@@ -5876,7 +6220,7 @@
     "IASTform": "stā"
   },
   {
-    "id": 227,
+    "id": 243,
     "key": "ಸುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -5890,7 +6234,7 @@
     "IASTform": "suṃ"
   },
   {
-    "id": 228,
+    "id": 244,
     "key": "ಸ್ವ",
     "isAvailable": true,
     "letterForms": [
@@ -6029,149 +6373,161 @@
       {
         "id": 23,
         "form": "sva_form1",
-        "path": "sva/sva_form1/750_UnPub_Sakalavara_1_1_sva.JPG",
+        "path": "sva/sva_form1/750_NL33_Totagere_1_1_sva.JPG",
         "year": 750
       },
       {
         "id": 24,
         "form": "sva_form1",
+        "path": "sva/sva_form1/750_NL33_Totagere_7_13_sva.JPG",
+        "year": 750
+      },
+      {
+        "id": 25,
+        "form": "sva_form1",
+        "path": "sva/sva_form1/750_UnPub_Sakalavara_1_1_sva.JPG",
+        "year": 750
+      },
+      {
+        "id": 26,
+        "form": "sva_form1",
         "path": "sva/sva_form1/780_Dv74_Gangavara_1_1_sva.JPG",
         "year": 780
       },
       {
-        "id": 25,
+        "id": 27,
         "form": "sva_form1",
         "path": "sva/sva_form1/800_Ht185_Khajihosahalli_1_1_sva.JPG",
         "year": 800
       },
       {
-        "id": 26,
+        "id": 28,
         "form": "sva_form1",
         "path": "sva/sva_form1/800_Nl34_Totagere_1_1_sva.JPG",
         "year": 800
       },
       {
-        "id": 27,
+        "id": 29,
         "form": "sva_form1",
         "path": "sva/sva_form1/900_CP134_Malurpatna_1_3_sva.JPG",
         "year": 900
       },
       {
-        "id": 28,
+        "id": 30,
         "form": "sva_form1",
         "path": "sva/sva_form1/900_CP204_Malurpatna_1_1_sva.JPG",
         "year": 900
       },
       {
-        "id": 29,
+        "id": 31,
         "form": "sva_form1",
         "path": "sva/sva_form1/900_Dv42_Aradeshanahalli_1_2_sva.JPG",
         "year": 900
       },
       {
-        "id": 30,
+        "id": 32,
         "form": "sva_form1",
         "path": "sva/sva_form1/900_IthDar_Kaikondrahalli_1_1_sva.JPG",
         "year": 900
       },
       {
-        "id": 31,
+        "id": 33,
         "form": "sva_form1",
         "path": "sva/sva_form1/913_CP161_Mankunda_1_1_sva.JPG",
         "year": 913
       },
       {
-        "id": 32,
+        "id": 34,
         "form": "sva_form1",
         "path": "sva/sva_form1/950_Unpub_Mankunda_1_2_sva.JPG",
         "year": 950
       },
       {
-        "id": 33,
+        "id": 35,
         "form": "sva_form1",
         "path": "sva/sva_form1/996_CP144_Malurpatna_1_1_sva.JPG",
         "year": 996
       },
       {
-        "id": 34,
+        "id": 36,
         "form": "sva_form1",
         "path": "sva/sva_form1/996_CP144_Malurpatna_5_5_sva.JPG",
         "year": 996
       },
       {
-        "id": 35,
+        "id": 37,
         "form": "sva_form2",
         "path": "sva/sva_form2/1306_DB52_Isturu_1_1_sva.JPG",
         "year": 1306
       },
       {
-        "id": 36,
+        "id": 38,
         "form": "sva_form2",
         "path": "sva/sva_form2/1306_DB52_Isturu_2_13_sva.JPG",
         "year": 1306
       },
       {
-        "id": 37,
+        "id": 39,
         "form": "sva_form2",
         "path": "sva/sva_form2/1353_IthDar_Bidarahalli_1_1_sva.JPG",
         "year": 1353
       },
       {
-        "id": 38,
+        "id": 40,
         "form": "sva_form2",
         "path": "sva/sva_form2/1369_CP150_Malurpatna_15_12_sva.JPG",
         "year": 1369
       },
       {
-        "id": 39,
+        "id": 41,
         "form": "sva_form2",
         "path": "sva/sva_form2/1369_CP150_Malurpatna_1_1_sva.JPG",
         "year": 1369
       },
       {
-        "id": 40,
+        "id": 42,
         "form": "sva_form2",
         "path": "sva/sva_form2/1382_DV57_Chikkajala_1_1_sva.JPG",
         "year": 1382
       },
       {
-        "id": 41,
+        "id": 43,
         "form": "sva_form2",
         "path": "sva/sva_form2/1382_DV57_Chikkajala_3_4_sva.JPG",
         "year": 1382
       },
       {
-        "id": 42,
+        "id": 44,
         "form": "sva_form2",
         "path": "sva/sva_form2/1382_DV57_Chikkajala_5_9_sva.JPG",
         "year": 1382
       },
       {
-        "id": 43,
+        "id": 45,
         "form": "sva_form2",
         "path": "sva/sva_form2/1400_Bn90_Begurdoorpost_1_1_sva.jpg",
         "year": 1400
       },
       {
-        "id": 44,
+        "id": 46,
         "form": "sva_form2",
         "path": "sva/sva_form2/1400_Hennagara_Unpub_5_9_sva.JPG",
         "year": 1400
       },
       {
-        "id": 45,
+        "id": 47,
         "form": "sva_form2",
         "path": "sva/sva_form2/750_Ht87_Atturu_1_1_sva.JPG",
         "year": 750
       },
       {
-        "id": 46,
+        "id": 48,
         "form": "sva_form2",
         "path": "sva/sva_form2/800_IthDar_Srinivagilu_1_1_sva.JPG",
         "year": 800
       },
       {
-        "id": 47,
+        "id": 49,
         "form": "sva_form2",
         "path": "sva/sva_form2/900_HT110_Kumbalahalli_1_1_sva.JPG",
         "year": 900
@@ -6180,7 +6536,7 @@
     "IASTform": "sva"
   },
   {
-    "id": 229,
+    "id": 245,
     "key": "ಸ್ವಿ",
     "isAvailable": true,
     "letterForms": [
@@ -6194,7 +6550,7 @@
     "IASTform": "svi"
   },
   {
-    "id": 230,
+    "id": 246,
     "key": "ಸ್ವಾ",
     "isAvailable": true,
     "letterForms": [
@@ -6250,7 +6606,33 @@
     "IASTform": "svā"
   },
   {
-    "id": 231,
+    "id": 247,
+    "key": "ಸ್ಯ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "sya_form1",
+        "path": "sya/sya_form1/750_NL33_Totagere_3_2_sya.JPG",
+        "year": 750
+      },
+      {
+        "id": 2,
+        "form": "sya_form1",
+        "path": "sya/sya_form1/750_NL33_Totagere_4_2_sya.JPG",
+        "year": 750
+      },
+      {
+        "id": 3,
+        "form": "sya_form1",
+        "path": "sya/sya_form1/750_NL33_Totagere_6_12_sya.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "sya"
+  },
+  {
+    "id": 248,
     "key": "ಸ್ಯ್ಮ್ಬೋಲ್",
     "isAvailable": true,
     "letterForms": [
@@ -6276,7 +6658,21 @@
     "IASTform": "symbol"
   },
   {
-    "id": 232,
+    "id": 249,
+    "key": "ಸ್ಯಾ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "syā_form1",
+        "path": "syā/syā_form1/750_NL33_Totagere_4_7_syā.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "syā"
+  },
+  {
+    "id": 250,
     "key": "ಥ್ವಿ",
     "isAvailable": true,
     "letterForms": [
@@ -6326,7 +6722,7 @@
     "IASTform": "thvi"
   },
   {
-    "id": 233,
+    "id": 251,
     "key": "ತಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -6346,7 +6742,7 @@
     "IASTform": "tiṃ"
   },
   {
-    "id": 234,
+    "id": 252,
     "key": "ತ್ನಿ",
     "isAvailable": true,
     "letterForms": [
@@ -6360,7 +6756,7 @@
     "IASTform": "tni"
   },
   {
-    "id": 235,
+    "id": 253,
     "key": "ತ್ಪಂ",
     "isAvailable": true,
     "letterForms": [
@@ -6374,7 +6770,7 @@
     "IASTform": "tpaṃ"
   },
   {
-    "id": 236,
+    "id": 254,
     "key": "ತ್ಪ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -6388,7 +6784,7 @@
     "IASTform": "tpra"
   },
   {
-    "id": 237,
+    "id": 255,
     "key": "ತ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -6462,7 +6858,7 @@
     "IASTform": "tra"
   },
   {
-    "id": 238,
+    "id": 256,
     "key": "ತ್ರಿ",
     "isAvailable": true,
     "letterForms": [
@@ -6476,7 +6872,21 @@
     "IASTform": "tri"
   },
   {
-    "id": 239,
+    "id": 257,
+    "key": "ತ್ರೊ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "trŏ_form1",
+        "path": "trŏ/trŏ_form1/750_NL33_Totagere_1_21_trŏ.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "trŏ"
+  },
+  {
+    "id": 258,
     "key": "ತ್ಸ",
     "isAvailable": true,
     "letterForms": [
@@ -6598,7 +7008,7 @@
     "IASTform": "tsa"
   },
   {
-    "id": 240,
+    "id": 259,
     "key": "ತ್ತ",
     "isAvailable": true,
     "letterForms": [
@@ -6720,7 +7130,7 @@
     "IASTform": "tta"
   },
   {
-    "id": 241,
+    "id": 260,
     "key": "ತ್ತಂ",
     "isAvailable": true,
     "letterForms": [
@@ -6764,7 +7174,7 @@
     "IASTform": "ttaṃ"
   },
   {
-    "id": 242,
+    "id": 261,
     "key": "ತ್ತಿ",
     "isAvailable": true,
     "letterForms": [
@@ -6795,65 +7205,77 @@
       {
         "id": 5,
         "form": "tti_form1",
+        "path": "tti/tti_form1/750_NL33_Totagere_2_9_tti.JPG",
+        "year": 750
+      },
+      {
+        "id": 6,
+        "form": "tti_form1",
+        "path": "tti/tti_form1/750_NL33_Totagere_7_4_tti.JPG",
+        "year": 750
+      },
+      {
+        "id": 7,
+        "form": "tti_form1",
         "path": "tti/tti_form1/800_Ht185_Khajihosahalli_4_3_tti.JPG",
         "year": 800
       },
       {
-        "id": 6,
+        "id": 8,
         "form": "tti_form1",
         "path": "tti/tti_form1/900_CP134_Malurpatna_5_5_tti.JPG",
         "year": 900
       },
       {
-        "id": 7,
+        "id": 9,
         "form": "tti_form1",
         "path": "tti/tti_form1/900_Dv42_Aradeshanahalli_6_2_tti.JPG",
         "year": 900
       },
       {
-        "id": 8,
+        "id": 10,
         "form": "tti_form1",
         "path": "tti/tti_form1/900_IthDar_Kaikondrahalli_5_2_tti.JPG",
         "year": 900
       },
       {
-        "id": 9,
+        "id": 11,
         "form": "tti_form1",
         "path": "tti/tti_form1/900_ShaManKabaya_Kurudusonenahalli_3_2_tti.JPG",
         "year": 900
       },
       {
-        "id": 10,
+        "id": 12,
         "form": "tti_form1",
         "path": "tti/tti_form1/913_CP161_Mankunda_4_8_tti.JPG",
         "year": 913
       },
       {
-        "id": 11,
+        "id": 13,
         "form": "tti_form1",
         "path": "tti/tti_form1/950_Unpub_Mankunda_1_3_tti.JPG",
         "year": 950
       },
       {
-        "id": 12,
+        "id": 14,
         "form": "tti_form1",
         "path": "tti/tti_form1/955_TM38_Tumkur_5_1_tti.JPG",
         "year": 955
       },
       {
-        "id": 13,
+        "id": 15,
         "form": "tti_form2",
         "path": "tti/tti_form2/1329_IthDar_Kadatanamale_8_6_tti.JPG",
         "year": 1329
       },
       {
-        "id": 14,
+        "id": 16,
         "form": "tti_form2",
         "path": "tti/tti_form2/1340_Bn111_Ramasamudra_41_8_tti.JPG",
         "year": 1340
       },
       {
-        "id": 15,
+        "id": 17,
         "form": "tti_form2",
         "path": "tti/tti_form2/1363_BN81_AgaraMuseum_7_6_tti.JPG",
         "year": 1363
@@ -6862,7 +7284,7 @@
     "IASTform": "tti"
   },
   {
-    "id": 243,
+    "id": 262,
     "key": "ತ್ತಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -6876,7 +7298,7 @@
     "IASTform": "ttiṃ"
   },
   {
-    "id": 244,
+    "id": 263,
     "key": "ತ್ತು",
     "isAvailable": true,
     "letterForms": [
@@ -6914,7 +7336,7 @@
     "IASTform": "ttu"
   },
   {
-    "id": 245,
+    "id": 264,
     "key": "ತ್ತ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -6928,18 +7350,24 @@
     "IASTform": "ttya"
   },
   {
-    "id": 246,
+    "id": 265,
     "key": "ತ್ತಾ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "ttā_form1",
+        "path": "ttā/ttā_form1/750_NL33_Totagere_7_15_ttā.JPG",
+        "year": 750
+      },
+      {
+        "id": 2,
+        "form": "ttā_form1",
         "path": "ttā/ttā_form1/800_Nl34_Totagere_1_8_ttā.JPG",
         "year": 800
       },
       {
-        "id": 2,
+        "id": 3,
         "form": "ttā_form1",
         "path": "ttā/ttā_form1/950_Paravastu_Haralur_2_10_ttā.JPG",
         "year": 950
@@ -6948,7 +7376,21 @@
     "IASTform": "ttā"
   },
   {
-    "id": 247,
+    "id": 266,
+    "key": "ತ್ತಾಂ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ttāṃ_form1",
+        "path": "ttāṃ/ttāṃ_form1/750_NL33_Totagere_7_19_ttāṃ.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "ttāṃ"
+  },
+  {
+    "id": 267,
     "key": "ತ್ತೆ",
     "isAvailable": true,
     "letterForms": [
@@ -6962,7 +7404,7 @@
     "IASTform": "ttĕ"
   },
   {
-    "id": 248,
+    "id": 268,
     "key": "ತ್ತೊ",
     "isAvailable": true,
     "letterForms": [
@@ -6982,7 +7424,7 @@
     "IASTform": "ttŏ"
   },
   {
-    "id": 249,
+    "id": 269,
     "key": "ತ್ತೂ",
     "isAvailable": true,
     "letterForms": [
@@ -6996,7 +7438,7 @@
     "IASTform": "ttū"
   },
   {
-    "id": 250,
+    "id": 270,
     "key": "ತುಃ",
     "isAvailable": true,
     "letterForms": [
@@ -7010,7 +7452,35 @@
     "IASTform": "tuḥ"
   },
   {
-    "id": 251,
+    "id": 271,
+    "key": "ತುಂ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "tuṃ_form1",
+        "path": "tuṃ/tuṃ_form1/750_NL33_Totagere_6_2_tuṃ.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "tuṃ"
+  },
+  {
+    "id": 272,
+    "key": "ತ್ವೇ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "tve_form1",
+        "path": "tve/tve_form1/750_NL33_Totagere_3_21_tve.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "tve"
+  },
+  {
+    "id": 273,
     "key": "ತ್ವಿ",
     "isAvailable": true,
     "letterForms": [
@@ -7024,7 +7494,7 @@
     "IASTform": "tvi"
   },
   {
-    "id": 252,
+    "id": 274,
     "key": "ತ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -7062,7 +7532,7 @@
     "IASTform": "tya"
   },
   {
-    "id": 253,
+    "id": 275,
     "key": "ತ್ಯಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7076,7 +7546,7 @@
     "IASTform": "tyaṃ"
   },
   {
-    "id": 254,
+    "id": 276,
     "key": "ತ್ಯಾ",
     "isAvailable": true,
     "letterForms": [
@@ -7096,7 +7566,7 @@
     "IASTform": "tyā"
   },
   {
-    "id": 255,
+    "id": 277,
     "key": "ತೆಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7122,7 +7592,7 @@
     "IASTform": "tĕṃ"
   },
   {
-    "id": 256,
+    "id": 278,
     "key": "ತೊಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7136,7 +7606,7 @@
     "IASTform": "tŏṃ"
   },
   {
-    "id": 257,
+    "id": 279,
     "key": "ಉಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7150,7 +7620,7 @@
     "IASTform": "uṃ"
   },
   {
-    "id": 258,
+    "id": 280,
     "key": "ವಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7164,7 +7634,7 @@
     "IASTform": "viṃ"
   },
   {
-    "id": 259,
+    "id": 281,
     "key": "ವ್ವ",
     "isAvailable": true,
     "letterForms": [
@@ -7184,7 +7654,7 @@
     "IASTform": "vva"
   },
   {
-    "id": 260,
+    "id": 282,
     "key": "ವ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -7198,7 +7668,7 @@
     "IASTform": "vya"
   },
   {
-    "id": 261,
+    "id": 283,
     "key": "ವೆಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7224,7 +7694,7 @@
     "IASTform": "vĕṃ"
   },
   {
-    "id": 262,
+    "id": 284,
     "key": "ವೊಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7238,7 +7708,7 @@
     "IASTform": "vŏṃ"
   },
   {
-    "id": 263,
+    "id": 285,
     "key": "ಯ್ದ",
     "isAvailable": true,
     "letterForms": [
@@ -7252,7 +7722,7 @@
     "IASTform": "yda"
   },
   {
-    "id": 264,
+    "id": 286,
     "key": "ಯ್ದಿ",
     "isAvailable": true,
     "letterForms": [
@@ -7266,7 +7736,7 @@
     "IASTform": "ydi"
   },
   {
-    "id": 265,
+    "id": 287,
     "key": "ಯ್ದು",
     "isAvailable": true,
     "letterForms": [
@@ -7280,7 +7750,7 @@
     "IASTform": "ydu"
   },
   {
-    "id": 266,
+    "id": 288,
     "key": "ಯ್ದಾ",
     "isAvailable": true,
     "letterForms": [
@@ -7300,7 +7770,7 @@
     "IASTform": "ydā"
   },
   {
-    "id": 267,
+    "id": 289,
     "key": "ಯ್ಗೊ",
     "isAvailable": true,
     "letterForms": [
@@ -7314,7 +7784,7 @@
     "IASTform": "ygŏ"
   },
   {
-    "id": 268,
+    "id": 290,
     "key": "ಯಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7334,7 +7804,7 @@
     "IASTform": "yiṃ"
   },
   {
-    "id": 269,
+    "id": 291,
     "key": "ಯ್ಕ",
     "isAvailable": true,
     "letterForms": [
@@ -7384,7 +7854,7 @@
     "IASTform": "yka"
   },
   {
-    "id": 270,
+    "id": 292,
     "key": "ಯ್ಕಾ",
     "isAvailable": true,
     "letterForms": [
@@ -7398,7 +7868,7 @@
     "IASTform": "ykā"
   },
   {
-    "id": 271,
+    "id": 293,
     "key": "ಯ್ನೂ",
     "isAvailable": true,
     "letterForms": [
@@ -7412,7 +7882,7 @@
     "IASTform": "ynū"
   },
   {
-    "id": 272,
+    "id": 294,
     "key": "ಯ್ಸ",
     "isAvailable": true,
     "letterForms": [
@@ -7426,7 +7896,7 @@
     "IASTform": "ysa"
   },
   {
-    "id": 273,
+    "id": 295,
     "key": "ಯುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7464,7 +7934,7 @@
     "IASTform": "yuṃ"
   },
   {
-    "id": 274,
+    "id": 296,
     "key": "ಯ್ವು",
     "isAvailable": true,
     "letterForms": [
@@ -7484,7 +7954,7 @@
     "IASTform": "yvu"
   },
   {
-    "id": 275,
+    "id": 297,
     "key": "ಯ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -7630,7 +8100,7 @@
     "IASTform": "yya"
   },
   {
-    "id": 276,
+    "id": 298,
     "key": "ಯ್ಯು",
     "isAvailable": true,
     "letterForms": [
@@ -7662,7 +8132,7 @@
     "IASTform": "yyu"
   },
   {
-    "id": 277,
+    "id": 299,
     "key": "ಯ್ಯಾ",
     "isAvailable": true,
     "letterForms": [
@@ -7676,7 +8146,21 @@
     "IASTform": "yyā"
   },
   {
-    "id": 278,
+    "id": 300,
+    "key": "ಯಾಂ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "yāṃ_form1",
+        "path": "yāṃ/yāṃ_form1/750_NL33_Totagere_8_17_yāṃ.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "yāṃ"
+  },
+  {
+    "id": 301,
     "key": "ï",
     "isAvailable": true,
     "letterForms": [
@@ -7702,36 +8186,42 @@
     "IASTform": "ï"
   },
   {
-    "id": 279,
+    "id": 302,
     "key": "ಞ್ಚ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
         "form": "ñca_form1",
-        "path": "ñca/ñca_form1/750_Shasana Manthana_Bhoopasandra_11_2_ñca.JPG",
+        "path": "ñca/ñca_form1/750_NL33_Totagere_4_13_ñca.JPG",
         "year": 750
       },
       {
         "id": 2,
         "form": "ñca_form1",
-        "path": "ñca/ñca_form1/750_Shasana Manthana_Bhoopasandra_4_2_ñca.JPG",
+        "path": "ñca/ñca_form1/750_Shasana Manthana_Bhoopasandra_11_2_ñca.JPG",
         "year": 750
       },
       {
         "id": 3,
         "form": "ñca_form1",
-        "path": "ñca/ñca_form1/750_UnPub_Atturu_6_7_ñca.JPG",
+        "path": "ñca/ñca_form1/750_Shasana Manthana_Bhoopasandra_4_2_ñca.JPG",
         "year": 750
       },
       {
         "id": 4,
         "form": "ñca_form1",
+        "path": "ñca/ñca_form1/750_UnPub_Atturu_6_7_ñca.JPG",
+        "year": 750
+      },
+      {
+        "id": 5,
+        "form": "ñca_form1",
         "path": "ñca/ñca_form1/800_Ht185_Khajihosahalli_10_10_ñca.JPG",
         "year": 800
       },
       {
-        "id": 5,
+        "id": 6,
         "form": "ñca_form1",
         "path": "ñca/ñca_form1/800_Nl34_Totagere_10_3_ñca.JPG",
         "year": 800
@@ -7740,7 +8230,7 @@
     "IASTform": "ñca"
   },
   {
-    "id": 280,
+    "id": 303,
     "key": "ಎಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7754,7 +8244,7 @@
     "IASTform": "ĕṃ"
   },
   {
-    "id": 281,
+    "id": 304,
     "key": "ಶ್ಚಿ",
     "isAvailable": true,
     "letterForms": [
@@ -7768,7 +8258,7 @@
     "IASTform": "ści"
   },
   {
-    "id": 282,
+    "id": 305,
     "key": "ಶ್ಧು",
     "isAvailable": true,
     "letterForms": [
@@ -7782,7 +8272,7 @@
     "IASTform": "śdhu"
   },
   {
-    "id": 283,
+    "id": 306,
     "key": "ಶಿಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7808,7 +8298,21 @@
     "IASTform": "śiṃ"
   },
   {
-    "id": 284,
+    "id": 307,
+    "key": "ಶ್ಲೋ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ślo_form1",
+        "path": "ślo/ślo_form1/750_NL33_Totagere_5_20_ślo.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "ślo"
+  },
+  {
+    "id": 308,
     "key": "ಶ್ರ",
     "isAvailable": true,
     "letterForms": [
@@ -7828,7 +8332,7 @@
     "IASTform": "śra"
   },
   {
-    "id": 285,
+    "id": 309,
     "key": "ಶ್ರಿ",
     "isAvailable": true,
     "letterForms": [
@@ -7842,7 +8346,7 @@
     "IASTform": "śri"
   },
   {
-    "id": 286,
+    "id": 310,
     "key": "ಶ್ರಾ",
     "isAvailable": true,
     "letterForms": [
@@ -7856,7 +8360,7 @@
     "IASTform": "śrā"
   },
   {
-    "id": 287,
+    "id": 311,
     "key": "ಶ್ರೀ",
     "isAvailable": true,
     "letterForms": [
@@ -8181,473 +8685,479 @@
       {
         "id": 54,
         "form": "śrī_form1",
-        "path": "śrī/śrī_form1/750_UnPub_Atturu_1_7_śrī.JPG",
+        "path": "śrī/śrī_form1/750_NL33_Totagere_1_3_śrī.JPG",
         "year": 750
       },
       {
         "id": 55,
         "form": "śrī_form1",
-        "path": "śrī/śrī_form1/750_UnPub_Sakalavara_1_3_śrī.JPG",
+        "path": "śrī/śrī_form1/750_UnPub_Atturu_1_7_śrī.JPG",
         "year": 750
       },
       {
         "id": 56,
         "form": "śrī_form1",
-        "path": "śrī/śrī_form1/750_UnPub_Sakalavara_1_4_śrī.JPG",
+        "path": "śrī/śrī_form1/750_UnPub_Sakalavara_1_3_śrī.JPG",
         "year": 750
       },
       {
         "id": 57,
         "form": "śrī_form1",
+        "path": "śrī/śrī_form1/750_UnPub_Sakalavara_1_4_śrī.JPG",
+        "year": 750
+      },
+      {
+        "id": 58,
+        "form": "śrī_form1",
         "path": "śrī/śrī_form1/780_Dv74_Gangavara_1_3_śrī.JPG",
         "year": 780
       },
       {
-        "id": 58,
+        "id": 59,
         "form": "śrī_form1",
         "path": "śrī/śrī_form1/800_Ht185_Khajihosahalli_1_3_śrī.JPG",
         "year": 800
       },
       {
-        "id": 59,
+        "id": 60,
         "form": "śrī_form1",
         "path": "śrī/śrī_form1/800_IthDar_Srinivagilu_1_3_śrī.JPG",
         "year": 800
       },
       {
-        "id": 60,
+        "id": 61,
         "form": "śrī_form1",
         "path": "śrī/śrī_form1/800_Nl34_Totagere_1_3_śrī.JPG",
         "year": 800
       },
       {
-        "id": 61,
+        "id": 62,
         "form": "śrī_form1",
         "path": "śrī/śrī_form1/800_UnPub_Sadahalli_1_1_śrī.JPG",
         "year": 800
       },
       {
-        "id": 62,
+        "id": 63,
         "form": "śrī_form1",
         "path": "śrī/śrī_form1/900_Bn174_Begur_1_1_śrī.JPG",
         "year": 900
       },
       {
-        "id": 63,
+        "id": 64,
         "form": "śrī_form1",
         "path": "śrī/śrī_form1/900_Bn94_Begur_2_6_śrī.JPG",
         "year": 900
       },
       {
-        "id": 64,
+        "id": 65,
         "form": "śrī_form1",
         "path": "śrī/śrī_form1/900_IthDar_Kaikondrahalli_1_3_śrī.JPG",
         "year": 900
       },
       {
-        "id": 65,
+        "id": 66,
         "form": "śrī_form1",
         "path": "śrī/śrī_form1/950_Paravastu_Haralur_2_17_śrī.JPG",
         "year": 950
       },
       {
-        "id": 66,
+        "id": 67,
         "form": "śrī_form1",
         "path": "śrī/śrī_form1/996_CP144_Malurpatna_3_6_śrī.JPG",
         "year": 996
       },
       {
-        "id": 67,
+        "id": 68,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1000_Cp113_Kudluru_3_6_śrī.JPG",
         "year": 1000
       },
       {
-        "id": 68,
+        "id": 69,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1000_Cp142_Malurpatna_1_11_śrī.JPG",
         "year": 1000
       },
       {
-        "id": 69,
+        "id": 70,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1000_Cp142_Malurpatna_1_3_śrī.JPG",
         "year": 1000
       },
       {
-        "id": 70,
+        "id": 71,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1329_IthDar_Kadatanamale_19_12_śrī.JPG",
         "year": 1329
       },
       {
-        "id": 71,
+        "id": 72,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1329_IthDar_Kadatanamale_19_13_śrī.JPG",
         "year": 1329
       },
       {
-        "id": 72,
+        "id": 73,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1329_IthDar_Kadatanamale_3_5_śrī.JPG",
         "year": 1329
       },
       {
-        "id": 73,
+        "id": 74,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1329_IthDar_Kadatanamale_4_10_śrī.JPG",
         "year": 1329
       },
       {
-        "id": 74,
+        "id": 75,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1336_DV46_Sadenahalli_10_10_śrī.JPG",
         "year": 1336
       },
       {
-        "id": 75,
+        "id": 76,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1336_DV46_Sadenahalli_1_3_śrī.JPG",
         "year": 1336
       },
       {
-        "id": 76,
+        "id": 77,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1336_DV46_Sadenahalli_4_10_śrī.JPG",
         "year": 1336
       },
       {
-        "id": 77,
+        "id": 78,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1336_DV46_Sadenahalli_6_5_śrī.JPG",
         "year": 1336
       },
       {
-        "id": 78,
+        "id": 79,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1336_DV46_Sadenahalli_9_9_śrī.JPG",
         "year": 1336
       },
       {
-        "id": 79,
+        "id": 80,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1342_BN21_Jakkur_1_3_śrī.JPG",
         "year": 1342
       },
       {
-        "id": 80,
+        "id": 81,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1342_BN21_Jakkur_3_2_śrī.jpg",
         "year": 1342
       },
       {
-        "id": 81,
+        "id": 82,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1342_BN21_Jakkur_4_2_śrī.jpg",
         "year": 1342
       },
       {
-        "id": 82,
+        "id": 83,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1342_BN21_Jakkur_7_2_śrī.jpg",
         "year": 1342
       },
       {
-        "id": 83,
+        "id": 84,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1342_BN24_Ganigarahalli_10_1_śrī.JPG",
         "year": 1342
       },
       {
-        "id": 84,
+        "id": 85,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1345_Dv3_Jalige_3_10_ śrī.jpg",
         "year": 1345
       },
       {
-        "id": 85,
+        "id": 86,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1363_BN81_AgaraMuseum_17_8_śrī.JPG",
         "year": 1363
       },
       {
-        "id": 86,
+        "id": 87,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1363_BN81_AgaraMuseum_1_4_śrī.JPG",
         "year": 1363
       },
       {
-        "id": 87,
+        "id": 88,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1363_BN81_AgaraMuseum_3_3_śrī.JPG",
         "year": 1363
       },
       {
-        "id": 88,
+        "id": 89,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1363_BN81_AgaraMuseum_5_1_śrī.JPG",
         "year": 1363
       },
       {
-        "id": 89,
+        "id": 90,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/1369_CP150_Malurpatna_2_21_śrī.JPG",
         "year": 1369
       },
       {
-        "id": 90,
+        "id": 91,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/900_Dv42_Aradeshanahalli_1_8_śrī.JPG",
         "year": 900
       },
       {
-        "id": 91,
+        "id": 92,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/900_HT110_Kumbalahalli_1_3_śrī.JPG",
         "year": 900
       },
       {
-        "id": 92,
+        "id": 93,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/900_HT110_Kumbalahalli_1_4_śrī.JPG",
         "year": 900
       },
       {
-        "id": 93,
+        "id": 94,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/900_Ht189_Bisanahalli_1_1_śrī.JPG",
         "year": 900
       },
       {
-        "id": 94,
+        "id": 95,
         "form": "śrī_form2",
         "path": "śrī/śrī_form2/913_CP161_Mankunda_1_3_śrī.JPG",
         "year": 913
       },
       {
-        "id": 95,
+        "id": 96,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1000_Bp65_Karubele_3_1_śrī.JPG",
         "year": 1000
       },
       {
-        "id": 96,
+        "id": 97,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1345_Dv3_Jalige_1_3_śrī.jpg",
         "year": 1345
       },
       {
-        "id": 97,
+        "id": 98,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1369_CP150_Malurpatna_17_10_śrī.JPG",
         "year": 1369
       },
       {
-        "id": 98,
+        "id": 99,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1369_CP150_Malurpatna_17_11_śrī.JPG",
         "year": 1369
       },
       {
-        "id": 99,
+        "id": 100,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1369_CP150_Malurpatna_17_12_śrī.JPG",
         "year": 1369
       },
       {
-        "id": 100,
+        "id": 101,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1369_CP150_Malurpatna_17_9_śrī.JPG",
         "year": 1369
       },
       {
-        "id": 101,
+        "id": 102,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1369_CP150_Malurpatna_1_3_śrī.JPG",
         "year": 1369
       },
       {
-        "id": 102,
+        "id": 103,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1369_CP150_Malurpatna_3_19_śrī.JPG",
         "year": 1369
       },
       {
-        "id": 103,
+        "id": 104,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1382_DV57_Chikkajala_2_6_śrī.JPG",
         "year": 1382
       },
       {
-        "id": 104,
+        "id": 105,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1388_MG20_HuleLinganaAre_1_1_śrī.JPG",
         "year": 1388
       },
       {
-        "id": 105,
+        "id": 106,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1388_MG20_HuleLinganaAre_1_9_śrī.JPG",
         "year": 1388
       },
       {
-        "id": 106,
+        "id": 107,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1388_MG20_HuleLinganaAre_2_10_śrī.JPG",
         "year": 1388
       },
       {
-        "id": 107,
+        "id": 108,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1388_MG20_HuleLinganaAre_2_26_śrī.JPG",
         "year": 1388
       },
       {
-        "id": 108,
+        "id": 109,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1388_MG20_HuleLinganaAre_3_30_śrī.JPG",
         "year": 1388
       },
       {
-        "id": 109,
+        "id": 110,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1388_MG20_HuleLinganaAre_3_31_śrī.JPG",
         "year": 1388
       },
       {
-        "id": 110,
+        "id": 111,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1388_MG20_HuleLinganaAre_3_32_śrī.JPG",
         "year": 1388
       },
       {
-        "id": 111,
+        "id": 112,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/1400_Hennagara_Unpub_2_6_śrī.JPG",
         "year": 1400
       },
       {
-        "id": 112,
+        "id": 113,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/900_CP141_Malurpatna_44_1_śrī.JPG",
         "year": 900
       },
       {
-        "id": 113,
+        "id": 114,
         "form": "śrī_form3",
         "path": "śrī/śrī_form3/900_CP204_Malurpatna_1_3_śrī.JPG",
         "year": 900
       },
       {
-        "id": 114,
+        "id": 115,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1329_IthDar_Kadatanamale_1_3_śrī.JPG",
         "year": 1329
       },
       {
-        "id": 115,
+        "id": 116,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1329_IthDar_Kadatanamale_9_1_śrī.JPG",
         "year": 1329
       },
       {
-        "id": 116,
+        "id": 117,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1336_Bn110_Byadarahalli_48_15_śrī.JPG",
         "year": 1336
       },
       {
-        "id": 117,
+        "id": 118,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1336_Bn120_Katanayakanapura_12_10_śrī.jpg",
         "year": 1336
       },
       {
-        "id": 118,
+        "id": 119,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1336_Bn120_Katanayakanapura_12_11_śrī.jpg",
         "year": 1336
       },
       {
-        "id": 119,
+        "id": 120,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1336_Bn120_Katanayakanapura_12_9_śrī.jpg",
         "year": 1336
       },
       {
-        "id": 120,
+        "id": 121,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1336_Bn120_Katanayakanapura_2_1_śrī.JPG",
         "year": 1336
       },
       {
-        "id": 121,
+        "id": 122,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1340_Bn111_Ramasamudra_14_13_śrī.JPG",
         "year": 1340
       },
       {
-        "id": 122,
+        "id": 123,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1382_DV57_Chikkajala_10_3_śrī.JPG",
         "year": 1382
       },
       {
-        "id": 123,
+        "id": 124,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1382_DV57_Chikkajala_3_6_śrī.JPG",
         "year": 1382
       },
       {
-        "id": 124,
+        "id": 125,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1382_DV57_Chikkajala_5_11_śrī.JPG",
         "year": 1382
       },
       {
-        "id": 125,
+        "id": 126,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1400_Bn90_Begurdoorpost_1_3_śrī.jpg",
         "year": 1400
       },
       {
-        "id": 126,
+        "id": 127,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1400_Bommenhallli_Unpub_7_4_śrī.JPG",
         "year": 1400
       },
       {
-        "id": 127,
+        "id": 128,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1400_Hennagara_Unpub_10_3_śrī.JPG",
         "year": 1400
       },
       {
-        "id": 128,
+        "id": 129,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/1400_Hennagara_Unpub_5_11_śrī.JPG",
         "year": 1400
       },
       {
-        "id": 129,
+        "id": 130,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/900_CP134_Malurpatna_1_2_śrī.JPG",
         "year": 900
       },
       {
-        "id": 130,
+        "id": 131,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/900_CP134_Malurpatna_4_5_śrī.JPG",
         "year": 900
       },
       {
-        "id": 131,
+        "id": 132,
         "form": "śrī_form4",
         "path": "śrī/śrī_form4/900_CP134_Malurpatna_6_1_śrī.JPG",
         "year": 900
       },
       {
-        "id": 132,
+        "id": 133,
         "form": "śrī_form5",
         "path": "śrī/śrī_form5/1382_DV57_Chikkajala_1_3_śrī.JPG",
         "year": 1382
@@ -8656,7 +9166,7 @@
     "IASTform": "śrī"
   },
   {
-    "id": 288,
+    "id": 312,
     "key": "ಶ್ವ",
     "isAvailable": true,
     "letterForms": [
@@ -8699,29 +9209,35 @@
       {
         "id": 7,
         "form": "śva_form1",
+        "path": "śva/śva_form1/750_NL33_Totagere_3_3_śva.JPG",
+        "year": 750
+      },
+      {
+        "id": 8,
+        "form": "śva_form1",
         "path": "śva/śva_form1/900_Dv42_Aradeshanahalli_1_25_śva.JPG",
         "year": 900
       },
       {
-        "id": 8,
+        "id": 9,
         "form": "śva_form2",
         "path": "śva/śva_form2/1336_DV46_Sadenahalli_10_8_śva.JPG",
         "year": 1336
       },
       {
-        "id": 9,
+        "id": 10,
         "form": "śva_form2",
         "path": "śva/śva_form2/1340_Bn111_Ramasamudra_3_20_śva.JPG",
         "year": 1340
       },
       {
-        "id": 10,
+        "id": 11,
         "form": "śva_form2",
         "path": "śva/śva_form2/1400_Bn90_Begurdoorpost_2_1_śva.jpg",
         "year": 1400
       },
       {
-        "id": 11,
+        "id": 12,
         "form": "śva_form2",
         "path": "śva/śva_form2/900_CP134_Malurpatna_3_9_śva.JPG",
         "year": 900
@@ -8730,7 +9246,7 @@
     "IASTform": "śva"
   },
   {
-    "id": 289,
+    "id": 313,
     "key": "ಶ್ವೀ",
     "isAvailable": true,
     "letterForms": [
@@ -8744,7 +9260,7 @@
     "IASTform": "śvī"
   },
   {
-    "id": 290,
+    "id": 314,
     "key": "ಶ್ಯಂ",
     "isAvailable": true,
     "letterForms": [
@@ -8758,7 +9274,7 @@
     "IASTform": "śyaṃ"
   },
   {
-    "id": 291,
+    "id": 315,
     "key": "ಶ್ಯಾ",
     "isAvailable": true,
     "letterForms": [
@@ -8767,12 +9283,18 @@
         "form": "śyā_form1",
         "path": "śyā/śyā_form1/1828_Cp108_Kudluru_17_2_śyā.JPG",
         "year": 1828
+      },
+      {
+        "id": 2,
+        "form": "śyā_form1",
+        "path": "śyā/śyā_form1/750_NL33_Totagere_3_11_śyā.JPG",
+        "year": 750
       }
     ],
     "IASTform": "śyā"
   },
   {
-    "id": 292,
+    "id": 316,
     "key": "಄",
     "isAvailable": true,
     "letterForms": [
@@ -8804,7 +9326,7 @@
     "IASTform": "಄"
   },
   {
-    "id": 293,
+    "id": 317,
     "key": "ಡ್ಲೂ",
     "isAvailable": true,
     "letterForms": [
@@ -8824,7 +9346,7 @@
     "IASTform": "ḍlū"
   },
   {
-    "id": 294,
+    "id": 318,
     "key": "ಡ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -8856,7 +9378,7 @@
     "IASTform": "ḍya"
   },
   {
-    "id": 295,
+    "id": 319,
     "key": "ಡೆಂ",
     "isAvailable": true,
     "letterForms": [
@@ -8870,7 +9392,7 @@
     "IASTform": "ḍĕṃ"
   },
   {
-    "id": 296,
+    "id": 320,
     "key": "ಡ್ಡ",
     "isAvailable": true,
     "letterForms": [
@@ -8890,7 +9412,7 @@
     "IASTform": "ḍḍa"
   },
   {
-    "id": 297,
+    "id": 321,
     "key": "ಌಏ",
     "isAvailable": true,
     "letterForms": [
@@ -8910,7 +9432,7 @@
     "IASTform": "ḷe"
   },
   {
-    "id": 298,
+    "id": 322,
     "key": "ೞ್ದ",
     "isAvailable": true,
     "letterForms": [
@@ -8930,7 +9452,7 @@
     "IASTform": "ḻda"
   },
   {
-    "id": 299,
+    "id": 323,
     "key": "ೞ್ದು",
     "isAvailable": true,
     "letterForms": [
@@ -8956,7 +9478,7 @@
     "IASTform": "ḻdu"
   },
   {
-    "id": 300,
+    "id": 324,
     "key": "ೞ್ದಾ",
     "isAvailable": true,
     "letterForms": [
@@ -8970,7 +9492,7 @@
     "IASTform": "ḻdā"
   },
   {
-    "id": 301,
+    "id": 325,
     "key": "ೞ್ದೆ",
     "isAvailable": true,
     "letterForms": [
@@ -8984,7 +9506,7 @@
     "IASTform": "ḻdĕ"
   },
   {
-    "id": 302,
+    "id": 326,
     "key": "ೞ್ಗ",
     "isAvailable": true,
     "letterForms": [
@@ -8998,7 +9520,7 @@
     "IASTform": "ḻga"
   },
   {
-    "id": 303,
+    "id": 327,
     "key": "ೞ್ನಾ",
     "isAvailable": true,
     "letterForms": [
@@ -9012,7 +9534,7 @@
     "IASTform": "ḻnā"
   },
   {
-    "id": 304,
+    "id": 328,
     "key": "ೞ್ನೆ",
     "isAvailable": true,
     "letterForms": [
@@ -9026,7 +9548,7 @@
     "IASTform": "ḻnĕ"
   },
   {
-    "id": 305,
+    "id": 329,
     "key": "ೞ್ಪ",
     "isAvailable": true,
     "letterForms": [
@@ -9040,7 +9562,7 @@
     "IASTform": "ḻpa"
   },
   {
-    "id": 306,
+    "id": 330,
     "key": "ೞ್ತ",
     "isAvailable": true,
     "letterForms": [
@@ -9054,7 +9576,7 @@
     "IASTform": "ḻta"
   },
   {
-    "id": 307,
+    "id": 331,
     "key": "ೞ್ತು",
     "isAvailable": true,
     "letterForms": [
@@ -9068,7 +9590,7 @@
     "IASTform": "ḻtu"
   },
   {
-    "id": 308,
+    "id": 332,
     "key": "ಂ",
     "isAvailable": true,
     "letterForms": [
@@ -9316,7 +9838,7 @@
     "IASTform": "ṃ"
   },
   {
-    "id": 309,
+    "id": 333,
     "key": "ಂಣ",
     "isAvailable": true,
     "letterForms": [
@@ -9330,7 +9852,7 @@
     "IASTform": "ṃṇa"
   },
   {
-    "id": 310,
+    "id": 334,
     "key": "ಙ್ಗ",
     "isAvailable": true,
     "letterForms": [
@@ -9368,7 +9890,7 @@
     "IASTform": "ṅga"
   },
   {
-    "id": 311,
+    "id": 335,
     "key": "ಙ್ಗೆ",
     "isAvailable": true,
     "letterForms": [
@@ -9394,7 +9916,7 @@
     "IASTform": "ṅgĕ"
   },
   {
-    "id": 312,
+    "id": 336,
     "key": "ಙ್ಕು",
     "isAvailable": true,
     "letterForms": [
@@ -9408,7 +9930,7 @@
     "IASTform": "ṅku"
   },
   {
-    "id": 313,
+    "id": 337,
     "key": "ಙ್ಞ",
     "isAvailable": true,
     "letterForms": [
@@ -9428,7 +9950,7 @@
     "IASTform": "ṅña"
   },
   {
-    "id": 314,
+    "id": 338,
     "key": "ಣ್ಬ",
     "isAvailable": true,
     "letterForms": [
@@ -9442,7 +9964,7 @@
     "IASTform": "ṇba"
   },
   {
-    "id": 315,
+    "id": 339,
     "key": "ಣ್ನ",
     "isAvailable": true,
     "letterForms": [
@@ -9480,7 +10002,7 @@
     "IASTform": "ṇna"
   },
   {
-    "id": 316,
+    "id": 340,
     "key": "ಣ್ನಂ",
     "isAvailable": true,
     "letterForms": [
@@ -9494,7 +10016,7 @@
     "IASTform": "ṇnaṃ"
   },
   {
-    "id": 317,
+    "id": 341,
     "key": "ಣ್ನಿ",
     "isAvailable": true,
     "letterForms": [
@@ -9508,7 +10030,7 @@
     "IASTform": "ṇni"
   },
   {
-    "id": 318,
+    "id": 342,
     "key": "ಣ್ನು",
     "isAvailable": true,
     "letterForms": [
@@ -9528,7 +10050,7 @@
     "IASTform": "ṇnu"
   },
   {
-    "id": 319,
+    "id": 343,
     "key": "ಣ್ನಾ",
     "isAvailable": true,
     "letterForms": [
@@ -9542,7 +10064,7 @@
     "IASTform": "ṇnā"
   },
   {
-    "id": 320,
+    "id": 344,
     "key": "ಣ್ನೆ",
     "isAvailable": true,
     "letterForms": [
@@ -9556,7 +10078,7 @@
     "IASTform": "ṇnĕ"
   },
   {
-    "id": 321,
+    "id": 345,
     "key": "ಣ್ತ",
     "isAvailable": true,
     "letterForms": [
@@ -9570,7 +10092,7 @@
     "IASTform": "ṇta"
   },
   {
-    "id": 322,
+    "id": 346,
     "key": "ಣುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -9584,7 +10106,21 @@
     "IASTform": "ṇuṃ"
   },
   {
-    "id": 323,
+    "id": 347,
+    "key": "ಣ್ಯ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇya_form1",
+        "path": "ṇya/ṇya_form1/750_NL33_Totagere_5_10_ṇya.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "ṇya"
+  },
+  {
+    "id": 348,
     "key": "ಣ್ಡ",
     "isAvailable": true,
     "letterForms": [
@@ -9634,7 +10170,7 @@
     "IASTform": "ṇḍa"
   },
   {
-    "id": 324,
+    "id": 349,
     "key": "ಣ್ಡಂ",
     "isAvailable": true,
     "letterForms": [
@@ -9648,7 +10184,7 @@
     "IASTform": "ṇḍaṃ"
   },
   {
-    "id": 325,
+    "id": 350,
     "key": "ಣ್ಡಿ",
     "isAvailable": true,
     "letterForms": [
@@ -9674,7 +10210,7 @@
     "IASTform": "ṇḍi"
   },
   {
-    "id": 326,
+    "id": 351,
     "key": "ಣ್ಡು",
     "isAvailable": true,
     "letterForms": [
@@ -9706,7 +10242,7 @@
     "IASTform": "ṇḍu"
   },
   {
-    "id": 327,
+    "id": 352,
     "key": "ಣ್ಣ",
     "isAvailable": true,
     "letterForms": [
@@ -9744,7 +10280,7 @@
     "IASTform": "ṇṇa"
   },
   {
-    "id": 328,
+    "id": 353,
     "key": "ಣ್ಣಿ",
     "isAvailable": true,
     "letterForms": [
@@ -9758,7 +10294,7 @@
     "IASTform": "ṇṇi"
   },
   {
-    "id": 329,
+    "id": 354,
     "key": "ಣ್ಣಾ",
     "isAvailable": true,
     "letterForms": [
@@ -9778,7 +10314,7 @@
     "IASTform": "ṇṇā"
   },
   {
-    "id": 330,
+    "id": 355,
     "key": "ಣ್ಣೆ",
     "isAvailable": true,
     "letterForms": [
@@ -9792,7 +10328,7 @@
     "IASTform": "ṇṇĕ"
   },
   {
-    "id": 331,
+    "id": 356,
     "key": "ಣ್ಟೂ",
     "isAvailable": true,
     "letterForms": [
@@ -9806,7 +10342,7 @@
     "IASTform": "ṇṭū"
   },
   {
-    "id": 332,
+    "id": 357,
     "key": "ಱ್ಪ",
     "isAvailable": true,
     "letterForms": [
@@ -9820,7 +10356,21 @@
     "IASTform": "ṟpa"
   },
   {
-    "id": 333,
+    "id": 358,
+    "key": "ಱ್ಪಾ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṟpā_form1",
+        "path": "ṟpā/ṟpā_form1/750_NL33_Totagere_4_18_ṟpā.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "ṟpā"
+  },
+  {
+    "id": 359,
     "key": "ಱುಂ",
     "isAvailable": true,
     "letterForms": [
@@ -9834,7 +10384,7 @@
     "IASTform": "ṟuṃ"
   },
   {
-    "id": 334,
+    "id": 360,
     "key": "ಷ್ಮ",
     "isAvailable": true,
     "letterForms": [
@@ -9848,7 +10398,7 @@
     "IASTform": "ṣma"
   },
   {
-    "id": 335,
+    "id": 361,
     "key": "ಷ್ಯ",
     "isAvailable": true,
     "letterForms": [
@@ -9874,7 +10424,7 @@
     "IASTform": "ṣya"
   },
   {
-    "id": 336,
+    "id": 362,
     "key": "ಷ್ಣ",
     "isAvailable": true,
     "letterForms": [
@@ -9888,7 +10438,7 @@
     "IASTform": "ṣṇa"
   },
   {
-    "id": 337,
+    "id": 363,
     "key": "ಷ್ಣು",
     "isAvailable": true,
     "letterForms": [
@@ -9902,7 +10452,7 @@
     "IASTform": "ṣṇu"
   },
   {
-    "id": 338,
+    "id": 364,
     "key": "ಷ್ಟ",
     "isAvailable": true,
     "letterForms": [
@@ -9940,7 +10490,7 @@
     "IASTform": "ṣṭa"
   },
   {
-    "id": 339,
+    "id": 365,
     "key": "ಷ್ಠ",
     "isAvailable": true,
     "letterForms": [
@@ -9954,7 +10504,7 @@
     "IASTform": "ṣṭha"
   },
   {
-    "id": 340,
+    "id": 366,
     "key": "ಷ್ಠಿ",
     "isAvailable": true,
     "letterForms": [
@@ -9968,7 +10518,21 @@
     "IASTform": "ṣṭhi"
   },
   {
-    "id": 341,
+    "id": 367,
+    "key": "ಷ್ಠಾ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṣṭhā_form1",
+        "path": "ṣṭhā/ṣṭhā_form1/750_NL33_Totagere_8_16_ṣṭhā.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "ṣṭhā"
+  },
+  {
+    "id": 368,
     "key": "ಷ್ಟಿ",
     "isAvailable": true,
     "letterForms": [
@@ -9977,12 +10541,18 @@
         "form": "ṣṭi_form1",
         "path": "ṣṭi/ṣṭi_form1/1369_CP150_Malurpatna_16_17_ṣṭi.JPG",
         "year": 1369
+      },
+      {
+        "id": 2,
+        "form": "ṣṭi_form1",
+        "path": "ṣṭi/ṣṭi_form1/750_NL33_Totagere_8_8_ṣṭi.JPG",
+        "year": 750
       }
     ],
     "IASTform": "ṣṭi"
   },
   {
-    "id": 342,
+    "id": 369,
     "key": "ಷ್ಟಾ",
     "isAvailable": true,
     "letterForms": [
@@ -9996,7 +10566,7 @@
     "IASTform": "ṣṭā"
   },
   {
-    "id": 343,
+    "id": 370,
     "key": "ಟ್ರಿ",
     "isAvailable": true,
     "letterForms": [
@@ -10010,7 +10580,7 @@
     "IASTform": "ṭri"
   },
   {
-    "id": 344,
+    "id": 371,
     "key": "ಟ್ಟ",
     "isAvailable": true,
     "letterForms": [
@@ -10228,7 +10798,7 @@
     "IASTform": "ṭṭa"
   },
   {
-    "id": 345,
+    "id": 372,
     "key": "ಟ್ಟಂ",
     "isAvailable": true,
     "letterForms": [
@@ -10242,7 +10812,7 @@
     "IASTform": "ṭṭaṃ"
   },
   {
-    "id": 346,
+    "id": 373,
     "key": "ಟ್ಟಿ",
     "isAvailable": true,
     "letterForms": [
@@ -10298,7 +10868,7 @@
     "IASTform": "ṭṭi"
   },
   {
-    "id": 347,
+    "id": 374,
     "key": "ಟ್ಟು",
     "isAvailable": true,
     "letterForms": [
@@ -10336,7 +10906,7 @@
     "IASTform": "ṭṭu"
   },
   {
-    "id": 348,
+    "id": 375,
     "key": "ಟ್ಟಾ",
     "isAvailable": true,
     "letterForms": [
@@ -10350,7 +10920,7 @@
     "IASTform": "ṭṭā"
   },
   {
-    "id": 349,
+    "id": 376,
     "key": "ಟ್ಟೆ",
     "isAvailable": true,
     "letterForms": [

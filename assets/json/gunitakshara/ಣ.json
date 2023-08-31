@@ -371,29 +371,35 @@
       {
         "id": 9,
         "form": "ṇi_form1",
-        "path": "ṇi/ṇi_form1/750_UnPub_Atturu_2_3_ṇi.JPG",
+        "path": "ṇi/ṇi_form1/750_NL33_Totagere_8_14_ṇi.JPG",
         "year": 750
       },
       {
         "id": 10,
         "form": "ṇi_form1",
-        "path": "ṇi/ṇi_form1/900_CP141_Malurpatna_1_5_ṇi.JPG",
-        "year": 900
+        "path": "ṇi/ṇi_form1/750_UnPub_Atturu_2_3_ṇi.JPG",
+        "year": 750
       },
       {
         "id": 11,
         "form": "ṇi_form1",
-        "path": "ṇi/ṇi_form1/900_Dv42_Aradeshanahalli_8_3_ṇi.JPG",
+        "path": "ṇi/ṇi_form1/900_CP141_Malurpatna_1_5_ṇi.JPG",
         "year": 900
       },
       {
         "id": 12,
         "form": "ṇi_form1",
-        "path": "ṇi/ṇi_form1/900_HT110_Kumbalahalli_5_2_ṇi.JPG",
+        "path": "ṇi/ṇi_form1/900_Dv42_Aradeshanahalli_8_3_ṇi.JPG",
         "year": 900
       },
       {
         "id": 13,
+        "form": "ṇi_form1",
+        "path": "ṇi/ṇi_form1/900_HT110_Kumbalahalli_5_2_ṇi.JPG",
+        "year": 900
+      },
+      {
+        "id": 14,
         "form": "ṇi_form2",
         "path": "ṇi/ṇi_form2/1400_Bn90_Begurdoorpost_9_2_ṇi.jpg",
         "year": 1400
@@ -444,8 +450,15 @@
   {
     "id": 7,
     "key": "ಣೆ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇe_form1",
+        "path": "ṇe/ṇe_form1/750_NL33_Totagere_2_7_ṇe.JPG",
+        "year": 750
+      }
+    ],
     "IASTform": ""
   },
   {

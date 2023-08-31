@@ -37,11 +37,17 @@
       {
         "id": 6,
         "form": "dha_form1",
+        "path": "dha/dha_form1/750_NL33_Totagere_3_16_dha.JPG",
+        "year": 750
+      },
+      {
+        "id": 7,
+        "form": "dha_form1",
         "path": "dha/dha_form1/800_Ht185_Khajihosahalli_12_4_dha.JPG",
         "year": 800
       },
       {
-        "id": 7,
+        "id": 8,
         "form": "dha_form1",
         "path": "dha/dha_form1/800_UnPub_Sadahalli_8_7_dha.JPG",
         "year": 800

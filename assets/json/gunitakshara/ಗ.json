@@ -998,8 +998,15 @@
   {
     "id": 4,
     "key": "ಗೀ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "gī_form1",
+        "path": "gī/gī_form1/750_NL33_Totagere_5_18_gī.JPG",
+        "year": 750
+      }
+    ],
     "IASTform": ""
   },
   {
@@ -1076,47 +1083,53 @@
       {
         "id": 12,
         "form": "gu_form1",
+        "path": "gu/gu_form1/750_NL33_Totagere_2_10_gu.JPG",
+        "year": 750
+      },
+      {
+        "id": 13,
+        "form": "gu_form1",
         "path": "gu/gu_form1/800_Nl34_Totagere_4_2_gu.JPG",
         "year": 800
       },
       {
-        "id": 13,
+        "id": 14,
         "form": "gu_form1",
         "path": "gu/gu_form1/900_Bn174_Begur_4_2_gu.JPG",
         "year": 900
       },
       {
-        "id": 14,
+        "id": 15,
         "form": "gu_form1",
         "path": "gu/gu_form1/900_CP141_Malurpatna_1_2_gu.JPG",
         "year": 900
       },
       {
-        "id": 15,
+        "id": 16,
         "form": "gu_form1",
         "path": "gu/gu_form1/900_CP141_Malurpatna_25_2_gu.JPG",
         "year": 900
       },
       {
-        "id": 16,
+        "id": 17,
         "form": "gu_form1",
         "path": "gu/gu_form1/900_Dv42_Aradeshanahalli_6_6_gu.JPG",
         "year": 900
       },
       {
-        "id": 17,
+        "id": 18,
         "form": "gu_form2",
         "path": "gu/gu_form2/1000_AksharaMeru_Jakkur_3_3_gu.jpg",
         "year": 1000
       },
       {
-        "id": 18,
+        "id": 19,
         "form": "gu_form2",
         "path": "gu/gu_form2/1369_CP150_Malurpatna_5_16_gu.JPG",
         "year": 1369
       },
       {
-        "id": 19,
+        "id": 20,
         "form": "gu_form2",
         "path": "gu/gu_form2/1388_MG20_HuleLinganaAre_3_20_gu.JPG",
         "year": 1388

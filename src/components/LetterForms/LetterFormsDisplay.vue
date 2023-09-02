@@ -81,7 +81,7 @@ export default {
         },
 
         getGroupName(formId, groupCount) {
-            return "ರೂಪ " + formId.substr(-1) + "" + groupCount
+            return "ರೂಪ " + formId.substr(-1)
         },
 
         getGroupedForms(letterForms) {

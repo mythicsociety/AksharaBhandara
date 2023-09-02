@@ -55,15 +55,8 @@
   {
     "id": 5,
     "key": "ಘು",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "ghu_form1",
-        "path": "ghu/ghu_form1/1850_AN111_Bannerughatta_1_2_ghu.JPG",
-        "year": 1850
-      }
-    ],
+    "isAvailable": false,
+    "letterForms": [],
     "IASTform": ""
   },
   {

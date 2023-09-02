@@ -67,17 +67,137 @@
       {
         "id": 11,
         "form": "bha_form1",
+        "path": "bha/bha_form1/1705_BN118_Kothnur_1_2_bha.jpg",
+        "year": 1705
+      },
+      {
+        "id": 12,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1705_BN118_Kothnur_20_6_bha.jpg",
+        "year": 1705
+      },
+      {
+        "id": 13,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1705_BN118_Kothnur_21_22_bha.jpg",
+        "year": 1705
+      },
+      {
+        "id": 14,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1705_BN118_Kothnur_3_5_bha.jpg",
+        "year": 1705
+      },
+      {
+        "id": 15,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1750_Dv89_Jalige_1_2_bha.JPG",
+        "year": 1750
+      },
+      {
+        "id": 16,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1750_Dv89_Jalige_6_5_bha.JPG",
+        "year": 1750
+      },
+      {
+        "id": 17,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1750_Dv89_Jalige_7_2_bha.JPG",
+        "year": 1750
+      },
+      {
+        "id": 18,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1759_An90_Bingipura_22_2_bha.png",
+        "year": 1759
+      },
+      {
+        "id": 19,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1759_An90_Bingipura_29_7_bha.png",
+        "year": 1759
+      },
+      {
+        "id": 20,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1800_BN17_Yalahanka_1_3_bha.JPG",
+        "year": 1800
+      },
+      {
+        "id": 21,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1800_Dv90_Kamenahalli_1_2_bha.JPG",
+        "year": 1800
+      },
+      {
+        "id": 22,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1850_AN111_Bannerughatta_11_4_bha.JPG",
+        "year": 1850
+      },
+      {
+        "id": 23,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/1850_AN111_Bannerughatta_8_2_bha.JPG",
+        "year": 1850
+      },
+      {
+        "id": 24,
+        "form": "bha_form1",
+        "path": "bha/bha_form1/750_NL33_Totagere_5_1_bha.JPG",
+        "year": 750
+      },
+      {
+        "id": 25,
+        "form": "bha_form1",
         "path": "bha/bha_form1/900_Dv42_Aradeshanahalli_1_14_bha.JPG",
         "year": 900
       },
       {
-        "id": 12,
+        "id": 26,
         "form": "bha_form1",
         "path": "bha/bha_form1/900_Dv42_Aradeshanahalli_1_27_bha.JPG",
         "year": 900
       },
       {
-        "id": 13,
+        "id": 27,
+        "form": "bha_form2",
+        "path": "bha/bha_form2/1716_Db63_Mavallipura_12_24_bha.png",
+        "year": 1716
+      },
+      {
+        "id": 28,
+        "form": "bha_form2",
+        "path": "bha/bha_form2/1716_Db63_Mavallipura_13_17_bha.png",
+        "year": 1716
+      },
+      {
+        "id": 29,
+        "form": "bha_form2",
+        "path": "bha/bha_form2/1716_Db63_Mavallipura_13_8_bha.png",
+        "year": 1716
+      },
+      {
+        "id": 30,
+        "form": "bha_form2",
+        "path": "bha/bha_form2/1716_Db63_Mavallipura_21_20_bha.png",
+        "year": 1716
+      },
+      {
+        "id": 31,
+        "form": "bha_form2",
+        "path": "bha/bha_form2/1716_Db63_Mavallipura_3_12_bha.png",
+        "year": 1716
+      },
+      {
+        "id": 32,
+        "form": "bha_form2",
+        "path": "bha/bha_form2/1716_Db63_Mavallipura_3_5_bha.png",
+        "year": 1716
+      },
+      {
+        "id": 33,
         "form": "bha_form2",
         "path": "bha/bha_form2/900_Bn94_Begur_1_2_bha.JPG",
         "year": 900
@@ -171,14 +291,80 @@
       {
         "id": 14,
         "form": "bhā_form1",
-        "path": "bhā/bhā_form1/900_CP141_Malurpatna_17_3_bhā.JPG",
-        "year": 900
+        "path": "bhā/bhā_form1/1716_Db63_Mavallipura_3_9_bhā.png",
+        "year": 1716
       },
       {
         "id": 15,
         "form": "bhā_form1",
+        "path": "bhā/bhā_form1/1750_Dv89_Jalige_6_9_bhā.JPG",
+        "year": 1750
+      },
+      {
+        "id": 16,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/1850_AN111_Bannerughatta_16_4_bhā.JPG",
+        "year": 1850
+      },
+      {
+        "id": 17,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/1850_AN111_Bannerughatta_17_1_bhā.JPG",
+        "year": 1850
+      },
+      {
+        "id": 18,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/1850_AN111_Bannerughatta_18_1_bhā.JPG",
+        "year": 1850
+      },
+      {
+        "id": 19,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/1850_AN111_Bannerughatta_18_5_bhā.JPG",
+        "year": 1850
+      },
+      {
+        "id": 20,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/1850_AN111_Bannerughatta_3_1_bhā.JPG",
+        "year": 1850
+      },
+      {
+        "id": 21,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/1850_AN111_Bannerughatta_4_3_bhā.JPG",
+        "year": 1850
+      },
+      {
+        "id": 22,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/1850_AN111_Bannerughatta_4_9_bhā.JPG",
+        "year": 1850
+      },
+      {
+        "id": 23,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/750_NL33_Totagere_5_11_bhā.JPG",
+        "year": 750
+      },
+      {
+        "id": 24,
+        "form": "bhā_form1",
+        "path": "bhā/bhā_form1/900_CP141_Malurpatna_17_3_bhā.JPG",
+        "year": 900
+      },
+      {
+        "id": 25,
+        "form": "bhā_form1",
         "path": "bhā/bhā_form1/996_CP144_Malurpatna_2_4_bhā.JPG",
         "year": 996
+      },
+      {
+        "id": 26,
+        "form": "bhā_form2",
+        "path": "bhā/bhā_form2/1828_Cp108_Kudluru_17_4_bhā.JPG",
+        "year": 1828
       }
     ],
     "IASTform": ""
@@ -197,11 +383,29 @@
       {
         "id": 2,
         "form": "bhi_form1",
+        "path": "bhi/bhi_form1/1716_Db63_Mavallipura_7_16_bhi.png",
+        "year": 1716
+      },
+      {
+        "id": 3,
+        "form": "bhi_form1",
+        "path": "bhi/bhi_form1/1850_AN111_Bannerughatta_13_5_bhi.JPG",
+        "year": 1850
+      },
+      {
+        "id": 4,
+        "form": "bhi_form1",
+        "path": "bhi/bhi_form1/750_NL33_Totagere_4_14_bhi.JPG",
+        "year": 750
+      },
+      {
+        "id": 5,
+        "form": "bhi_form1",
         "path": "bhi/bhi_form1/900_CP141_Malurpatna_5_2_bhi.JPG",
         "year": 900
       },
       {
-        "id": 3,
+        "id": 6,
         "form": "bhi_form2",
         "path": "bhi/bhi_form2/950_Paravastu_Haralur_2_6_bhi.JPG",
         "year": 950
@@ -274,6 +478,18 @@
         "form": "bhu_form1",
         "path": "bhu/bhu_form1/1516_IthDar_Rayasandra_2_1_bhu.JPG",
         "year": 1516
+      },
+      {
+        "id": 10,
+        "form": "bhu_form1",
+        "path": "bhu/bhu_form1/1716_Db63_Mavallipura_9_22_bhu.png",
+        "year": 1716
+      },
+      {
+        "id": 11,
+        "form": "bhu_form2",
+        "path": "bhu/bhu_form2/1705_BN118_Kothnur_22_9_bhu.jpg",
+        "year": 1705
       }
     ],
     "IASTform": ""
@@ -298,11 +514,29 @@
       {
         "id": 3,
         "form": "bhū_form1",
+        "path": "bhū/bhū_form1/1705_BN118_Kothnur_20_16_bhū.jpg",
+        "year": 1705
+      },
+      {
+        "id": 4,
+        "form": "bhū_form1",
+        "path": "bhū/bhū_form1/1705_BN118_Kothnur_22_8_bhū.jpg",
+        "year": 1705
+      },
+      {
+        "id": 5,
+        "form": "bhū_form1",
+        "path": "bhū/bhū_form1/1780_An92_Nanjapura_3_18_bhū.png",
+        "year": 1780
+      },
+      {
+        "id": 6,
+        "form": "bhū_form1",
         "path": "bhū/bhū_form1/800_UnPub_Sadahalli_7_4_bhū.JPG",
         "year": 800
       },
       {
-        "id": 4,
+        "id": 7,
         "form": "bhū_form1",
         "path": "bhū/bhū_form1/900_CP141_Malurpatna_21_3_bhū.JPG",
         "year": 900
@@ -351,8 +585,38 @@
       {
         "id": 2,
         "form": "bho_form1",
+        "path": "bho/bho_form1/1716_Db63_Mavallipura_13_27_bho.png",
+        "year": 1716
+      },
+      {
+        "id": 3,
+        "form": "bho_form1",
+        "path": "bho/bho_form1/1716_Db63_Mavallipura_16_17_bho.png",
+        "year": 1716
+      },
+      {
+        "id": 4,
+        "form": "bho_form1",
+        "path": "bho/bho_form1/1716_Db63_Mavallipura_20_6_bho.png",
+        "year": 1716
+      },
+      {
+        "id": 5,
+        "form": "bho_form1",
+        "path": "bho/bho_form1/1716_Db63_Mavallipura_22_10_bho.png",
+        "year": 1716
+      },
+      {
+        "id": 6,
+        "form": "bho_form1",
         "path": "bho/bho_form1/913_CP161_Mankunda_5_4_bho.JPG",
         "year": 913
+      },
+      {
+        "id": 7,
+        "form": "bho_form2",
+        "path": "bho/bho_form2/1705_BN118_Kothnur_22_12_bho.jpg",
+        "year": 1705
       }
     ],
     "IASTform": ""
@@ -367,8 +631,21 @@
   {
     "id": 11,
     "key": "ಭೈ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "bhai_form1",
+        "path": "bhai/bhai_form1/1716_Db63_Mavallipura_11_10_bhai.png",
+        "year": 1716
+      },
+      {
+        "id": 2,
+        "form": "bhai_form1",
+        "path": "bhai/bhai_form1/1716_Db63_Mavallipura_16_8_bhai.png",
+        "year": 1716
+      }
+    ],
     "IASTform": ""
   },
   {

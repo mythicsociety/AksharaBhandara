@@ -30,9 +30,63 @@
       },
       {
         "id": 5,
+        "form": "ṭa_form1",
+        "path": "ṭa/ṭa_form1/1705_BN118_Kothnur_13_15_ṭa.jpg",
+        "year": 1705
+      },
+      {
+        "id": 6,
+        "form": "ṭa_form1",
+        "path": "ṭa/ṭa_form1/1738_DV06_Singarahalli_4_13_ṭa.JPG",
+        "year": 1738
+      },
+      {
+        "id": 7,
+        "form": "ṭa_form1",
+        "path": "ṭa/ṭa_form1/1738_DV06_Singarahalli_4_4_ṭa.JPG",
+        "year": 1738
+      },
+      {
+        "id": 8,
+        "form": "ṭa_form1",
+        "path": "ṭa/ṭa_form1/1850_AN111_Bannerughatta_12_1_ṭa.JPG",
+        "year": 1850
+      },
+      {
+        "id": 9,
+        "form": "ṭa_form1",
+        "path": "ṭa/ṭa_form1/1850_AN111_Bannerughatta_7_13_ṭa.JPG",
+        "year": 1850
+      },
+      {
+        "id": 10,
         "form": "ṭa_form2",
         "path": "ṭa/ṭa_form2/1363_BN81_AgaraMuseum_11_4_ṭa.JPG",
         "year": 1363
+      },
+      {
+        "id": 11,
+        "form": "ṭa_form2",
+        "path": "ṭa/ṭa_form2/1705_BN118_Kothnur_11_6_ṭa.jpg",
+        "year": 1705
+      },
+      {
+        "id": 12,
+        "form": "ṭa_form2",
+        "path": "ṭa/ṭa_form2/1750_Dv89_Jalige_20_7_ṭa.JPG",
+        "year": 1750
+      },
+      {
+        "id": 13,
+        "form": "ṭa_form2",
+        "path": "ṭa/ṭa_form2/1828_Cp108_Kudluru_11_6_ṭa.JPG",
+        "year": 1828
+      },
+      {
+        "id": 14,
+        "form": "ṭa_form2",
+        "path": "ṭa/ṭa_form2/1828_Cp108_Kudluru_21_3_ṭa.JPG",
+        "year": 1828
       }
     ],
     "IASTform": ""
@@ -59,6 +113,12 @@
         "form": "ṭā_form1",
         "path": "ṭā/ṭā_form1/1340_Bn111_Ramasamudra_40_14_ṭā.JPG",
         "year": 1340
+      },
+      {
+        "id": 4,
+        "form": "ṭā_form1",
+        "path": "ṭā/ṭā_form1/1716_Db63_Mavallipura_8_6_ṭā.png",
+        "year": 1716
       }
     ],
     "IASTform": ""
@@ -112,8 +172,15 @@
   {
     "id": 5,
     "key": "ಟು",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṭu_form1",
+        "path": "ṭu/ṭu_form1/1700_Ht169_Bhaktarahalli_2_8_ṭu.JPG",
+        "year": 1700
+      }
+    ],
     "IASTform": ""
   },
   {
@@ -126,8 +193,27 @@
   {
     "id": 7,
     "key": "ಟೆ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṭe_form1",
+        "path": "ṭe/ṭe_form1/1705_BN118_Kothnur_14_18_ṭe.jpg",
+        "year": 1705
+      },
+      {
+        "id": 2,
+        "form": "ṭe_form1",
+        "path": "ṭe/ṭe_form1/1705_BN118_Kothnur_8_25_ṭe.jpg",
+        "year": 1705
+      },
+      {
+        "id": 3,
+        "form": "ṭe_form1",
+        "path": "ṭe/ṭe_form1/1716_Db63_Mavallipura_7_23_ṭe.png",
+        "year": 1716
+      }
+    ],
     "IASTform": ""
   },
   {

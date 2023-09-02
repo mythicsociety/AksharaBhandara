@@ -33,7 +33,7 @@ export default {
 
           <!-- <h5>Title description, Dec 7, 2017</h5>
           <div class="fakeimg" style="height:200px;">Image</div> -->
-          <img :src="`${publicPath}./assets/mythic-society.png`" :alt="`mythic-society`">
+          <img :src="`${publicPath}./assets/Mythic-society.png`" :alt="`mythic-society`">
 
           <p>ಭಾರತೀಯ ಸಾಂಸ್ಕೃತಿಕ ಅಧ್ಯಯನಕ್ಕೆ ಅರ್ಪಿಸಿಕೊೊಂಡ ಅಭಿಜಾತ ಸಂಸ್ಥೆಗಳ ಪೈಕಿ 'ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ'ಯು
             ಹೆಮ್ಮೆ ಪಡುವಂಥ ಸ್ಥಾನವನ್್ನ ನು ಪಡೆದುಕೊೊಂಡಿದೆ. 1909ರಲ್ಲಿ ಪ್ರಾರಂಭವಾದ ಸಂಸ್ಥೆಯು ಸತತ 114

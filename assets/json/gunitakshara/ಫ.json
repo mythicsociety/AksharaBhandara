@@ -2,8 +2,15 @@
   {
     "id": 1,
     "key": "ಫ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pha_form1",
+        "path": "pha/pha_form1/1759_An90_Bingipura_17_11_pha.png",
+        "year": 1759
+      }
+    ],
     "IASTform": ""
   },
   {

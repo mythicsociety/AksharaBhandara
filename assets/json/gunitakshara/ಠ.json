@@ -15,6 +15,12 @@
         "form": "ṭha_form1",
         "path": "ṭha/ṭha_form1/1388_MG20_HuleLinganaAre_3_4_ṭha.JPG",
         "year": 1388
+      },
+      {
+        "id": 3,
+        "form": "ṭha_form1",
+        "path": "ṭha/ṭha_form1/1700_Ht172_Gonakanahalli_6_7_ṭha.jpg",
+        "year": 1700
       }
     ],
     "IASTform": ""
@@ -57,6 +63,12 @@
         "form": "ṭhī_form1",
         "path": "ṭhī/ṭhī_form1/1340_Bn111_Ramasamudra_12_1_ṭhī.JPG",
         "year": 1340
+      },
+      {
+        "id": 2,
+        "form": "ṭhī_form1",
+        "path": "ṭhī/ṭhī_form1/1705_BN118_Kothnur_6_2_ṭhī.jpg",
+        "year": 1705
       }
     ],
     "IASTform": ""

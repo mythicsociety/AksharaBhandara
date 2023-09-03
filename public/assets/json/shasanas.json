@@ -820,6 +820,204 @@
     "key": "1791_Shasana Adhyayana_Kalatammanahalli"
   },
   {
+    "id": 115020,
+    "displayName": "Singahalli 1698CE Avathinada Prabhu Gopalgowda's Donation Inscription",
+    "imagePath": [
+      "Singarahalli_Litspher07.png"
+    ],
+    "year": 1698,
+    "description": "",
+    "links": [],
+    "key": "1698_Dv70_Singahalli"
+  },
+  {
+    "id": 115021,
+    "displayName": "Basavanagudi 1600CE Birth of Vrishabhavathi River Peeta Inscription",
+    "imagePath": [
+      "Doddabasavannagudi_Bn7001.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_BN70_Basavanagudi"
+  },
+  {
+    "id": 115022,
+    "displayName": "Byrathi 1600CE Revanna Siddiah Muni's Inscription",
+    "imagePath": [
+      "Byrati04.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Ht123_Byrathi"
+  },
+  {
+    "id": 115023,
+    "displayName": "Basavanagudi 1600CE Birth of Vrishabhavathi River Boulder Inscription",
+    "imagePath": [
+      "Doddabasavannagudi00.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_IthDar_basavanagudi"
+  },
+  {
+    "id": 115024,
+    "displayName": "Kalya 1600CE Avi Inscription",
+    "imagePath": [
+      "Aviga01.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_IthDar_Kalya"
+  },
+  {
+    "id": 115025,
+    "displayName": "Kalya 1600CE Kalleshwara Temple North Boulder Inscription",
+    "imagePath": [
+      "Mg2300.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Mg24_Kalya"
+  },
+  {
+    "id": 115026,
+    "displayName": "Kalya 1600CE Devisetti (2nd) Inscription",
+    "imagePath": [
+      "Devisetti103.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Mg100_Kalya"
+  },
+  {
+    "id": 115027,
+    "displayName": "Kalya 1600CE Dundubbi Samvatsara Inscription",
+    "imagePath": [
+      "Kalya_Devishetti2_unpublished_Inscription05.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Unpub_Kalya"
+  },
+  {
+    "id": 115028,
+    "displayName": "Kalya 1600CE Devisetti Inscription",
+    "imagePath": [
+      "Devisetti204.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Unpub_Kalya (Devisetti2)"
+  },
+  {
+    "id": 115029,
+    "displayName": "Bommanabande 1609CE Donation Inscription",
+    "imagePath": [
+      "Bommanabande07.png"
+    ],
+    "year": 1609,
+    "description": "",
+    "links": [],
+    "key": "1609_Ht184_Bommanabande"
+  },
+  {
+    "id": 115030,
+    "displayName": "Nagenahalli 1610CE Immadi Havali Bayirappa Gowda's Donation Inscription",
+    "imagePath": [
+      "Nagenahalli01.png"
+    ],
+    "year": 1610,
+    "description": "",
+    "links": [],
+    "key": "1610_Db49_Nagenahalli"
+  },
+  {
+    "id": 115031,
+    "displayName": "Muttanallur 1618CE Thimmarakka's Nagastone Inscription",
+    "imagePath": [
+      "Muttanallur02.png"
+    ],
+    "year": 1618,
+    "description": "",
+    "links": [],
+    "key": "1618_Unpub_Muttanallur"
+  },
+  {
+    "id": 115032,
+    "displayName": "Kalya 1621CE Kalleshwara Temple Chandrasekara Odeya Donation Inscription",
+    "imagePath": [
+      "Mg2306.png"
+    ],
+    "year": 1621,
+    "description": "",
+    "links": [],
+    "key": "1621_Mg25_Kalya"
+  },
+  {
+    "id": 115033,
+    "displayName": "Byalahalli 1625CE Lokapaiya's Umbali Inscription",
+    "imagePath": [
+      "Byalahalli01.png"
+    ],
+    "year": 1625,
+    "description": "",
+    "links": [],
+    "key": "1625_Unpub_Byalahalli"
+  },
+  {
+    "id": 115034,
+    "displayName": "Muninagara 1634CE Immadi Kempegowda's Donation Inscription",
+    "imagePath": [
+      "Muninagara01.png"
+    ],
+    "year": 1634,
+    "description": "",
+    "links": [],
+    "key": "1634_IthDar_Muninagara"
+  },
+  {
+    "id": 115035,
+    "displayName": "Malleshwaram 1669CE Ekoji's Mallapura Mallikarjuna Temple Donation Inscription",
+    "imagePath": [
+      "Maleshvaram02.png"
+    ],
+    "year": 1669,
+    "description": "",
+    "links": [],
+    "key": "1669_BN159_Malleshvaram"
+  },
+  {
+    "id": 115036,
+    "displayName": "Sonda 1674CE Shree Swarnavalli Matha Inscription",
+    "imagePath": [
+      "Sonda_snapshot01_L01.png"
+    ],
+    "year": 1674,
+    "description": "",
+    "links": [],
+    "key": "1674_Epigraphia Indica_Vol 32_Sonda"
+  },
+  {
+    "id": 115037,
+    "displayName": "Hebbal 1689CE Marigegowda's Donation Inscription",
+    "imagePath": [
+      "Hebbal_Bn136_inscription01.png"
+    ],
+    "year": 1689,
+    "description": "",
+    "links": [],
+    "key": "1689_BN136_Hebbal"
+  },
+  {
     "id": 113903,
     "displayName": "Dummy Inscription",
     "imagePath": [
@@ -865,5 +1063,23 @@
     "links": [],
     "year": 1716,
     "key": "1716_Db63_Mavallipura"
+  },
+  {
+    "id": 3605573,
+    "displayName": "1674 EpigraphiaIndica Vol32",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1674,
+    "key": "1674_EpigraphiaIndica_Vol32"
+  },
+  {
+    "id": 3986009,
+    "displayName": "1600 Unpub Kalya(Devisetti2)",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1600,
+    "key": "1600_Unpub_Kalya(Devisetti2)"
   }
 ]

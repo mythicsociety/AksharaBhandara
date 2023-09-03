@@ -19,11 +19,17 @@
       {
         "id": 3,
         "form": "gha_form1",
+        "path": "gha/gha_form1/1674_EpigraphiaIndica_Vol32_Sonda_2_18_gha.JPG",
+        "year": 1674
+      },
+      {
+        "id": 4,
+        "form": "gha_form1",
         "path": "gha/gha_form1/900_CP204_Malurpatna_6_5_gha.JPG",
         "year": 900
       },
       {
-        "id": 4,
+        "id": 5,
         "form": "gha_form1",
         "path": "gha/gha_form1/900_IthDar_Kaikondrahalli_11_5_gha.JPG",
         "year": 900

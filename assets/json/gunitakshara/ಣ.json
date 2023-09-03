@@ -193,173 +193,287 @@
       {
         "id": 32,
         "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1600_Ht123_Byrathi_1_15_ṇa.JPG",
+        "year": 1600
+      },
+      {
+        "id": 33,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1600_Ht123_Byrathi_2_19_ṇa.JPG",
+        "year": 1600
+      },
+      {
+        "id": 34,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1609_Ht184_Bommanabande_10_3_ṇa.JPG",
+        "year": 1609
+      },
+      {
+        "id": 35,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1609_Ht184_Bommanabande_9_8_ṇa.JPG",
+        "year": 1609
+      },
+      {
+        "id": 36,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1610_Db49_Nagenahalli_13_5_ṇa.png",
+        "year": 1610
+      },
+      {
+        "id": 37,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1610_Db49_Nagenahalli_16_27_ṇa.png",
+        "year": 1610
+      },
+      {
+        "id": 38,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1610_Db49_Nagenahalli_16_3_ṇa.png",
+        "year": 1610
+      },
+      {
+        "id": 39,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1610_Db49_Nagenahalli_20_27_ṇa.png",
+        "year": 1610
+      },
+      {
+        "id": 40,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1610_Db49_Nagenahalli_2_17_ṇa.png",
+        "year": 1610
+      },
+      {
+        "id": 41,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1610_Db49_Nagenahalli_6_29_ṇa.png",
+        "year": 1610
+      },
+      {
+        "id": 42,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1610_Db49_Nagenahalli_7_12_ṇa.png",
+        "year": 1610
+      },
+      {
+        "id": 43,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1610_Db49_Nagenahalli_8_14_ṇa.png",
+        "year": 1610
+      },
+      {
+        "id": 44,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1621_Mg25_Kalya_3_9_ṇa.JPG",
+        "year": 1621
+      },
+      {
+        "id": 45,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1634_IthDar_Muninagara_2_9_ṇa.JPG",
+        "year": 1634
+      },
+      {
+        "id": 46,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1689_BN136_Hebbal_4_6_ṇa.JPG",
+        "year": 1689
+      },
+      {
+        "id": 47,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1689_BN136_Hebbal_4_9_ṇa.JPG",
+        "year": 1689
+      },
+      {
+        "id": 48,
+        "form": "ṇa_form1",
+        "path": "ṇa/ṇa_form1/1698_Dv70_Singahalli_12_11_ṇa.JPG",
+        "year": 1698
+      },
+      {
+        "id": 49,
+        "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1705_BN118_Kothnur_12_25_ṇa.jpg",
         "year": 1705
       },
       {
-        "id": 33,
+        "id": 50,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1705_BN118_Kothnur_17_4_ṇa.jpg",
         "year": 1705
       },
       {
-        "id": 34,
+        "id": 51,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1705_BN118_Kothnur_2_26_ṇa.jpg",
         "year": 1705
       },
       {
-        "id": 35,
+        "id": 52,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1705_BN118_Kothnur_6_22_ṇa.jpg",
         "year": 1705
       },
       {
-        "id": 36,
+        "id": 53,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1716_Db63_Mavallipura_10_6_ṇa.png",
         "year": 1716
       },
       {
-        "id": 37,
+        "id": 54,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1716_Db63_Mavallipura_18_25_ṇa.png",
         "year": 1716
       },
       {
-        "id": 38,
+        "id": 55,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1716_Db63_Mavallipura_18_7_ṇa.png",
         "year": 1716
       },
       {
-        "id": 39,
+        "id": 56,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1716_Db63_Mavallipura_19_17_ṇa.png",
         "year": 1716
       },
       {
-        "id": 40,
+        "id": 57,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1738_DV06_Singarahalli_1_14_ṇa.JPG",
         "year": 1738
       },
       {
-        "id": 41,
+        "id": 58,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1738_DV06_Singarahalli_7_5_ṇa.JPG",
         "year": 1738
       },
       {
-        "id": 42,
+        "id": 59,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1800_Dv05_Nagamangala_1_6_ṇa.JPG",
         "year": 1800
       },
       {
-        "id": 43,
+        "id": 60,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/1850_AN111_Bannerughatta_9_11_ṇa.JPG",
         "year": 1850
       },
       {
-        "id": 44,
+        "id": 61,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/900_Bn174_Begur_3_4_ṇa.JPG",
         "year": 900
       },
       {
-        "id": 45,
+        "id": 62,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/900_Bn174_Begur_6_8_ṇa.JPG",
         "year": 900
       },
       {
-        "id": 46,
+        "id": 63,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/900_CP204_Malurpatna_3_3_ṇa.JPG",
         "year": 900
       },
       {
-        "id": 47,
+        "id": 64,
         "form": "ṇa_form1",
         "path": "ṇa/ṇa_form1/913_CP161_Mankunda_8_6_ṇa.JPG",
         "year": 913
       },
       {
-        "id": 48,
+        "id": 65,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1329_IthDar_Kadatanamale_9_11_ṇa.JPG",
         "year": 1329
       },
       {
-        "id": 49,
+        "id": 66,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1336_Bn120_Katanayakanapura_2_6_ṇa.JPG",
         "year": 1336
       },
       {
-        "id": 50,
+        "id": 67,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1353_IthDar_Bidarahalli_9_7_ṇa.JPG",
         "year": 1353
       },
       {
-        "id": 51,
+        "id": 68,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1369_CP150_Malurpatna_11_8_ṇa.JPG",
         "year": 1369
       },
       {
-        "id": 52,
+        "id": 69,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1400_Bn90_Begurdoorpost_6_2_ṇa.jpg",
         "year": 1400
       },
       {
-        "id": 53,
+        "id": 70,
+        "form": "ṇa_form2",
+        "path": "ṇa/ṇa_form2/1669_BN159_Malleshvaram_6_20_ṇa.JPG",
+        "year": 1669
+      },
+      {
+        "id": 71,
+        "form": "ṇa_form2",
+        "path": "ṇa/ṇa_form2/1698_Dv70_Singahalli_6_11_ṇa.JPG",
+        "year": 1698
+      },
+      {
+        "id": 72,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1700_BN167_Kalkere_4_11_ṇa.png",
         "year": 1700
       },
       {
-        "id": 54,
+        "id": 73,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1705_BN118_Kothnur_19_25_ṇa.jpg",
         "year": 1705
       },
       {
-        "id": 55,
+        "id": 74,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1716_Db63_Mavallipura_19_14_ṇa.png",
         "year": 1716
       },
       {
-        "id": 56,
+        "id": 75,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1750_Dv89_Jalige_10_5_ṇa.JPG",
         "year": 1750
       },
       {
-        "id": 57,
+        "id": 76,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1750_Dv89_Jalige_13_12_ṇa.JPG",
         "year": 1750
       },
       {
-        "id": 58,
+        "id": 77,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1750_Dv89_Jalige_20_8_ṇa.JPG",
         "year": 1750
       },
       {
-        "id": 59,
+        "id": 78,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1828_Cp108_Kudluru_9_5_ṇa.JPG",
         "year": 1828
       },
       {
-        "id": 60,
+        "id": 79,
         "form": "ṇa_form2",
         "path": "ṇa/ṇa_form2/1850_AN111_Bannerughatta_10_9_ṇa.JPG",
         "year": 1850
@@ -479,47 +593,59 @@
       {
         "id": 9,
         "form": "ṇi_form1",
+        "path": "ṇi/ṇi_form1/1610_Db49_Nagenahalli_21_4_ṇi.png",
+        "year": 1610
+      },
+      {
+        "id": 10,
+        "form": "ṇi_form1",
+        "path": "ṇi/ṇi_form1/1621_Mg25_Kalya_6_11_ṇi.JPG",
+        "year": 1621
+      },
+      {
+        "id": 11,
+        "form": "ṇi_form1",
         "path": "ṇi/ṇi_form1/1705_BN118_Kothnur_14_2_ṇi.jpg",
         "year": 1705
       },
       {
-        "id": 10,
+        "id": 12,
         "form": "ṇi_form1",
         "path": "ṇi/ṇi_form1/1759_An90_Bingipura_11_8_ṇi.png",
         "year": 1759
       },
       {
-        "id": 11,
+        "id": 13,
         "form": "ṇi_form1",
         "path": "ṇi/ṇi_form1/750_NL33_Totagere_8_14_ṇi.JPG",
         "year": 750
       },
       {
-        "id": 12,
+        "id": 14,
         "form": "ṇi_form1",
         "path": "ṇi/ṇi_form1/750_UnPub_Atturu_2_3_ṇi.JPG",
         "year": 750
       },
       {
-        "id": 13,
+        "id": 15,
         "form": "ṇi_form1",
         "path": "ṇi/ṇi_form1/900_CP141_Malurpatna_1_5_ṇi.JPG",
         "year": 900
       },
       {
-        "id": 14,
+        "id": 16,
         "form": "ṇi_form1",
         "path": "ṇi/ṇi_form1/900_Dv42_Aradeshanahalli_8_3_ṇi.JPG",
         "year": 900
       },
       {
-        "id": 15,
+        "id": 17,
         "form": "ṇi_form1",
         "path": "ṇi/ṇi_form1/900_HT110_Kumbalahalli_5_2_ṇi.JPG",
         "year": 900
       },
       {
-        "id": 16,
+        "id": 18,
         "form": "ṇi_form2",
         "path": "ṇi/ṇi_form2/1400_Bn90_Begurdoorpost_9_2_ṇi.jpg",
         "year": 1400
@@ -650,11 +776,17 @@
       {
         "id": 2,
         "form": "ṇaṃ_form1",
+        "path": "ṇaṃ/ṇaṃ_form1/1610_Db49_Nagenahalli_27_13_ṇaṃ.png",
+        "year": 1610
+      },
+      {
+        "id": 3,
+        "form": "ṇaṃ_form1",
         "path": "ṇaṃ/ṇaṃ_form1/1700_Ht172_Gonakanahalli_4_7_ṇaṃ.jpg",
         "year": 1700
       },
       {
-        "id": 3,
+        "id": 4,
         "form": "ṇaṃ_form1",
         "path": "ṇaṃ/ṇaṃ_form1/1705_BN118_Kothnur_19_6_ṇaṃ.jpg",
         "year": 1705

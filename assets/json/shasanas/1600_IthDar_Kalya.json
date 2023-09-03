@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "year": 1600,
+    "encoding": "IthDar",
+    "place": "Kalya",
+    "lineNumber": 1,
+    "posNumber": 1,
+    "letter": "a",
+    "fileName": "1600_IthDar_Kalya_1_1_a",
+    "filePath": "a/a_form1/1600_IthDar_Kalya_1_1_a.JPG",
+    "kannadaWord": "ಅ"
+  },
+  {
+    "id": 2,
+    "year": 1600,
+    "encoding": "IthDar",
+    "place": "Kalya",
+    "lineNumber": 1,
+    "posNumber": 2,
+    "letter": "vi",
+    "fileName": "1600_IthDar_Kalya_1_2_vi",
+    "filePath": "vi/vi_form2/1600_IthDar_Kalya_1_2_vi.JPG",
+    "kannadaWord": "ವಿ"
+  }
+]

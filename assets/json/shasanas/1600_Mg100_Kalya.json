@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "year": 1600,
+    "encoding": "Mg100",
+    "place": "Kalya",
+    "lineNumber": 1,
+    "posNumber": 1,
+    "letter": "de",
+    "fileName": "1600_Mg100_Kalya_1_1_de",
+    "filePath": "de/de_form2/1600_Mg100_Kalya_1_1_de.JPG",
+    "kannadaWord": "ದೇ"
+  },
+  {
+    "id": 2,
+    "year": 1600,
+    "encoding": "Mg100",
+    "place": "Kalya",
+    "lineNumber": 1,
+    "posNumber": 3,
+    "letter": "sĕ",
+    "fileName": "1600_Mg100_Kalya_1_3_sĕ",
+    "filePath": "sĕ/sĕ_form1/1600_Mg100_Kalya_1_3_sĕ.JPG",
+    "kannadaWord": "ಸೆ"
+  },
+  {
+    "id": 3,
+    "year": 1600,
+    "encoding": "Mg100",
+    "place": "Kalya",
+    "lineNumber": 1,
+    "posNumber": 2,
+    "letter": "vi",
+    "fileName": "1600_Mg100_Kalya_1_2_vi",
+    "filePath": "vi/vi_form1/1600_Mg100_Kalya_1_2_vi.JPG",
+    "kannadaWord": "ವಿ"
+  },
+  {
+    "id": 4,
+    "year": 1600,
+    "encoding": "Mg100",
+    "place": "Kalya",
+    "lineNumber": 1,
+    "posNumber": 4,
+    "letter": "ṭṭhi",
+    "fileName": "1600_Mg100_Kalya_1_4_ṭṭhi",
+    "filePath": "ṭṭhi/ṭṭhi_form1/1600_Mg100_Kalya_1_4_ṭṭhi.JPG",
+    "kannadaWord": "ಟ್ಠಿ"
+  }
+]

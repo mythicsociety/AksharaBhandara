@@ -7,32 +7,98 @@
       {
         "id": 1,
         "form": "gha_form1",
+        "path": "gha/gha_form1/1309_BannerughattaDar_Bannerughatta_8_22_gha.JPG",
+        "year": 1309
+      },
+      {
+        "id": 2,
+        "form": "gha_form1",
         "path": "gha/gha_form1/1336_Bn110_Byadarahalli_23_2_gha.JPG",
         "year": 1336
       },
       {
-        "id": 2,
+        "id": 3,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/1361_An86_Bannerughatta_6_7_gha.JPG",
+        "year": 1361
+      },
+      {
+        "id": 4,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/1362_An82_Bannerughatta_5_9_gha.JPG",
+        "year": 1362
+      },
+      {
+        "id": 5,
         "form": "gha_form1",
         "path": "gha/gha_form1/1369_CP150_Malurpatna_13_19_gha.JPG",
         "year": 1369
       },
       {
-        "id": 3,
+        "id": 6,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/1383_An81_Bannerughatta_5_13_gha.JPG",
+        "year": 1383
+      },
+      {
+        "id": 7,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/1432_CP149_Malurpatna_4_22_gha.JPG",
+        "year": 1432
+      },
+      {
+        "id": 8,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/1532_BN57_Dasarahalli_3_8_gha.jpg",
+        "year": 1532
+      },
+      {
+        "id": 9,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/1533_Nl31_Hessarghatta_15_31_gha.JPG",
+        "year": 1533
+      },
+      {
+        "id": 10,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/1533_Nl31_Hessarghatta_3_65_gha.JPG",
+        "year": 1533
+      },
+      {
+        "id": 11,
+        "form": "gha_form1",
+        "path": "gha/gha_form1/1533_Nl31_Hessarghatta_4_9_gha.JPG",
+        "year": 1533
+      },
+      {
+        "id": 12,
         "form": "gha_form1",
         "path": "gha/gha_form1/1674_EpigraphiaIndica_Vol32_Sonda_2_18_gha.JPG",
         "year": 1674
       },
       {
-        "id": 4,
+        "id": 13,
         "form": "gha_form1",
         "path": "gha/gha_form1/900_CP204_Malurpatna_6_5_gha.JPG",
         "year": 900
       },
       {
-        "id": 5,
+        "id": 14,
         "form": "gha_form1",
         "path": "gha/gha_form1/900_IthDar_Kaikondrahalli_11_5_gha.JPG",
         "year": 900
+      },
+      {
+        "id": 15,
+        "form": "gha_form2",
+        "path": "gha/gha_form2/1309_BannerughattaDar_Bannerughatta_7_11_gha.JPG",
+        "year": 1309
+      },
+      {
+        "id": 16,
+        "form": "gha_form2",
+        "path": "gha/gha_form2/1336_BN110_Byadarahalli_23_2_gha.JPG",
+        "year": 1336
       }
     ],
     "IASTform": ""
@@ -40,8 +106,15 @@
   {
     "id": 2,
     "key": "ಘಾ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ghā_form1",
+        "path": "ghā/ghā_form1/1432_CP149_Malurpatna_6_8_ghā.JPG",
+        "year": 1432
+      }
+    ],
     "IASTform": ""
   },
   {
@@ -138,8 +211,21 @@
   {
     "id": 15,
     "key": "ಘಂ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ghaṃ_form1",
+        "path": "ghaṃ/ghaṃ_form1/1362_An82_Bannerughatta_3_22_ghaṃ.JPG",
+        "year": 1362
+      },
+      {
+        "id": 2,
+        "form": "ghaṃ_form1",
+        "path": "ghaṃ/ghaṃ_form1/1412_DV59_Chikkajala_12_15_ghaṃ.JPG",
+        "year": 1412
+      }
+    ],
     "IASTform": ""
   }
 ]

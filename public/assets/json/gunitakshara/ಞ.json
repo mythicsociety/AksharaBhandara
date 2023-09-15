@@ -16,8 +16,15 @@
   {
     "id": 2,
     "key": "ಞಾ",
-    "isAvailable": false,
-    "letterForms": [],
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ñā_form1",
+        "path": "ñā/ñā_form1/1500_Unpub_Mutkur_3_1_ñā.JPG",
+        "year": 1500
+      }
+    ],
     "IASTform": ""
   },
   {

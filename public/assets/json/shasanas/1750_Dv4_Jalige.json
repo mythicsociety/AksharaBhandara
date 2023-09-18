@@ -9,7 +9,7 @@
     "letter": "aṃ",
     "fileName": "1750_Dv4_Jalige_2_3_aṃ",
     "filePath": "aṃ/aṃ_form1/1750_Dv4_Jalige_2_3_aṃ.JPG",
-    "kannadaWord": "ಅಂ"
+    "kannadaWord": ""
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "letter": "cā",
     "fileName": "1750_Dv4_Jalige_1_2_cā",
     "filePath": "cā/cā_form1/1750_Dv4_Jalige_1_2_cā.JPG",
-    "kannadaWord": "ಚಾ"
+    "kannadaWord": ""
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "letter": "ma",
     "fileName": "1750_Dv4_Jalige_3_1_ma",
     "filePath": "ma/ma_form1/1750_Dv4_Jalige_3_1_ma.JPG",
-    "kannadaWord": "ಮ"
+    "kannadaWord": ""
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "letter": "muṃ",
     "fileName": "1750_Dv4_Jalige_1_3_muṃ",
     "filePath": "muṃ/muṃ_form1/1750_Dv4_Jalige_1_3_muṃ.JPG",
-    "kannadaWord": "ಮುಂ"
+    "kannadaWord": ""
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "letter": "na",
     "fileName": "1750_Dv4_Jalige_3_2_na",
     "filePath": "na/na_form1/1750_Dv4_Jalige_3_2_na.JPG",
-    "kannadaWord": "ನ"
+    "kannadaWord": ""
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "letter": "rri",
     "fileName": "1750_Dv4_Jalige_2_2_rri",
     "filePath": "rri/rri_form1/1750_Dv4_Jalige_2_2_rri.JPG",
-    "kannadaWord": "ರ್ರಿ"
+    "kannadaWord": ""
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "letter": "ru",
     "fileName": "1750_Dv4_Jalige_3_4_ru",
     "filePath": "ru/ru_form1/1750_Dv4_Jalige_3_4_ru.JPG",
-    "kannadaWord": "ರು"
+    "kannadaWord": ""
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "letter": "va",
     "fileName": "1750_Dv4_Jalige_3_3_va",
     "filePath": "va/va_form1/1750_Dv4_Jalige_3_3_va.JPG",
-    "kannadaWord": "ವ"
+    "kannadaWord": ""
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "letter": "śrī",
     "fileName": "1750_Dv4_Jalige_1_1_śrī",
     "filePath": "śrī/śrī_form1/1750_Dv4_Jalige_1_1_śrī.JPG",
-    "kannadaWord": "ಶ್ರೀ"
+    "kannadaWord": ""
   },
   {
     "id": 10,
@@ -117,6 +117,6 @@
     "letter": "śva",
     "fileName": "1750_Dv4_Jalige_2_1_śva",
     "filePath": "śva/śva_form1/1750_Dv4_Jalige_2_1_śva.JPG",
-    "kannadaWord": "ಶ್ವ"
+    "kannadaWord": ""
   }
 ]

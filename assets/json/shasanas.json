@@ -1847,5 +1847,113 @@
     "links": [],
     "year": 1328,
     "key": "1329_unpub_Sadahalli"
+  },
+  {
+    "id": 5964330,
+    "displayName": "letter",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": -1,
+    "key": "letter"
+  },
+  {
+    "id": 7558614,
+    "displayName": "1336 Bn110 Byadarahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1336,
+    "key": "1336_Bn110_Byadarahalli"
+  },
+  {
+    "id": 9270679,
+    "displayName": "800 BN38 Tdasarahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 800,
+    "key": "800_BN38_Tdasarahalli"
+  },
+  {
+    "id": 1820389,
+    "displayName": "800 BN39 Tdasarahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 800,
+    "key": "800_BN39_Tdasarahalli"
+  },
+  {
+    "id": 9989143,
+    "displayName": "1402 ShasanaAdhyayana Yelachenahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1402,
+    "key": "1402_ShasanaAdhyayana_Yelachenahalli"
+  },
+  {
+    "id": 3679193,
+    "displayName": "1700 BN121 Kambipura",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1700,
+    "key": "1700_BN121_Kambipura"
+  },
+  {
+    "id": 2996143,
+    "displayName": "1700 Ht169 Bhaktarahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1700,
+    "key": "1700_Ht169_Bhaktarahalli"
+  },
+  {
+    "id": 7629814,
+    "displayName": "1791 ShasanaAdhyayana Kalatammanahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1791,
+    "key": "1791_ShasanaAdhyayana_Kalatammanahalli"
+  },
+  {
+    "id": 7467256,
+    "displayName": "1345 Dv3 Jalige",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1345,
+    "key": "1345_Dv3_Jalige"
+  },
+  {
+    "id": 6763272,
+    "displayName": "1674 EpigraphiaIndica Vol32",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1674,
+    "key": "1674_EpigraphiaIndica_Vol32"
+  },
+  {
+    "id": 6917951,
+    "displayName": "770 CP141 Malurpatna",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 770,
+    "key": "770_CP141_Malurpatna"
+  },
+  {
+    "id": 8729817,
+    "displayName": "1600 Unpub Kalya(Devisetti2)",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1600,
+    "key": "1600_Unpub_Kalya(Devisetti2)"
   }
 ]

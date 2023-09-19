@@ -9,7 +9,7 @@
     "letter": "a",
     "fileName": "1500_Unpub_Chinakurchi_2_5_a",
     "filePath": "a/a_form2/1500_Unpub_Chinakurchi_2_5_a.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಅ"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "letter": "ci",
     "fileName": "1500_Unpub_Chinakurchi_2_3_ci",
     "filePath": "ci/ci_form1/1500_Unpub_Chinakurchi_2_3_ci.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಚಿ"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "letter": "ci",
     "fileName": "1500_Unpub_Chinakurchi_3_5_ci",
     "filePath": "ci/ci_form1/1500_Unpub_Chinakurchi_3_5_ci.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಚಿ"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "letter": "da",
     "fileName": "1500_Unpub_Chinakurchi_5_8_da",
     "filePath": "da/da_form1/1500_Unpub_Chinakurchi_5_8_da.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ದ"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "letter": "ga",
     "fileName": "1500_Unpub_Chinakurchi_4_4_ga",
     "filePath": "ga/ga_form2/1500_Unpub_Chinakurchi_4_4_ga.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಗ"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "letter": "gi",
     "fileName": "1500_Unpub_Chinakurchi_4_3_gi",
     "filePath": "gi/gi_form2/1500_Unpub_Chinakurchi_4_3_gi.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಗಿ"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "letter": "gĕ",
     "fileName": "1500_Unpub_Chinakurchi_3_4_gĕ",
     "filePath": "gĕ/gĕ_form2/1500_Unpub_Chinakurchi_3_4_gĕ.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಗೆ"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "letter": "ka",
     "fileName": "1500_Unpub_Chinakurchi_6_1_ka",
     "filePath": "ka/ka_form1/1500_Unpub_Chinakurchi_6_1_ka.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಕ"
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "letter": "kaṃ",
     "fileName": "1500_Unpub_Chinakurchi_2_2_kaṃ",
     "filePath": "kaṃ/kaṃ_form2/1500_Unpub_Chinakurchi_2_2_kaṃ.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಕಂ"
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "letter": "ki",
     "fileName": "1500_Unpub_Chinakurchi_3_9_ki",
     "filePath": "ki/ki_form2/1500_Unpub_Chinakurchi_3_9_ki.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಕಿ"
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
     "letter": "kkĕ",
     "fileName": "1500_Unpub_Chinakurchi_5_3_kkĕ",
     "filePath": "kkĕ/kkĕ_form2/1500_Unpub_Chinakurchi_5_3_kkĕ.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಕ್ಕೆ"
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
     "letter": "ku",
     "fileName": "1500_Unpub_Chinakurchi_3_7_ku",
     "filePath": "ku/ku_form3/1500_Unpub_Chinakurchi_3_7_ku.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಕು"
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
     "letter": "kŏ",
     "fileName": "1500_Unpub_Chinakurchi_6_5_kŏ",
     "filePath": "kŏ/kŏ_form1/1500_Unpub_Chinakurchi_6_5_kŏ.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಕೊ"
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
     "letter": "la",
     "fileName": "1500_Unpub_Chinakurchi_3_6_la",
     "filePath": "la/la_form2/1500_Unpub_Chinakurchi_3_6_la.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಲ"
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
     "letter": "la",
     "fileName": "1500_Unpub_Chinakurchi_4_8_la",
     "filePath": "la/la_form2/1500_Unpub_Chinakurchi_4_8_la.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಲ"
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
     "letter": "lā",
     "fileName": "1500_Unpub_Chinakurchi_2_6_lā",
     "filePath": "lā/lā_form1/1500_Unpub_Chinakurchi_2_6_lā.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಲಾ"
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
     "letter": "lĕ",
     "fileName": "1500_Unpub_Chinakurchi_6_3_lĕ",
     "filePath": "lĕ/lĕ_form2/1500_Unpub_Chinakurchi_6_3_lĕ.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಲೆ"
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
     "letter": "l̤a",
     "fileName": "1500_Unpub_Chinakurchi_2_7_l̤a",
     "filePath": "l̤a/l̤a_form1/1500_Unpub_Chinakurchi_2_7_l̤a.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಳ"
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
     "letter": "l̤a",
     "fileName": "1500_Unpub_Chinakurchi_4_9_l̤a",
     "filePath": "l̤a/l̤a_form1/1500_Unpub_Chinakurchi_4_9_l̤a.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಳ"
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
     "letter": "mĕ",
     "fileName": "1500_Unpub_Chinakurchi_4_7_mĕ",
     "filePath": "mĕ/mĕ_form1/1500_Unpub_Chinakurchi_4_7_mĕ.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಮೆ"
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
     "letter": "ni",
     "fileName": "1500_Unpub_Chinakurchi_4_10_ni",
     "filePath": "ni/ni_form2/1500_Unpub_Chinakurchi_4_10_ni.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ನಿ"
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
     "letter": "nā",
     "fileName": "1500_Unpub_Chinakurchi_1_6_nā",
     "filePath": "nā/nā_form1/1500_Unpub_Chinakurchi_1_6_nā.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ನಾ"
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
     "letter": "nā",
     "fileName": "1500_Unpub_Chinakurchi_2_8_nā",
     "filePath": "nā/nā_form1/1500_Unpub_Chinakurchi_2_8_nā.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ನಾ"
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@
     "letter": "pa",
     "fileName": "1500_Unpub_Chinakurchi_3_2_pa",
     "filePath": "pa/pa_form1/1500_Unpub_Chinakurchi_3_2_pa.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಪ"
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@
     "letter": "pi",
     "fileName": "1500_Unpub_Chinakurchi_6_2_pi",
     "filePath": "pi/pi_form2/1500_Unpub_Chinakurchi_6_2_pi.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಪಿ"
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@
     "letter": "ppi",
     "fileName": "1500_Unpub_Chinakurchi_5_7_ppi",
     "filePath": "ppi/ppi_form1/1500_Unpub_Chinakurchi_5_7_ppi.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಪ್ಪಿ"
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@
     "letter": "ra",
     "fileName": "1500_Unpub_Chinakurchi_1_5_ra",
     "filePath": "ra/ra_form2/1500_Unpub_Chinakurchi_1_5_ra.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ರ"
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@
     "letter": "rmma",
     "fileName": "1500_Unpub_Chinakurchi_5_1_rmma",
     "filePath": "rmma/rmma_form1/1500_Unpub_Chinakurchi_5_1_rmma.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ರ್ಮ್ಮ"
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@
     "letter": "ru",
     "fileName": "1500_Unpub_Chinakurchi_5_5_ru",
     "filePath": "ru/ru_form1/1500_Unpub_Chinakurchi_5_5_ru.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ರು"
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@
     "letter": "ru",
     "fileName": "1500_Unpub_Chinakurchi_2_1_ru",
     "filePath": "ru/ru_form2/1500_Unpub_Chinakurchi_2_1_ru.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ರು"
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@
     "letter": "ru",
     "fileName": "1500_Unpub_Chinakurchi_4_5_ru",
     "filePath": "ru/ru_form2/1500_Unpub_Chinakurchi_4_5_ru.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ರು"
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@
     "letter": "ru",
     "fileName": "1500_Unpub_Chinakurchi_5_10_ru",
     "filePath": "ru/ru_form2/1500_Unpub_Chinakurchi_5_10_ru.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ರು"
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@
     "letter": "ta",
     "fileName": "1500_Unpub_Chinakurchi_5_6_ta",
     "filePath": "ta/ta_form1/1500_Unpub_Chinakurchi_5_6_ta.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ತ"
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@
     "letter": "va",
     "fileName": "1500_Unpub_Chinakurchi_5_9_va",
     "filePath": "va/va_form2/1500_Unpub_Chinakurchi_5_9_va.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ವ"
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@
     "letter": "vā",
     "fileName": "1500_Unpub_Chinakurchi_4_2_vā",
     "filePath": "vā/vā_form1/1500_Unpub_Chinakurchi_4_2_vā.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ವಾ"
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@
     "letter": "vī",
     "fileName": "1500_Unpub_Chinakurchi_1_4_vī",
     "filePath": "vī/vī_form1/1500_Unpub_Chinakurchi_1_4_vī.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ವೀ"
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@
     "letter": "ya",
     "fileName": "1500_Unpub_Chinakurchi_2_4_ya",
     "filePath": "ya/ya_form1/1500_Unpub_Chinakurchi_2_4_ya.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಯ"
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@
     "letter": "ya",
     "fileName": "1500_Unpub_Chinakurchi_3_10_ya",
     "filePath": "ya/ya_form1/1500_Unpub_Chinakurchi_3_10_ya.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಯ"
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@
     "letter": "ya",
     "fileName": "1500_Unpub_Chinakurchi_6_4_ya",
     "filePath": "ya/ya_form1/1500_Unpub_Chinakurchi_6_4_ya.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಯ"
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@
     "letter": "yā",
     "fileName": "1500_Unpub_Chinakurchi_4_11_yā",
     "filePath": "yā/yā_form1/1500_Unpub_Chinakurchi_4_11_yā.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಯಾ"
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@
     "letter": "ā",
     "fileName": "1500_Unpub_Chinakurchi_1_2_ā",
     "filePath": "ā/ā_form1/1500_Unpub_Chinakurchi_1_2_ā.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಆ"
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@
     "letter": "ā",
     "fileName": "1500_Unpub_Chinakurchi_5_4_ā",
     "filePath": "ā/ā_form1/1500_Unpub_Chinakurchi_5_4_ā.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಆ"
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@
     "letter": "śrī",
     "fileName": "1500_Unpub_Chinakurchi_1_3_śrī",
     "filePath": "śrī/śrī_form1/1500_Unpub_Chinakurchi_1_3_śrī.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಶ್ರೀ"
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@
     "letter": "ḍa",
     "fileName": "1500_Unpub_Chinakurchi_4_6_ḍa",
     "filePath": "ḍa/ḍa_form2/1500_Unpub_Chinakurchi_4_6_ḍa.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಡ"
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@
     "letter": "ḍi",
     "fileName": "1500_Unpub_Chinakurchi_3_3_ḍi",
     "filePath": "ḍi/ḍi_form1/1500_Unpub_Chinakurchi_3_3_ḍi.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಡಿ"
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@
     "letter": "ṟi",
     "fileName": "1500_Unpub_Chinakurchi_3_8_ṟi",
     "filePath": "ṟi/ṟi_form1/1500_Unpub_Chinakurchi_3_8_ṟi.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಱಿ"
   },
   {
     "id": 47,
@@ -561,6 +561,6 @@
     "letter": "ṭĕ",
     "fileName": "1500_Unpub_Chinakurchi_4_1_ṭĕ",
     "filePath": "ṭĕ/ṭĕ_form2/1500_Unpub_Chinakurchi_4_1_ṭĕ.JPG",
-    "kannadaWord": ""
+    "kannadaWord": "ಟೆ"
   }
 ]

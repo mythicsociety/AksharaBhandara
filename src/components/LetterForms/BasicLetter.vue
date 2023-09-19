@@ -99,9 +99,10 @@ export default {
         </div>
         <div class="key-value-list">
 
-            <h5>ಶಾಸನ ಮತ್ತು ಅಕ್ಷರದ ಬಗ್ಗೆ ವಿವರಗಳು</h5>
+            <!-- <h5>ಶಾಸನ ಮತ್ತು ಅಕ್ಷರದ ಬಗ್ಗೆ ವಿವರಗಳು</h5> Changed by Uday for improved language  -->
+            <h5>ಅಕ್ಷರದ  ವಿವರ</h5>
 
-            <div class="pair">
+            <!-- <div class="pair">
                 <span class="key">ವರ್ಷ:</span>
                 <span class="value">{{ letterDetails.imageYear }}</span>
             </div>
@@ -119,6 +120,26 @@ export default {
             </div>
             <div class="pair">
                 <span class="key">ಸಾಲಿನಲ್ಲಿ ಸಂಖ್ಯೆ:</span>
+                <span class="value">{{ letterDetails.posNumber }}</span>
+            </div>
+            <div class="pair">
+                <span class="key">IAST:</span>
+                <span class="value">{{ letterDetails.characterIAST }}</span>
+            </div> Changed by Uday for improved language  -->
+            <div class="pair">
+                <span class="key">ವರ್ಷ:</span>
+                <span class="value">{{ letterDetails.imageYear }}</span>
+            </div> 
+            <div class="pair">
+                <span class="key">ಸ್ಥಳ:</span>
+                <span class="value">{{ letterDetails.place }}</span>
+            </div>
+            <div class="pair">
+                <span class="key">ಸಾಲಿನ ಸಂಖ್ಯೆ:</span>
+                <span class="value">{{ letterDetails.lineNumber }}</span>
+            </div>
+            <div class="pair">
+                <span class="key">ಅಕ್ಷರ ಸಂಖ್ಯೆ:</span>
                 <span class="value">{{ letterDetails.posNumber }}</span>
             </div>
             <div class="pair">

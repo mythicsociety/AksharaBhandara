@@ -651,7 +651,7 @@
     "year": 1674,
     "description": "",
     "links": [],
-    "key": "1674_EpigraphiaIndica_Vol32_Sonda"
+    "key": "1674_EpigraphiaIndicaVol32_Sonda"
   },
   {
     "id": 115037,
@@ -1842,10 +1842,12 @@
   {
     "id": 1143372,
     "displayName": "Sadahalli 1328CE Veeraballala Inscription",
-    "imagePath": "1329Sadahall4Unpublished01.png",
+    "imagePath": [
+      "1329Sadahall4Unpublished01.png"
+    ],
+    "year": 1328,
     "description": "",
     "links": [],
-    "year": 1328,
     "key": "1329_unpub_Sadahalli"
   },
   {
@@ -1858,7 +1860,7 @@
     "key": "letter"
   },
   {
-    "id": 7558614,
+    "id": 7450978,
     "displayName": "1336 Bn110 Byadarahalli",
     "imagePath": "",
     "description": "",
@@ -1867,7 +1869,7 @@
     "key": "1336_Bn110_Byadarahalli"
   },
   {
-    "id": 9270679,
+    "id": 3358641,
     "displayName": "800 BN38 Tdasarahalli",
     "imagePath": "",
     "description": "",
@@ -1876,7 +1878,7 @@
     "key": "800_BN38_Tdasarahalli"
   },
   {
-    "id": 1820389,
+    "id": 6794294,
     "displayName": "800 BN39 Tdasarahalli",
     "imagePath": "",
     "description": "",
@@ -1885,7 +1887,7 @@
     "key": "800_BN39_Tdasarahalli"
   },
   {
-    "id": 9989143,
+    "id": 6346381,
     "displayName": "1402 ShasanaAdhyayana Yelachenahalli",
     "imagePath": "",
     "description": "",
@@ -1894,7 +1896,7 @@
     "key": "1402_ShasanaAdhyayana_Yelachenahalli"
   },
   {
-    "id": 3679193,
+    "id": 6476785,
     "displayName": "1700 BN121 Kambipura",
     "imagePath": "",
     "description": "",
@@ -1903,7 +1905,7 @@
     "key": "1700_BN121_Kambipura"
   },
   {
-    "id": 2996143,
+    "id": 3631330,
     "displayName": "1700 Ht169 Bhaktarahalli",
     "imagePath": "",
     "description": "",
@@ -1912,7 +1914,7 @@
     "key": "1700_Ht169_Bhaktarahalli"
   },
   {
-    "id": 7629814,
+    "id": 6612487,
     "displayName": "1791 ShasanaAdhyayana Kalatammanahalli",
     "imagePath": "",
     "description": "",
@@ -1921,7 +1923,7 @@
     "key": "1791_ShasanaAdhyayana_Kalatammanahalli"
   },
   {
-    "id": 7467256,
+    "id": 3426069,
     "displayName": "1345 Dv3 Jalige",
     "imagePath": "",
     "description": "",
@@ -1930,7 +1932,7 @@
     "key": "1345_Dv3_Jalige"
   },
   {
-    "id": 6763272,
+    "id": 4353329,
     "displayName": "1674 EpigraphiaIndica Vol32",
     "imagePath": "",
     "description": "",
@@ -1939,7 +1941,7 @@
     "key": "1674_EpigraphiaIndica_Vol32"
   },
   {
-    "id": 6917951,
+    "id": 1107406,
     "displayName": "770 CP141 Malurpatna",
     "imagePath": "",
     "description": "",
@@ -1948,12 +1950,30 @@
     "key": "770_CP141_Malurpatna"
   },
   {
-    "id": 8729817,
+    "id": 7034135,
     "displayName": "1600 Unpub Kalya(Devisetti2)",
     "imagePath": "",
     "description": "",
     "links": [],
     "year": 1600,
     "key": "1600_Unpub_Kalya(Devisetti2)"
+  },
+  {
+    "id": 3166946,
+    "displayName": "1674 EpigraphiaIndicaVol32Sonda 3",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1674,
+    "key": "1674_EpigraphiaIndicaVol32Sonda_3"
+  },
+  {
+    "id": 9912623,
+    "displayName": "1674 EpigraphiaIndica Vol32Sonda",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1674,
+    "key": "1674_EpigraphiaIndica_Vol32Sonda"
   }
 ]

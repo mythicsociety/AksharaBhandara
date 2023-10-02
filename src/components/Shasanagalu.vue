@@ -100,7 +100,7 @@ export default {
 
     <div class="body-padding" style="margin: auto;">
         <div style="position: relative;">
-            <p class="sub-heading">ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p>
+            <p class="sub-heading">ಈ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳನ್ನು ನೋಡಬಹುದು</p>
 
             <button type="button" @click="isModalOpen = true"
                 style="position: absolute; top: 0; right: 0; padding: 5px; display: flex; align-items: center; margin: 10px;">
@@ -122,17 +122,17 @@ export default {
             </model-list-select>
 
             <div v-if="selectedShasana !== null">
-                <button @click="scrollToElement">ಶಾಸನದ ಚಿತ್ರವನ್ನು ನೋಡಲು ಹೋಗಿ</button>
+                <button @click="scrollToElement">ಶಾಸನದ ಚಿತ್ರವನ್ನು ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ</button>
 
-                <p>ಆಯ್ಕೆ ಮಾಡಿದ ಶಾಸನದಲ್ಲಿ (ID: {{ selectedShasanaDetails.id }}) {{ totalLines
+                <p>ಈ ಶಾಸನದಲ್ಲಿ (ID: {{ selectedShasanaDetails.id }}) {{ totalLines
                 }}
-                    ಸಾಲುಗಳು ಮತ್ತು ಒಟ್ಟು {{ totalCharacters
+                    ಸಾಲುಗಳು ಮತ್ತು {{ totalCharacters
                     }} ಅಕ್ಷರಗಳಿವೆ</p>
             </div>
         </div>
 
         <div v-for="(group, index) in groupedShasanaDetails" :class="flex-container-parent" style="border: 1px solid; margin-bottom: 10px;">
-            <p style="background-color: rgba(188, 143, 143, 0.5);">ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿ {{ group[1].length }} ಅಕ್ಷರಗಳಿವೆ - ಸಾಲು {{ index + 1 }}</p>
+            <p style="background-color: rgba(188, 143, 143, 0.5);">ಸಾಲು {{ index + 1 }}</p>
             <div class="flex-container-no-gap">
                 <BasicLetter v-for="letter in group[1]" :image_src="letter.filePath" :showLetterText="false"
                     :imageSizePx="50" :showLetterYear="false" :displayText="letter.kannadaWord" :showBackground="false" />
@@ -147,8 +147,8 @@ export default {
                 style="display: block; max-height: 500px;max-width: 500px;width: 100%;height: 500px;object-fit: fill;" /> -->
 
 
-            <h2>ಶಾಸನದ ಸ್ಕ್ಯಾನ್ ಮಾಡಿದ ಚಿತ್ರ</h2>
-            <p>(ಜೂಮ್ ಮಾಡಲು ಚಿತ್ರದ ಮೇಲೆ ಹಾರಿ)</p>
+            <h2>3ಡಿ ಸ್ಕ್ಯಾನಿಂಗ್ ಮೂಲಕ ಪಡೆದ ಶಾಸನದ ಡಿಜಿಟಲ್ ಚಿತ್ರ</h2>
+            <p>ಅಕ್ಷರಗಳನ್ನು ಜೂಮ್ ಮಾಡಿ ನೋಡಲು ಶಾಸನ ಚಿತ್ರದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ</p>
 
             <inner-image-zoom v-if="selectedShasanaDetails.imagePath.length > 0"
                 :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`"

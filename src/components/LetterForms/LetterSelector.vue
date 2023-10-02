@@ -1,7 +1,7 @@
 <script>
 
 export default {
-    props: { jsonData: [] },
+    props: { jsonData: [], isDisplayLetter: Boolean = false },
     data() {
         return {
             selectedLetter: '',

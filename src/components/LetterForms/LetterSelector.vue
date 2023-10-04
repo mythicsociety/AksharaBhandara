@@ -27,7 +27,8 @@ export default {
 
 <template>
     <div class="flex-container-parent bottom-border" style="justify-content: center;">
-        <p class="sub-heading">ಒಂದು ಅಕ್ಷರವನ್ನು ಆಯ್ಕೆಮಾಡಿ</p>
+        <!-- <p class="sub-heading">ಒಂದು ಅಕ್ಷರವನ್ನು ಆಯ್ಕೆಮಾಡಿ</p> modified by Uday to improve language -->
+        <p class="sub-heading">ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</p>
         <div class="flex-item-left">
             <div v-for="(item, index) in jsonData" :key="item.id" @click="selectLetter(item.id)"
                 class="letter-parent">

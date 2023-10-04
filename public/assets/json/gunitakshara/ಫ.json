@@ -7,6 +7,18 @@
       {
         "id": 1,
         "form": "pha_form1",
+        "path": "pha/pha_form1/1029_NL01_Soladevanahalli_55_13_pha.JPG",
+        "year": 1029
+      },
+      {
+        "id": 2,
+        "form": "pha_form1",
+        "path": "pha/pha_form1/1500_Unpub_Nalluru_14_5_pha.jpg",
+        "year": 1500
+      },
+      {
+        "id": 3,
+        "form": "pha_form1",
         "path": "pha/pha_form1/1759_An90_Bingipura_17_11_pha.png",
         "year": 1759
       }

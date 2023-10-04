@@ -13,8 +13,26 @@
       {
         "id": 2,
         "form": "cha_form1",
+        "path": "cha/cha_form1/1698_Dv70_Singahalli_2_16_cha.JPG",
+        "year": 1698
+      },
+      {
+        "id": 3,
+        "form": "cha_form1",
         "path": "cha/cha_form1/1716_Db63_Mavallipura_4_22_cha.png",
         "year": 1716
+      },
+      {
+        "id": 4,
+        "form": "cha_form1",
+        "path": "cha/cha_form1/900_BN94_Begur_3_27_cha.JPG",
+        "year": 900
+      },
+      {
+        "id": 5,
+        "form": "cha_form1",
+        "path": "cha/cha_form1/950_ItiDar_Jakkur_2_5_cha.jpg",
+        "year": 950
       }
     ],
     "IASTform": ""

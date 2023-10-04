@@ -11,20 +11,8 @@
     "key": "1306_DB52_Isturu"
   },
   {
-    "id": 1011336,
-    "displayName": "Byadarahalli 1336CE Kitaneli's Honnagavuda's Children Donation Inscription",
-    "imagePath": [
-      "Byadarahalli-Image-F.png",
-      "Byadarahalli-Image-B.png"
-    ],
-    "year": 1336,
-    "description": "",
-    "links": [],
-    "key": "1336_Bn110_Byadarahalli"
-  },
-  {
     "id": 1021336,
-    "displayName": "Katanayakanapura 1336CE Chikkana Nayaka's Donation Inscription",
+    "displayName": "Katanayakanapura 1336CE  Jakkana Nayaka's Donation Inscription (Rereading)",
     "imagePath": [
       "Katanaykanapura-BN120-Image.png"
     ],
@@ -159,18 +147,6 @@
     "key": "1336_DV46_Sadenahalli"
   },
   {
-    "id": 1011345,
-    "displayName": "Jalige 1345CE Pemmeyanayaka's Donation Inscription",
-    "imagePath": [
-      "Jalige DV03 front digital image.png",
-      "Jalige DV3 back digital image.png"
-    ],
-    "year": 1345,
-    "description": "",
-    "links": [],
-    "key": "1345_Dv3_Jalige"
-  },
-  {
     "id": 1011370,
     "displayName": "Doddagubbi 1370CE Chokkabakhta's Nompi Inscription",
     "imagePath": [
@@ -204,22 +180,10 @@
     "key": "1353_IthDar_Bidarahalli"
   },
   {
-    "id": 1011516,
-    "displayName": "Rayasandra 1516CE Machijiya's Netaru Donation Inscription",
-    "imagePath": [
-      "Rayasandra digital image 1.png",
-      "Rayasandra digital image 2.png"
-    ],
-    "year": 1516,
-    "description": "",
-    "links": [],
-    "key": "1516_IthDar_Rayasandra"
-  },
-  {
     "id": 1011000,
     "displayName": "Malurpatna 1000CE Kashayya's Herostone With Inscription ",
     "imagePath": [
-      "malurpatna cp144 kumbarana hola digital image 1.png"
+      "malurpatna cp142 digital image.png"
     ],
     "year": 1000,
     "description": "",
@@ -272,9 +236,9 @@
   },
   {
     "id": 101996,
-    "displayName": "Malurpatna 996CE Kakkayya-Aiyayya Herostone With Inscription",
+    "displayName": "Malurpatna 996CE Kala, Kakkayya, Aiyayya & Tatrapala Herostone With Inscription (Rereading)",
     "imagePath": [
-      "malurpatna cp142 digital image.png"
+      "malurpatna cp144 kumbarana hola digital image 1.png"
     ],
     "year": 996,
     "description": "",
@@ -283,7 +247,7 @@
   },
   {
     "id": 101955,
-    "displayName": "Tumkuru 955 CE inscription",
+    "displayName": "Tumkuru  955CE Ajjamaiah Lake Inscription (Rereading)",
     "imagePath": [
       "tumkur digital image 2.png"
     ],
@@ -294,12 +258,12 @@
   },
   {
     "id": 101900,
-    "displayName": "Malurpatna 900CE Kanchiyabbe Pillar Inscription",
+    "displayName": "Malurpatna 770CE Kanchiyabbe Pillar Inscription",
     "imagePath": [
       "Malurpatna_Cp141 digital image 2.png",
       "Malurpatna_Cp141 digital image 3.png"
     ],
-    "year": 900,
+    "year": 770,
     "description": "",
     "links": [],
     "key": "900_CP141_Malurpatna"
@@ -328,7 +292,7 @@
   },
   {
     "id": 102900,
-    "displayName": "Kumbalahalli 900CE Herostone With Inscription",
+    "displayName": "Kumbalahalli 900CE Nelmalli Herostone With Inscription (Rereading)",
     "imagePath": [
       "Kumbalahalli hy110 digital image.png"
     ],
@@ -361,7 +325,7 @@
   },
   {
     "id": 102800,
-    "displayName": "Sadahalli 800CE Uldanpitta Kammara's Herostone Inscription (Not Published Before)",
+    "displayName": "Sadahalli 800CE Uldanapitta Kammara's Herostone With Insciption (Rereading)",
     "imagePath": [
       "Sadahalli-Unpublished2-Image.png"
     ],
@@ -383,9 +347,9 @@
   },
   {
     "id": 104900,
-    "displayName": "900 IthDar Kaikondrahalli",
+    "displayName": "Kaikondrahalli 900CE Ereyanga Vadarga Herostone (Rereading)",
     "imagePath": [
-      "Bupasandra-Image.png"
+      "Kaikondrahalli-Image.png"
     ],
     "year": 900,
     "description": "",
@@ -405,7 +369,7 @@
   },
   {
     "id": 105900,
-    "displayName": "Begur 900CE Tondabe's Husband ? Herostone With Inscription",
+    "displayName": "Begur 900CE Tondabbe's Husband's Herostone With Inscription (Rereading)",
     "imagePath": [
       "begur bn88 digital image.png"
     ],
@@ -416,7 +380,7 @@
   },
   {
     "id": 106900,
-    "displayName": "Kurudusonnenahalli 900CE Kabayya & Poleyamma Uralivu Hero Stone With Inscription",
+    "displayName": "Kurudusonnenahalli 900CE  Kabbayya & Poleyamma Gavunda Uralivu Hero Stone With Inscription (Rereading)",
     "imagePath": [
       "Ereyappa Mangala Bechirock-Image.png"
     ],
@@ -427,7 +391,7 @@
   },
   {
     "id": 107900,
-    "displayName": "Kurudusonnenahalli 900CE Sambaya Hero Stone with Inscription",
+    "displayName": "Kurudusonnenahalli  900CE Sambayya Hero Stone with Inscription (Rereading)",
     "imagePath": [
       "Ereyappa Mangala-Image.png"
     ],
@@ -438,7 +402,7 @@
   },
   {
     "id": 108900,
-    "displayName": "Begur 900CE Tondabe's Sanyasnam Inscription",
+    "displayName": "Begur 900CE Tondabbe Sanyasana Inscription (Rereading)",
     "imagePath": [
       "begur tondabe bn94 digital image.png"
     ],
@@ -449,7 +413,7 @@
   },
   {
     "id": 109900,
-    "displayName": "Aradeshanahalli 900CE Mumennayaga's Turugol Herostone",
+    "displayName": "Aradeshanahalli 900CE Mumennayaga's Turugol Herostone With Inscription (Rereading)",
     "imagePath": [
       "Aradeshanahalli_Dv42-Image.png"
     ],
@@ -471,7 +435,7 @@
   },
   {
     "id": 103750,
-    "displayName": "Krishnaraja_Puram 750CE Maraya Inscription",
+    "displayName": "K R Puram 750CE Posauraralgeya & Mareya Herostone With Inscription (Rereading)",
     "imagePath": [
       "KR Puram BN55 Mareya Digital Image.png"
     ],
@@ -515,7 +479,7 @@
   },
   {
     "id": 105750,
-    "displayName": "Sakalavara 750CE Ravichuttana's Hulibete Herostone With Inscription (Not Published Before)",
+    "displayName": "Sakalavara 750CE Ravichutta's Hulibete Herostone With Inscription (Not Documented Before)",
     "imagePath": [
       "Sakalavara_hulibete_digital_image1.png"
     ],
@@ -548,7 +512,7 @@
   },
   {
     "id": 104800,
-    "displayName": "Srinivagilu 800CE Pelchtereyamma's Turugol Herostone",
+    "displayName": "Srinivagilu 800CE Palchatereyamma's Turugol Herostone With Inscription (Rereading)",
     "imagePath": [
       "srinivagilu digital image 1.png"
     ],
@@ -559,7 +523,7 @@
   },
   {
     "id": 111900,
-    "displayName": "Bisanahalli 900CE Santa's Turugol Herostone With Inscription",
+    "displayName": "Bisanahalli 900CE Saanta's Turugol Herostone With Inscription",
     "imagePath": [
       "Bisanahalli-HT189-Image.png"
     ],
@@ -570,11 +534,11 @@
   },
   {
     "id": 112900,
-    "displayName": "Malurpatna 900CE Ereyapparasa Inscription",
+    "displayName": "Malurpatna 770CE Ereyapparasa Inscription",
     "imagePath": [
       "malurpatna_Cp134 digital image.png"
     ],
-    "year": 900,
+    "year": 770,
     "description": "",
     "links": [],
     "key": "900_CP134_Malurpatna"
@@ -586,183 +550,9 @@
       "Aradeshanahalli_Dv43-Image.png"
     ],
     "year": 900,
-    "description": "In this dummy dummy example, links is an array of objects that contain the title and url properties for each link. <br>The v-for directive loops through the array and <b>creates a list item for each link</b>. The :key attribute is used to give each <a href='https://www.example.com' target='_blank'>link to extenral</a> list item a unique identifier.<ol><li>Coffee</li>  <li>Tea</li><li>Milk</li></ol>",
-    "links": [
-      {
-        "title": "Link 1",
-        "url": "https://www.example.com"
-      },
-      {
-        "title": "this is Link 2",
-        "url": "https://www.example.com"
-      }
-    ],
+    "description": "",
+    "links": [],
     "key": "900_Dv43_Aradeshanahalli"
-  },
-  {
-    "id": 115001,
-    "displayName": "Kutaganahalli 1800CE Yelechikkana Lake Construction Inscription",
-    "imagePath": [
-      "Kutaganahalli17.png"
-    ],
-    "year": 1800,
-    "description": "",
-    "links": [],
-    "key": "1800_An23_Kutaganahalli"
-  },
-  {
-    "id": 115002,
-    "displayName": "Yelahanka 1800CE  Kanteerava Arasa's Garuda Kambha Inscription",
-    "imagePath": [
-      "Yelahanka_Bn1702.png"
-    ],
-    "year": 1800,
-    "description": "",
-    "links": [],
-    "key": "1800_BN17_Yalahanka"
-  },
-  {
-    "id": 115003,
-    "displayName": "Nagamangala 1800CE Sriranganatha Inscription",
-    "imagePath": [
-      "Nagamangala.png"
-    ],
-    "year": 1800,
-    "description": "",
-    "links": [],
-    "key": "1800_Dv05_Nagamangala"
-  },
-  {
-    "id": 115004,
-    "displayName": "Kamenahalli 1800CE Chamundeshwari Donation Inscription",
-    "imagePath": [
-      "Kamenahalli01.png"
-    ],
-    "year": 1800,
-    "description": "",
-    "links": [],
-    "key": "1800_Dv90_Kamenahalli"
-  },
-  {
-    "id": 115005,
-    "displayName": "Kudluru 1828CE Venkatalakshmi Sri Rama Temple Donation Inscription",
-    "imagePath": [
-      "Kudlur_RamaNavami.png"
-    ],
-    "year": 1828,
-    "description": "",
-    "links": [],
-    "key": "1828_Cp108_Kudluru"
-  },
-  {
-    "id": 115006,
-    "displayName": "Bannerughatta 1850CE Paapa Vimochane Inscription",
-    "imagePath": [
-      "BannerghattaShapavimochenekallu_An11103.png"
-    ],
-    "year": 1850,
-    "description": "",
-    "links": [],
-    "key": "1850_AN111_Bannerughatta"
-  },
-  {
-    "id": 115006,
-    "displayName": "Totagere 750CE Inscription",
-    "imagePath": [
-      "totagere01.png"
-    ],
-    "year": 750,
-    "description": "",
-    "links": [],
-    "key": "750_NL33_Totagere"
-  },
-  {
-    "id": 115007,
-    "displayName": "Kambipura 1700CE Donation Inscription",
-    "imagePath": [
-      "Kambipura02.png"
-    ],
-    "year": 1700,
-    "description": "",
-    "links": [],
-    "key": "1700_BN121_Kambipura"
-  },
-  {
-    "id": 115008,
-    "displayName": "Kalkere 1700CE Dalawayi Elayanayaka's Donation Inscription",
-    "imagePath": [
-      "Kalkere01.png"
-    ],
-    "year": 1700,
-    "description": "",
-    "links": [],
-    "key": "1700_BN167_Kalkere"
-  },
-  {
-    "id": 115009,
-    "displayName": "Bhaktarahalli 1700CE Sugaturu Mummadi Tammegowda's Donation Inscription",
-    "imagePath": [
-      "Bhaktarahalli03.png"
-    ],
-    "year": 1700,
-    "description": "",
-    "links": [],
-    "key": "1700_Ht169_Bhaktarahalli"
-  },
-  {
-    "id": 115010,
-    "displayName": "Gonakanahalli 1700CE Sugaturu Mummadi Tammegowda's Matha Donation Inscription",
-    "imagePath": [
-      "GONAKANAHALLI03.png"
-    ],
-    "year": 1700,
-    "description": "",
-    "links": [],
-    "key": "1700_Ht172_Gonakanahalli"
-  },
-  {
-    "id": 115011,
-    "displayName": "Jinnagara 1700CE Inscription",
-    "imagePath": [
-      "Jinnagara_kannada03.png"
-    ],
-    "year": 1700,
-    "description": "",
-    "links": [],
-    "key": "1700_Ht191_Jinnagara"
-  },
-  {
-    "id": 115012,
-    "displayName": "Kothnur 1705CE  Kanteerava Narasaraja Wodeyar's Venkateshwara Temple Donation Inscription",
-    "imagePath": [
-      "Kotnur_Bn11804.png"
-    ],
-    "year": 1705,
-    "description": "",
-    "links": [],
-    "key": "1705_BN118_Kothnur"
-  },
-  {
-    "id": 115013,
-    "displayName": "Mavallipura 1716CE Avathinaada Prabhu Doddabbhairappa's Donation inscription",
-    "imagePath": [
-      "Mavallipura_Db6302.png"
-    ],
-    "year": 1716,
-    "description": "",
-    "links": [],
-    "key": "Mavallipura_Db6302"
-  },
-  {
-    "id": 115014,
-    "displayName": "Singarahalli 1738CE Chikkegowda's Donation Inscription",
-    "imagePath": [
-      "Sigrahalli04.png"
-    ],
-    "year": 1738,
-    "description": "",
-    "links": [],
-    "key": "1738_DV06_Singarahalli"
   },
   {
     "id": 115015,
@@ -776,10 +566,1022 @@
     "key": "1750_Dv4_Jalige"
   },
   {
-    "id": 115016,
-    "displayName": "Jalige  1750CE Nanjaiah's Chamundeshwari Donation Inscription",
+    "id": 115020,
+    "displayName": "Singahalli 1698CE Avathinada Prabhu Gopalgowda's Donation Inscription",
     "imagePath": [
-      "DV8901.png"
+      "Singarahalli_Litspher07.png"
+    ],
+    "year": 1698,
+    "description": "",
+    "links": [],
+    "key": "1698_Dv70_Singahalli"
+  },
+  {
+    "id": 115026,
+    "displayName": "Kalya 1600CE Devisetti (2nd) Inscription",
+    "imagePath": [
+      "Devisetti103.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Mg100_Kalya"
+  },
+  {
+    "id": 115030,
+    "displayName": "Nagenahalli 1610CE Immadi Havali Bayirappa Gowda's Donation Inscription",
+    "imagePath": [
+      "Nagenahalli01.png"
+    ],
+    "year": 1610,
+    "description": "",
+    "links": [],
+    "key": "1610_Db49_Nagenahalli"
+  },
+  {
+    "id": 115031,
+    "displayName": "Muttanallur 1618CE Thimmarakka's Nagastone Inscription",
+    "imagePath": [
+      "Muttanallur02.png"
+    ],
+    "year": 1618,
+    "description": "",
+    "links": [],
+    "key": "1618_Unpub_Muttanallur"
+  },
+  {
+    "id": 115033,
+    "displayName": "Byalahalli 1625CE Lokapaiya's Umbali Inscription",
+    "imagePath": [
+      "Byalahalli01.png"
+    ],
+    "year": 1625,
+    "description": "",
+    "links": [],
+    "key": "1625_Unpub_Byalahalli"
+  },
+  {
+    "id": 115034,
+    "displayName": "Muninagara 1634CE Immadi Kempegowda's Donation Inscription",
+    "imagePath": [
+      "Muninagara01.png"
+    ],
+    "year": 1634,
+    "description": "",
+    "links": [],
+    "key": "1634_IthDar_Muninagara"
+  },
+  {
+    "id": 115035,
+    "displayName": "Malleshwaram 1669CE Ekoji's Mallapura Mallikarjuna Temple Donation Inscription",
+    "imagePath": [
+      "Maleshvaram02.png"
+    ],
+    "year": 1669,
+    "description": "",
+    "links": [],
+    "key": "1669_BN159_Malleshvaram"
+  },
+  {
+    "id": 115036,
+    "displayName": "Sonda 1674CE Shree Swarnavalli Matha Inscription",
+    "imagePath": [
+      "Sonda_snapshot01_L01.png"
+    ],
+    "year": 1674,
+    "description": "",
+    "links": [],
+    "key": "1674_EpigraphiaIndicaVol32_Sonda"
+  },
+  {
+    "id": 115037,
+    "displayName": "Hebbal 1689CE Marigegowda's Donation Inscription",
+    "imagePath": [
+      "Hebbal_Bn136_inscription01.png"
+    ],
+    "year": 1689,
+    "description": "",
+    "links": [],
+    "key": "1689_BN136_Hebbal"
+  },
+  {
+    "id": 115038,
+    "displayName": "Kudluru 1000CE Rama Temple Antarala Vitana Inscription",
+    "imagePath": [
+      "kudlur_unpublished_antarala_ceiling03.png"
+    ],
+    "year": 1000,
+    "description": "",
+    "links": [],
+    "key": "1000_Unpub_Kudlur"
+  },
+  {
+    "id": 115039,
+    "displayName": "Malurpatna 1000CE Herostone Inscription",
+    "imagePath": [
+      "unpublishedmalurpatna.png"
+    ],
+    "year": 1000,
+    "description": "",
+    "links": [],
+    "key": "1000_Unpub_Malurpatna"
+  },
+  {
+    "id": 115040,
+    "displayName": "Hesaraghatta 1019CE Donation Inscription",
+    "imagePath": [
+      "Hesarughtta_10thCe03.png"
+    ],
+    "year": 1019,
+    "description": "",
+    "links": [],
+    "key": "1019_IthDar_Hessarghatta"
+  },
+  {
+    "id": 115041,
+    "displayName": "Vagata 1028CE Sevachari Makara Torana Inscription",
+    "imagePath": [
+      "VagataHt179Torana_kamba10.png"
+    ],
+    "year": 1028,
+    "description": "",
+    "links": [],
+    "key": "1028_HT179_Vagata"
+  },
+  {
+    "id": 115042,
+    "displayName": "Soladevanahalli 1029CE Vamanayya's Siddeshwara Temple Inscription",
+    "imagePath": [
+      "Nl01_Soladevanahalli_Front_side13.png"
+    ],
+    "year": 1029,
+    "description": "",
+    "links": [],
+    "key": "1029_NL01_Soladevanahalli"
+  },
+  {
+    "id": 115043,
+    "displayName": "Hale Nijagal 1280CE Temple Donation Inscription",
+    "imagePath": [
+      "NL157Halenijgal01.png"
+    ],
+    "year": 1280,
+    "description": "",
+    "links": [],
+    "key": "1280_NL157_Halenijagal"
+  },
+  {
+    "id": 115044,
+    "displayName": "Bannerughatta 1309CE Allayya Dananayaka's Donation Inscription",
+    "imagePath": [
+      "1301Bannerghatta01.png"
+    ],
+    "year": 1309,
+    "description": "",
+    "links": [],
+    "key": "1309_BannerughattaDar_Bannerughatta"
+  },
+  {
+    "id": 115045,
+    "displayName": "Domlur 1328CE Kamanna Dandanayaka's Donation Inscription",
+    "imagePath": [
+      "BN163Domlur00.png"
+    ],
+    "year": 1328,
+    "description": "",
+    "links": [],
+    "key": "1328_BN163_Domlur"
+  },
+  {
+    "id": 115047,
+    "displayName": "Byadarahalli 1336CE Kitaneli's Honnagavuda's Children Donation Inscription   ",
+    "imagePath": [
+      "BN110byadarahalli01.png"
+    ],
+    "year": 1336,
+    "description": "",
+    "links": [],
+    "key": "1336_BN110_Byadarahalli"
+  },
+  {
+    "id": 115048,
+    "displayName": "Gowdahalli 1336CE Donation Inscription",
+    "imagePath": [
+      "DB61Gowdahalli01.png"
+    ],
+    "year": 1336,
+    "description": "",
+    "links": [],
+    "key": "1336_DB61_Gowdahalli"
+  },
+  {
+    "id": 115049,
+    "displayName": "Kalya 1342CE Hulenahalli Mahaprubhus' Donation Inscription",
+    "imagePath": [
+      "MG19Kalya_School03.png"
+    ],
+    "year": 1342,
+    "description": "",
+    "links": [],
+    "key": "1342_Mg19_Kalya"
+  },
+  {
+    "id": 115050,
+    "displayName": "Jalige 1345CE Pemmeyanayaka's Donation Inscription ",
+    "imagePath": [
+      "DV03Jalige02.png"
+    ],
+    "year": 1345,
+    "description": "",
+    "links": [],
+    "key": "1345_Dv03_Jalige"
+  },
+  {
+    "id": 115051,
+    "displayName": "Katigenahalli 1348CE Donation Inscription",
+    "imagePath": [
+      "DV50Katigenahalli01.png"
+    ],
+    "year": 1348,
+    "description": "",
+    "links": [],
+    "key": "1348_DV50_Katigenahalli"
+  },
+  {
+    "id": 115052,
+    "displayName": "Matkur 1352CE Bhimeyanayaka Donation  Inscription",
+    "imagePath": [
+      "NL32matkur_03.png"
+    ],
+    "year": 1352,
+    "description": "",
+    "links": [],
+    "key": "1352_NL32_Matkur"
+  },
+  {
+    "id": 115053,
+    "displayName": "Bannerughatta 1361CE Veeradatu's Damodara Temple Donation Inscription",
+    "imagePath": [
+      "AN86Bannerghatta_An8600.png"
+    ],
+    "year": 1361,
+    "description": "",
+    "links": [],
+    "key": "1361_An86_Bannerughatta"
+  },
+  {
+    "id": 115054,
+    "displayName": "Bannerughatta 1362CE Mallapa's Damodara Temple Donation Inscription",
+    "imagePath": [
+      "AN82Shapavimochenekallu_An8203.png"
+    ],
+    "year": 1362,
+    "description": "",
+    "links": [],
+    "key": "1362_An82_Bannerughatta"
+  },
+  {
+    "id": 115055,
+    "displayName": "Tindlu 1368CE Donation Inscription",
+    "imagePath": [
+      "BN27Tindlu01.png"
+    ],
+    "year": 1368,
+    "description": "",
+    "links": [],
+    "key": "1368_BN27_Tindlu"
+  },
+  {
+    "id": 115056,
+    "displayName": "Kalya 1368CE Bukkarya's Jain SriVaishanava Reconciliation Inscription",
+    "imagePath": [
+      "Kalya_mg18_Front side13.png"
+    ],
+    "year": 1368,
+    "description": "",
+    "links": [],
+    "key": "1368_MG18_Kalya"
+  },
+  {
+    "id": 115057,
+    "displayName": "Gangavara 1371CE Three Priests Inscription ",
+    "imagePath": [
+      "Gangavara_Dv7306.png"
+    ],
+    "year": 1371,
+    "description": "",
+    "links": [],
+    "key": "1371_Dv73_Gangavara"
+  },
+  {
+    "id": 115058,
+    "displayName": "Chikkabanahalli 1382CE Purusotama Deva's Lake Construction Inscription ",
+    "imagePath": [
+      "HT174Chikkabanahalli02.png"
+    ],
+    "year": 1382,
+    "description": "",
+    "links": [],
+    "key": "1382_Ht154_Chikkabanahalli"
+  },
+  {
+    "id": 115059,
+    "displayName": "Bannerughatta 1383CE VeeraBukkana Vodeya's Damodara Temple Donation Inscription",
+    "imagePath": [
+      "AN81BannerughattaShapavimochenekallu_An8101.png"
+    ],
+    "year": 1383,
+    "description": "",
+    "links": [],
+    "key": "1383_An81_Bannerughatta"
+  },
+  {
+    "id": 115060,
+    "displayName": "Bannerughatta 1400CE Sovappa Odeya Damodara Temple Donation Inscription",
+    "imagePath": [
+      "AN109Bannerghatta_An10901.png"
+    ],
+    "year": 1400,
+    "description": "",
+    "links": [],
+    "key": "1400_An109_Bannerughatta"
+  },
+  {
+    "id": 115061,
+    "displayName": "Rajapura 1400CE Donation Inscription ",
+    "imagePath": [
+      "Rajapura_front01.png"
+    ],
+    "year": 1400,
+    "description": "",
+    "links": [],
+    "key": "1400_An63_Rajapura"
+  },
+  {
+    "id": 115062,
+    "displayName": "Mutkur 1400CE  Agrahara Inscription",
+    "imagePath": [
+      "1400Mutkur503.png"
+    ],
+    "year": 1400,
+    "description": "",
+    "links": [],
+    "key": "1400_Unpub_Mutkur"
+  },
+  {
+    "id": 115063,
+    "displayName": "Yelachenahalli 1402CE Naachsetti's Lake Building Inscription ",
+    "imagePath": [
+      "1402Yelachenahalli02.png"
+    ],
+    "year": 1402,
+    "description": "",
+    "links": [],
+    "key": "1402_Shasana Adhyayana_Yelachenahalli"
+  },
+  {
+    "id": 115064,
+    "displayName": "Nalluru 1406CE ChikkaAnkiyanayaka's Deepamale Kambha Inscription",
+    "imagePath": [
+      "DV39Nallur_Garuda_pillar_Inscription_Litsphere07.png"
+    ],
+    "year": 1406,
+    "description": "",
+    "links": [],
+    "key": "1406_DV39_Nallur"
+  },
+  {
+    "id": 115065,
+    "displayName": "Domlur 1409CE Nagappa Dandanayaka's Chokkanatha Temple Donation Inscription",
+    "imagePath": [
+      "BN162Domlur00.png"
+    ],
+    "year": 1409,
+    "description": "",
+    "links": [],
+    "key": "1409_BN162_Domlur"
+  },
+  {
+    "id": 115066,
+    "displayName": "Yelahanka  1410CE Macherusha Setti Venugopalaswamy Deepamale Kamba Inscription",
+    "imagePath": [
+      "Bn1601Yelahanka.png"
+    ],
+    "year": 1410,
+    "description": "",
+    "links": [],
+    "key": "1410_BN16_yalahanka"
+  },
+  {
+    "id": 115067,
+    "displayName": "Chikkajala 1412CE Chavundanayaka's Channakeshava Temple Donation Inscription",
+    "imagePath": [
+      "Chikkajal_Dv5901.png"
+    ],
+    "year": 1412,
+    "description": "",
+    "links": [],
+    "key": "1412_DV59_Chikkajala"
+  },
+  {
+    "id": 115068,
+    "displayName": "Bannerughatta 1416CE Lakkanna Dananayaka's Damodara Temple Donation Inscription",
+    "imagePath": [
+      "AN85Bannerghatta_An8501.png"
+    ],
+    "year": 1416,
+    "description": "",
+    "links": [],
+    "key": "1416_An85_Bannerughatta"
+  },
+  {
+    "id": 115069,
+    "displayName": "Mutkur 1417CE Donation Inscription",
+    "imagePath": [
+      "1417Mutkur401.png"
+    ],
+    "year": 1417,
+    "description": "",
+    "links": [],
+    "key": "1417_Unpub_Mutkur"
+  },
+  {
+    "id": 115070,
+    "displayName": "Madhure 1418CE Kodikara Bommu's Herostone With Inscription",
+    "imagePath": [
+      "Madhure_Viragallu_Db55_Invert02.png"
+    ],
+    "year": 1418,
+    "description": "",
+    "links": [],
+    "key": "1418_Db55_Madhure"
+  },
+  {
+    "id": 115071,
+    "displayName": "Sarjapura 1429CE Mayileya Nayaka's Lunar Eclipse Inscription",
+    "imagePath": [
+      "AN01Sarjapura_An0101.png"
+    ],
+    "year": 1429,
+    "description": "",
+    "links": [],
+    "key": "1429_An01_Sarjapura"
+  },
+  {
+    "id": 115072,
+    "displayName": "Tindlu 1430CE Kaadanna Nayaka's Donation Inscription",
+    "imagePath": [
+      "DV02Tindlu_front01.png"
+    ],
+    "year": 1430,
+    "description": "",
+    "links": [],
+    "key": "1430_Dv02_Tindlu"
+  },
+  {
+    "id": 115073,
+    "displayName": "Malurpatna 1432CE  Mayideva's Shivaratri Herostone With Inscription",
+    "imagePath": [
+      "CV149Malurpattana_Cp14900.png"
+    ],
+    "year": 1432,
+    "description": "",
+    "links": [],
+    "key": "1432_CP149_Malurpatna"
+  },
+  {
+    "id": 115074,
+    "displayName": "Kalya 1432CE Nisidhi Inscription",
+    "imagePath": [
+      "ITDRKalya Hegade Nishadhi01.png"
+    ],
+    "year": 1432,
+    "description": "",
+    "links": [],
+    "key": "1432_IthDar_Kalya"
+  },
+  {
+    "id": 115075,
+    "displayName": "Jakkur 1432CE God Allalanatha inscription",
+    "imagePath": [
+      "1432Jakkur_Allalanatha_inscription_digital_image01.png"
+    ],
+    "year": 1432,
+    "description": "",
+    "links": [],
+    "key": "1432_Unpub_Jakkur"
+  },
+  {
+    "id": 115076,
+    "displayName": "Belathur 1433CE Devijeeya's Tirumala Temple Garuda Pillar Donation Inscription",
+    "imagePath": [
+      "belattur14.png"
+    ],
+    "year": 1433,
+    "description": "",
+    "links": [],
+    "key": "1433_Ht155_Belathur"
+  },
+  {
+    "id": 115077,
+    "displayName": "Domlur 1440CE Mallarasa Chokkanatha Swamy Temple Donation Inscription",
+    "imagePath": [
+      "BN08Domlur_Bn0800.png"
+    ],
+    "year": 1440,
+    "description": "",
+    "links": [],
+    "key": "1440_Bn08_Domlur"
+  },
+  {
+    "id": 115078,
+    "displayName": "Vagata 1440CE Errana Odeya's Varadarajaswamy Temple Donation Inscription",
+    "imagePath": [
+      "HT130VagataNorth_wall04.png"
+    ],
+    "year": 1440,
+    "description": "",
+    "links": [],
+    "key": "1440_HT130_Vagata"
+  },
+  {
+    "id": 115079,
+    "displayName": "Bannerughatta 1460CE Timmarasa's Damodara Temple Inscription",
+    "imagePath": [
+      "AN108Bannerghatta_An10801.png"
+    ],
+    "year": 1460,
+    "description": "",
+    "links": [],
+    "key": "1460_AN108_Bannerughatta"
+  },
+  {
+    "id": 115080,
+    "displayName": "Chinnakurchi 1500CE Allalanatha Inscription ",
+    "imagePath": [
+      "Chinaguriki01.png"
+    ],
+    "year": 1500,
+    "description": "",
+    "links": [],
+    "key": "1500_Unpub_Chinakurchi"
+  },
+  {
+    "id": 115081,
+    "displayName": "Mutkur 1500CE Donation Inscription",
+    "imagePath": [
+      "1500Mutkur203.png"
+    ],
+    "year": 1500,
+    "description": "",
+    "links": [],
+    "key": "1500_Unpub_Mutkur"
+  },
+  {
+    "id": 115082,
+    "displayName": "Nalluru 1500CE Donation Inscription",
+    "imagePath": [
+      "Nalluru_unpublished_Litsphere02.png"
+    ],
+    "year": 1500,
+    "description": "",
+    "links": [],
+    "key": "1500_Unpub_Nalluru"
+  },
+  {
+    "id": 115083,
+    "displayName": "Vagata 1501CE Mayideva Raje & Chandlideva Rahuta's Deepamalekamba Donation Inscription",
+    "imagePath": [
+      "HT131Garudagamba02.png"
+    ],
+    "year": 1501,
+    "description": "",
+    "links": [],
+    "key": "1501_HT131_Vagata"
+  },
+  {
+    "id": 115084,
+    "displayName": "Jalahalli 1506CE Inscription (Rereading)",
+    "imagePath": [
+      "BN33Jalahalli01.png"
+    ],
+    "year": 1506,
+    "description": "",
+    "links": [],
+    "key": "1506_BN33_Jalahalli"
+  },
+  {
+    "id": 115085,
+    "displayName": "Billanakote 1507CE DoddaVeeraiah's Earthquake Inscription",
+    "imagePath": [
+      "NL71Billinakote01.png"
+    ],
+    "year": 1507,
+    "description": "",
+    "links": [],
+    "key": "1507_NL71_Billanakote"
+  },
+  {
+    "id": 115086,
+    "displayName": "Kalya 1512CE Kaleshwara Temple Donation Inscription",
+    "imagePath": [
+      "Mg2206.png"
+    ],
+    "year": 1512,
+    "description": "",
+    "links": [],
+    "key": "1512_Mg22_Kalya"
+  },
+  {
+    "id": 115087,
+    "displayName": "Rayasandra 1516CE  Machijiya's Nettara Kodige Inscription (Rereading)",
+    "imagePath": [
+      "Rayasandra01.png"
+    ],
+    "year": 1516,
+    "description": "",
+    "links": [],
+    "key": "1516_IthDar_Rayasandra"
+  },
+  {
+    "id": 115088,
+    "displayName": "Bidarahalli 1517CE Donation Inscription",
+    "imagePath": [
+      "HT116Bidrahalli_Temple01.png"
+    ],
+    "year": 1517,
+    "description": "",
+    "links": [],
+    "key": "1517_HT116_Bidarahalli"
+  },
+  {
+    "id": 115089,
+    "displayName": "Devishettihalli 1526CE Vogatta Temple Donation Inscription",
+    "imagePath": [
+      "HT193Devishettihalli_kannada02.png"
+    ],
+    "year": 1526,
+    "description": "",
+    "links": [],
+    "key": "1526_HT193_Devishettihalli"
+  },
+  {
+    "id": 115090,
+    "displayName": "Guddadahalli 1528CE  Kemba Nayaka's Lake Construction Inscription",
+    "imagePath": [
+      "NL28Guddadahalli02.png"
+    ],
+    "year": 1528,
+    "description": "",
+    "links": [],
+    "key": "1528_Nl28_Guddadahalli"
+  },
+  {
+    "id": 115091,
+    "displayName": "Kalya 1531CE Bharataraja's Kaleshwara Temple Donation Inscription",
+    "imagePath": [
+      "Mg2107Kalya.png"
+    ],
+    "year": 1531,
+    "description": "",
+    "links": [],
+    "key": "1531_Mg21_Kalya"
+  },
+  {
+    "id": 115092,
+    "displayName": "Dasarahalli 1532CE Donation Inscription (Rereading)",
+    "imagePath": [
+      "BN57DasarahalliLitsphere invert effect02.png"
+    ],
+    "year": 1532,
+    "description": "",
+    "links": [],
+    "key": "1532_BN57_Dasarahalli"
+  },
+  {
+    "id": 115093,
+    "displayName": "Thippur 1532CE Bayireyanayaka's Donation Inscription",
+    "imagePath": [
+      "Tippur01unpublished.png"
+    ],
+    "year": 1532,
+    "description": "",
+    "links": [],
+    "key": "1532_Unpub_Tippur"
+  },
+  {
+    "id": 115094,
+    "displayName": "Hessarghatta  1533CE Construction of Chandramouleshwara Temple Inscription ",
+    "imagePath": [
+      "hESARUGHATTAnL3102.png"
+    ],
+    "year": 1533,
+    "description": "",
+    "links": [],
+    "key": "1533_Nl31_Hessarghatta"
+  },
+  {
+    "id": 115095,
+    "displayName": "Malurpatna 1534CE Madarasa Nayaka's Donation Inscription",
+    "imagePath": [
+      "Cp15201Malurpatna.png"
+    ],
+    "year": 1534,
+    "description": "",
+    "links": [],
+    "key": "1534_CP152_Malurpatna"
+  },
+  {
+    "id": 115096,
+    "displayName": "Chakkere 1534CE Tirumala Temple Donation Inscription",
+    "imagePath": [
+      "CP155Chakkere03.png"
+    ],
+    "year": 1534,
+    "description": "",
+    "links": [],
+    "key": "1534_CP155_Chakkere"
+  },
+  {
+    "id": 115097,
+    "displayName": "Kalya  1558CE Korlkunte Kondamma Nayaka's Donation Inscription",
+    "imagePath": [
+      "MG2805.png"
+    ],
+    "year": 1558,
+    "description": "",
+    "links": [],
+    "key": "1558_Mg28_Kalya"
+  },
+  {
+    "id": 115098,
+    "displayName": "Tharalu 1561CE Bingiyappa Gowda & Bairijiya Gowda's Donation Inscription (Not Documented Before)",
+    "imagePath": [
+      "Taralu03.png"
+    ],
+    "year": 1561,
+    "description": "",
+    "links": [],
+    "key": "1561_Unpub_Tharalu"
+  },
+  {
+    "id": 115099,
+    "displayName": "Kalya 1562CE  Marriage Tax Inscription",
+    "imagePath": [
+      "Kalya_Mg17_Madve_terige_invert04.png"
+    ],
+    "year": 1562,
+    "description": "",
+    "links": [],
+    "key": "1562_Mg17_Kalya"
+  },
+  {
+    "id": 115100,
+    "displayName": "Gandaragulipura 1569CE Bayirappa Nayaka's Donation Inscription",
+    "imagePath": [
+      "Gandaragulipura_Db4101.png"
+    ],
+    "year": 1569,
+    "description": "",
+    "links": [],
+    "key": "1569_Db41_Gandaragulipura"
+  },
+  {
+    "id": 115101,
+    "displayName": "Kalya 1529CE  Kenchasomana Nayaka's Donation Inscription (in the Kalleshwara temple)",
+    "imagePath": [
+      "Mg2301Kalya.png"
+    ],
+    "year": 1529,
+    "description": "",
+    "links": [],
+    "key": "1589_Mg23_Kalya"
+  },
+  {
+    "id": 115102,
+    "displayName": "Kalya 1529CE Kenchasomana Nayaka's Donation Inscription (in a field near the lake)",
+    "imagePath": [
+      "Mg2704.png"
+    ],
+    "year": 1529,
+    "description": "",
+    "links": [],
+    "key": "1589_Mg27_Kalya"
+  },
+  {
+    "id": 115103,
+    "displayName": "Chikkajala 1589CE  Baireyanayaka's Garuda Pillar Inscription ",
+    "imagePath": [
+      "Garugagamba15unpublishedchikkajala.png"
+    ],
+    "year": 1589,
+    "description": "",
+    "links": [],
+    "key": "1589_Unpub_Chikkajala"
+  },
+  {
+    "id": 115104,
+    "displayName": "Basavanagudi 1600CE Birth of Vrishabhavathi River Peeta Inscription   (Rereading) ",
+    "imagePath": [
+      "Doddabasavannagudi_Bn7001.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_BN70_Basavanagudi"
+  },
+  {
+    "id": 115105,
+    "displayName": "Byrathi 1600CE Revanna Siddiah Muni's Inscription",
+    "imagePath": [
+      "Byrati05.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Ht123_Byrathi"
+  },
+  {
+    "id": 115106,
+    "displayName": "Basavanagudi 1600CE Birth of Vrishabhavathi River Boulder Inscription  (Rereading)",
+    "imagePath": [
+      "Doddabasavannagudi00ITDHR.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_IthDar_basavanagudi"
+  },
+  {
+    "id": 115107,
+    "displayName": "Kalya 1600CE Avi Inscription",
+    "imagePath": [
+      "Aviga01.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_IthDar_Kalya"
+  },
+  {
+    "id": 115108,
+    "displayName": "Kalya 1600CE Devisetti Inscription",
+    "imagePath": [
+      "MG100Devisetti100.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Mg100_Kalya"
+  },
+  {
+    "id": 115109,
+    "displayName": "Kalya 1600CE Kaleshwara Temple North Boulder Inscription ",
+    "imagePath": [
+      "Mg2407.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Mg24_Kalya"
+  },
+  {
+    "id": 115110,
+    "displayName": "Kalya 1600CE Dundubbi Samvatsara Inscription",
+    "imagePath": [
+      "1600Kalya_Dundhubhisamvatsara_unpublished_Inscription05.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Unpub_Kalya"
+  },
+  {
+    "id": 115111,
+    "displayName": "Kalya 1600CE Devisetti 2 Inscription",
+    "imagePath": [
+      "1600Devisetti204.png"
+    ],
+    "year": 1600,
+    "description": "",
+    "links": [],
+    "key": "1600_Unpub_Kalya (Devisetti2)"
+  },
+  {
+    "id": 115112,
+    "displayName": "Bommanabande 1609CE Donation Inscription",
+    "imagePath": [
+      "HT184Bommanabande01.png"
+    ],
+    "year": 1609,
+    "description": "",
+    "links": [],
+    "key": "1609_Ht184_Bommanabande"
+  },
+  {
+    "id": 115115,
+    "displayName": "Kalya 1621CE Kaleshwara Temple Chandrasekara Odeya Donation inscription ",
+    "imagePath": [
+      "Mg2500.png"
+    ],
+    "year": 1621,
+    "description": "",
+    "links": [],
+    "key": "1621_Mg25_Kalya"
+  },
+  {
+    "id": 115122,
+    "displayName": "Kambipura 1651CE Donation Inscription",
+    "imagePath": [
+      "Kambipura02.png"
+    ],
+    "year": 1651,
+    "description": "",
+    "links": [],
+    "key": "1651_BN121_Kambipura"
+  },
+  {
+    "id": 115123,
+    "displayName": "Kalkere 1700CE Dalawayi Elayanayaka's Donation Inscription",
+    "imagePath": [
+      "Kalkere01.png"
+    ],
+    "year": 1700,
+    "description": "",
+    "links": [],
+    "key": "1700_BN167_Kalkere"
+  },
+  {
+    "id": 115124,
+    "displayName": "Bhaktarahalli 1618CE Sugaturu Mummadi Tammegowda's Donation Inscription",
+    "imagePath": [
+      "Bhaktarahalli03.png"
+    ],
+    "year": 1618,
+    "description": "",
+    "links": [],
+    "key": "1618_Ht169_Bhaktarahalli"
+  },
+  {
+    "id": 115125,
+    "displayName": "Gonakanahalli 1700CE Sugaturu Mummadi Tammegowda's Matha Donation Inscription",
+    "imagePath": [
+      "GONAKANAHALLI03.png"
+    ],
+    "year": 1700,
+    "description": "",
+    "links": [],
+    "key": "1700_Ht172_Gonakanahalli"
+  },
+  {
+    "id": 115126,
+    "displayName": "Jinnagara 1700CE Inscription",
+    "imagePath": [
+      "Jinnagara_kannada03.png"
+    ],
+    "year": 1700,
+    "description": "",
+    "links": [],
+    "key": "1700_Ht191_Jinnagara"
+  },
+  {
+    "id": 115127,
+    "displayName": "Kothnur 1705CE  Kanteerava Narasaraja Wodeyar's Venkateshwara Temple Donation Inscription  (Rereading)",
+    "imagePath": [
+      "Kotnur_Bn11804.png"
+    ],
+    "year": 1705,
+    "description": "",
+    "links": [],
+    "key": "1705_BN118_Kothnur"
+  },
+  {
+    "id": 115128,
+    "displayName": "Mavallipura 1716CE Avathinaada Prabhu Doddabbhairappa's Donation inscription",
+    "imagePath": [
+      "Mavallipura_Db6302.png"
+    ],
+    "year": 1716,
+    "description": "",
+    "links": [],
+    "key": "1716_Db63_Mavallipura"
+  },
+  {
+    "id": 115129,
+    "displayName": "Singarahalli 1738CE Chikkegowda's Donation Inscription (Rereading)",
+    "imagePath": [
+      "Sigrahalli04.png"
+    ],
+    "year": 1738,
+    "description": "",
+    "links": [],
+    "key": "1738_DV06_Singarahalli"
+  },
+  {
+    "id": 115131,
+    "displayName": "Jalige  1750CE Nanjaiah's Chamundeshwari Donation Inscription ",
+    "imagePath": [
+      "DV89Jalige03.png"
     ],
     "year": 1750,
     "description": "",
@@ -787,10 +1589,10 @@
     "key": "1750_Dv89_Jalige"
   },
   {
-    "id": 115017,
-    "displayName": "Bingipura 1759CE Hyder Ali's Ashavala Shah Donation Inscription",
+    "id": 115132,
+    "displayName": "Bingipura 1759CE Krishnaraja Wodeyar's Donation Inscription",
     "imagePath": [
-      "Bingipura02.png"
+      "AN90Bingipura02.png"
     ],
     "year": 1759,
     "description": "",
@@ -798,7 +1600,7 @@
     "key": "1759_An90_Bingipura"
   },
   {
-    "id": 115018,
+    "id": 115133,
     "displayName": "Nanjapura 1780CE Harishankara Yaga Donation Inscription",
     "imagePath": [
       "Nanjapura01.png"
@@ -809,7 +1611,7 @@
     "key": "1780_An92_Nanjapura"
   },
   {
-    "id": 115019,
+    "id": 115134,
     "displayName": "Kalatammanahalli 1791CE  Bahadur Khan Herostone Inscription",
     "imagePath": [
       "Kalatammanahalli01.png"
@@ -818,6 +1620,204 @@
     "description": "",
     "links": [],
     "key": "1791_Shasana Adhyayana_Kalatammanahalli"
+  },
+  {
+    "id": 115135,
+    "displayName": "Kutaganahalli 1800CE Yelechikkana Lake Construction Inscription",
+    "imagePath": [
+      "Kutaganahalli17.png"
+    ],
+    "year": 1800,
+    "description": "",
+    "links": [],
+    "key": "1800_An23_Kutaganahalli"
+  },
+  {
+    "id": 115136,
+    "displayName": "Yelahanka 1800CE  Kanteerava Arasa's Garuda Kambha Inscription",
+    "imagePath": [
+      "Bn1702Yelahanka.png"
+    ],
+    "year": 1800,
+    "description": "",
+    "links": [],
+    "key": "1800_BN17_Yalahanka"
+  },
+  {
+    "id": 115137,
+    "displayName": "Nagamangala 1800CE Sriranganatha Inscription (Rereading)",
+    "imagePath": [
+      "DV05NAGAMANGALA.png"
+    ],
+    "year": 1800,
+    "description": "",
+    "links": [],
+    "key": "1800_Dv05_Nagamangala"
+  },
+  {
+    "id": 115138,
+    "displayName": "Kamenahalli 1800CE Chamundeshwari Donation Inscription",
+    "imagePath": [
+      "Kamenahalli01.png"
+    ],
+    "year": 1800,
+    "description": "",
+    "links": [],
+    "key": "1800_Dv90_Kamenahalli"
+  },
+  {
+    "id": 115139,
+    "displayName": "Kudluru 1828CE Venkatalakshmi Sri Rama Temple Donation Inscription",
+    "imagePath": [
+      "Kudlur03.png"
+    ],
+    "year": 1828,
+    "description": "",
+    "links": [],
+    "key": "1828_Cp108_Kudluru"
+  },
+  {
+    "id": 115140,
+    "displayName": "Bannerughatta 1850CE Paapa Vimochane Inscription",
+    "imagePath": [
+      "Shapavimochenekallu_An11100.png"
+    ],
+    "year": 1850,
+    "description": "",
+    "links": [],
+    "key": "1850_AN111_Bannerughatta"
+  },
+  {
+    "id": 115141,
+    "displayName": "Kalya 550CE Inscription",
+    "imagePath": [
+      "Mg10100.png"
+    ],
+    "year": 550,
+    "description": "",
+    "links": [],
+    "key": "550_MG101_Kalya"
+  },
+  {
+    "id": 115142,
+    "displayName": "Totagere 750CE Inscription",
+    "imagePath": [
+      "Totagere_8th CE00.png"
+    ],
+    "year": 750,
+    "description": "",
+    "links": [],
+    "key": "750_NL33_Totagere"
+  },
+  {
+    "id": 115143,
+    "displayName": "T Dasarahalli 800CE Turugol Herostone With Inscription  ",
+    "imagePath": [
+      "Dasarahalli_Bn3805.png"
+    ],
+    "year": 800,
+    "description": "",
+    "links": [],
+    "key": "800_BN38_T dasarahalli"
+  },
+  {
+    "id": 115144,
+    "displayName": "T Dasarahalli  800CE Kosigaramalta Guramareya's Turugol Herostone Inscription    ",
+    "imagePath": [
+      "BN39T_Dasarahalli.png"
+    ],
+    "year": 800,
+    "description": "",
+    "links": [],
+    "key": "800_BN39_T dasarahalli"
+  },
+  {
+    "id": 115145,
+    "displayName": "Dodda Thogur 900CE Turugol Herostone With Inscription",
+    "imagePath": [
+      "dodda_togur02.png"
+    ],
+    "year": 900,
+    "description": "",
+    "links": [],
+    "key": "900_BN103_Doddatogur"
+  },
+  {
+    "id": 115146,
+    "displayName": "Begur 900CE Bydukura Kerega Turugol & Uralivu Herostone Inscription",
+    "imagePath": [
+      "begur_Bn8401.png"
+    ],
+    "year": 900,
+    "description": "",
+    "links": [],
+    "key": "900_BN84_Begur"
+  },
+  {
+    "id": 115147,
+    "displayName": "Begur 900CE Tondabbe Sanayasana Inscription (Rereading)",
+    "imagePath": [
+      "Begur_fort_tondabbe_03.png"
+    ],
+    "year": 900,
+    "description": "",
+    "links": [],
+    "key": "900_BN94_Begur"
+  },
+  {
+    "id": 115148,
+    "displayName": "Aradeshanahalli 900CE Seemarasa Bhattaraka's Hero Stone Inscription (Rereading)",
+    "imagePath": [
+      "Aradeshanahalli_Dv4100.png"
+    ],
+    "year": 900,
+    "description": "",
+    "links": [],
+    "key": "900_Dv41_Aradeshanahalli"
+  },
+  {
+    "id": 115149,
+    "displayName": "Maranayakanahalli 900CE Herostone With Inscription ",
+    "imagePath": [
+      "Maranaykanahalli02.png"
+    ],
+    "year": 900,
+    "description": "",
+    "links": [],
+    "key": "900_Unpub_Maranayakanahalli"
+  },
+  {
+    "id": 115150,
+    "displayName": "Jakkur 950CE Prashasthi Inscription",
+    "imagePath": [
+      "Jakkur_Prashasti_inscription_digital_image01.png"
+    ],
+    "year": 950,
+    "description": "",
+    "links": [],
+    "key": "950_ItiDar_Jakkur"
+  },
+  {
+    "id": 115151,
+    "displayName": "Malurpatna 970CE Permanadi Inscription",
+    "imagePath": [
+      "CP143_Malurpatnasnapshot07.png"
+    ],
+    "year": 970,
+    "description": "",
+    "links": [],
+    "key": "970_CP143_Malurpatna"
+  },
+  {
+    "id": 115152,
+    "displayName": "Nagavara 971CE Herostone With Inscription",
+    "imagePath": [
+      "Nagavara01.png"
+    ],
+    "year": 971,
+    "description": "",
+    "links": [],
+    "key": "971_Aksharameru_Nagavara"
   },
   {
     "id": 113903,
@@ -838,5 +1838,142 @@
       }
     ],
     "key": ""
+  },
+  {
+    "id": 1143372,
+    "displayName": "Sadahalli 1328CE Veeraballala Inscription",
+    "imagePath": [
+      "1329Sadahall4Unpublished01.png"
+    ],
+    "year": 1328,
+    "description": "",
+    "links": [],
+    "key": "1329_unpub_Sadahalli"
+  },
+  {
+    "id": 5964330,
+    "displayName": "letter",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": -1,
+    "key": "letter"
+  },
+  {
+    "id": 7450978,
+    "displayName": "1336 Bn110 Byadarahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1336,
+    "key": "1336_Bn110_Byadarahalli"
+  },
+  {
+    "id": 3358641,
+    "displayName": "800 BN38 Tdasarahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 800,
+    "key": "800_BN38_Tdasarahalli"
+  },
+  {
+    "id": 6794294,
+    "displayName": "800 BN39 Tdasarahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 800,
+    "key": "800_BN39_Tdasarahalli"
+  },
+  {
+    "id": 6346381,
+    "displayName": "1402 ShasanaAdhyayana Yelachenahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1402,
+    "key": "1402_ShasanaAdhyayana_Yelachenahalli"
+  },
+  {
+    "id": 6476785,
+    "displayName": "1700 BN121 Kambipura",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1700,
+    "key": "1700_BN121_Kambipura"
+  },
+  {
+    "id": 3631330,
+    "displayName": "1700 Ht169 Bhaktarahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1700,
+    "key": "1700_Ht169_Bhaktarahalli"
+  },
+  {
+    "id": 6612487,
+    "displayName": "1791 ShasanaAdhyayana Kalatammanahalli",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1791,
+    "key": "1791_ShasanaAdhyayana_Kalatammanahalli"
+  },
+  {
+    "id": 3426069,
+    "displayName": "1345 Dv3 Jalige",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1345,
+    "key": "1345_Dv3_Jalige"
+  },
+  {
+    "id": 4353329,
+    "displayName": "1674 EpigraphiaIndica Vol32",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1674,
+    "key": "1674_EpigraphiaIndica_Vol32"
+  },
+  {
+    "id": 1107406,
+    "displayName": "770 CP141 Malurpatna",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 770,
+    "key": "770_CP141_Malurpatna"
+  },
+  {
+    "id": 7034135,
+    "displayName": "1600 Unpub Kalya(Devisetti2)",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1600,
+    "key": "1600_Unpub_Kalya(Devisetti2)"
+  },
+  {
+    "id": 3166946,
+    "displayName": "1674 EpigraphiaIndicaVol32Sonda 3",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1674,
+    "key": "1674_EpigraphiaIndicaVol32Sonda_3"
+  },
+  {
+    "id": 9912623,
+    "displayName": "1674 EpigraphiaIndica Vol32Sonda",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1674,
+    "key": "1674_EpigraphiaIndica_Vol32Sonda"
   }
 ]

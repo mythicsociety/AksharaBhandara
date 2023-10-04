@@ -114,25 +114,13 @@
     "place": "Mankunda",
     "lineNumber": 5,
     "posNumber": 3,
-    "letter": "sa - Copy",
-    "fileName": "950_Unpub_Mankunda_5_3_sa - Copy",
-    "filePath": "sa/sa_form1/950_Unpub_Mankunda_5_3_sa - Copy.JPG",
-    "kannadaWord": "ಸ"
-  },
-  {
-    "id": 11,
-    "year": 950,
-    "encoding": "Unpub",
-    "place": "Mankunda",
-    "lineNumber": 5,
-    "posNumber": 3,
     "letter": "sa",
     "fileName": "950_Unpub_Mankunda_5_3_sa",
     "filePath": "sa/sa_form1/950_Unpub_Mankunda_5_3_sa.JPG",
     "kannadaWord": "ಸ"
   },
   {
-    "id": 12,
+    "id": 11,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -144,7 +132,7 @@
     "kannadaWord": "ಸ್ವ"
   },
   {
-    "id": 13,
+    "id": 12,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -156,7 +144,7 @@
     "kannadaWord": "ತ್ತಂ"
   },
   {
-    "id": 14,
+    "id": 13,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -168,7 +156,7 @@
     "kannadaWord": "ತ್ತಿ"
   },
   {
-    "id": 15,
+    "id": 14,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -180,7 +168,7 @@
     "kannadaWord": "ತೊ"
   },
   {
-    "id": 16,
+    "id": 15,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -192,7 +180,7 @@
     "kannadaWord": "ಯ"
   },
   {
-    "id": 17,
+    "id": 16,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -204,7 +192,7 @@
     "kannadaWord": "ಎ"
   },
   {
-    "id": 18,
+    "id": 17,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -216,7 +204,7 @@
     "kannadaWord": "ಎ"
   },
   {
-    "id": 19,
+    "id": 18,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -228,7 +216,7 @@
     "kannadaWord": "ಶ್ರಿ"
   },
   {
-    "id": 20,
+    "id": 19,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -240,7 +228,7 @@
     "kannadaWord": "಄"
   },
   {
-    "id": 21,
+    "id": 20,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",
@@ -252,7 +240,7 @@
     "kannadaWord": "ೞ"
   },
   {
-    "id": 22,
+    "id": 21,
     "year": 950,
     "encoding": "Unpub",
     "place": "Mankunda",

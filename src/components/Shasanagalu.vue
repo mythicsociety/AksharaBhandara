@@ -100,6 +100,7 @@ export default {
 
     <div class="body-padding" style="margin: auto;">
         <div style="position: relative;">
+            <!-- Comment  <p class="sub-heading">ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p> replaced with a simpler message by Uday -->
             <p class="sub-heading">ಈ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳನ್ನು ನೋಡಬಹುದು</p>
 
             <button type="button" @click="isModalOpen = true"

@@ -546,25 +546,13 @@
     "place": "Malurpatna",
     "lineNumber": 1,
     "posNumber": 3,
-    "letter": "sa - Copy",
-    "fileName": "996_CP144_Malurpatna_1_3_sa - Copy",
-    "filePath": "sa/sa_form1/996_CP144_Malurpatna_1_3_sa - Copy.JPG",
-    "kannadaWord": "ಸ"
-  },
-  {
-    "id": 47,
-    "year": 996,
-    "encoding": "CP144",
-    "place": "Malurpatna",
-    "lineNumber": 1,
-    "posNumber": 3,
     "letter": "sa",
     "fileName": "996_CP144_Malurpatna_1_3_sa",
     "filePath": "sa/sa_form1/996_CP144_Malurpatna_1_3_sa.JPG",
     "kannadaWord": "ಸ"
   },
   {
-    "id": 48,
+    "id": 47,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -576,7 +564,7 @@
     "kannadaWord": "ಸ"
   },
   {
-    "id": 49,
+    "id": 48,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -588,7 +576,7 @@
     "kannadaWord": "ಸಂ"
   },
   {
-    "id": 50,
+    "id": 49,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -600,7 +588,7 @@
     "kannadaWord": "ಸ್ತ"
   },
   {
-    "id": 51,
+    "id": 50,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -612,7 +600,7 @@
     "kannadaWord": "ಸ್ತಿ"
   },
   {
-    "id": 52,
+    "id": 51,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -624,7 +612,7 @@
     "kannadaWord": "ಸ್ವ"
   },
   {
-    "id": 53,
+    "id": 52,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -636,7 +624,7 @@
     "kannadaWord": "ಸ್ವ"
   },
   {
-    "id": 54,
+    "id": 53,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -648,7 +636,7 @@
     "kannadaWord": "ತ"
   },
   {
-    "id": 55,
+    "id": 54,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -660,7 +648,7 @@
     "kannadaWord": "ತ್ರ"
   },
   {
-    "id": 56,
+    "id": 55,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -672,7 +660,7 @@
     "kannadaWord": "ತ್ಸ"
   },
   {
-    "id": 57,
+    "id": 56,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -684,7 +672,7 @@
     "kannadaWord": "ತ್ತು"
   },
   {
-    "id": 58,
+    "id": 57,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -696,7 +684,7 @@
     "kannadaWord": "ವ"
   },
   {
-    "id": 59,
+    "id": 58,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -708,7 +696,7 @@
     "kannadaWord": "ಯ"
   },
   {
-    "id": 60,
+    "id": 59,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -720,7 +708,7 @@
     "kannadaWord": "ಯ"
   },
   {
-    "id": 61,
+    "id": 60,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -732,7 +720,7 @@
     "kannadaWord": "ಯ್ಯ"
   },
   {
-    "id": 62,
+    "id": 61,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -744,7 +732,7 @@
     "kannadaWord": "ಯ್ಯ"
   },
   {
-    "id": 63,
+    "id": 62,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -756,7 +744,7 @@
     "kannadaWord": "ಯ್ಯ"
   },
   {
-    "id": 64,
+    "id": 63,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -768,7 +756,7 @@
     "kannadaWord": "ಯ್ಯ"
   },
   {
-    "id": 65,
+    "id": 64,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -780,7 +768,7 @@
     "kannadaWord": "ಆ"
   },
   {
-    "id": 66,
+    "id": 65,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -792,7 +780,7 @@
     "kannadaWord": "ಶ್ರೀ"
   },
   {
-    "id": 67,
+    "id": 66,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",
@@ -804,7 +792,7 @@
     "kannadaWord": "ಶು"
   },
   {
-    "id": 68,
+    "id": 67,
     "year": 996,
     "encoding": "CP144",
     "place": "Malurpatna",

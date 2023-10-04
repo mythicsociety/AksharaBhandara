@@ -678,37 +678,13 @@
     "place": "Tumkur",
     "lineNumber": 5,
     "posNumber": 4,
-    "letter": "sa - Copy",
-    "fileName": "955_TM38_Tumkur_5_4_sa - Copy",
-    "filePath": "sa/sa_form1/955_TM38_Tumkur_5_4_sa - Copy.JPG",
-    "kannadaWord": "ಸ"
-  },
-  {
-    "id": 58,
-    "year": 955,
-    "encoding": "TM38",
-    "place": "Tumkur",
-    "lineNumber": 5,
-    "posNumber": 4,
     "letter": "sa",
     "fileName": "955_TM38_Tumkur_5_4_sa",
     "filePath": "sa/sa_form1/955_TM38_Tumkur_5_4_sa.JPG",
     "kannadaWord": "ಸ"
   },
   {
-    "id": 59,
-    "year": 955,
-    "encoding": "TM38",
-    "place": "Tumkur",
-    "lineNumber": 9,
-    "posNumber": 5,
-    "letter": "sa - Copy",
-    "fileName": "955_TM38_Tumkur_9_5_sa - Copy",
-    "filePath": "sa/sa_form1/955_TM38_Tumkur_9_5_sa - Copy.JPG",
-    "kannadaWord": "ಸ"
-  },
-  {
-    "id": 60,
+    "id": 58,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -720,7 +696,7 @@
     "kannadaWord": "ಸ"
   },
   {
-    "id": 61,
+    "id": 59,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -732,7 +708,7 @@
     "kannadaWord": "ಸ"
   },
   {
-    "id": 62,
+    "id": 60,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -744,7 +720,7 @@
     "kannadaWord": "ತ್ತ"
   },
   {
-    "id": 63,
+    "id": 61,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -756,7 +732,7 @@
     "kannadaWord": "ತ್ತಿ"
   },
   {
-    "id": 64,
+    "id": 62,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -768,7 +744,7 @@
     "kannadaWord": "ತ್ತಿಂ"
   },
   {
-    "id": 65,
+    "id": 63,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -780,7 +756,7 @@
     "kannadaWord": "ತ್ತು"
   },
   {
-    "id": 66,
+    "id": 64,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -792,7 +768,7 @@
     "kannadaWord": "ವ"
   },
   {
-    "id": 67,
+    "id": 65,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -804,7 +780,7 @@
     "kannadaWord": "ವ"
   },
   {
-    "id": 68,
+    "id": 66,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -816,7 +792,7 @@
     "kannadaWord": "ವು"
   },
   {
-    "id": 69,
+    "id": 67,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -828,7 +804,7 @@
     "kannadaWord": "ವೊ"
   },
   {
-    "id": 70,
+    "id": 68,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -840,7 +816,7 @@
     "kannadaWord": "ಯ"
   },
   {
-    "id": 71,
+    "id": 69,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -852,7 +828,7 @@
     "kannadaWord": "ಯ"
   },
   {
-    "id": 72,
+    "id": 70,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -864,7 +840,7 @@
     "kannadaWord": "ಯ"
   },
   {
-    "id": 73,
+    "id": 71,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -876,7 +852,7 @@
     "kannadaWord": "ಯಂ"
   },
   {
-    "id": 74,
+    "id": 72,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -888,7 +864,7 @@
     "kannadaWord": "ಯು"
   },
   {
-    "id": 75,
+    "id": 73,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -900,7 +876,7 @@
     "kannadaWord": "ಯು"
   },
   {
-    "id": 76,
+    "id": 74,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -912,7 +888,7 @@
     "kannadaWord": "ಯು"
   },
   {
-    "id": 77,
+    "id": 75,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -924,7 +900,7 @@
     "kannadaWord": "ಯ್ಯ"
   },
   {
-    "id": 78,
+    "id": 76,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -936,7 +912,7 @@
     "kannadaWord": "ಯೆ"
   },
   {
-    "id": 79,
+    "id": 77,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -948,7 +924,7 @@
     "kannadaWord": "ಯೊ"
   },
   {
-    "id": 80,
+    "id": 78,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -960,7 +936,7 @@
     "kannadaWord": "ಯೊ"
   },
   {
-    "id": 81,
+    "id": 79,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -972,7 +948,7 @@
     "kannadaWord": "ಯೊ"
   },
   {
-    "id": 82,
+    "id": 80,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -984,7 +960,7 @@
     "kannadaWord": "ಈ"
   },
   {
-    "id": 83,
+    "id": 81,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -996,7 +972,7 @@
     "kannadaWord": "ಡೆ"
   },
   {
-    "id": 84,
+    "id": 82,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1008,7 +984,7 @@
     "kannadaWord": "ಡೆ"
   },
   {
-    "id": 85,
+    "id": 83,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1020,7 +996,7 @@
     "kannadaWord": "ಡೆ"
   },
   {
-    "id": 86,
+    "id": 84,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1032,7 +1008,7 @@
     "kannadaWord": "ಙ್ಗೆ"
   },
   {
-    "id": 87,
+    "id": 85,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1044,7 +1020,7 @@
     "kannadaWord": "ಣ್ಬ"
   },
   {
-    "id": 88,
+    "id": 86,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1056,7 +1032,7 @@
     "kannadaWord": "ಣ್ನ"
   },
   {
-    "id": 89,
+    "id": 87,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1068,7 +1044,7 @@
     "kannadaWord": "ಣ್ನು"
   },
   {
-    "id": 90,
+    "id": 88,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1080,7 +1056,7 @@
     "kannadaWord": "ಣ್ಡು"
   },
   {
-    "id": 91,
+    "id": 89,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1092,7 +1068,7 @@
     "kannadaWord": "ಱು"
   },
   {
-    "id": 92,
+    "id": 90,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1104,7 +1080,7 @@
     "kannadaWord": "ಱೆ"
   },
   {
-    "id": 93,
+    "id": 91,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1116,7 +1092,7 @@
     "kannadaWord": "ಟ್ಟ"
   },
   {
-    "id": 94,
+    "id": 92,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1128,7 +1104,7 @@
     "kannadaWord": "ಟ್ಟ"
   },
   {
-    "id": 95,
+    "id": 93,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1140,7 +1116,7 @@
     "kannadaWord": "ಟ್ಟಂ"
   },
   {
-    "id": 96,
+    "id": 94,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1152,7 +1128,7 @@
     "kannadaWord": "ಟ್ಟಿ"
   },
   {
-    "id": 97,
+    "id": 95,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1164,7 +1140,7 @@
     "kannadaWord": "ಟ್ಟಿ"
   },
   {
-    "id": 98,
+    "id": 96,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",
@@ -1176,7 +1152,7 @@
     "kannadaWord": "ಟ್ಟಿ"
   },
   {
-    "id": 99,
+    "id": 97,
     "year": 955,
     "encoding": "TM38",
     "place": "Tumkur",

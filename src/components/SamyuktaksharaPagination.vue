@@ -59,7 +59,9 @@ export default {
         fetchData(jsonPath) {
             axios.get(`${this.publicPath}${jsonPath}`)
                 .then(response => {
-                    this.samyuktaksharaLetters = response.data.filter(l => l.isAvailable == true)
+                    this.samyuktaksharaLetters = response.data.
+                        filter(l => l.isAvailable == true).
+                        sort((a,b) => a.key.localeCompare(b.key))
                     this.reupdateDisplayedData();
                 })
                 .catch(error => {

@@ -934,54 +934,6 @@
     "IASTform": "chre"
   },
   {
-    "id": 36,
-    "key": "ಚೋನ್ಛ್",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "Conch_form1",
-        "path": "Conch/Conch_form1/1440_Bn08_Domlur_50_2_Conch.JPG",
-        "year": 1440
-      }
-    ],
-    "IASTform": "Conch"
-  },
-  {
-    "id": 37,
-    "key": "ಚೋw",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "cow_form1",
-        "path": "cow/cow_form1/1029_NL01_Soladevanahalli_cow.JPG",
-        "year": 1029
-      },
-      {
-        "id": 2,
-        "form": "cow_form1",
-        "path": "cow/cow_form1/1440_Bn08_Domlur_50_5_Cow.JPG",
-        "year": 1440
-      }
-    ],
-    "IASTform": "cow"
-  },
-  {
-    "id": 38,
-    "key": "ಚೋw2",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "Cow2_form1",
-        "path": "Cow2/Cow2_form1/1029_NL01_Soladevanahalli_Cow2.JPG",
-        "year": 1029
-      }
-    ],
-    "IASTform": "Cow2"
-  },
-  {
     "id": 39,
     "key": "ಚ್ಸ",
     "isAvailable": true,

@@ -2,6 +2,7 @@
 
 import BasicLetter from '../components/LetterForms/BasicLetter.vue'
 import axios from 'axios';
+import { getRandomItemFromArray } from '../models/utils';
 
 </script>
 
@@ -100,7 +101,7 @@ export default {
         getImageSrc(letter) {
             let filteredArr = letter.letterForms.filter(f => f.isExists == true);
             if (filteredArr.length > 0) {
-                return filteredArr[0].path;
+                return getRandomItemFromArray(filteredArr).path;
             } else {
                 return "letter_missing.png";
             }

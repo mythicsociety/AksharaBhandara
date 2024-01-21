@@ -40,7 +40,7 @@ export default {
             {
               href: '/learn/Varnamale',
               title: 'ವರ್ಣಮಾಲೆ',
-              icon: 'fa fa-pencil',
+              icon: 'fa fa-sort-alpha-asc',
             },
             {
               href: '/learn/AksharaRupagalu',
@@ -71,8 +71,13 @@ export default {
               href: '/learn/Shasanagalu',
               title: 'ಶಾಸನಗಳು',
               icon: 'fa fa-tablet',
-            },
+            }
           ]
+        },
+        {
+          href: '/Learning',
+          title: 'ಅಭ್ಯಾಸ',
+          icon: 'fa fa-pencil-square-o'
         },
         {
           href: '/map',

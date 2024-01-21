@@ -33,7 +33,8 @@ export default {
     watch: {
         selectedShasana(newValue, oldValue) {
             this.selectedShasanaDetails = this.shasanas.find(s => s.key === newValue);
-            axios.get(`${this.publicPath}./assets/json/shasanas/${newValue}.json`)
+            let encodedPath = encodeURIComponent(newValue)
+            axios.get(`${this.publicPath}./assets/json/shasanas/${encodedPath}.json`)
                 .then(response => {
                     //group letters by lineNumber
                     let groupedShasana = groupBy(response.data, s => s.lineNumber);
@@ -118,9 +119,14 @@ export default {
                 <option v-for="sha in shasanas" :key="sha.id" :value="sha.key">{{ sha.displayName }}</option>
             </select> -->
 
-            <model-list-select :list="shasanas" v-model="selectedShasana" placeholder="ಒಂದು ಶಾಸನ ಆಯ್ಕೆಮಾಡಿ"
+            <!-- <model-list-select :list="shasanas" v-model="selectedShasana" placeholder="ಒಂದು ಶಾಸನ ಆಯ್ಕೆಮಾಡಿ"
                 option-value="key" option-text="displayName" style="margin: 15px;" @searchchange="printSearchText">
-            </model-list-select>
+            </model-list-select> -->
+
+            <select style="margin: 15px;" v-model="selectedShasana" @change="printSearchText">
+                <option :value="null" disabled>Select an inscription</option>
+                <option v-for="ins in shasanas" :value="ins.key">{{ ins.displayName }}</option>
+            </select>
 
             <div v-if="selectedShasana !== null">
                 <button @click="scrollToElement">ಶಾಸನದ ಚಿತ್ರವನ್ನು ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ</button>

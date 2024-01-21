@@ -96,7 +96,6 @@ export default {
                 return { ...item, letterForms };
             });
 
-            console.log(this.displayedLetters)
         },
         getImageSrc(letter) {
             let filteredArr = letter.letterForms.filter(f => f.isExists == true);

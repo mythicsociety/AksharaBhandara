@@ -11,10 +11,12 @@ import AksharaRupagalu from './components/AksharaRupagalu.vue'
 import Gunitaksharagalu from './components/Gunitaksharagalu.vue'
 import Samyuktaksharagalu from './components/Samyuktaksharagalu.vue'
 import Sankegalu from './components/Sankegalu.vue'
+import LearningHome from './components/LearningHome.vue'
 import Symbols from './components/Symbols.vue'
 import Shasanagalu from './components/Shasanagalu.vue'
 import SamyuktaksharaPagination from './components/SamyuktaksharaPagination.vue'
 import Introduction from './components/Introduction.vue'
+import Audit from './components/Audit.vue'
 import Map from './components/Map.vue'
 
 import 'vue-sidebar-menu/dist/vue-sidebar-menu.css'
@@ -31,7 +33,7 @@ const router = createRouter({
             component: HelloWorld,
         },
         {
-            path: '/learn',
+            path: '/Introduction',
             name: 'ಲಿಪಿ',
             component: Introduction,
         },
@@ -69,6 +71,16 @@ const router = createRouter({
             path: '/learn/Shasanagalu',
             name: 'ಶಾಸನಗಳು',
             component: Shasanagalu,
+        },
+        {
+            path: '/Learning',
+            name: 'Learning',
+            component: LearningHome,
+        },
+        {
+            path: '/audit',
+            name: 'audit',
+            component: Audit,
         },
         {
             path: '/map',

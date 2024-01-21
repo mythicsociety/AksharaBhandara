@@ -651,7 +651,7 @@
     "year": 1674,
     "description": "",
     "links": [],
-    "key": "1674_EpigraphiaIndicaVol32_Sonda"
+    "key": "1674_EpigraphiaIndica_Vol32_Sonda"
   },
   {
     "id": 115037,
@@ -1722,7 +1722,7 @@
   },
   {
     "id": 115144,
-    "displayName": "T Dasarahalli  800CE Kosigaramalta Guramareya's Turugol Herostone Inscription    ",
+    "displayName": "T Dasarahalli  800CE Kosigaramalta Guramareya's Turugol Herostone Inscription",
     "imagePath": [
       "BN39T_Dasarahalli.png"
     ],
@@ -1842,12 +1842,10 @@
   {
     "id": 1143372,
     "displayName": "Sadahalli 1328CE Veeraballala Inscription",
-    "imagePath": [
-      "1329Sadahall4Unpublished01.png"
-    ],
-    "year": 1328,
+    "imagePath": "1329Sadahall4Unpublished01.png",
     "description": "",
     "links": [],
+    "year": 1328,
     "key": "1329_unpub_Sadahalli"
   },
   {
@@ -1860,7 +1858,7 @@
     "key": "letter"
   },
   {
-    "id": 7450978,
+    "id": 7558614,
     "displayName": "1336 Bn110 Byadarahalli",
     "imagePath": "",
     "description": "",
@@ -1869,7 +1867,7 @@
     "key": "1336_Bn110_Byadarahalli"
   },
   {
-    "id": 3358641,
+    "id": 9270679,
     "displayName": "800 BN38 Tdasarahalli",
     "imagePath": "",
     "description": "",
@@ -1878,7 +1876,7 @@
     "key": "800_BN38_Tdasarahalli"
   },
   {
-    "id": 6794294,
+    "id": 1820389,
     "displayName": "800 BN39 Tdasarahalli",
     "imagePath": "",
     "description": "",
@@ -1887,7 +1885,7 @@
     "key": "800_BN39_Tdasarahalli"
   },
   {
-    "id": 6346381,
+    "id": 9989143,
     "displayName": "1402 ShasanaAdhyayana Yelachenahalli",
     "imagePath": "",
     "description": "",
@@ -1896,7 +1894,7 @@
     "key": "1402_ShasanaAdhyayana_Yelachenahalli"
   },
   {
-    "id": 6476785,
+    "id": 3679193,
     "displayName": "1700 BN121 Kambipura",
     "imagePath": "",
     "description": "",
@@ -1905,7 +1903,7 @@
     "key": "1700_BN121_Kambipura"
   },
   {
-    "id": 3631330,
+    "id": 2996143,
     "displayName": "1700 Ht169 Bhaktarahalli",
     "imagePath": "",
     "description": "",
@@ -1914,7 +1912,7 @@
     "key": "1700_Ht169_Bhaktarahalli"
   },
   {
-    "id": 6612487,
+    "id": 7629814,
     "displayName": "1791 ShasanaAdhyayana Kalatammanahalli",
     "imagePath": "",
     "description": "",
@@ -1923,7 +1921,7 @@
     "key": "1791_ShasanaAdhyayana_Kalatammanahalli"
   },
   {
-    "id": 3426069,
+    "id": 7467256,
     "displayName": "1345 Dv3 Jalige",
     "imagePath": "",
     "description": "",
@@ -1932,7 +1930,7 @@
     "key": "1345_Dv3_Jalige"
   },
   {
-    "id": 4353329,
+    "id": 6763272,
     "displayName": "1674 EpigraphiaIndica Vol32",
     "imagePath": "",
     "description": "",
@@ -1941,7 +1939,7 @@
     "key": "1674_EpigraphiaIndica_Vol32"
   },
   {
-    "id": 1107406,
+    "id": 6917951,
     "displayName": "770 CP141 Malurpatna",
     "imagePath": "",
     "description": "",
@@ -1950,7 +1948,7 @@
     "key": "770_CP141_Malurpatna"
   },
   {
-    "id": 7034135,
+    "id": 8729817,
     "displayName": "1600 Unpub Kalya(Devisetti2)",
     "imagePath": "",
     "description": "",
@@ -1959,7 +1957,16 @@
     "key": "1600_Unpub_Kalya(Devisetti2)"
   },
   {
-    "id": 3166946,
+    "id": 2241772,
+    "displayName": "1674 EpigraphiaIndicaVol32 Sonda",
+    "imagePath": "",
+    "description": "",
+    "links": [],
+    "year": 1674,
+    "key": "1674_EpigraphiaIndicaVol32_Sonda"
+  },
+  {
+    "id": 3121065,
     "displayName": "1674 EpigraphiaIndicaVol32Sonda 3",
     "imagePath": "",
     "description": "",
@@ -1968,7 +1975,7 @@
     "key": "1674_EpigraphiaIndicaVol32Sonda_3"
   },
   {
-    "id": 9912623,
+    "id": 2042711,
     "displayName": "1674 EpigraphiaIndica Vol32Sonda",
     "imagePath": "",
     "description": "",

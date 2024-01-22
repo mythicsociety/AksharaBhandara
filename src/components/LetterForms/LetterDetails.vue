@@ -46,7 +46,7 @@ export default {
 <template>
     <div class="key-value-list">
 
-        <h5>ಅಕ್ಷರದ ವಿವರ</h5>
+        <h2>{{ $t("letterDetails.heading") }}</h2>
 
         <!-- <div class="pair">
     <span class="key">ವರ್ಷ:</span>
@@ -69,23 +69,23 @@ export default {
     <span class="value">{{ letterDetails.characterIAST }}</span>
 </div> Changed by Uday for improved language  -->
         <div class="pair">
-            <span class="key">ವರ್ಷ:</span>
+            <span class="key">{{ $t("letterDetails.year") }}:</span>
             <span class="value">{{ letterDetails.imageYear }}</span>
         </div>
         <div class="pair">
-            <span class="key">ಸ್ಥಳ:</span>
+            <span class="key">{{ $t("letterDetails.place") }}:</span>
             <span class="value">{{ letterDetails.place }}</span>
         </div>
         <div class="pair">
-            <span class="key">ಸಾಲಿನ ಸಂಖ್ಯೆ:</span>
+            <span class="key">{{ $t("letterDetails.lineNumber") }}:</span>
             <span class="value">{{ letterDetails.lineNumber }}</span>
         </div>
         <div class="pair">
-            <span class="key">ಅಕ್ಷರ ಸಂಖ್ಯೆ:</span>
+            <span class="key">{{ $t("letterDetails.positionNumber") }}:</span>
             <span class="value">{{ letterDetails.posNumber }}</span>
         </div>
         <div class="pair">
-            <span class="key">IAST:</span>
+            <span class="key">{{ $t("letterDetails.iast") }}:</span>
             <span class="value">{{ letterDetails.characterIAST }}</span>
         </div>
     </div>

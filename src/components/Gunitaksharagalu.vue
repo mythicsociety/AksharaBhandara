@@ -3,6 +3,7 @@ import LetterFormsDisplay from './LetterForms/LetterFormsDisplay.vue';
 import LetterSelector from './LetterForms/LetterSelector.vue';
 import YearFilterVue from './SubComponents/YearFilter.vue';
 import PageCounter from './SubComponents/PageCounter.vue';
+import Header from './SubComponents/Header.vue';
 
 import { gunitaksharaLettersPath } from '../models/paths.js'
 import { DefaultLetterCount } from '../models/constants.js'
@@ -58,7 +59,7 @@ export default {
 </script>
 
 <template>
-    <h2 class="page-header">ಗುಣಿತಾಕ್ಷರಗಳು</h2>
+    <Header :headingText="$t('navigation.gunitakshara')"></Header>
 
     <div class="body-padding" style="margin: auto;">
         <YearFilterVue @yearData="getData" />

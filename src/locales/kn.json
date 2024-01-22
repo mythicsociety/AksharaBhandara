@@ -1,0 +1,94 @@
+{
+    "about": {
+        "heading": "ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ ಶಾಸನಗಳ 3ಡಿ ಡಿಜಿಟಲ್ ಸಂರಕ್ಷಣಾ ಯೋಜನಾ ತಂಡ",
+        "people": "ಉದಯ ಕುಮಾರ್ ಪಿ.ಎಲ್., ಶಶಿಕುಮಾರ ನಾಯ್ಕ ಕೆ.ಸಿ., ಮಧುಸೂದನ ಎಂ.ಎನ್., ಗೌತಮ್ ಜಂತಕಲ್",
+        "lab": "ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ ಶಾಸನಗಳ 3ಡಿ ಡಿಜಿಟಲ್ ಸಂರಕ್ಷಣಾ ಪ್ರಾಜೆಕ್ಟ್ ಲ್ಯಾಬ್",
+        "fieldWork": "ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ ಶಾಸನಗಳ 3ಡಿ ಡಿಜಿಟಲ್ ಸಂರಕ್ಷಣಾ ಯೋಜನಾ ತಂಡ ಕ್ಷೇತ್ರ ಕಾರ್ಯ ಮತ್ತು ಶಾಸನಗಳ ಸ್ಕ್ಯಾನಿಂಗ್ ನಲ್ಲಿ ತೊಡಗಿರುವ ತಂಡ",
+        "contactUsHeading": "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ",
+        "contactUs": "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ: 3dscanning.mythicsociety@gmail.com"
+    },
+    "map": {
+        "heading": "ಬೆಂಗಳೂರಿನ ಶಿಲಾಶಾಸನಗಳ ನಕ್ಷೆ"
+    },
+    "navigation": {
+        "heading": "ನ್ಯಾವಿಗೇಷನ್",
+        "script": "ಲಿಪಿ",
+        "alphabets": "ವರ್ಣಮಾಲೆ",
+        "forms": "ಅಕ್ಷರ ರೂಪಗಳು",
+        "numbers": "ಸಂಖ್ಯೆಗಳು",
+        "symbols": "ಚಿಹ್ನೆಗಳು",
+        "inscriptions": "ಶಾಸನಗಳು",
+        "practice": "ಅಭ್ಯಾಸ",
+        "gunitakshara": "ಗುಣಿತಾಕ್ಷರಗಳು",
+        "samyuktakshara": "ಸಂಯುಕ್ತಾಕ್ಷರಗಳು",
+        "home": "ಮುಖಪುಟ",
+        "map": "ಶಾಸನಗಳ ನಕ್ಷೆ",
+        "aboutUs": "ನಮ್ಮ ಬಗ್ಗೆ"
+    },
+    "practice": {
+        "title": "ಅಭ್ಯಾಸ ಮಾಡಿ",
+        "lettersRad": "ಅಕ್ಷರಗಳು",
+        "wordsRad": "ಪದಗಳು",
+        "sentencesRad": "ವಾಕ್ಯಗಳು",
+        "inscriptionRad": "ಶಾಸನಗಳು",
+        "btnShowAnswer": "ಉತ್ತರ ತೋರಿಸು",
+        "btnShowAnother": "ಇನ್ನೊಂದನ್ನು ತೋರಿಸು",
+        "hintWord": "ಪದವನ್ನು ಓದಲು ಪ್ರಯತ್ನಿಸಿ",
+        "hintSentence": "ವಾಕ್ಯವನ್ನು ಓದಲು ಪ್ರಯತ್ನಿಸಿ",
+        "hintCharacter": "ಕೆಳಗಿನ ಪದವನ್ನು ಗುರುತಿಸಿ",
+        "hintInscription": "ಶಾಸನ ಪಾಠ ಅಭ್ಯಾಸ",
+        "linkInscription": "ಶಾಸನಕ್ಕೆ ಹೋಗಿ"
+    },
+    "letterDetails": {
+        "heading": "ಅಕ್ಷರದ ವಿವರ",
+        "year": "ವರ್ಷ",
+        "place": "ಸ್ಥಳ",
+        "lineNumber": "ಸಾಲಿನ ಸಂಖ್ಯೆ",
+        "positionNumber": "ಅಕ್ಷರ ಸಂಖ್ಯೆ",
+        "iast": "IAST"
+    },
+    "home": {
+        "aksharabhandara": "ಅಕ್ಷರ ಭಂಡಾರ",
+        "mythicsociety": "ಮಿಥಿಕ್ ಸೊಸೈಟಿ"
+    },
+    "script": {
+        "heading": "ವರ್ಣಮಾಲೆ",
+        "to": "ಇಂದ",
+        "yearRange": "ವರ್ಷಗಳ ಶ್ರೇಣಿ",
+        "btnPrevios": "ಹಿಂದಿನ ಶತಮಾನ",
+        "btnNext": "ಮುಂದಿನ ಶತಮಾನ"
+    },
+    "letter": {
+        "form": "ರೂಪ",
+        "century": "ಶತಮಾನ",
+        "thCentury": "ನೆ ಶತಮಾನ",
+        "count": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ",
+        "txtSelectLetter": "ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+        "fromYear": "ವರ್ಷದಿಂದ",
+        "toYear": "ವರ್ಷದವರೆಗೆ",
+        "selectYears": "ಶ್ರೇಣಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+        "yearsRangeWarning":"ಆಯ್ಕೆಮಾಡಿದ ವರ್ಷಗಳು ನಿರ್ದಿಷ್ಟ ಶ್ರೇಣಿಯಲ್ಲಿಲ್ಲ",
+        "noLettersWarning":"ಈ ಅವಧಿಯಲ್ಲಿ ಯಾವುದೇ ಅಕ್ಷರಗಳು ಲಭ್ಯವಿಲ್ಲ"
+    },
+    "inscription": {
+        "count": "ಈ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ {length} ಶಾಸನಗಳನ್ನು ನೋಡಬಹು",
+        "details": "ಈ ಶಾಸನದಲ್ಲಿ (ID: {id}) {totalLines} ಸಾಲುಗಳು ಮತ್ತು {totalCharacters} ಅಕ್ಷರಗಳಿವೆ",
+        "feedback": "ಪ್ರತಿಕ್ರಿಯೆ",
+        "hintSelectInsc": "ಶಾಸನವೊಂದನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+        "txtClickForImage": "ಶಾಸನದ ಚಿತ್ರವನ್ನು ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ",
+        "headingScanImage": "3ಡಿ ಸ್ಕ್ಯಾನಿಂಗ್ ಮೂಲಕ ಪಡೆದ ಶಾಸನದ ಡಿಜಿಟಲ್ ಚಿತ್ರ",
+        "subHeadScanImage": "ಅಕ್ಷರಗಳನ್ನು ಜೂಮ್ ಮಾಡಿ ನೋಡಲು ಶಾಸನ ಚಿತ್ರದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ",
+        "wikiMedia": "ವಿಕಿಮೀಡಿಯ ಕಾಮನ್ಸ್: ಮಿಥಿಕ್ ಸೊಸೈಟಿ ಶಾಸನಗಳ ಸಂರಕ್ಷಣಾ ಯೋಜನಾ ತಂಡವು ಸಿದ್ಧಪಡಿಸಿದ ಡಿಜಿಟಲ್ ಚಿತ್ರಗಳು",
+        "line": "ಸಾಲು"
+    },
+    "symbols": {
+        "filter": "ಫಿಲ್ಟರ್",
+        "reset": "ತೆಗೆ"
+    },
+    "pagination":{
+        "first":"ಒಂದನೆಯ",
+        "last":"ಮುಂದೆ",
+        "next":"ಮುಂದೆ",
+        "previous":"ಹಿಂದೆ"
+    }
+}

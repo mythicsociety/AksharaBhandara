@@ -1,3 +1,9 @@
+<script setup>
+import Footer from './SubComponents/Footer.vue';
+import Header from './SubComponents/Header.vue';
+
+</script>
+
 <script>
 import axios from 'axios';
 import { getRandomItemFromArray } from '../models/utils';
@@ -130,17 +136,17 @@ export default {
 </script>
 
 <template>
-    <h2 class="page-header">ಅಭ್ಯಾಸ ಮಾಡಿ</h2>
+    <Header :headingText="$t('practice.title')"></Header>
 
     <div class="body-padding" style="margin: auto;">
 
         <div>
-            <input type="radio" v-model="selected" value="one" @change="switchRadio($event.target.value)" /> ಅಕ್ಷರಗಳು
-            <input type="radio" v-model="selected" value="two" @change="switchRadio($event.target.value)" /> ಪದಗಳು
-            <input type="radio" v-model="selected" value="three" @change="switchRadio($event.target.value)" /> ವಾಕ್ಯಗಳು
-            <input type="radio" v-model="selected" value="four" @change="switchRadio($event.target.value)" /> ಶಾಸನ
+            <input type="radio" v-model="selected" value="one" @change="switchRadio($event.target.value)" /> {{ $t("practice.lettersRad") }}
+            <input type="radio" v-model="selected" value="two" @change="switchRadio($event.target.value)" /> {{ $t("practice.wordsRad") }}
+            <input type="radio" v-model="selected" value="three" @change="switchRadio($event.target.value)" /> {{ $t("practice.sentencesRad") }}
+            <input type="radio" v-model="selected" value="four" @change="switchRadio($event.target.value)" /> {{ $t("practice.inscriptionRad") }}
             <div v-show="selected === 'one'">
-                <h2>ಕೆಳಗಿನ ಪದವನ್ನು ಗುರುತಿಸಿ</h2>
+                <h2>{{ $t("practice.hintCharacter") }}</h2>
 
                 <div class="container">
 
@@ -159,25 +165,23 @@ export default {
                     <h4>{{ inscriptionDisplay }}</h4>
                     <LetterDetails :image_src="randomCharacter?.filePath" />
                     <a target="_blank"
-                        :href="`https://mythicsociety.github.io/AksharaBhandara/#/learn/Shasanagalu?id=${inscriptionId}`">Go
-                        to the
-                        inscription</a>
+                        :href="`https://mythicsociety.github.io/AksharaBhandara/#/learn/Shasanagalu?id=${inscriptionId}`">{{ $t("practice.linkInscription") }}</a>
                 </div>
 
             </div>
             <div v-show="selected === 'two'">
-                <h2>ಪದವನ್ನು ಓದಲು ಪ್ರಯತ್ನಿಸಿ</h2>
+                <h2>{{ $t("practice.hintWord") }}</h2>
                 <img :src="`${publicPath}./assets/Learning/Words/${words[currentIndex]?.key}`">
                 <h3 v-if="showAnswer" style="color: green">{{ words[currentIndex]?.answer }}</h3>
 
             </div>
             <div v-show="selected === 'three'">
-                <h2>ವಾಕ್ಯವನ್ನು ಓದಲು ಪ್ರಯತ್ನಿಸಿ</h2>
+                <h2>{{ $t("practice.hintSentence") }}</h2>
                 <img :src="`${publicPath}./assets/Learning/Sentences/${sentences[currentIndex]?.key}`">
                 <h3 v-if="showAnswer" style="color: green">{{ sentences[currentIndex]?.answer }}</h3>
             </div>
             <div v-show="selected === 'four'">
-                <h2>ಶಾಸನ ಪಾಠ ಅಭ್ಯಾಸ</h2>
+                <h2>{{ $t("practice.hintInscription") }}</h2>
                 <img :src="`${publicPath}./assets/Shasanas/${insQuestions[currentIndex]?.key}`">
 
                 <!-- <inner-image-zoom :src="`${publicPath}./assets/Shasanas/${insQuestions[currentIndex]?.key}`"
@@ -189,13 +193,15 @@ export default {
         </div>
 
         <div style="padding: 10px;">
-            <button type="button" class="filter-button" style="cursor: pointer;" @click="showAnswer = !showAnswer">Show answer</button>
+            <button type="button" class="filter-button" style="cursor: pointer;" @click="showAnswer = !showAnswer">{{ $t("practice.btnShowAnswer") }}</button>
             <span style="margin: 0 10px;"></span>
-            <button type="button" class="filter-button" style="cursor: pointer;" @click="switchRadio(selected)">Show another word</button>
+            <button type="button" class="filter-button" style="cursor: pointer;" @click="switchRadio(selected)">{{ $t("practice.btnShowAnother") }}</button>
         </div>
 
 
     </div>
+    <Footer></Footer>
+
 </template>
 
 <style scoped>

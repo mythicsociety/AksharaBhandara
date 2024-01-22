@@ -1,23 +1,23 @@
 <template>
     <div class="bottom-border">
-        <p class="sub-heading">ಶ್ರೇಣಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</p>
+        <p class="sub-heading">{{ $t("letter.selectYears") }}</p>
         <div>
-            <label for="from-year" style="color: black;margin: 10px;">ವರ್ಷದಿಂದ:</label>
+            <label for="from-year" style="color: black;margin: 10px;">{{ $t("letter.fromYear") }}:</label>
             <input type="number" id="from-year" name="from-year" :min="minYear" :max="maxYear" :step="stepYear"
                 v-model="fromYear">
 
-            <label for="to-year" style="color: black;margin: 10px;">ವರ್ಷದವರೆಗೆ:</label>
+            <label for="to-year" style="color: black;margin: 10px;">{{ $t("letter.toYear") }}:</label>
             <input type="number" id="to-year" name="to-year" :min="minYear + stepYear" :max="maxYear" :step="stepYear"
                 v-model="toYear">
         </div>
 
         <div style="padding: 10px;">
             <button class="filter-button" @click="passData()" type="button" style="cursor: pointer;">
-                ಫಿಲ್ಟರ್
+                {{ $t("symbols.filter") }}
             </button>
             <span style="margin: 0 10px;"></span>
             <button class="reset-button" @click="resetData()" type="button" style="cursor: pointer;">
-                ರೆಸೆಟ್
+                {{ $t("symbols.reset") }}
             </button>
         </div>
 
@@ -57,7 +57,7 @@ export default {
             if (this.fromYear >= this.minYear & this.toYear <= this.maxYear) {
                 this.$emit('yearData', { fromYear: this.fromYear, toYear: this.toYear });
             } else {
-                alert("ಆಯ್ಕೆಮಾಡಿದ ವರ್ಷಗಳು ನಿರ್ದಿಷ್ಟ ಶ್ರೇಣಿಯಲ್ಲಿಲ್ಲ");
+                alert(this.$t("letter.yearsRangeWarning"));
                 this.fromYear = this.minYear;
                 this.toYear = this.maxYear;
             }

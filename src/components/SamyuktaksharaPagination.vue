@@ -4,6 +4,7 @@ import YearFilterVue from './SubComponents/YearFilter.vue';
 import { samyuktaksharaLettersPath } from '../models/paths.js'
 import PageCounter from './SubComponents/PageCounter.vue';
 import { DefaultLetterCount } from '../models/constants.js'
+import Header from './SubComponents/Header.vue';
 
 import axios from 'axios';
 
@@ -120,7 +121,7 @@ export default {
 </script>
 
 <template>
-    <h2 class="page-header">ಸಂಯುಕ್ತಾಕ್ಷರಗಳು</h2>
+    <Header :headingText="$t('navigation.samyuktakshara')"></Header>
 
     <div ref="lettersDisplay" class="body-padding" style="margin: auto;">
         <YearFilterVue @yearData="getData" />
@@ -138,14 +139,14 @@ export default {
                 <button class="page-button" @click="nextPage" :disabled="currentPage === totalPages"
                     style="cursor: pointer;">ಮುಂದೆ</button> -->
 
-            <button class="page-button" @click="goToFirstPage" :disabled="currentPage === 1">ಒಂದನೆಯ</button>
-            <button class="page-button" @click="previousPage" :disabled="currentPage === 1">ಹಿಂದೆ</button>
+            <button class="page-button" @click="goToFirstPage" :disabled="currentPage === 1">{{ $t("pagination.first") }}</button>
+            <button class="page-button" @click="previousPage" :disabled="currentPage === 1">{{ $t("pagination.previous") }}</button>
             <button v-for="page in visiblePageNumbers" class="page-button" :key="page" @click="goToPage(page)"
                 :disabled="currentPage === page">
                 {{ page }}
             </button>
-            <button class="page-button" @click="nextPage" :disabled="currentPage === totalPages">ಮುಂದೆ</button>
-            <button class="page-button" @click="goToLastPage" :disabled="currentPage === totalPages">ಕೊನೆಯ</button>
+            <button class="page-button" @click="nextPage" :disabled="currentPage === totalPages">{{ $t("pagination.next") }}</button>
+            <button class="page-button" @click="goToLastPage" :disabled="currentPage === totalPages">{{ $t("pagination.last") }}</button>
 
         </div>
 

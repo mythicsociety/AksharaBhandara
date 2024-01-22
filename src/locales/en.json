@@ -1,0 +1,93 @@
+{
+    "about": {
+        "heading": "The Mythic Society Inscriptions 3D Digital Conservation Team",
+        "people": "Udayakumar P.L., Shasikumar Naik K.C., Madhusudhana M.N., Gowtham Janthakal",
+        "lab": "The Mythic Society Bengaluru Inscriptions 3D Digital Conservation Project Lab",
+        "fieldWork": "The Mythic Society Bengaluru Inscriptions 3D Digital Conservation Project Team Engaged In Field Work and Scanning Inscriptions In-Situ",
+        "contactUsHeading": "Contact us",
+        "contactUs": "Contact us: 3dscanning.mythicsociety@gmail.com"
+    },
+    "map": {
+        "heading": "Map of inscriptions of Bangalore"
+    },
+    "navigation": {
+        "heading": "Navigation",
+        "script": "Script",
+        "alphabets": "Alphabets",
+        "forms": "Letter forms",
+        "numbers": "Numbers",
+        "symbols": "Symbols",
+        "inscriptions": "Inscriptions",
+        "practice": "Practice",
+        "gunitakshara": "Multiplication Syllables",
+        "samyuktakshara": "Compound Syllables",
+        "home": "Home",
+        "map": "Map of Inscriptions",
+        "aboutUs": "About Us"
+    },
+    "practice": {
+        "title": "Practice",
+        "lettersRad": "Letters",
+        "wordsRad": "Words",
+        "sentencesRad": "Sentences",
+        "inscriptionRad": "Inscription",
+        "btnShowAnswer": "Show answer",
+        "btnShowAnother": "Show another word",
+        "hintWord": "Try to read the word",
+        "hintSentence": "Try to read the sentence",
+        "hintCharacter": "Identify the below character",
+        "hintInscription": "Study the inscription",
+        "linkInscription": "Go to the inscription"
+    },
+    "letterDetails": {
+        "heading": "Details about the letter",
+        "year": "Year",
+        "place": "Place",
+        "lineNumber": "Line Number",
+        "positionNumber": "Character position",
+        "iast": "IAST"
+    },
+    "home": {
+        "aksharabhandara": "Akshara Bhandara",
+        "mythicsociety": "Mythic Society"
+    },
+    "script": {
+        "heading": "Alphabets",
+        "to": "to",
+        "yearRange": "Yearly range",
+        "btnPrevios": "Previous century",
+        "btnNext": "Next century"
+    },
+    "letter": {
+        "form": "Form",
+        "century": "Century",
+        "thCentury": " Century",
+        "count": "Letter count",
+        "txtSelectLetter": "Select a letter",
+        "fromYear": "From year",
+        "toYear": "To year",
+        "selectYears": "Select years",
+        "yearsRangeWarning":"The selected years are not in the specified range"
+    },
+    "inscription": {
+        "count": "This website currently has {length} inscriptions available to view",
+        "details": "This inscription (ID: {id}) has {totalLines} lines and {totalCharacters} letters",
+        "feedback": "Feedback",
+        "hintSelectInsc": "Select an inscription",
+        "txtClickForImage": "Click here to view the image of the inscription",
+        "headingScanImage": "Digital image obtained by 3D scanning the inscription",
+        "subHeadScanImage": "Click on the inscription to zoom into the image",
+        "wikiMedia": "Wikimedia Commons: Digital Images Prepared by Mythic Society Inscriptions Conservation Project Team",
+        "line": "Line"
+    },
+    "symbols": {
+        "filter": "Filter",
+        "reset": "Reset"
+    },
+    "pagination":{
+        "first":"First",
+        "last":"Last",
+        "next":"Next",
+        "previous":"Previous"
+    }
+}

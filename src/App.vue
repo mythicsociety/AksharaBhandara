@@ -1,4 +1,6 @@
 <script setup>
+import { useI18n } from "vue-i18n"
+import { watch } from "vue"
 
 </script>
 
@@ -16,6 +18,12 @@
 </template>
 
 <script>
+// const { t, locale } = useI18n()
+// let msg = t("navigation.heading")
+
+// watch(locale, () => {
+//   msg = t("navigation.heading")
+// })
 
 export default {
   data() {
@@ -24,69 +32,69 @@ export default {
       collapsed: false,
       menu: [
         {
-          header: 'ನ್ಯಾವಿಗೇಷನ್',
+          header: this.$t("navigation.heading"),
           hiddenOnCollapse: true
         },
         {
           href: '/',
-          title: 'ಮುಖಪುಟ',
+          title: this.$t("navigation.home"),
           icon: 'fa fa-home'
         },
         {
           href: '/learn',
-          title: 'ಲಿಪಿ',
+          title: this.$t("navigation.script"),
           icon: 'fa fa-book',
           child: [
             {
               href: '/learn/Varnamale',
-              title: 'ವರ್ಣಮಾಲೆ',
+              title: this.$t("navigation.alphabets"),
               icon: 'fa fa-sort-alpha-asc',
             },
             {
               href: '/learn/AksharaRupagalu',
-              title: 'ಅಕ್ಷರ ರೂಪಗಳು',
+              title: this.$t("navigation.forms"),
               icon: 'fa fa-university',
             },
             {
               href: '/learn/Gunitaksharagalu',
-              title: 'ಗುಣಿತಾಕ್ಷರಗಳು',
+              title: this.$t("navigation.gunitakshara"),
               icon: 'fa fa-list-ul',
             },
             {
               href: '/learn/Samyuktaksharagalu',
-              title: 'ಸಂಯುಕ್ತಾಕ್ಷರಗಳು',
+              title: this.$t("navigation.samyuktakshara"),
               icon: 'fa fa-subscript',
             },
             {
               href: '/learn/Sankegalu',
-              title: 'ಸಂಖ್ಯೆಗಳು',
+              title: this.$t("navigation.numbers"),
               icon: 'fa fa-sliders',
             },
             {
               href: '/learn/Symbols',
-              title: 'ಚಿಹ್ನೆಗಳು',
+              title: this.$t("navigation.symbols"),
               icon: 'fa fa-star',
             },
             {
               href: '/learn/Shasanagalu',
-              title: 'ಶಾಸನಗಳು',
+              title: this.$t("navigation.inscriptions"),
               icon: 'fa fa-tablet',
             }
           ]
         },
         {
           href: '/Learning',
-          title: 'ಅಭ್ಯಾಸ',
+          title: this.$t("navigation.practice"),
           icon: 'fa fa-pencil-square-o'
         },
         {
           href: '/map',
-          title: 'ಶಾಸನಗಳ ನಕ್ಷೆ',
+          title: this.$t("navigation.map"),
           icon: 'fa fa-map'
         },
         {
           href: '/about',
-          title: 'ನಮ್ಮ ಬಗ್ಗೆ',
+          title: this.$t("navigation.aboutUs"),
           icon: 'fa fa-inbox'
         },
       ],

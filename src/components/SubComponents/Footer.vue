@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-        <h2>Contact us</h2>
+        <h2>{{ $t("about.contactUs") }}</h2>
         <div class="footer-icons">
             <a href="mailto:3dscanning.mythicsociety@gmail.com"><i class="fa fa-google red-color fa-2x"
                     aria-hidden="true"></i></a>

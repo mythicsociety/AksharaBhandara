@@ -1,10 +1,12 @@
 <script setup>
 import LetterForms from './LetterForms/LetterForms.vue';
+import Header from './SubComponents/Header.vue';
 
 </script>
 
 <template>
-    <h2 class="page-header">ಅಕ್ಷರ ರೂಪಗಳು</h2>
+    <Header :headingText="$t('navigation.forms')"></Header>
+
     <LetterForms :jsonPath="`./assets/json/letters.json`" :showImage="true" />
 </template>
 

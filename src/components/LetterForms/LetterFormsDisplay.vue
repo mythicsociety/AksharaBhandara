@@ -18,7 +18,7 @@ import { DefaultLetterCount } from '../../models/constants.js'
                     <h2 style="border-bottom: 2px solid red; margin-bottom: 20px;background-color: rgba(188, 143, 143, 0.5);">{{ getGroupName(group[0], group[1].length) }}</h2>
 
                     <div class="flex-container-century" v-for="(subGroup, century) in groupFormsByCentury(group[1])">
-                        <p class="p-heading">{{ century }}ನೆ ಶತಮಾನ</p>
+                        <p class="p-heading">{{ century }}{{$t("letter.thCentury")}}</p>
                         <div class="flex-container" style="background: honeydew;">
                             <BasicLetter v-for="letter in sortedByYear(subGroup)" :image_src="letter.path"
                                 :showLetterText="false" :imageSizePx="125" :showLetterYear="true" />
@@ -28,7 +28,7 @@ import { DefaultLetterCount } from '../../models/constants.js'
                 </div>
             </div>
             <div v-else>
-                <h2 style="background: lightgrey;">ಈ ಅವಧಿಯಲ್ಲಿ ಯಾವುದೇ ಅಕ್ಷರಗಳು ಲಭ್ಯವಿಲ್ಲ</h2>
+                <h2 style="background: lightgrey;">{{$t("letter.noLettersWarning")}}</h2>
             </div>
         </div>
     </div>
@@ -81,7 +81,7 @@ export default {
         },
 
         getGroupName(formId, groupCount) {
-            return "ರೂಪ " + formId.substr(-1)
+            return this.$t("letter.form") + " " + formId.substr(-1)
         },
 
         getGroupedForms(letterForms) {

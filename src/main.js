@@ -2,6 +2,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import VueSidebarMenu from 'vue-sidebar-menu'
 import { createRouter, createWebHashHistory } from 'vue-router'
+import { createI18n } from "vue-i18n";
 
 import Learn from './components/Learn.vue'
 import About from './components/About.vue'
@@ -23,6 +24,17 @@ import 'vue-sidebar-menu/dist/vue-sidebar-menu.css'
 import 'vue-inner-image-zoom/lib/vue-inner-image-zoom.css';
 import './assets/main.css'
 import "vue-search-select/dist/VueSearchSelect.css"
+
+// import translations
+import kn from "./locales/kn.json";
+import en from "./locales/en.json";
+
+// configure i18n
+const i18n = createI18n({
+    locale: "kn",
+    fallbackLocale: "kn",
+    messages: { kn, en },
+});
 
 const router = createRouter({
     history: createWebHashHistory(),
@@ -102,4 +114,5 @@ const router = createRouter({
 createApp(App)
     .use(router)
     .use(VueSidebarMenu)
+    .use(i18n)
     .mount("#app")

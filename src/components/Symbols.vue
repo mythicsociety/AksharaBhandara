@@ -1,10 +1,11 @@
 <script setup>
 import LetterForms from './LetterForms/LetterForms.vue';
+import Header from './SubComponents/Header.vue';
 
 </script>
 
 <template>
-    <h2 class="page-header">ಚಿಹ್ನೆಗಳು</h2>
+    <Header :headingText="$t('navigation.symbols')"></Header>
 
     <LetterForms :jsonPath="`./assets/json/symbols.json`" :showImage="false" />
 </template>

@@ -1,5 +1,6 @@
 <script setup>
 import Footer from './SubComponents/Footer.vue';
+import Header from './SubComponents/Header.vue';
 
 </script>
 
@@ -15,21 +16,22 @@ export default {
 </script>
 
 <template>
-  <h1 class="page-header" style="font-size: 60px;">ಅಕ್ಷರ ಭಂಡಾರ</h1>
+  <!-- <h1 class="page-header" style="font-size: 60px;">{{ $t("home.aksharabhandara") }}</h1> -->
+  <Header :headingText="$t('home.aksharabhandara')"></Header>
 
   <div class="body-padding">
 
     <div class="topnav">
-      <router-link :to="{ name: 'ವರ್ಣಮಾಲೆ' }">ವರ್ಣಮಾಲೆ</router-link>
-      <router-link :to="{ name: 'ಶಾಸನಗಳು' }">ಶಾಸನಗಳು</router-link>
-      <router-link :to="{ name: 'Map' }">ಶಾಸನಗಳ ನಕ್ಷೆ</router-link>
-      <router-link :to="{ name: 'About' }" style="float:right">ನಮ್ಮ ಬಗ್ಗೆ</router-link>
+      <router-link :to="{ name: 'ವರ್ಣಮಾಲೆ' }">{{ $t("navigation.alphabets") }}</router-link>
+      <router-link :to="{ name: 'ಶಾಸನಗಳು' }">{{ $t("navigation.inscriptions") }}</router-link>
+      <router-link :to="{ name: 'Map' }">{{ $t("navigation.map") }}</router-link>
+      <router-link :to="{ name: 'About' }" style="float:right">{{ $t("navigation.aboutUs") }}</router-link>
     </div>
 
     <div class="row">
       <div class="leftcolumn">
         <div class="card">
-          <h2>ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ</h2>
+          <h2>{{ $t("home.mythicsociety") }}</h2>
 
           <!-- <h5>Title description, Dec 7, 2017</h5>
           <div class="fakeimg" style="height:200px;">Image</div> -->

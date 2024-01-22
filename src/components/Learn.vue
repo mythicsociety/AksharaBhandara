@@ -3,26 +3,26 @@
 import BasicLetter from '../components/LetterForms/BasicLetter.vue'
 import axios from 'axios';
 import { getRandomItemFromArray } from '../models/utils';
+import Header from './SubComponents/Header.vue';
 
 </script>
 
 <template>
-    <h2 class="page-header">ವರ್ಣಮಾಲೆ</h2>
-
+    <Header :headingText="$t('navigation.alphabets')"></Header>
 
     <div class="body-padding" style="margin: auto;">
         <p class="sub-heading">
-            ವರ್ಷಗಳ ಶ್ರೇಣಿ: {{ startNumber }} ಇಂದ {{ endNumber }}
+            {{ $t("script.yearRange") }}: {{ startNumber }} {{ $t("script.to") }} {{ endNumber }}
         </p>
 
         <div style="padding: 10px;">
             <button class="page-button" type="button" @click="previousPage" :disabled="currentPage === 1"
                 style="cursor: pointer;">
-                ಹಿಂದಿನ ಶತಮಾನ</button>
+                {{ $t("script.btnPrevios") }}</button>
             <span style="margin: 0 10px;"></span>
 
             <button class="page-button" type="button" @click="nextPage" :disabled="isEndOfLimit" style="cursor: pointer;">
-                ಮುಂದಿನ ಶತಮಾನ</button>
+                {{ $t("script.btnNext") }}</button>
         </div>
 
         <div class="flex-container">

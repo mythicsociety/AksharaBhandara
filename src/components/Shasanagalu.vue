@@ -6,6 +6,7 @@ import axios from 'axios';
 import InnerImageZoom from 'vue-inner-image-zoom';
 import { ModelListSelect } from "vue-search-select"
 import Modal from './SubComponents/Modal.vue'
+import Header from './SubComponents/Header.vue';
 
 </script>
 
@@ -97,17 +98,17 @@ export default {
 </script>
 
 <template>
-    <h2 class="page-header">ಶಾಸನಗಳು</h2>
+    <Header :headingText="$t('navigation.inscriptions')"></Header>
 
     <div class="body-padding" style="margin: auto;">
         <div style="position: relative;">
             <!-- Comment  <p class="sub-heading">ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p> replaced with a simpler message by Uday -->
-            <p class="sub-heading">ಈ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳನ್ನು ನೋಡಬಹುದು</p>
+            <p class="sub-heading">{{ $t("inscription.count",{length:shasanas.length}) }}</p>
 
             <button type="button" @click="isModalOpen = true"
                 style="position: absolute; top: 0; right: 0; padding: 5px; display: flex; align-items: center; margin: 10px;">
                 <i class="fa fa-asterisk" style="font-size: 24px;"></i> <!-- Font Awesome icon -->
-                <span style="margin-left: 5px;">Feedback</span>
+                <span style="margin-left: 5px;">{{ $t("inscription.feedback") }}</span>
             </button>
         </div>
 
@@ -124,22 +125,23 @@ export default {
             </model-list-select> -->
 
             <select style="margin: 15px;" v-model="selectedShasana" @change="printSearchText">
-                <option :value="null" disabled>Select an inscription</option>
+                <option :value="null" disabled>{{ $t("inscription.hintSelectInsc") }}</option>
                 <option v-for="ins in shasanas" :value="ins.key">{{ ins.displayName }}</option>
             </select>
 
             <div v-if="selectedShasana !== null">
-                <button @click="scrollToElement">ಶಾಸನದ ಚಿತ್ರವನ್ನು ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ</button>
-
-                <p>ಈ ಶಾಸನದಲ್ಲಿ (ID: {{ selectedShasanaDetails.id }}) {{ totalLines
+                <button @click="scrollToElement">{{ $t("inscription.txtClickForImage") }}</button>
+                
+                <p>{{ $t("inscription.details",{id:selectedShasanaDetails.id, totalLines:totalLines, totalCharacters:totalCharacters}) }}</p>
+                <!-- <p>ಈ ಶಾಸನದಲ್ಲಿ (ID: {{ selectedShasanaDetails.id }}) {{ totalLines
                 }}
                     ಸಾಲುಗಳು ಮತ್ತು {{ totalCharacters
-                    }} ಅಕ್ಷರಗಳಿವೆ</p>
+                    }} ಅಕ್ಷರಗಳಿವೆ</p> -->
             </div>
         </div>
 
         <div v-for="(group, index) in groupedShasanaDetails" :class="flex-container-parent" style="border: 1px solid; margin-bottom: 10px;">
-            <p style="background-color: rgba(188, 143, 143, 0.5);">ಸಾಲು {{ index + 1 }}</p>
+            <p style="background-color: rgba(188, 143, 143, 0.5);">{{ $t("inscription.line") }} {{ index + 1 }}</p>
             <div class="flex-container-no-gap">
                 <BasicLetter v-for="letter in group[1]" :image_src="letter.filePath" :showLetterText="false"
                     :imageSizePx="50" :showLetterYear="false" :displayText="letter.kannadaWord" :showBackground="false" />
@@ -154,8 +156,8 @@ export default {
                 style="display: block; max-height: 500px;max-width: 500px;width: 100%;height: 500px;object-fit: fill;" /> -->
 
 
-            <h2>3ಡಿ ಸ್ಕ್ಯಾನಿಂಗ್ ಮೂಲಕ ಪಡೆದ ಶಾಸನದ ಡಿಜಿಟಲ್ ಚಿತ್ರ</h2>
-            <p>ಅಕ್ಷರಗಳನ್ನು ಜೂಮ್ ಮಾಡಿ ನೋಡಲು ಶಾಸನ ಚಿತ್ರದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ</p>
+            <h2>{{ $t("inscription.headingScanImage") }}</h2>
+            <p>{{ $t("inscription.subHeadScanImage") }}</p>
 
             <inner-image-zoom v-if="selectedShasanaDetails.imagePath.length > 0"
                 :src="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`"
@@ -175,9 +177,7 @@ export default {
         </div>
 
         <div style="margin-top: 20px;">
-            <a target="_blank" href="https://t.co/cKTl0ZOn9P">Wikimedia Commons: Digital Images
-                Prepared by Mythic Society Inscriptions
-                Conservation Project Team</a>
+            <a target="_blank" href="https://t.co/cKTl0ZOn9P">{{ $t("inscription.wikiMedia") }}</a>
         </div>
 
         <Modal :showModal="isModalOpen" @close="isModalOpen = false">

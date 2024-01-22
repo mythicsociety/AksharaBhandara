@@ -1,18 +1,19 @@
 <script setup>
 import Footer from './SubComponents/Footer.vue';
+import Header from './SubComponents/Header.vue';
 
 </script>
 
 <template>
-    <h2 class="page-header">ದಿ ಮಿಥಿಕ್ ಸೊಸೈಟಿ ಶಾಸನಗಳ 3ಡಿ ಡಿಜಿಟಲ್ ಸಂರಕ್ಷಣಾ ಯೋಜನಾ ತಂಡ</h2>
+    <Header :headingText="$t('about.heading')"></Header>
 
     <div class="body-padding">
 
         <img :src="`${publicPath}./assets/Team.png`" :alt="`Team`" class="responsive-img">
-        <p>ಉದಯ ಕುಮಾರ್ ಪಿ.ಎಲ್., ಶಶಿಕುಮಾರ ನಾಯ್ಕ ಕೆ.ಸಿ., ಮಧುಸೂದನ ಎಂ.ಎನ್., ಗೌತಮ್ ಜಂತಕಲ್</p>
-        <p>ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ: 3dscanning.mythicsociety@gmail.com</p>
+        <p>{{ $t("about.people") }}</p>
+        <p>{{ $t("about.contactUs") }}</p>
 
-        <h3 style="margin-top: 15px;">The Mythic Society Bengaluru Inscriptions 3D Digital Conservation Project Lab</h3>
+        <h3 style="margin-top: 15px;">{{ $t("about.lab") }}</h3>
         <img :src="`${publicPath}./assets/project-lab.png`" :alt="`Team`" class="responsive-img">
 
         <!-- <div style="display: block; width: 60%; margin-left: auto; margin-right: auto;" >
@@ -20,8 +21,7 @@ import Footer from './SubComponents/Footer.vue';
                 MythicSociety</a>
         </div> -->
 
-        <h3 style="margin-top: 15px;">The Mythic Society Bengaluru Inscriptions 3D Digital Conservation Project Team Engaged In Field Work and
-            Scanning Inscriptions In-Situ</h3>
+        <h3 style="margin-top: 15px;">{{ $t("about.fieldWork") }}</h3>
         <div class="row">
             <div class="column">
                 <img :src="appendPath('field-work01.png')">

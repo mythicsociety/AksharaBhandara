@@ -1,6 +1,7 @@
 <script setup>
 import LetterFormsDisplay from './LetterForms/LetterFormsDisplay.vue';
 import YearFilterVue from './SubComponents/YearFilter.vue';
+import IAST from './SubComponents/IAST.vue';
 import { samyuktaksharaLettersPath } from '../models/paths.js'
 import PageCounter from './SubComponents/PageCounter.vue';
 import { DefaultLetterCount } from '../models/constants.js'
@@ -21,7 +22,7 @@ export default {
             yearData: '',
             pageSize: DefaultLetterCount,
             numLettersInPage: 10,
-
+            showIAST: false,
             currentPage: 1, // Current page number
             totalPages: 0, // Total number of pages
             displayedData: [], // Data to display on the current page
@@ -75,7 +76,9 @@ export default {
         gePageSize(data) {
             this.pageSize = data;
         },
-
+        getShowIAST(data){
+            this.showIAST = data;
+        },
         calulatetotalPages() {
             this.totalPages = Math.ceil(this.samyuktaksharaLetters.length / this.numLettersInPage);
         },
@@ -128,8 +131,10 @@ export default {
 
         <PageCounter @pageSize="gePageSize" />
 
+        <IAST @showIAST="getShowIAST"/>
+
         <LetterFormsDisplay v-for="letter in displayedData" :selectedLetter="letter" :showImage="true" :yearData="yearData"
-            :NumberOfImagesToDisplay="pageSize" />
+            :NumberOfImagesToDisplay="pageSize" :showIAST="showIAST"/>
 
         <div style="padding: 10px;">
             <!-- <button class="page-button" @click="previousPage" :disabled="currentPage === 1"

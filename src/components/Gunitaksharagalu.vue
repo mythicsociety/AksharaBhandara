@@ -4,6 +4,7 @@ import LetterSelector from './LetterForms/LetterSelector.vue';
 import YearFilterVue from './SubComponents/YearFilter.vue';
 import PageCounter from './SubComponents/PageCounter.vue';
 import Header from './SubComponents/Header.vue';
+import IAST from './SubComponents/IAST.vue';
 
 import { gunitaksharaLettersPath } from '../models/paths.js'
 import { DefaultLetterCount } from '../models/constants.js'
@@ -23,6 +24,7 @@ export default {
             gunitaksharaChildren: [],
             yearData: '',
             pageSize: DefaultLetterCount,
+            showIAST: false
         }
     },
     mounted() {
@@ -54,6 +56,9 @@ export default {
         gePageSize(data) {
             this.pageSize = data;
         },
+        getShowIAST(data){
+            this.showIAST = data;
+        }
     }
 }
 </script>
@@ -65,12 +70,14 @@ export default {
         <YearFilterVue @yearData="getData" />
 
         <!-- <LetterSelector :jsonData="gunitaksharaLetters" v-model:selectedLetter="selectedLetter" /> -->
-        <LetterSelector :jsonData="gunitaksharaLetters" @eventname="getGunitaksharas" />
+        <LetterSelector :jsonData="gunitaksharaLetters" :displayInIAST="showIAST" @eventname="getGunitaksharas" />
 
         <PageCounter @pageSize="gePageSize" />
 
+        <IAST @showIAST="getShowIAST"/>
+
         <LetterFormsDisplay v-for="letter in gunitaksharaChildren" :selectedLetter="letter" :showImage="true"
-            :yearData="yearData" :NumberOfImagesToDisplay="pageSize" />
+            :yearData="yearData" :NumberOfImagesToDisplay="pageSize" :showIAST="showIAST"/>
     </div>
 </template>
 

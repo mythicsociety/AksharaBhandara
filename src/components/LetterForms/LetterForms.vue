@@ -4,6 +4,7 @@ import LetterFormsDisplay from './LetterFormsDisplay.vue';
 import LetterSelector from './LetterSelector.vue'
 import YearFilterVue from '../SubComponents/YearFilter.vue';
 import PageCounter from '../SubComponents/PageCounter.vue';
+import IAST from '../SubComponents/IAST.vue';
 
 import { DefaultLetterCount } from '../../models/constants.js'
 
@@ -21,6 +22,7 @@ export default {
             selectedLetter: '',
             yearData: '',
             pageSize: DefaultLetterCount,
+            showIAST: false
         }
     },
     mounted() {
@@ -53,6 +55,9 @@ export default {
         gePageSize(data) {
             this.pageSize = data;
         },
+        getShowIAST(data){
+            this.showIAST = data;
+        },
     }
 }
 
@@ -63,12 +68,14 @@ export default {
 
         <YearFilterVue @yearData="getData" />
 
-        <LetterSelector v-if="showImage" :jsonData="jsonData" @eventname="updateLetter" />
+        <LetterSelector v-if="showImage" :jsonData="jsonData" :displayInIAST="showIAST" @eventname="updateLetter" />
 
         <PageCounter @pageSize="gePageSize" />
 
+        <IAST @showIAST="getShowIAST"/>
+
         <LetterFormsDisplay :selectedLetter="selectedLetter" :showImage="showImage" :yearData="yearData"
-            :NumberOfImagesToDisplay="pageSize" />
+            :NumberOfImagesToDisplay="pageSize" :showIAST="showIAST"/>
     </div>
 </template>
 

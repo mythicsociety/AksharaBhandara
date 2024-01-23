@@ -1,6 +1,7 @@
 <script setup>
 
 import BasicLetter from '../components/LetterForms/BasicLetter.vue'
+import IAST from '../components/SubComponents/IAST.vue';
 import axios from 'axios';
 import { getRandomItemFromArray } from '../models/utils';
 import Header from './SubComponents/Header.vue';
@@ -25,9 +26,12 @@ import Header from './SubComponents/Header.vue';
                 {{ $t("script.btnNext") }}</button>
         </div>
 
+        <IAST @showIAST="getShowIAST"/>
+
         <div class="flex-container">
-            <BasicLetter v-for="letter in displayedLetters" :key="letter.id" :title="letter.key"
-                :image_src="getImageSrc(letter)" :showLetterText="true" :imageSizePx="100" />
+            <BasicLetter v-for="letter in displayedLetters" :key="letter.id"
+                :title="showIAST ? letter.IASTform : letter.key" :image_src="getImageSrc(letter)" :showLetterText="true"
+                :imageSizePx="100" />
 
         </div>
     </div>
@@ -43,6 +47,7 @@ export default {
             allLetters: [],
             displayedLetters: [],
             currentPage: 1,
+            showIAST: false
         }
     },
     computed: {
@@ -58,6 +63,9 @@ export default {
         }
     },
     methods: {
+        getShowIAST(data){
+            this.showIAST = data;
+        },
         fetchData(jsonPath) {
             axios.get(`${this.publicPath}${jsonPath}`)
                 .then(response => {
@@ -108,9 +116,6 @@ export default {
     },
     mounted() {
         this.fetchData('./assets/json/letters.json')
-
     },
 }
 </script>
-
-<style></style>

@@ -8,7 +8,8 @@ import { DefaultLetterCount } from '../../models/constants.js'
 <template>
     <div class="container">
         <div v-if="showImage" class="left-column">
-            <h2 style="color: red; background-color: yellow; font-size: 64px; box-shadow: 5px 5px 5px gray;">{{ selectedLetter.key }}</h2>
+            <h2 style="color: red; background-color: yellow; font-size: 64px; box-shadow: 5px 5px 5px gray;">
+                {{ showIAST ? selectedLetter.IASTform : selectedLetter.key }}</h2>
         </div>
         <div class="right-column" v-bind:style="{ 'flex-basis': showImage ? '80%' : '100%' }">
             <div v-if="groupedLetters.size > 0">
@@ -39,6 +40,7 @@ import { DefaultLetterCount } from '../../models/constants.js'
 export default {
 
     props: {
+        showIAST: Boolean,
         selectedLetter: Object,
         showImage: Boolean,
         yearData: String,

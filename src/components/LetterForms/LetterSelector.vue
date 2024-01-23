@@ -1,7 +1,7 @@
 <script>
 
 export default {
-    props: { jsonData: [], isDisplayLetter: Boolean = false },
+    props: { jsonData: [], displayInIAST: false , isDisplayLetter: Boolean = false },
     data() {
         return {
             selectedLetter: '',
@@ -34,10 +34,10 @@ export default {
                 class="letter-parent">
 
                 <p ref="firstP" v-if="index == 0 & selectedLetter == ''" :style="`border: 3px solid red`"
-                    class="letter-background">{{ item.key }}</p>
+                    class="letter-background">{{ this.displayInIAST ? item.IASTform : item.key }}</p>
 
                 <p :style="[selectedLetter.id === item.id ? { 'border': '3px solid red' } : {}]"
-                    class="letter-background" v-else>{{ item.key }}</p>
+                    class="letter-background" v-else>{{ this.displayInIAST ? item.IASTform : item.key }}</p>
             </div>
 
         </div>

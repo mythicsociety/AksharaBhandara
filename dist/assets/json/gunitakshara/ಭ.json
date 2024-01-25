@@ -659,7 +659,7 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
+    "IASTform": "bha"
   },
   {
     "id": 2,
@@ -1039,7 +1039,7 @@
         "year": 1382
       }
     ],
-    "IASTform": ""
+    "IASTform": "bhā"
   },
   {
     "id": 3,
@@ -1125,14 +1125,14 @@
         "year": 950
       }
     ],
-    "IASTform": ""
+    "IASTform": "bhi"
   },
   {
     "id": 4,
     "key": "ಭೀ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "bhī"
   },
   {
     "id": 5,
@@ -1416,7 +1416,7 @@
         "year": 1705
       }
     ],
-    "IASTform": ""
+    "IASTform": "bhu"
   },
   {
     "id": 6,
@@ -1568,10 +1568,17 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "bhū"
   },
   {
     "id": 7,
+    "key": "ಭೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "bhṛ"
+  },
+  {
+    "id": 8,
     "key": "ಭೆ",
     "isAvailable": true,
     "letterForms": [
@@ -1612,17 +1619,37 @@
         "year": 1440
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಭೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "bhe"
   },
   {
     "id": 9,
+    "key": "ಭೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "bhē"
+  },
+  {
+    "id": 10,
+    "key": "ಭೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "bhai_form1",
+        "path": "bhai/bhai_form1/1716_Db63_Mavallipura_11_10_bhai.png",
+        "year": 1716
+      },
+      {
+        "id": 2,
+        "form": "bhai_form1",
+        "path": "bhai/bhai_form1/1716_Db63_Mavallipura_16_8_bhai.png",
+        "year": 1716
+      }
+    ],
+    "IASTform": "bhai"
+  },
+  {
+    "id": 11,
     "key": "ಭೊ",
     "isAvailable": true,
     "letterForms": [
@@ -1699,58 +1726,24 @@
         "year": 1705
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಭೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಭೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "bhai_form1",
-        "path": "bhai/bhai_form1/1716_Db63_Mavallipura_11_10_bhai.png",
-        "year": 1716
-      },
-      {
-        "id": 2,
-        "form": "bhai_form1",
-        "path": "bhai/bhai_form1/1716_Db63_Mavallipura_16_8_bhai.png",
-        "year": 1716
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "bho"
   },
   {
     "id": 12,
-    "key": "ಭೌ",
+    "key": "ಭೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "bhō"
   },
   {
     "id": 13,
-    "key": "ಭೃ",
+    "key": "ಭೌ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "bhau"
   },
   {
     "id": 14,
-    "key": "ಭಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಭಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1785,6 +1778,13 @@
         "year": 1589
       }
     ],
-    "IASTform": ""
+    "IASTform": "bhaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಭಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "bhaḥ"
   }
 ]

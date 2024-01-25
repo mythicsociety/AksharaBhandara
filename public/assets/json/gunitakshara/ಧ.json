@@ -467,7 +467,7 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "dha"
   },
   {
     "id": 2,
@@ -703,7 +703,7 @@
         "year": 1698
       }
     ],
-    "IASTform": ""
+    "IASTform": "dhā"
   },
   {
     "id": 3,
@@ -1203,7 +1203,7 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "dhi"
   },
   {
     "id": 4,
@@ -1259,7 +1259,7 @@
         "year": 1336
       }
     ],
-    "IASTform": ""
+    "IASTform": "dhī"
   },
   {
     "id": 5,
@@ -1273,7 +1273,7 @@
         "year": 1418
       }
     ],
-    "IASTform": ""
+    "IASTform": "dhu"
   },
   {
     "id": 6,
@@ -1287,66 +1287,10 @@
         "year": 1400
       }
     ],
-    "IASTform": ""
+    "IASTform": "dhū"
   },
   {
     "id": 7,
-    "key": "ಧೆ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "dhe_form1",
-        "path": "dhe/dhe_form1/1533_Nl31_Hessarghatta_5_54_dhe.JPG",
-        "year": 1533
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಧೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 9,
-    "key": "ಧೊ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಧೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಧೈ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 12,
-    "key": "ಧೌ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "dhau_form1",
-        "path": "dhau/dhau_form1/1716_Db63_Mavallipura_5_2_dhau.png",
-        "year": 1716
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
     "key": "ಧೃ",
     "isAvailable": true,
     "letterForms": [
@@ -1357,17 +1301,66 @@
         "year": 1029
       }
     ],
-    "IASTform": ""
+    "IASTform": "dhṛ"
+  },
+  {
+    "id": 8,
+    "key": "ಧೆ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "dhe_form1",
+        "path": "dhe/dhe_form1/1533_Nl31_Hessarghatta_5_54_dhe.JPG",
+        "year": 1533
+      }
+    ],
+    "IASTform": "dhe"
+  },
+  {
+    "id": 9,
+    "key": "ಧೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "dhē"
+  },
+  {
+    "id": 10,
+    "key": "ಧೈ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "dhai"
+  },
+  {
+    "id": 11,
+    "key": "ಧೊ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "dho"
+  },
+  {
+    "id": 12,
+    "key": "ಧೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "dhō"
+  },
+  {
+    "id": 13,
+    "key": "ಧೌ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "dhau_form1",
+        "path": "dhau/dhau_form1/1716_Db63_Mavallipura_5_2_dhau.png",
+        "year": 1716
+      }
+    ],
+    "IASTform": "dhau"
   },
   {
     "id": 14,
-    "key": "ಧಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಧಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1468,6 +1461,13 @@
         "year": 1501
       }
     ],
-    "IASTform": ""
+    "IASTform": "dhaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಧಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "dhaḥ"
   }
 ]

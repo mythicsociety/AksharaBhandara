@@ -11,7 +11,7 @@
         "year": 1369
       }
     ],
-    "IASTform": ""
+    "IASTform": "ña"
   },
   {
     "id": 2,
@@ -25,97 +25,97 @@
         "year": 1500
       }
     ],
-    "IASTform": ""
+    "IASTform": "ñā"
   },
   {
     "id": 3,
     "key": "ಞಿ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñi"
   },
   {
     "id": 4,
     "key": "ಞೀ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñī"
   },
   {
     "id": 5,
     "key": "ಞು",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñu"
   },
   {
     "id": 6,
     "key": "ಞೂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñū"
   },
   {
     "id": 7,
     "key": "ಞೆ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñe"
   },
   {
     "id": 8,
     "key": "ಞೇ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñē"
   },
   {
     "id": 9,
     "key": "ಞೊ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ño"
   },
   {
     "id": 10,
     "key": "ಞೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñō"
   },
   {
     "id": 11,
     "key": "ಞೈ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñai"
   },
   {
     "id": 12,
     "key": "ಞೌ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñau"
   },
   {
     "id": 13,
     "key": "ಞೃ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñṛ"
   },
   {
     "id": 14,
-    "key": "ಞಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಞಂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ñaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಞಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ñaḥ"
   }
 ]

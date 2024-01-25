@@ -1487,7 +1487,7 @@
         "year": 950
       }
     ],
-    "IASTform": ""
+    "IASTform": "la"
   },
   {
     "id": 2,
@@ -1699,7 +1699,7 @@
         "year": 971
       }
     ],
-    "IASTform": ""
+    "IASTform": "lā"
   },
   {
     "id": 3,
@@ -2595,7 +2595,7 @@
         "year": 1562
       }
     ],
-    "IASTform": ""
+    "IASTform": "li"
   },
   {
     "id": 4,
@@ -2609,7 +2609,7 @@
         "year": 1828
       }
     ],
-    "IASTform": ""
+    "IASTform": "lī"
   },
   {
     "id": 5,
@@ -3535,7 +3535,7 @@
         "year": 1433
       }
     ],
-    "IASTform": ""
+    "IASTform": "lu"
   },
   {
     "id": 6,
@@ -3807,10 +3807,17 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "lū"
   },
   {
     "id": 7,
+    "key": "ಲೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "lṛ"
+  },
+  {
+    "id": 8,
     "key": "ಲೆ",
     "isAvailable": true,
     "letterForms": [
@@ -3881,17 +3888,31 @@
         "year": 750
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಲೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "le"
   },
   {
     "id": 9,
+    "key": "ಲೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "lē"
+  },
+  {
+    "id": 10,
+    "key": "ಲೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "lai_form1",
+        "path": "lai/lai_form1/1340_Bn111_Ramasamudra_42_18_lai.JPG",
+        "year": 1340
+      }
+    ],
+    "IASTform": "lai"
+  },
+  {
+    "id": 11,
     "key": "ಲೊ",
     "isAvailable": true,
     "letterForms": [
@@ -4046,52 +4067,24 @@
         "year": 1533
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಲೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಲೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "lai_form1",
-        "path": "lai/lai_form1/1340_Bn111_Ramasamudra_42_18_lai.JPG",
-        "year": 1340
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "lo"
   },
   {
     "id": 12,
-    "key": "ಲೌ",
+    "key": "ಲೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "lō"
   },
   {
     "id": 13,
-    "key": "ಲೃ",
+    "key": "ಲೌ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "lau"
   },
   {
     "id": 14,
-    "key": "ಲಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಲಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4150,6 +4143,13 @@
         "year": 1705
       }
     ],
-    "IASTform": ""
+    "IASTform": "laṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಲಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "laḥ"
   }
 ]

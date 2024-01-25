@@ -59,6 +59,8 @@
         "btnNext": "Next century"
     },
     "letter": {
+        "showIAST":"Show in IAST",
+        "showKannada":"Show in Kannada",
         "form": "Form",
         "century": "Century",
         "thCentury": " Century",

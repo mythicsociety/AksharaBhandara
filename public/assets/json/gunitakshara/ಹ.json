@@ -1361,7 +1361,7 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
+    "IASTform": "ha"
   },
   {
     "id": 2,
@@ -1989,7 +1989,7 @@
       {
         "id": 104,
         "form": "hā_form1",
-        "path": "hā/hā_form1/750_BN55_KRPuram_1_6_hā.png",
+        "path": "hā/hā_form1/750_BN55_KRPuram_1_6_hā.PNG",
         "year": 750
       },
       {
@@ -2401,7 +2401,7 @@
         "year": 1698
       }
     ],
-    "IASTform": ""
+    "IASTform": "hā"
   },
   {
     "id": 3,
@@ -2625,14 +2625,14 @@
         "year": 1528
       }
     ],
-    "IASTform": ""
+    "IASTform": "hi"
   },
   {
     "id": 4,
     "key": "ಹೀ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "hī"
   },
   {
     "id": 5,
@@ -2838,7 +2838,7 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "hu"
   },
   {
     "id": 6,
@@ -2858,10 +2858,17 @@
         "year": 1705
       }
     ],
-    "IASTform": ""
+    "IASTform": "hū"
   },
   {
     "id": 7,
+    "key": "ಹೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "hṛ"
+  },
+  {
+    "id": 8,
     "key": "ಹೆ",
     "isAvailable": true,
     "letterForms": [
@@ -2890,17 +2897,31 @@
         "year": 900
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಹೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "he"
   },
   {
     "id": 9,
+    "key": "ಹೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "hē"
+  },
+  {
+    "id": 10,
+    "key": "ಹೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "hai_form1",
+        "path": "hai/hai_form1/1759_An90_Bingipura_15_5_hai.png",
+        "year": 1759
+      }
+    ],
+    "IASTform": "hai"
+  },
+  {
+    "id": 11,
     "key": "ಹೊ",
     "isAvailable": true,
     "letterForms": [
@@ -3091,52 +3112,24 @@
         "year": 1700
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಹೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಹೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "hai_form1",
-        "path": "hai/hai_form1/1759_An90_Bingipura_15_5_hai.png",
-        "year": 1759
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "ho"
   },
   {
     "id": 12,
-    "key": "ಹೌ",
+    "key": "ಹೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "hō"
   },
   {
     "id": 13,
-    "key": "ಹೃ",
+    "key": "ಹೌ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "hau"
   },
   {
     "id": 14,
-    "key": "ಹಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಹಂ",
     "isAvailable": true,
     "letterForms": [
@@ -3201,6 +3194,13 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "haṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಹಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "haḥ"
   }
 ]

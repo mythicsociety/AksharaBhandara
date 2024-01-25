@@ -35,104 +35,104 @@
         "year": 950
       }
     ],
-    "IASTform": ""
+    "IASTform": "cha"
   },
   {
     "id": 2,
     "key": "ಛಾ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "chā"
   },
   {
     "id": 3,
     "key": "ಛಿ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "chi"
   },
   {
     "id": 4,
     "key": "ಛೀ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "chī"
   },
   {
     "id": 5,
     "key": "ಛು",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "chu"
   },
   {
     "id": 6,
     "key": "ಛೂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "chū"
   },
   {
     "id": 7,
-    "key": "ಛೆ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಛೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 9,
-    "key": "ಛೊ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಛೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಛೈ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 12,
-    "key": "ಛೌ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
     "key": "ಛೃ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "chṛ"
+  },
+  {
+    "id": 8,
+    "key": "ಛೆ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "che"
+  },
+  {
+    "id": 9,
+    "key": "ಛೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "chē"
+  },
+  {
+    "id": 10,
+    "key": "ಛೈ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "chai"
+  },
+  {
+    "id": 11,
+    "key": "ಛೊ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "cho"
+  },
+  {
+    "id": 12,
+    "key": "ಛೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "chō"
+  },
+  {
+    "id": 13,
+    "key": "ಛೌ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "chau"
   },
   {
     "id": 14,
-    "key": "ಛಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಛಂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "chaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಛಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "chaḥ"
   }
 ]

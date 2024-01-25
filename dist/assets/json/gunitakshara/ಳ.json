@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "key": "ಳ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷa"
+  },
+  {
+    "id": 2,
+    "key": "ಳಾ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷā"
+  },
+  {
+    "id": 3,
+    "key": "ಳಿ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷi"
+  },
+  {
+    "id": 4,
+    "key": "ಳೀ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷī"
+  },
+  {
+    "id": 5,
+    "key": "ಳು",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷu"
+  },
+  {
+    "id": 6,
+    "key": "ಳೂ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷū"
+  },
+  {
+    "id": 7,
+    "key": "ಳೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷṛ"
+  },
+  {
+    "id": 8,
+    "key": "ಳೆ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ḷe_form1",
+        "path": "ḷe/ḷe_form1/750_IthDarHebKit_Hebbal_2_17_ḷe.JPG",
+        "year": 750
+      },
+      {
+        "id": 2,
+        "form": "ḷe_form2",
+        "path": "ḷe/ḷe_form2/750_IthDarHebKit_Hebbal_4_12_ḷe.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "ḷe"
+  },
+  {
+    "id": 9,
+    "key": "ಳೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷē"
+  },
+  {
+    "id": 10,
+    "key": "ಳೈ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷai"
+  },
+  {
+    "id": 11,
+    "key": "ಳೊ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷo"
+  },
+  {
+    "id": 12,
+    "key": "ಳೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷō"
+  },
+  {
+    "id": 13,
+    "key": "ಳೌ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷau"
+  },
+  {
+    "id": 14,
+    "key": "ಳಂ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಳಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḷaḥ"
+  }
+]

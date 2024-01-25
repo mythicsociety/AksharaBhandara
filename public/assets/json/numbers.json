@@ -1535,7 +1535,7 @@
         "year": 1800
       }
     ],
-    "IASTform": ""
+    "IASTform": "0"
   },
   {
     "id": 2,
@@ -2449,7 +2449,7 @@
         "year": 996
       }
     ],
-    "IASTform": ""
+    "IASTform": "1"
   },
   {
     "id": 3,
@@ -2799,7 +2799,7 @@
         "year": 1610
       }
     ],
-    "IASTform": ""
+    "IASTform": "2"
   },
   {
     "id": 4,
@@ -3011,7 +3011,7 @@
         "year": 1388
       }
     ],
-    "IASTform": ""
+    "IASTform": "3"
   },
   {
     "id": 5,
@@ -3181,7 +3181,7 @@
         "year": 996
       }
     ],
-    "IASTform": ""
+    "IASTform": "4"
   },
   {
     "id": 6,
@@ -3453,7 +3453,7 @@
         "year": 1698
       }
     ],
-    "IASTform": ""
+    "IASTform": "5"
   },
   {
     "id": 7,
@@ -3569,7 +3569,7 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "6"
   },
   {
     "id": 8,
@@ -3667,7 +3667,7 @@
         "year": 1348
       }
     ],
-    "IASTform": ""
+    "IASTform": "7"
   },
   {
     "id": 9,
@@ -3777,7 +3777,7 @@
         "year": 770
       }
     ],
-    "IASTform": ""
+    "IASTform": "8"
   },
   {
     "id": 10,
@@ -3851,6 +3851,6 @@
         "year": 1336
       }
     ],
-    "IASTform": ""
+    "IASTform": "9"
   }
 ]

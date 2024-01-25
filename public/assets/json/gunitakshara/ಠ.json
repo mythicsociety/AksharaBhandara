@@ -23,7 +23,7 @@
         "year": 1700
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṭha"
   },
   {
     "id": 2,
@@ -37,7 +37,7 @@
         "year": 1850
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṭhā"
   },
   {
     "id": 3,
@@ -51,7 +51,7 @@
         "year": 1306
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṭhi"
   },
   {
     "id": 4,
@@ -71,83 +71,83 @@
         "year": 1705
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṭhī"
   },
   {
     "id": 5,
     "key": "ಠು",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṭhu"
   },
   {
     "id": 6,
     "key": "ಠೂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṭhū"
   },
   {
     "id": 7,
-    "key": "ಠೆ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಠೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 9,
-    "key": "ಠೊ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಠೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಠೈ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 12,
-    "key": "ಠೌ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
     "key": "ಠೃ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṭhṛ"
+  },
+  {
+    "id": 8,
+    "key": "ಠೆ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ṭhe"
+  },
+  {
+    "id": 9,
+    "key": "ಠೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ṭhē"
+  },
+  {
+    "id": 10,
+    "key": "ಠೈ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ṭhai"
+  },
+  {
+    "id": 11,
+    "key": "ಠೊ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ṭho"
+  },
+  {
+    "id": 12,
+    "key": "ಠೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ṭhō"
+  },
+  {
+    "id": 13,
+    "key": "ಠೌ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ṭhau"
   },
   {
     "id": 14,
-    "key": "ಠಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಠಂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṭhaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಠಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ṭhaḥ"
   }
 ]

@@ -1295,7 +1295,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ba"
   },
   {
     "id": 2,
@@ -1471,7 +1471,7 @@
         "year": 1432
       }
     ],
-    "IASTform": ""
+    "IASTform": "bā"
   },
   {
     "id": 3,
@@ -1643,7 +1643,7 @@
       {
         "id": 28,
         "form": "bi_form1",
-        "path": "bi/bi_form1/750_BN55_KRPuram_3_9_bi.png",
+        "path": "bi/bi_form1/750_BN55_KRPuram_3_9_bi.PNG",
         "year": 750
       },
       {
@@ -1701,7 +1701,7 @@
         "year": 800
       }
     ],
-    "IASTform": ""
+    "IASTform": "bi"
   },
   {
     "id": 4,
@@ -1757,7 +1757,7 @@
         "year": 1352
       }
     ],
-    "IASTform": ""
+    "IASTform": "bī"
   },
   {
     "id": 5,
@@ -1969,17 +1969,24 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "bu"
   },
   {
     "id": 6,
     "key": "ಬೂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "bū"
   },
   {
     "id": 7,
+    "key": "ಬೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "bṛ"
+  },
+  {
+    "id": 8,
     "key": "ಬೆ",
     "isAvailable": true,
     "letterForms": [
@@ -2074,17 +2081,61 @@
         "year": 1738
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಬೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "be"
   },
   {
     "id": 9,
+    "key": "ಬೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "bē"
+  },
+  {
+    "id": 10,
+    "key": "ಬೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "bai_form1",
+        "path": "bai/bai_form1/1348_DV50_Katigenahalli_11_12_bai.JPG",
+        "year": 1348
+      },
+      {
+        "id": 2,
+        "form": "bai_form1",
+        "path": "bai/bai_form1/1348_DV50_Katigenahalli_9_1_bai.JPG",
+        "year": 1348
+      },
+      {
+        "id": 3,
+        "form": "bai_form1",
+        "path": "bai/bai_form1/1561_Unpub_Tharalu_5_10_bai.png",
+        "year": 1561
+      },
+      {
+        "id": 4,
+        "form": "bai_form1",
+        "path": "bai/bai_form1/1589_Unpub_Chikkajala_7_7_bai.JPG",
+        "year": 1589
+      },
+      {
+        "id": 5,
+        "form": "bai_form1",
+        "path": "bai/bai_form1/1625_Unpub_Byalahalli_5_4_bai.JPG",
+        "year": 1625
+      },
+      {
+        "id": 6,
+        "form": "bai_form1",
+        "path": "bai/bai_form1/1716_Db63_Mavallipura_10_7_bai.png",
+        "year": 1716
+      }
+    ],
+    "IASTform": "bai"
+  },
+  {
+    "id": 11,
     "key": "ಬೊ",
     "isAvailable": true,
     "letterForms": [
@@ -2143,82 +2194,24 @@
         "year": 1689
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಬೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಬೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "bai_form1",
-        "path": "bai/bai_form1/1348_DV50_Katigenahalli_11_12_bai.JPG",
-        "year": 1348
-      },
-      {
-        "id": 2,
-        "form": "bai_form1",
-        "path": "bai/bai_form1/1348_DV50_Katigenahalli_9_1_bai.JPG",
-        "year": 1348
-      },
-      {
-        "id": 3,
-        "form": "bai_form1",
-        "path": "bai/bai_form1/1561_Unpub_Tharalu_5_10_bai.png",
-        "year": 1561
-      },
-      {
-        "id": 4,
-        "form": "bai_form1",
-        "path": "bai/bai_form1/1589_Unpub_Chikkajala_7_7_bai.JPG",
-        "year": 1589
-      },
-      {
-        "id": 5,
-        "form": "bai_form1",
-        "path": "bai/bai_form1/1625_Unpub_Byalahalli_5_4_bai.JPG",
-        "year": 1625
-      },
-      {
-        "id": 6,
-        "form": "bai_form1",
-        "path": "bai/bai_form1/1716_Db63_Mavallipura_10_7_bai.png",
-        "year": 1716
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "bo"
   },
   {
     "id": 12,
-    "key": "ಬೌ",
+    "key": "ಬೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "bō"
   },
   {
     "id": 13,
-    "key": "ಬೃ",
+    "key": "ಬೌ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "bau"
   },
   {
     "id": 14,
-    "key": "ಬಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಬಂ",
     "isAvailable": true,
     "letterForms": [
@@ -2301,6 +2294,13 @@
         "year": 1828
       }
     ],
-    "IASTform": ""
+    "IASTform": "baṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಬಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "baḥ"
   }
 ]

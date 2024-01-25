@@ -59,6 +59,8 @@
         "btnNext": "ಮುಂದಿನ ಶತಮಾನ"
     },
     "letter": {
+        "showIAST":"IAST ನಲ್ಲಿ IT ತೋರಿಸು",
+        "showKannada":"ಕನ್ನಡದಲ್ಲಿ ತೋರಿಸಿ",
         "form": "ರೂಪ",
         "century": "ಶತಮಾನ",
         "thCentury": "ನೆ ಶತಮಾನ",

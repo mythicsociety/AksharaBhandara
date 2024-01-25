@@ -23,104 +23,104 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "pha"
   },
   {
     "id": 2,
     "key": "ಫಾ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "phā"
   },
   {
     "id": 3,
     "key": "ಫಿ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "phi"
   },
   {
     "id": 4,
     "key": "ಫೀ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "phī"
   },
   {
     "id": 5,
     "key": "ಫು",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "phu"
   },
   {
     "id": 6,
     "key": "ಫೂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "phū"
   },
   {
     "id": 7,
-    "key": "ಫೆ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಫೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 9,
-    "key": "ಫೊ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಫೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಫೈ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 12,
-    "key": "ಫೌ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
     "key": "ಫೃ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "phṛ"
+  },
+  {
+    "id": 8,
+    "key": "ಫೆ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "phe"
+  },
+  {
+    "id": 9,
+    "key": "ಫೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "phē"
+  },
+  {
+    "id": 10,
+    "key": "ಫೈ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "phai"
+  },
+  {
+    "id": 11,
+    "key": "ಫೊ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "pho"
+  },
+  {
+    "id": 12,
+    "key": "ಫೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "phō"
+  },
+  {
+    "id": 13,
+    "key": "ಫೌ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "phau"
   },
   {
     "id": 14,
-    "key": "ಫಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಫಂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "phaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಫಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "phaḥ"
   }
 ]

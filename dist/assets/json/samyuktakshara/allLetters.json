@@ -934,6 +934,54 @@
     "IASTform": "chre"
   },
   {
+    "id": 36,
+    "key": "ಚೋನ್ಛ್",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "Conch_form1",
+        "path": "Conch/Conch_form1/1440_Bn08_Domlur_50_2_Conch.JPG",
+        "year": 1440
+      }
+    ],
+    "IASTform": "Conch"
+  },
+  {
+    "id": 37,
+    "key": "ಚೋw",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "cow_form1",
+        "path": "cow/cow_form1/1029_NL01_Soladevanahalli_cow.JPG",
+        "year": 1029
+      },
+      {
+        "id": 2,
+        "form": "cow_form1",
+        "path": "cow/cow_form1/1440_Bn08_Domlur_50_5_Cow.JPG",
+        "year": 1440
+      }
+    ],
+    "IASTform": "cow"
+  },
+  {
+    "id": 38,
+    "key": "ಚೋw2",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "Cow2_form1",
+        "path": "Cow2/Cow2_form1/1029_NL01_Soladevanahalli_Cow2.JPG",
+        "year": 1029
+      }
+    ],
+    "IASTform": "Cow2"
+  },
+  {
     "id": 39,
     "key": "ಚ್ಸ",
     "isAvailable": true,
@@ -7679,7 +7727,7 @@
       {
         "id": 1,
         "form": "lgŏ_form1",
-        "path": "lgŏ/lgŏ_form1/750_BN55_KRPuram_2_12_lgŏ.png",
+        "path": "lgŏ/lgŏ_form1/750_BN55_KRPuram_2_12_lgŏ.PNG",
         "year": 750
       }
     ],
@@ -11325,7 +11373,7 @@
       {
         "id": 9,
         "form": "nna_form1",
-        "path": "nna/nna_form1/750_BN55_KRPuram_1_15_nna.png",
+        "path": "nna/nna_form1/750_BN55_KRPuram_1_15_nna.PNG",
         "year": 750
       },
       {
@@ -14069,7 +14117,7 @@
       {
         "id": 1,
         "form": "rbāṃ_form1",
-        "path": "rbāṃ/rbāṃ_form1/750_BN55_KRPuram_2_2_rbāṃ.png",
+        "path": "rbāṃ/rbāṃ_form1/750_BN55_KRPuram_2_2_rbāṃ.PNG",
         "year": 750
       }
     ],
@@ -27603,7 +27651,7 @@
       {
         "id": 205,
         "form": "śrī_form1",
-        "path": "śrī/śrī_form1/750_BN55_KRPuram_1_1_śrī.png",
+        "path": "śrī/śrī_form1/750_BN55_KRPuram_1_1_śrī.PNG",
         "year": 750
       },
       {
@@ -29827,7 +29875,7 @@
       {
         "id": 1,
         "form": "ḻda_form1",
-        "path": "ḻda/ḻda_form1/750_BN55_KRPuram_3_10_ḻda.png",
+        "path": "ḻda/ḻda_form1/750_BN55_KRPuram_3_10_ḻda.PNG",
         "year": 750
       },
       {

@@ -1201,7 +1201,7 @@
       {
         "id": 200,
         "form": "ja_form1",
-        "path": "ja/ja_form1/750_BN55_KRPuram_1_8_ja.png",
+        "path": "ja/ja_form1/750_BN55_KRPuram_1_8_ja.PNG",
         "year": 750
       },
       {
@@ -1307,7 +1307,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ja"
   },
   {
     "id": 2,
@@ -1609,7 +1609,7 @@
         "year": 970
       }
     ],
-    "IASTform": ""
+    "IASTform": "jā"
   },
   {
     "id": 3,
@@ -1671,7 +1671,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ji"
   },
   {
     "id": 4,
@@ -1763,7 +1763,7 @@
         "year": 1433
       }
     ],
-    "IASTform": ""
+    "IASTform": "jī"
   },
   {
     "id": 5,
@@ -1777,17 +1777,24 @@
         "year": 1029
       }
     ],
-    "IASTform": ""
+    "IASTform": "ju"
   },
   {
     "id": 6,
     "key": "ಜೂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jū"
   },
   {
     "id": 7,
+    "key": "ಜೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jṛ"
+  },
+  {
+    "id": 8,
     "key": "ಜೆ",
     "isAvailable": true,
     "letterForms": [
@@ -1840,17 +1847,37 @@
         "year": 1029
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಜೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "je"
   },
   {
     "id": 9,
+    "key": "ಜೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jē"
+  },
+  {
+    "id": 10,
+    "key": "ಜೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "jai_form1",
+        "path": "jai/jai_form1/1750_Dv89_Jalige_18_1_jai.JPG",
+        "year": 1750
+      },
+      {
+        "id": 2,
+        "form": "jai_form1",
+        "path": "jai/jai_form1/1800_BN17_Yalahanka_3_7_jai.JPG",
+        "year": 1800
+      }
+    ],
+    "IASTform": "jai"
+  },
+  {
+    "id": 11,
     "key": "ಜೊ",
     "isAvailable": true,
     "letterForms": [
@@ -1873,37 +1900,17 @@
         "year": 750
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಜೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಜೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "jai_form1",
-        "path": "jai/jai_form1/1750_Dv89_Jalige_18_1_jai.JPG",
-        "year": 1750
-      },
-      {
-        "id": 2,
-        "form": "jai_form1",
-        "path": "jai/jai_form1/1800_BN17_Yalahanka_3_7_jai.JPG",
-        "year": 1800
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "jo"
   },
   {
     "id": 12,
+    "key": "ಜೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jō"
+  },
+  {
+    "id": 13,
     "key": "ಜೌ",
     "isAvailable": true,
     "letterForms": [
@@ -1914,31 +1921,10 @@
         "year": 750
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
-    "key": "ಜೃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jau"
   },
   {
     "id": 14,
-    "key": "ಜಃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "jaḥ_form1",
-        "path": "jaḥ/jaḥ_form1/1368_MG18_Kalya_9_7_jaḥ.JPG",
-        "year": 1368
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಜಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1985,6 +1971,20 @@
         "year": 1534
       }
     ],
-    "IASTform": ""
+    "IASTform": "jaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಜಃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "jaḥ_form1",
+        "path": "jaḥ/jaḥ_form1/1368_MG18_Kalya_9_7_jaḥ.JPG",
+        "year": 1368
+      }
+    ],
+    "IASTform": "jaḥ"
   }
 ]

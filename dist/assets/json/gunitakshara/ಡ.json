@@ -5243,7 +5243,7 @@
         "year": 1534
       }
     ],
-    "IASTform": ""
+    "IASTform": "da"
   },
   {
     "id": 2,
@@ -5737,7 +5737,7 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "dā"
   },
   {
     "id": 3,
@@ -6315,7 +6315,7 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "di"
   },
   {
     "id": 4,
@@ -6431,7 +6431,7 @@
         "year": 1533
       }
     ],
-    "IASTform": ""
+    "IASTform": "dī"
   },
   {
     "id": 5,
@@ -6981,7 +6981,7 @@
       {
         "id": 91,
         "form": "du_form1",
-        "path": "du/du_form1/750_BN55_KRPuram_3_8_du.png",
+        "path": "du/du_form1/750_BN55_KRPuram_3_8_du.PNG",
         "year": 750
       },
       {
@@ -7189,7 +7189,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "du"
   },
   {
     "id": 6,
@@ -7233,10 +7233,17 @@
         "year": 1533
       }
     ],
-    "IASTform": ""
+    "IASTform": "dū"
   },
   {
     "id": 7,
+    "key": "ಡೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "dṛ"
+  },
+  {
+    "id": 8,
     "key": "ಡೆ",
     "isAvailable": true,
     "letterForms": [
@@ -8267,17 +8274,24 @@
         "year": 1410
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಡೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "de"
   },
   {
     "id": 9,
+    "key": "ಡೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "dē"
+  },
+  {
+    "id": 10,
+    "key": "ಡೈ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "dai"
+  },
+  {
+    "id": 11,
     "key": "ಡೊ",
     "isAvailable": true,
     "letterForms": [
@@ -8330,24 +8344,17 @@
         "year": 800
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಡೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಡೈ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "do"
   },
   {
     "id": 12,
+    "key": "ಡೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "dō"
+  },
+  {
+    "id": 13,
     "key": "ಡೌ",
     "isAvailable": true,
     "letterForms": [
@@ -8364,24 +8371,10 @@
         "year": 1698
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
-    "key": "ಡೃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "dau"
   },
   {
     "id": 14,
-    "key": "ಡಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಡಂ",
     "isAvailable": true,
     "letterForms": [
@@ -8650,6 +8643,13 @@
         "year": 1336
       }
     ],
-    "IASTform": ""
+    "IASTform": "daṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಡಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "daḥ"
   }
 ]

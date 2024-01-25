@@ -3937,7 +3937,7 @@
       {
         "id": 656,
         "form": "ma_form1",
-        "path": "ma/ma_form1/750_BN55_KRPuram_1_5_ma.png",
+        "path": "ma/ma_form1/750_BN55_KRPuram_1_5_ma.PNG",
         "year": 750
       },
       {
@@ -4841,7 +4841,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ma"
   },
   {
     "id": 2,
@@ -6073,7 +6073,7 @@
         "year": 1368
       }
     ],
-    "IASTform": ""
+    "IASTform": "mā"
   },
   {
     "id": 3,
@@ -6399,7 +6399,7 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
+    "IASTform": "mi"
   },
   {
     "id": 4,
@@ -6437,7 +6437,7 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
+    "IASTform": "mī"
   },
   {
     "id": 5,
@@ -6817,7 +6817,7 @@
         "year": 1019
       }
     ],
-    "IASTform": ""
+    "IASTform": "mu"
   },
   {
     "id": 6,
@@ -7131,10 +7131,36 @@
         "year": 955
       }
     ],
-    "IASTform": ""
+    "IASTform": "mū"
   },
   {
     "id": 7,
+    "key": "ಮೃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "mṛ_form1",
+        "path": "mṛ/mṛ_form1/1532_BN57_Dasarahalli_15_5_mṛ.jpg",
+        "year": 1532
+      },
+      {
+        "id": 2,
+        "form": "mṛ_form1",
+        "path": "mṛ/mṛ_form1/1589_Mg27_Kalya_2_3_mṛ.JPG",
+        "year": 1589
+      },
+      {
+        "id": 3,
+        "form": "mṛ_form1",
+        "path": "mṛ/mṛ_form1/1850_AN111_Bannerughatta_9_23_mṛ.JPG",
+        "year": 1850
+      }
+    ],
+    "IASTform": "mṛ"
+  },
+  {
+    "id": 8,
     "key": "ಮೆ",
     "isAvailable": true,
     "letterForms": [
@@ -7661,17 +7687,43 @@
         "year": 1440
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಮೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "me"
   },
   {
     "id": 9,
+    "key": "ಮೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "mē"
+  },
+  {
+    "id": 10,
+    "key": "ಮೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "mai_form1",
+        "path": "mai/mai_form1/1348_DV50_Katigenahalli_7_18_mai.JPG",
+        "year": 1348
+      },
+      {
+        "id": 2,
+        "form": "mai_form1",
+        "path": "mai/mai_form1/1363_BN81_AgaraMuseum_8_5_mai.JPG",
+        "year": 1363
+      },
+      {
+        "id": 3,
+        "form": "mai_form1",
+        "path": "mai/mai_form1/750_IthDarHebKit_Hebbal_3_5_mai.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "mai"
+  },
+  {
+    "id": 11,
     "key": "ಮೊ",
     "isAvailable": true,
     "letterForms": [
@@ -7754,43 +7806,17 @@
         "year": 1400
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಮೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಮೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "mai_form1",
-        "path": "mai/mai_form1/1348_DV50_Katigenahalli_7_18_mai.JPG",
-        "year": 1348
-      },
-      {
-        "id": 2,
-        "form": "mai_form1",
-        "path": "mai/mai_form1/1363_BN81_AgaraMuseum_8_5_mai.JPG",
-        "year": 1363
-      },
-      {
-        "id": 3,
-        "form": "mai_form1",
-        "path": "mai/mai_form1/750_IthDarHebKit_Hebbal_3_5_mai.JPG",
-        "year": 750
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "mo"
   },
   {
     "id": 12,
+    "key": "ಮೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "mō"
+  },
+  {
+    "id": 13,
     "key": "ಮೌ",
     "isAvailable": true,
     "letterForms": [
@@ -7837,56 +7863,10 @@
         "year": 1533
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
-    "key": "ಮೃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "mṛ_form1",
-        "path": "mṛ/mṛ_form1/1532_BN57_Dasarahalli_15_5_mṛ.jpg",
-        "year": 1532
-      },
-      {
-        "id": 2,
-        "form": "mṛ_form1",
-        "path": "mṛ/mṛ_form1/1589_Mg27_Kalya_2_3_mṛ.JPG",
-        "year": 1589
-      },
-      {
-        "id": 3,
-        "form": "mṛ_form1",
-        "path": "mṛ/mṛ_form1/1850_AN111_Bannerughatta_9_23_mṛ.JPG",
-        "year": 1850
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "mau"
   },
   {
     "id": 14,
-    "key": "ಮಃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "maḥ_form1",
-        "path": "maḥ/maḥ_form1/1500_Unpub_Nalluru_2_8_maḥ.jpg",
-        "year": 1500
-      },
-      {
-        "id": 2,
-        "form": "maḥ_form1",
-        "path": "maḥ/maḥ_form1/750_NL33_Totagere_2_15_maḥ.JPG",
-        "year": 750
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಮಂ",
     "isAvailable": true,
     "letterForms": [
@@ -8413,6 +8393,26 @@
         "year": 1433
       }
     ],
-    "IASTform": ""
+    "IASTform": "maṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಮಃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "maḥ_form1",
+        "path": "maḥ/maḥ_form1/1500_Unpub_Nalluru_2_8_maḥ.jpg",
+        "year": 1500
+      },
+      {
+        "id": 2,
+        "form": "maḥ_form1",
+        "path": "maḥ/maḥ_form1/750_NL33_Totagere_2_15_maḥ.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "maḥ"
   }
 ]

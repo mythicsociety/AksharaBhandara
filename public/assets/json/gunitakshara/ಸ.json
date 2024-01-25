@@ -1405,7 +1405,7 @@
       {
         "id": 234,
         "form": "sa_form1",
-        "path": "sa/sa_form1/750_BN55_KRPuram_2_8_sa.png",
+        "path": "sa/sa_form1/750_BN55_KRPuram_2_8_sa.PNG",
         "year": 750
       },
       {
@@ -2315,7 +2315,7 @@
         "year": 971
       }
     ],
-    "IASTform": ""
+    "IASTform": "sa"
   },
   {
     "id": 2,
@@ -2863,7 +2863,7 @@
         "year": 1368
       }
     ],
-    "IASTform": ""
+    "IASTform": "sā"
   },
   {
     "id": 3,
@@ -3591,7 +3591,7 @@
         "year": 1309
       }
     ],
-    "IASTform": ""
+    "IASTform": "si"
   },
   {
     "id": 4,
@@ -3767,7 +3767,7 @@
         "year": 1700
       }
     ],
-    "IASTform": ""
+    "IASTform": "sī"
   },
   {
     "id": 5,
@@ -4155,7 +4155,7 @@
       {
         "id": 64,
         "form": "su_form1",
-        "path": "su/su_form1/750_BN55_KRPuram_1_11_su.png",
+        "path": "su/su_form1/750_BN55_KRPuram_1_11_su.PNG",
         "year": 750
       },
       {
@@ -4303,7 +4303,7 @@
         "year": 750
       }
     ],
-    "IASTform": ""
+    "IASTform": "su"
   },
   {
     "id": 6,
@@ -4443,10 +4443,17 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "sū"
   },
   {
     "id": 7,
+    "key": "ಸೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "sṛ"
+  },
+  {
+    "id": 8,
     "key": "ಸೆ",
     "isAvailable": true,
     "letterForms": [
@@ -4541,17 +4548,31 @@
         "year": 1698
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಸೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "se"
   },
   {
     "id": 9,
+    "key": "ಸೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "sē"
+  },
+  {
+    "id": 10,
+    "key": "ಸೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "sai_form1",
+        "path": "sai/sai_form1/1625_Unpub_Byalahalli_5_7_sai.JPG",
+        "year": 1625
+      }
+    ],
+    "IASTform": "sai"
+  },
+  {
+    "id": 11,
     "key": "ಸೊ",
     "isAvailable": true,
     "letterForms": [
@@ -4718,31 +4739,17 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಸೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಸೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "sai_form1",
-        "path": "sai/sai_form1/1625_Unpub_Byalahalli_5_7_sai.JPG",
-        "year": 1625
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "so"
   },
   {
     "id": 12,
+    "key": "ಸೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "sō"
+  },
+  {
+    "id": 13,
     "key": "ಸೌ",
     "isAvailable": true,
     "letterForms": [
@@ -4765,14 +4772,7 @@
         "year": 1669
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
-    "key": "ಸೃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "sau"
   },
   {
     "id": 14,
@@ -4786,7 +4786,7 @@
         "year": 1368
       }
     ],
-    "IASTform": ""
+    "IASTform": "saḥ"
   },
   {
     "id": 15,
@@ -5592,6 +5592,6 @@
         "year": 1780
       }
     ],
-    "IASTform": ""
+    "IASTform": "saṃ"
   }
 ]

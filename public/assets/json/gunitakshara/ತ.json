@@ -1427,7 +1427,7 @@
         "year": 1336
       }
     ],
-    "IASTform": ""
+    "IASTform": "ta"
   },
   {
     "id": 2,
@@ -2023,7 +2023,7 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
+    "IASTform": "tā"
   },
   {
     "id": 3,
@@ -2913,7 +2913,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ti"
   },
   {
     "id": 4,
@@ -2993,7 +2993,7 @@
         "year": 750
       }
     ],
-    "IASTform": ""
+    "IASTform": "tī"
   },
   {
     "id": 5,
@@ -3619,7 +3619,7 @@
         "year": 1336
       }
     ],
-    "IASTform": ""
+    "IASTform": "tu"
   },
   {
     "id": 6,
@@ -3651,10 +3651,30 @@
         "year": 800
       }
     ],
-    "IASTform": ""
+    "IASTform": "tū"
   },
   {
     "id": 7,
+    "key": "ತೃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "tṛ_form1",
+        "path": "tṛ/tṛ_form1/1705_BN118_Kothnur_17_18_tṛ.jpg",
+        "year": 1705
+      },
+      {
+        "id": 2,
+        "form": "tṛ_form2",
+        "path": "tṛ/tṛ_form2/1705_BN118_Kothnur_20_19_tṛ.jpg",
+        "year": 1705
+      }
+    ],
+    "IASTform": "tṛ"
+  },
+  {
+    "id": 8,
     "key": "ತೆ",
     "isAvailable": true,
     "letterForms": [
@@ -3719,17 +3739,31 @@
         "year": 1345
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ತೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "te"
   },
   {
     "id": 9,
+    "key": "ತೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "tē"
+  },
+  {
+    "id": 10,
+    "key": "ತೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "tai_form1",
+        "path": "tai/tai_form1/1828_Cp108_Kudluru_18_2_tai.JPG",
+        "year": 1828
+      }
+    ],
+    "IASTform": "tai"
+  },
+  {
+    "id": 11,
     "key": "ತೊ",
     "isAvailable": true,
     "letterForms": [
@@ -3824,72 +3858,24 @@
         "year": 1029
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ತೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ತೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "tai_form1",
-        "path": "tai/tai_form1/1828_Cp108_Kudluru_18_2_tai.JPG",
-        "year": 1828
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "to"
   },
   {
     "id": 12,
-    "key": "ತೌ",
+    "key": "ತೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "tō"
   },
   {
     "id": 13,
-    "key": "ತೃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "tṛ_form1",
-        "path": "tṛ/tṛ_form1/1705_BN118_Kothnur_17_18_tṛ.jpg",
-        "year": 1705
-      },
-      {
-        "id": 2,
-        "form": "tṛ_form2",
-        "path": "tṛ/tṛ_form2/1705_BN118_Kothnur_20_19_tṛ.jpg",
-        "year": 1705
-      }
-    ],
-    "IASTform": ""
+    "key": "ತೌ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "tau"
   },
   {
     "id": 14,
-    "key": "ತಃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "taḥ_form1",
-        "path": "taḥ/taḥ_form1/1345_Dv03_Jalige_22_2_taḥ.JPG",
-        "year": 1345
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ತಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4200,6 +4186,20 @@
         "year": 1558
       }
     ],
-    "IASTform": ""
+    "IASTform": "taṃ"
+  },
+  {
+    "id": 15,
+    "key": "ತಃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "taḥ_form1",
+        "path": "taḥ/taḥ_form1/1345_Dv03_Jalige_22_2_taḥ.JPG",
+        "year": 1345
+      }
+    ],
+    "IASTform": "taḥ"
   }
 ]

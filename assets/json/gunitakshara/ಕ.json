@@ -1897,13 +1897,13 @@
       {
         "id": 316,
         "form": "ka_form1",
-        "path": "ka/ka_form1/750_BN55_KRPuram_1_14_ka.png",
+        "path": "ka/ka_form1/750_BN55_KRPuram_1_14_ka.PNG",
         "year": 750
       },
       {
         "id": 317,
         "form": "ka_form1",
-        "path": "ka/ka_form1/750_BN55_KRPuram_2_3_ka.png",
+        "path": "ka/ka_form1/750_BN55_KRPuram_2_3_ka.PNG",
         "year": 750
       },
       {
@@ -2693,7 +2693,7 @@
         "year": 1369
       }
     ],
-    "IASTform": ""
+    "IASTform": "ka"
   },
   {
     "id": 2,
@@ -3475,7 +3475,7 @@
         "year": 971
       }
     ],
-    "IASTform": ""
+    "IASTform": "kā"
   },
   {
     "id": 3,
@@ -3627,7 +3627,7 @@
         "year": 1500
       }
     ],
-    "IASTform": ""
+    "IASTform": "ki"
   },
   {
     "id": 4,
@@ -3671,7 +3671,7 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "kī"
   },
   {
     "id": 5,
@@ -4177,7 +4177,7 @@
         "year": 1500
       }
     ],
-    "IASTform": ""
+    "IASTform": "ku"
   },
   {
     "id": 6,
@@ -4257,10 +4257,84 @@
         "year": 913
       }
     ],
-    "IASTform": ""
+    "IASTform": "kū"
   },
   {
     "id": 7,
+    "key": "ಕೃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1029_NL01_Soladevanahalli_32_10_kṛ.JPG",
+        "year": 1029
+      },
+      {
+        "id": 2,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1029_NL01_Soladevanahalli_53_10_kṛ.JPG",
+        "year": 1029
+      },
+      {
+        "id": 3,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1363_BN81_AgaraMuseum_2_5_kṛ.JPG",
+        "year": 1363
+      },
+      {
+        "id": 4,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1500_Unpub_Nalluru_2_10_kṛ.jpg",
+        "year": 1500
+      },
+      {
+        "id": 5,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1526_HT193_Devishettihalli_4_19_kṛ.JPG",
+        "year": 1526
+      },
+      {
+        "id": 6,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1526_HT193_Devishettihalli_5_14_kṛ.JPG",
+        "year": 1526
+      },
+      {
+        "id": 7,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1750_Dv89_Jalige_12_11_kṛ.JPG",
+        "year": 1750
+      },
+      {
+        "id": 8,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1750_Dv89_Jalige_3_1_kṛ.JPG",
+        "year": 1750
+      },
+      {
+        "id": 9,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1759_An90_Bingipura_7_4_kṛ.png",
+        "year": 1759
+      },
+      {
+        "id": 10,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/1791_ShasanaAdhyayana_Kalatammanahalli_1_5_kṛ.JPG",
+        "year": 1791
+      },
+      {
+        "id": 11,
+        "form": "kṛ_form1",
+        "path": "kṛ/kṛ_form1/750_NL33_Totagere_3_26_kṛ.JPG",
+        "year": 750
+      }
+    ],
+    "IASTform": "kṛ"
+  },
+  {
+    "id": 8,
     "key": "ಕೆ",
     "isAvailable": true,
     "letterForms": [
@@ -4373,17 +4447,43 @@
         "year": 1589
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಕೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ke"
   },
   {
     "id": 9,
+    "key": "ಕೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "kē"
+  },
+  {
+    "id": 10,
+    "key": "ಕೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "kai_form1",
+        "path": "kai/kai_form1/1705_BN118_Kothnur_21_20_kai.jpg",
+        "year": 1705
+      },
+      {
+        "id": 2,
+        "form": "kai_form1",
+        "path": "kai/kai_form1/750_NL33_Totagere_4_20_kai.JPG",
+        "year": 750
+      },
+      {
+        "id": 3,
+        "form": "kai_form1",
+        "path": "kai/kai_form1/770_CP141_Malurpatna__47_1_kai.JPG",
+        "year": 770
+      }
+    ],
+    "IASTform": "kai"
+  },
+  {
+    "id": 11,
     "key": "ಕೊ",
     "isAvailable": true,
     "letterForms": [
@@ -4538,138 +4638,24 @@
         "year": 1534
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಕೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಕೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "kai_form1",
-        "path": "kai/kai_form1/1705_BN118_Kothnur_21_20_kai.jpg",
-        "year": 1705
-      },
-      {
-        "id": 2,
-        "form": "kai_form1",
-        "path": "kai/kai_form1/750_NL33_Totagere_4_20_kai.JPG",
-        "year": 750
-      },
-      {
-        "id": 3,
-        "form": "kai_form1",
-        "path": "kai/kai_form1/770_CP141_Malurpatna__47_1_kai.JPG",
-        "year": 770
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "ko"
   },
   {
     "id": 12,
-    "key": "ಕೌ",
+    "key": "ಕೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "kō"
   },
   {
     "id": 13,
-    "key": "ಕೃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1029_NL01_Soladevanahalli_32_10_kṛ.JPG",
-        "year": 1029
-      },
-      {
-        "id": 2,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1029_NL01_Soladevanahalli_53_10_kṛ.JPG",
-        "year": 1029
-      },
-      {
-        "id": 3,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1363_BN81_AgaraMuseum_2_5_kṛ.JPG",
-        "year": 1363
-      },
-      {
-        "id": 4,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1500_Unpub_Nalluru_2_10_kṛ.jpg",
-        "year": 1500
-      },
-      {
-        "id": 5,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1526_HT193_Devishettihalli_4_19_kṛ.JPG",
-        "year": 1526
-      },
-      {
-        "id": 6,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1526_HT193_Devishettihalli_5_14_kṛ.JPG",
-        "year": 1526
-      },
-      {
-        "id": 7,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1750_Dv89_Jalige_12_11_kṛ.JPG",
-        "year": 1750
-      },
-      {
-        "id": 8,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1750_Dv89_Jalige_3_1_kṛ.JPG",
-        "year": 1750
-      },
-      {
-        "id": 9,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1759_An90_Bingipura_7_4_kṛ.png",
-        "year": 1759
-      },
-      {
-        "id": 10,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/1791_ShasanaAdhyayana_Kalatammanahalli_1_5_kṛ.JPG",
-        "year": 1791
-      },
-      {
-        "id": 11,
-        "form": "kṛ_form1",
-        "path": "kṛ/kṛ_form1/750_NL33_Totagere_3_26_kṛ.JPG",
-        "year": 750
-      }
-    ],
-    "IASTform": ""
+    "key": "ಕೌ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "kau"
   },
   {
     "id": 14,
-    "key": "ಕಃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "kaḥ",
-        "path": "kaḥ/kaḥ/900_HT110_Kumbalahalli_8_6_kaḥ.JPG",
-        "year": 900
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಕಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4890,6 +4876,20 @@
         "year": 1369
       }
     ],
-    "IASTform": ""
+    "IASTform": "kaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಕಃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "kaḥ",
+        "path": "kaḥ/kaḥ/900_HT110_Kumbalahalli_8_6_kaḥ.JPG",
+        "year": 900
+      }
+    ],
+    "IASTform": "kaḥ"
   }
 ]

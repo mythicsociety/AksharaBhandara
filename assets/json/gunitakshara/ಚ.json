@@ -659,7 +659,7 @@
         "year": 1369
       }
     ],
-    "IASTform": ""
+    "IASTform": "ca"
   },
   {
     "id": 2,
@@ -871,7 +871,7 @@
         "year": 1716
       }
     ],
-    "IASTform": ""
+    "IASTform": "cā"
   },
   {
     "id": 3,
@@ -1071,7 +1071,7 @@
         "year": 1516
       }
     ],
-    "IASTform": ""
+    "IASTform": "ci"
   },
   {
     "id": 4,
@@ -1085,7 +1085,7 @@
         "year": 1402
       }
     ],
-    "IASTform": ""
+    "IASTform": "cī"
   },
   {
     "id": 5,
@@ -1171,7 +1171,7 @@
         "year": 1534
       }
     ],
-    "IASTform": ""
+    "IASTform": "cu"
   },
   {
     "id": 6,
@@ -1221,24 +1221,57 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
+    "IASTform": "cū"
   },
   {
     "id": 7,
-    "key": "ಚೆ",
+    "key": "ಚೃ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "cṛ"
   },
   {
     "id": 8,
-    "key": "ಚೇ",
+    "key": "ಚೆ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ce"
   },
   {
     "id": 9,
+    "key": "ಚೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "cē"
+  },
+  {
+    "id": 10,
+    "key": "ಚೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "cai_form1",
+        "path": "cai/cai_form1/1432_IthDar_Kalya_1_10_cai.jpg",
+        "year": 1432
+      },
+      {
+        "id": 2,
+        "form": "cai_form1",
+        "path": "cai/cai_form1/1534_CP155_Chakkere_9_1_cai.JPG",
+        "year": 1534
+      },
+      {
+        "id": 3,
+        "form": "cai_form1",
+        "path": "cai/cai_form1/1791_ShasanaAdhyayana_Kalatammanahalli_2_6_cai.JPG",
+        "year": 1791
+      }
+    ],
+    "IASTform": "cai"
+  },
+  {
+    "id": 11,
     "key": "ಚೊ",
     "isAvailable": true,
     "letterForms": [
@@ -1357,64 +1390,24 @@
         "year": 1382
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಚೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಚೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "cai_form1",
-        "path": "cai/cai_form1/1432_IthDar_Kalya_1_10_cai.jpg",
-        "year": 1432
-      },
-      {
-        "id": 2,
-        "form": "cai_form1",
-        "path": "cai/cai_form1/1534_CP155_Chakkere_9_1_cai.JPG",
-        "year": 1534
-      },
-      {
-        "id": 3,
-        "form": "cai_form1",
-        "path": "cai/cai_form1/1791_ShasanaAdhyayana_Kalatammanahalli_2_6_cai.JPG",
-        "year": 1791
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "co"
   },
   {
     "id": 12,
-    "key": "ಚೌ",
+    "key": "ಚೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "cō"
   },
   {
     "id": 13,
-    "key": "ಚೃ",
+    "key": "ಚೌ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "cau"
   },
   {
     "id": 14,
-    "key": "ಚಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಚಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1701,6 +1694,13 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "caṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಚಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "caḥ"
   }
 ]

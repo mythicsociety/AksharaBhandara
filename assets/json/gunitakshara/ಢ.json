@@ -1919,7 +1919,7 @@
         "year": 1558
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍa"
   },
   {
     "id": 2,
@@ -2005,7 +2005,7 @@
         "year": 1669
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍā"
   },
   {
     "id": 3,
@@ -2979,7 +2979,7 @@
         "year": 1400
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍi"
   },
   {
     "id": 4,
@@ -2999,7 +2999,7 @@
         "year": 1800
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍī"
   },
   {
     "id": 5,
@@ -3397,7 +3397,7 @@
         "year": 971
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍu"
   },
   {
     "id": 6,
@@ -3417,10 +3417,17 @@
         "year": 1440
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍū"
   },
   {
     "id": 7,
+    "key": "ಢೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḍṛ"
+  },
+  {
+    "id": 8,
     "key": "ಢೆ",
     "isAvailable": true,
     "letterForms": [
@@ -3449,31 +3456,17 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಢೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ḍe"
   },
   {
     "id": 9,
-    "key": "ಢೊ",
+    "key": "ಢೇ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ḍē"
   },
   {
     "id": 10,
-    "key": "ಢೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
     "key": "ಢೈ",
     "isAvailable": true,
     "letterForms": [
@@ -3490,31 +3483,31 @@
         "year": 1621
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍai"
+  },
+  {
+    "id": 11,
+    "key": "ಢೊ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḍo"
   },
   {
     "id": 12,
-    "key": "ಢೌ",
+    "key": "ಢೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ḍō"
   },
   {
     "id": 13,
-    "key": "ಢೃ",
+    "key": "ಢೌ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ḍau"
   },
   {
     "id": 14,
-    "key": "ಢಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಢಂ",
     "isAvailable": true,
     "letterForms": [
@@ -3567,6 +3560,13 @@
         "year": 1371
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಢಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ḍaḥ"
   }
 ]

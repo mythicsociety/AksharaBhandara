@@ -2471,7 +2471,7 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "pa"
   },
   {
     "id": 2,
@@ -3229,7 +3229,7 @@
         "year": 1610
       }
     ],
-    "IASTform": ""
+    "IASTform": "pā"
   },
   {
     "id": 3,
@@ -3435,14 +3435,14 @@
         "year": 1533
       }
     ],
-    "IASTform": ""
+    "IASTform": "pi"
   },
   {
     "id": 4,
     "key": "ಪೀ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "pī"
   },
   {
     "id": 5,
@@ -3806,7 +3806,7 @@
       {
         "id": 60,
         "form": "pu_form1",
-        "path": "pu/pu_form1/750_BN55_KRPuram_1_2_pu.png",
+        "path": "pu/pu_form1/750_BN55_KRPuram_1_2_pu.PNG",
         "year": 750
       },
       {
@@ -4056,7 +4056,7 @@
         "year": 1029
       }
     ],
-    "IASTform": ""
+    "IASTform": "pu"
   },
   {
     "id": 6,
@@ -4286,116 +4286,10 @@
         "year": 1705
       }
     ],
-    "IASTform": ""
+    "IASTform": "pū"
   },
   {
     "id": 7,
-    "key": "ಪೆ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "pe_form1",
-        "path": "pe/pe_form1/1342_BN24_Ganigarahalli_15_17_pe.JPG",
-        "year": 1342
-      },
-      {
-        "id": 2,
-        "form": "pe_form1",
-        "path": "pe/pe_form1/1621_Mg25_Kalya_4_22_pe.JPG",
-        "year": 1621
-      },
-      {
-        "id": 3,
-        "form": "pe_form1",
-        "path": "pe/pe_form1/750_IthDarHebKit_Hebbal_2_1_pe.JPG",
-        "year": 750
-      },
-      {
-        "id": 4,
-        "form": "pe_form1",
-        "path": "pe/pe_form1/750_IthDarHebKit_Hebbal_5_1_pe.JPG",
-        "year": 750
-      },
-      {
-        "id": 5,
-        "form": "pe_form1",
-        "path": "pe/pe_form1/800_Nl34_Totagere_7_2_pe.JPG",
-        "year": 800
-      },
-      {
-        "id": 6,
-        "form": "pe_form2",
-        "path": "pe/pe_form2/780_Dv74_Gangavara_2_7_pe.JPG",
-        "year": 780
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಪೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 9,
-    "key": "ಪೊ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "po_form1",
-        "path": "po/po_form1/800_UnPub_Sadahalli_8_6_po.JPG",
-        "year": 800
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಪೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಪೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "pai_form1",
-        "path": "pai/pai_form1/1625_Unpub_Byalahalli_6_9_pai.JPG",
-        "year": 1625
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 12,
-    "key": "ಪೌ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "pau_form1",
-        "path": "pau/pau_form1/1716_Db63_Mavallipura_10_16_pau.png",
-        "year": 1716
-      },
-      {
-        "id": 2,
-        "form": "pau_form1",
-        "path": "pau/pau_form1/1716_Db63_Mavallipura_20_19_pau.png",
-        "year": 1716
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
     "key": "ಪೃ",
     "isAvailable": true,
     "letterForms": [
@@ -4484,24 +4378,116 @@
         "year": 750
       }
     ],
-    "IASTform": ""
+    "IASTform": "pṛ"
   },
   {
-    "id": 14,
-    "key": "ಪಃ",
+    "id": 8,
+    "key": "ಪೆ",
     "isAvailable": true,
     "letterForms": [
       {
         "id": 1,
-        "form": "paḥ_form1",
-        "path": "paḥ/paḥ_form1/1029_NL01_Soladevanahalli_45_1_paḥ.JPG",
-        "year": 1029
+        "form": "pe_form1",
+        "path": "pe/pe_form1/1342_BN24_Ganigarahalli_15_17_pe.JPG",
+        "year": 1342
+      },
+      {
+        "id": 2,
+        "form": "pe_form1",
+        "path": "pe/pe_form1/1621_Mg25_Kalya_4_22_pe.JPG",
+        "year": 1621
+      },
+      {
+        "id": 3,
+        "form": "pe_form1",
+        "path": "pe/pe_form1/750_IthDarHebKit_Hebbal_2_1_pe.JPG",
+        "year": 750
+      },
+      {
+        "id": 4,
+        "form": "pe_form1",
+        "path": "pe/pe_form1/750_IthDarHebKit_Hebbal_5_1_pe.JPG",
+        "year": 750
+      },
+      {
+        "id": 5,
+        "form": "pe_form1",
+        "path": "pe/pe_form1/800_Nl34_Totagere_7_2_pe.JPG",
+        "year": 800
+      },
+      {
+        "id": 6,
+        "form": "pe_form2",
+        "path": "pe/pe_form2/780_Dv74_Gangavara_2_7_pe.JPG",
+        "year": 780
       }
     ],
-    "IASTform": ""
+    "IASTform": "pe"
   },
   {
-    "id": 15,
+    "id": 9,
+    "key": "ಪೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "pē"
+  },
+  {
+    "id": 10,
+    "key": "ಪೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pai_form1",
+        "path": "pai/pai_form1/1625_Unpub_Byalahalli_6_9_pai.JPG",
+        "year": 1625
+      }
+    ],
+    "IASTform": "pai"
+  },
+  {
+    "id": 11,
+    "key": "ಪೊ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "po_form1",
+        "path": "po/po_form1/800_UnPub_Sadahalli_8_6_po.JPG",
+        "year": 800
+      }
+    ],
+    "IASTform": "po"
+  },
+  {
+    "id": 12,
+    "key": "ಪೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "pō"
+  },
+  {
+    "id": 13,
+    "key": "ಪೌ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "pau_form1",
+        "path": "pau/pau_form1/1716_Db63_Mavallipura_10_16_pau.png",
+        "year": 1716
+      },
+      {
+        "id": 2,
+        "form": "pau_form1",
+        "path": "pau/pau_form1/1716_Db63_Mavallipura_20_19_pau.png",
+        "year": 1716
+      }
+    ],
+    "IASTform": "pau"
+  },
+  {
+    "id": 14,
     "key": "ಪಂ",
     "isAvailable": true,
     "letterForms": [
@@ -4644,6 +4630,20 @@
         "year": 1698
       }
     ],
-    "IASTform": ""
+    "IASTform": "paṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಪಃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "paḥ_form1",
+        "path": "paḥ/paḥ_form1/1029_NL01_Soladevanahalli_45_1_paḥ.JPG",
+        "year": 1029
+      }
+    ],
+    "IASTform": "paḥ"
   }
 ]

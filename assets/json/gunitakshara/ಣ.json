@@ -1205,7 +1205,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṇa"
   },
   {
     "id": 2,
@@ -1303,7 +1303,7 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṇā"
   },
   {
     "id": 3,
@@ -1629,14 +1629,14 @@
         "year": 1309
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṇi"
   },
   {
     "id": 4,
     "key": "ಣೀ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṇī"
   },
   {
     "id": 5,
@@ -1674,17 +1674,24 @@
         "year": 971
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṇu"
   },
   {
     "id": 6,
     "key": "ಣೂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṇū"
   },
   {
     "id": 7,
+    "key": "ಣೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ṇṛ"
+  },
+  {
+    "id": 8,
     "key": "ಣೆ",
     "isAvailable": true,
     "letterForms": [
@@ -1701,31 +1708,17 @@
         "year": 750
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಣೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṇe"
   },
   {
     "id": 9,
-    "key": "ಣೊ",
+    "key": "ಣೇ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṇē"
   },
   {
     "id": 10,
-    "key": "ಣೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
     "key": "ಣೈ",
     "isAvailable": true,
     "letterForms": [
@@ -1736,38 +1729,31 @@
         "year": 1029
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṇai"
+  },
+  {
+    "id": 11,
+    "key": "ಣೊ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ṇo"
   },
   {
     "id": 12,
-    "key": "ಣೌ",
+    "key": "ಣೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṇō"
   },
   {
     "id": 13,
-    "key": "ಣೃ",
+    "key": "ಣೌ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṇau"
   },
   {
     "id": 14,
-    "key": "ಣಃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "ṇaḥ_form1",
-        "path": "ṇaḥ/ṇaḥ_form1/1029_NL01_Soladevanahalli_25_8_ṇaḥ.JPG",
-        "year": 1029
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಣಂ",
     "isAvailable": true,
     "letterForms": [
@@ -1838,6 +1824,20 @@
         "year": 970
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṇaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಣಃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "ṇaḥ_form1",
+        "path": "ṇaḥ/ṇaḥ_form1/1029_NL01_Soladevanahalli_25_8_ṇaḥ.JPG",
+        "year": 1029
+      }
+    ],
+    "IASTform": "ṇaḥ"
   }
 ]

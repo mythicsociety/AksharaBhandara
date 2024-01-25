@@ -4,104 +4,104 @@
     "key": "ಝ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jha"
   },
   {
     "id": 2,
     "key": "ಝಾ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jhā"
   },
   {
     "id": 3,
     "key": "ಝಿ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jhi"
   },
   {
     "id": 4,
     "key": "ಝೀ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jhī"
   },
   {
     "id": 5,
     "key": "ಝು",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jhu"
   },
   {
     "id": 6,
     "key": "ಝೂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jhū"
   },
   {
     "id": 7,
-    "key": "ಝೆ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಝೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 9,
-    "key": "ಝೊ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಝೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಝೈ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 12,
-    "key": "ಝೌ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
     "key": "ಝೃ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jhṛ"
+  },
+  {
+    "id": 8,
+    "key": "ಝೆ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jhe"
+  },
+  {
+    "id": 9,
+    "key": "ಝೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jhē"
+  },
+  {
+    "id": 10,
+    "key": "ಝೈ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jhai"
+  },
+  {
+    "id": 11,
+    "key": "ಝೊ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jho"
+  },
+  {
+    "id": 12,
+    "key": "ಝೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jhō"
+  },
+  {
+    "id": 13,
+    "key": "ಝೌ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jhau"
   },
   {
     "id": 14,
-    "key": "ಝಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಝಂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jhaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಝಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "jhaḥ"
   }
 ]

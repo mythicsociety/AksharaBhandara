@@ -4807,7 +4807,7 @@
       {
         "id": 801,
         "form": "ya_form2",
-        "path": "ya/ya_form2/750_BN55_KRPuram_2_13_ya.png",
+        "path": "ya/ya_form2/750_BN55_KRPuram_2_13_ya.PNG",
         "year": 750
       },
       {
@@ -4883,7 +4883,7 @@
         "year": 800
       }
     ],
-    "IASTform": ""
+    "IASTform": "ya"
   },
   {
     "id": 2,
@@ -5497,7 +5497,7 @@
         "year": 950
       }
     ],
-    "IASTform": ""
+    "IASTform": "yā"
   },
   {
     "id": 3,
@@ -6651,7 +6651,7 @@
         "year": 1362
       }
     ],
-    "IASTform": ""
+    "IASTform": "yi"
   },
   {
     "id": 4,
@@ -6905,7 +6905,7 @@
         "year": 1368
       }
     ],
-    "IASTform": ""
+    "IASTform": "yī"
   },
   {
     "id": 5,
@@ -7099,7 +7099,7 @@
         "year": 955
       }
     ],
-    "IASTform": ""
+    "IASTform": "yu"
   },
   {
     "id": 6,
@@ -7155,10 +7155,17 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "yū"
   },
   {
     "id": 7,
+    "key": "ಯೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "yṛ"
+  },
+  {
+    "id": 8,
     "key": "ಯೆ",
     "isAvailable": true,
     "letterForms": [
@@ -7199,17 +7206,24 @@
         "year": 750
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಯೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ye"
   },
   {
     "id": 9,
+    "key": "ಯೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "yē"
+  },
+  {
+    "id": 10,
+    "key": "ಯೈ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "yai"
+  },
+  {
+    "id": 11,
     "key": "ಯೊ",
     "isAvailable": true,
     "letterForms": [
@@ -7358,58 +7372,24 @@
         "year": 1400
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಯೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಯೈ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "yo"
   },
   {
     "id": 12,
-    "key": "ಯೌ",
+    "key": "ಯೋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "yō"
   },
   {
     "id": 13,
-    "key": "ಯೃ",
+    "key": "ಯೌ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "yau"
   },
   {
     "id": 14,
-    "key": "ಯಃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "yaḥ_form1",
-        "path": "yaḥ/yaḥ_form1/1029_NL01_Soladevanahalli_24_6_yaḥ.JPG",
-        "year": 1029
-      },
-      {
-        "id": 2,
-        "form": "yaḥ_form1",
-        "path": "yaḥ/yaḥ_form1/1029_NL01_Soladevanahalli_40_10_yaḥ.JPG",
-        "year": 1029
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಯಂ",
     "isAvailable": true,
     "letterForms": [
@@ -7684,6 +7664,26 @@
         "year": 950
       }
     ],
-    "IASTform": ""
+    "IASTform": "yaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಯಃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "yaḥ_form1",
+        "path": "yaḥ/yaḥ_form1/1029_NL01_Soladevanahalli_24_6_yaḥ.JPG",
+        "year": 1029
+      },
+      {
+        "id": 2,
+        "form": "yaḥ_form1",
+        "path": "yaḥ/yaḥ_form1/1029_NL01_Soladevanahalli_40_10_yaḥ.JPG",
+        "year": 1029
+      }
+    ],
+    "IASTform": "yaḥ"
   }
 ]

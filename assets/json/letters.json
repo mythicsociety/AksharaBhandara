@@ -1031,7 +1031,7 @@
         "year": 955
       }
     ],
-    "IASTform": ""
+    "IASTform": "a"
   },
   {
     "id": 2,
@@ -1921,7 +1921,7 @@
         "year": 1369
       }
     ],
-    "IASTform": ""
+    "IASTform": "ā"
   },
   {
     "id": 3,
@@ -2235,7 +2235,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "i"
   },
   {
     "id": 4,
@@ -2315,7 +2315,7 @@
         "year": 955
       }
     ],
-    "IASTform": ""
+    "IASTform": "ī"
   },
   {
     "id": 5,
@@ -2817,7 +2817,7 @@
       {
         "id": 83,
         "form": "u_form1",
-        "path": "u/u_form1/750_BN55_KRPuram_3_1_u.png",
+        "path": "u/u_form1/750_BN55_KRPuram_3_1_u.PNG",
         "year": 750
       },
       {
@@ -2929,7 +2929,7 @@
         "year": 1716
       }
     ],
-    "IASTform": ""
+    "IASTform": "u"
   },
   {
     "id": 6,
@@ -2981,7 +2981,7 @@
       {
         "id": 8,
         "form": "ū_form1",
-        "path": "ū/ū_form1/750_BN55_KRPuram_2_9_ū.png",
+        "path": "ū/ū_form1/750_BN55_KRPuram_2_9_ū.PNG",
         "year": 750
       },
       {
@@ -3027,21 +3027,21 @@
         "year": 1533
       }
     ],
-    "IASTform": ""
+    "IASTform": "ū"
   },
   {
     "id": 7,
     "key": "ಋ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṛ"
   },
   {
     "id": 8,
     "key": "ೠ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṝ"
   },
   {
     "id": 9,
@@ -3127,21 +3127,21 @@
         "year": 1716
       }
     ],
-    "IASTform": ""
+    "IASTform": "e"
   },
   {
     "id": 10,
     "key": "ಏ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ē"
   },
   {
     "id": 11,
     "key": "ಐ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ai"
   },
   {
     "id": 12,
@@ -3161,21 +3161,21 @@
         "year": 1533
       }
     ],
-    "IASTform": ""
+    "IASTform": "o"
   },
   {
     "id": 13,
     "key": "ಓ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ō"
   },
   {
     "id": 14,
     "key": "ಔ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "au"
   },
   {
     "id": 15,
@@ -5075,13 +5075,13 @@
       {
         "id": 316,
         "form": "ka_form1",
-        "path": "ka/ka_form1/750_BN55_KRPuram_1_14_ka.png",
+        "path": "ka/ka_form1/750_BN55_KRPuram_1_14_ka.PNG",
         "year": 750
       },
       {
         "id": 317,
         "form": "ka_form1",
-        "path": "ka/ka_form1/750_BN55_KRPuram_2_3_ka.png",
+        "path": "ka/ka_form1/750_BN55_KRPuram_2_3_ka.PNG",
         "year": 750
       },
       {
@@ -5871,7 +5871,7 @@
         "year": 1369
       }
     ],
-    "IASTform": ""
+    "IASTform": "ka"
   },
   {
     "id": 16,
@@ -6197,7 +6197,7 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "kha"
   },
   {
     "id": 17,
@@ -9049,7 +9049,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ga"
   },
   {
     "id": 18,
@@ -9153,14 +9153,14 @@
         "year": 1336
       }
     ],
-    "IASTform": ""
+    "IASTform": "gha"
   },
   {
     "id": 19,
     "key": "ಙ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ṅa"
   },
   {
     "id": 20,
@@ -9822,7 +9822,7 @@
         "year": 1369
       }
     ],
-    "IASTform": ""
+    "IASTform": "ca"
   },
   {
     "id": 21,
@@ -9860,7 +9860,7 @@
         "year": 950
       }
     ],
-    "IASTform": ""
+    "IASTform": "cha"
   },
   {
     "id": 22,
@@ -11064,7 +11064,7 @@
       {
         "id": 200,
         "form": "ja_form1",
-        "path": "ja/ja_form1/750_BN55_KRPuram_1_8_ja.png",
+        "path": "ja/ja_form1/750_BN55_KRPuram_1_8_ja.PNG",
         "year": 750
       },
       {
@@ -11170,14 +11170,14 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ja"
   },
   {
     "id": 23,
     "key": "ಝ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "jha"
   },
   {
     "id": 24,
@@ -11191,7 +11191,7 @@
         "year": 1369
       }
     ],
-    "IASTform": ""
+    "IASTform": "ña"
   },
   {
     "id": 25,
@@ -11475,7 +11475,7 @@
         "year": 1533
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṭa"
   },
   {
     "id": 26,
@@ -11501,7 +11501,7 @@
         "year": 1700
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṭha"
   },
   {
     "id": 27,
@@ -13423,7 +13423,7 @@
         "year": 1558
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍa"
   },
   {
     "id": 28,
@@ -13485,7 +13485,7 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "ḍha"
   },
   {
     "id": 29,
@@ -14693,7 +14693,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṇa"
   },
   {
     "id": 30,
@@ -16123,7 +16123,7 @@
         "year": 1336
       }
     ],
-    "IASTform": ""
+    "IASTform": "ta"
   },
   {
     "id": 31,
@@ -16305,7 +16305,7 @@
         "year": 1440
       }
     ],
-    "IASTform": ""
+    "IASTform": "tha"
   },
   {
     "id": 32,
@@ -21551,7 +21551,7 @@
         "year": 1534
       }
     ],
-    "IASTform": ""
+    "IASTform": "da"
   },
   {
     "id": 33,
@@ -22021,7 +22021,7 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "dha"
   },
   {
     "id": 34,
@@ -25119,7 +25119,7 @@
         "year": 971
       }
     ],
-    "IASTform": ""
+    "IASTform": "na"
   },
   {
     "id": 35,
@@ -27593,7 +27593,7 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "pa"
   },
   {
     "id": 36,
@@ -27619,7 +27619,7 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
+    "IASTform": "pha"
   },
   {
     "id": 37,
@@ -28917,7 +28917,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ba"
   },
   {
     "id": 38,
@@ -29579,7 +29579,7 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
+    "IASTform": "bha"
   },
   {
     "id": 39,
@@ -33519,7 +33519,7 @@
       {
         "id": 656,
         "form": "ma_form1",
-        "path": "ma/ma_form1/750_BN55_KRPuram_1_5_ma.png",
+        "path": "ma/ma_form1/750_BN55_KRPuram_1_5_ma.PNG",
         "year": 750
       },
       {
@@ -34423,7 +34423,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ma"
   },
   {
     "id": 40,
@@ -39233,7 +39233,7 @@
       {
         "id": 801,
         "form": "ya_form2",
-        "path": "ya/ya_form2/750_BN55_KRPuram_2_13_ya.png",
+        "path": "ya/ya_form2/750_BN55_KRPuram_2_13_ya.PNG",
         "year": 750
       },
       {
@@ -39309,7 +39309,7 @@
         "year": 800
       }
     ],
-    "IASTform": ""
+    "IASTform": "ya"
   },
   {
     "id": 41,
@@ -44083,37 +44083,37 @@
       {
         "id": 795,
         "form": "ra_form1",
-        "path": "ra/ra_form1/750_BN55_KRPuram_1_10_ra.png",
+        "path": "ra/ra_form1/750_BN55_KRPuram_1_10_ra.PNG",
         "year": 750
       },
       {
         "id": 796,
         "form": "ra_form1",
-        "path": "ra/ra_form1/750_BN55_KRPuram_1_16_ra.png",
+        "path": "ra/ra_form1/750_BN55_KRPuram_1_16_ra.PNG",
         "year": 750
       },
       {
         "id": 797,
         "form": "ra_form1",
-        "path": "ra/ra_form1/750_BN55_KRPuram_1_9_ra.png",
+        "path": "ra/ra_form1/750_BN55_KRPuram_1_9_ra.PNG",
         "year": 750
       },
       {
         "id": 798,
         "form": "ra_form1",
-        "path": "ra/ra_form1/750_BN55_KRPuram_2_10_ra.png",
+        "path": "ra/ra_form1/750_BN55_KRPuram_2_10_ra.PNG",
         "year": 750
       },
       {
         "id": 799,
         "form": "ra_form1",
-        "path": "ra/ra_form1/750_BN55_KRPuram_2_11_ra.png",
+        "path": "ra/ra_form1/750_BN55_KRPuram_2_11_ra.PNG",
         "year": 750
       },
       {
         "id": 800,
         "form": "ra_form1",
-        "path": "ra/ra_form1/750_BN55_KRPuram_3_2_ra.png",
+        "path": "ra/ra_form1/750_BN55_KRPuram_3_2_ra.PNG",
         "year": 750
       },
       {
@@ -45757,7 +45757,7 @@
       {
         "id": 1074,
         "form": "ra_form2",
-        "path": "ra/ra_form2/750_BN55_KRPuram_3_11_ra.png",
+        "path": "ra/ra_form2/750_BN55_KRPuram_3_11_ra.PNG",
         "year": 750
       },
       {
@@ -46331,7 +46331,7 @@
         "year": 1400
       }
     ],
-    "IASTform": ""
+    "IASTform": "ra"
   },
   {
     "id": 42,
@@ -47821,7 +47821,7 @@
         "year": 950
       }
     ],
-    "IASTform": ""
+    "IASTform": "la"
   },
   {
     "id": 43,
@@ -53151,7 +53151,7 @@
         "year": 1306
       }
     ],
-    "IASTform": ""
+    "IASTform": "va"
   },
   {
     "id": 44,
@@ -53693,7 +53693,7 @@
         "year": 1828
       }
     ],
-    "IASTform": ""
+    "IASTform": "śa"
   },
   {
     "id": 45,
@@ -53949,7 +53949,7 @@
       {
         "id": 42,
         "form": "ṣa_form1",
-        "path": "ṣa/ṣa_form1/750_BN55_KRPuram_1_4_ṣa.png",
+        "path": "ṣa/ṣa_form1/750_BN55_KRPuram_1_4_ṣa.PNG",
         "year": 750
       },
       {
@@ -54121,7 +54121,7 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṣa"
   },
   {
     "id": 46,
@@ -55529,7 +55529,7 @@
       {
         "id": 234,
         "form": "sa_form1",
-        "path": "sa/sa_form1/750_BN55_KRPuram_2_8_sa.png",
+        "path": "sa/sa_form1/750_BN55_KRPuram_2_8_sa.PNG",
         "year": 750
       },
       {
@@ -56439,7 +56439,7 @@
         "year": 971
       }
     ],
-    "IASTform": ""
+    "IASTform": "sa"
   },
   {
     "id": 47,
@@ -57803,14 +57803,14 @@
         "year": 1342
       }
     ],
-    "IASTform": ""
+    "IASTform": "ha"
   },
   {
     "id": 48,
     "key": "ಳ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ḷa"
   },
   {
     "id": 49,
@@ -58076,6 +58076,6 @@
         "year": 1410
       }
     ],
-    "IASTform": ""
+    "IASTform": "ṟa"
   }
 ]

@@ -2849,7 +2849,7 @@
         "year": 900
       }
     ],
-    "IASTform": ""
+    "IASTform": "ga"
   },
   {
     "id": 2,
@@ -3253,7 +3253,7 @@
         "year": 1382
       }
     ],
-    "IASTform": ""
+    "IASTform": "gā"
   },
   {
     "id": 3,
@@ -4203,7 +4203,7 @@
         "year": 950
       }
     ],
-    "IASTform": ""
+    "IASTform": "gi"
   },
   {
     "id": 4,
@@ -4223,7 +4223,7 @@
         "year": 750
       }
     ],
-    "IASTform": ""
+    "IASTform": "gī"
   },
   {
     "id": 5,
@@ -4591,7 +4591,7 @@
         "year": 1388
       }
     ],
-    "IASTform": ""
+    "IASTform": "gu"
   },
   {
     "id": 6,
@@ -4719,10 +4719,17 @@
         "year": 1336
       }
     ],
-    "IASTform": ""
+    "IASTform": "gū"
   },
   {
     "id": 7,
+    "key": "ಗೃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "gṛ"
+  },
+  {
+    "id": 8,
     "key": "ಗೆ",
     "isAvailable": true,
     "letterForms": [
@@ -4751,17 +4758,67 @@
         "year": 750
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಗೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ge"
   },
   {
     "id": 9,
+    "key": "ಗೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "gē"
+  },
+  {
+    "id": 10,
+    "key": "ಗೈ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "gai_form1",
+        "path": "gai/gai_form1/1532_BN57_Dasarahalli_7_11_gai.jpg",
+        "year": 1532
+      },
+      {
+        "id": 2,
+        "form": "gai_form1",
+        "path": "gai/gai_form1/1533_Nl31_Hessarghatta_2_38_gai.JPG",
+        "year": 1533
+      },
+      {
+        "id": 3,
+        "form": "gai_form1",
+        "path": "gai/gai_form1/1534_CP155_Chakkere_5_6_gai.JPG",
+        "year": 1534
+      },
+      {
+        "id": 4,
+        "form": "gai_form1",
+        "path": "gai/gai_form1/1610_Db49_Nagenahalli_4_6_gai.png",
+        "year": 1610
+      },
+      {
+        "id": 5,
+        "form": "gai_form1",
+        "path": "gai/gai_form1/1705_BN118_Kothnur_7_7_gai.jpg",
+        "year": 1705
+      },
+      {
+        "id": 6,
+        "form": "gai_form1",
+        "path": "gai/gai_form1/1716_Db63_Mavallipura_8_24_gai.png",
+        "year": 1716
+      },
+      {
+        "id": 7,
+        "form": "gai_form2",
+        "path": "gai/gai_form2/1506_BN33_Jalahalli_5_7_gai.JPG",
+        "year": 1506
+      }
+    ],
+    "IASTform": "gai"
+  },
+  {
+    "id": 11,
     "key": "ಗೊ",
     "isAvailable": true,
     "letterForms": [
@@ -4994,67 +5051,17 @@
         "year": 1759
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಗೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಗೈ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "gai_form1",
-        "path": "gai/gai_form1/1532_BN57_Dasarahalli_7_11_gai.jpg",
-        "year": 1532
-      },
-      {
-        "id": 2,
-        "form": "gai_form1",
-        "path": "gai/gai_form1/1533_Nl31_Hessarghatta_2_38_gai.JPG",
-        "year": 1533
-      },
-      {
-        "id": 3,
-        "form": "gai_form1",
-        "path": "gai/gai_form1/1534_CP155_Chakkere_5_6_gai.JPG",
-        "year": 1534
-      },
-      {
-        "id": 4,
-        "form": "gai_form1",
-        "path": "gai/gai_form1/1610_Db49_Nagenahalli_4_6_gai.png",
-        "year": 1610
-      },
-      {
-        "id": 5,
-        "form": "gai_form1",
-        "path": "gai/gai_form1/1705_BN118_Kothnur_7_7_gai.jpg",
-        "year": 1705
-      },
-      {
-        "id": 6,
-        "form": "gai_form1",
-        "path": "gai/gai_form1/1716_Db63_Mavallipura_8_24_gai.png",
-        "year": 1716
-      },
-      {
-        "id": 7,
-        "form": "gai_form2",
-        "path": "gai/gai_form2/1506_BN33_Jalahalli_5_7_gai.JPG",
-        "year": 1506
-      }
-    ],
-    "IASTform": ""
+    "IASTform": "go"
   },
   {
     "id": 12,
+    "key": "ಗೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "gō"
+  },
+  {
+    "id": 13,
     "key": "ಗೌ",
     "isAvailable": true,
     "letterForms": [
@@ -5173,31 +5180,10 @@
         "year": 1534
       }
     ],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
-    "key": "ಗೃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
+    "IASTform": "gau"
   },
   {
     "id": 14,
-    "key": "ಗಃ",
-    "isAvailable": true,
-    "letterForms": [
-      {
-        "id": 1,
-        "form": "gaḥ_form1",
-        "path": "gaḥ/gaḥ_form1/1029_NL01_Soladevanahalli_40_6_gaḥ.JPG",
-        "year": 1029
-      }
-    ],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಗಂ",
     "isAvailable": true,
     "letterForms": [
@@ -5808,6 +5794,20 @@
         "year": 1569
       }
     ],
-    "IASTform": ""
+    "IASTform": "gaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಗಃ",
+    "isAvailable": true,
+    "letterForms": [
+      {
+        "id": 1,
+        "form": "gaḥ_form1",
+        "path": "gaḥ/gaḥ_form1/1029_NL01_Soladevanahalli_40_6_gaḥ.JPG",
+        "year": 1029
+      }
+    ],
+    "IASTform": "gaḥ"
   }
 ]

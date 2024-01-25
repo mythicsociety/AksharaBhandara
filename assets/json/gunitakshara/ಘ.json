@@ -101,7 +101,7 @@
         "year": 1336
       }
     ],
-    "IASTform": ""
+    "IASTform": "gha"
   },
   {
     "id": 2,
@@ -115,21 +115,21 @@
         "year": 1432
       }
     ],
-    "IASTform": ""
+    "IASTform": "ghā"
   },
   {
     "id": 3,
     "key": "ಘಿ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ghi"
   },
   {
     "id": 4,
     "key": "ಘೀ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ghī"
   },
   {
     "id": 5,
@@ -143,73 +143,66 @@
         "year": 1850
       }
     ],
-    "IASTform": ""
+    "IASTform": "ghu"
   },
   {
     "id": 6,
     "key": "ಘೂ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ghū"
   },
   {
     "id": 7,
-    "key": "ಘೆ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 8,
-    "key": "ಘೇ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 9,
-    "key": "ಘೊ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 10,
-    "key": "ಘೋ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 11,
-    "key": "ಘೈ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 12,
-    "key": "ಘೌ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 13,
     "key": "ಘೃ",
     "isAvailable": false,
     "letterForms": [],
-    "IASTform": ""
+    "IASTform": "ghṛ"
+  },
+  {
+    "id": 8,
+    "key": "ಘೆ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ghe"
+  },
+  {
+    "id": 9,
+    "key": "ಘೇ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ghē"
+  },
+  {
+    "id": 10,
+    "key": "ಘೈ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ghai"
+  },
+  {
+    "id": 11,
+    "key": "ಘೊ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "gho"
+  },
+  {
+    "id": 12,
+    "key": "ಘೋ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ghō"
+  },
+  {
+    "id": 13,
+    "key": "ಘೌ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ghau"
   },
   {
     "id": 14,
-    "key": "ಘಃ",
-    "isAvailable": false,
-    "letterForms": [],
-    "IASTform": ""
-  },
-  {
-    "id": 15,
     "key": "ಘಂ",
     "isAvailable": true,
     "letterForms": [
@@ -226,6 +219,13 @@
         "year": 1412
       }
     ],
-    "IASTform": ""
+    "IASTform": "ghaṃ"
+  },
+  {
+    "id": 15,
+    "key": "ಘಃ",
+    "isAvailable": false,
+    "letterForms": [],
+    "IASTform": "ghaḥ"
   }
 ]

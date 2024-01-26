@@ -1,55 +1,512 @@
 [
     {
-        "key": "word1.png",
+        "key": "01_Jalige_svasti śrī śaka varuṣa 1267.JPG",
+        "answer": "ಸ್ವಸ್ತಿ ಶ್ರೀ ಶಕ ವರುಷ 1267",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "02_Jalige_nĕya tāraṇa saṃvatsarada pā.JPG",
+        "answer": "ನೆಯ ತಾರಣ ಸಂವತ್ಸರದ ಪಾ",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "03_.JPG",
+        "answer": "",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "04_Jalige_manmahānāykācāryya.JPG",
+        "answer": "ಮನ್ಮಹಾನಾಯ್ಕಾಚಾರ್ಯ್ಯ",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "05_Jalige_bhāsĕgĕ tappuva nāyka.JPG",
+        "answer": "ಭಾಸೆಗೆ ತಪ್ಪುವ ನಾಯ್ಕ",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "10_Doddagubbi_lisidanu i sasānava.JPG",
+        "answer": "ಲಿಸಿದನು ಇ ಸಸಾನವ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "11_Doddagubbi_baradatha kāḻa śrī.JPG",
+        "answer": "ಬರದಥ ಕಾೞ ಶ್ರೀ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "1_Doddagubbi_svasti śrī śakābda 1293.JPG",
+        "answer": "ಸ್ವಸ್ತಿ ಶ್ರೀ ಶಕಾಬ್ದ 1293",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "2_Doddagubbi_ĕniya sādāraṇa saṃvatsa.JPG",
+        "answer": "ಎನಿಯ ಸಾದಾರಣ ಸಂವತ್ಸ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "3_Doddagubbi_ra puṣya su 1 guruvārada.JPG",
+        "answer": "ರ ಪುಷ್ಯ ಸು 1 ಗುರುವಾರದ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "4_Doddagubbi_lu gubiya stānaval̤i baṃ.JPG",
+        "answer": "ಲು ಗುಬಿಯ ಸ್ತಾನವಳಿ ಬಂ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "5_Doddagubbi_gācāri bayirŏjana ma.JPG",
+        "answer": "ಗಾಚಾರಿ ಬಯಿರೊಜನ ಮ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "6_Doddagubbi_ga cŏkkābaktanu devaloka.JPG",
+        "answer": "ಗ ಚೊಕ್ಕಾಬಕ್ತನು ದೇವಲೋಕ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "7_Doddagubbi_kĕ saṃdadu ā cŏka.JPG",
+        "answer": "ಕೆ ಸಂದದು ಆ ಚೊಕ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "8_Doddagubbi_baktana maga bayirŏ.JPG",
+        "answer": "ಬಕ್ತನ ಮಗ ಬಯಿರೊ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "9_Doddagubbi_janu yi gŏpiya ni..JPG",
+        "answer": "ಜನು ಯಿ ಗೊಪಿಯ ನಿ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "BN24_Ganigarahalli_allayya.JPG",
+        "answer": "ಅಲ್ಲಯ್ಯ",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_cakravartti.JPG",
+        "answer": "ಚಕ್ರವರ್ತ್ತಿ",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_cayitra.JPG",
+        "answer": "ಚಯಿತ್ರ",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_citrabhānu.JPG",
+        "answer": "ಚಿತ್ರಭಾನು",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_gavuṃḍagal̤u.JPG",
+        "answer": "ಗವುಂಡಗಳು",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_kĕṟĕ.JPG",
+        "answer": "ಕೆಱೆ",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_makkal̤u.JPG",
+        "answer": "ಮಕ್ಕಳು",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_mayiduna.JPG",
+        "answer": "ಮಯಿದುನ",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_mācideva.JPG",
+        "answer": "ಮಾಚಿದೇವ",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_māragavuṃḍa.JPG",
+        "answer": "ಮಾರಗವುಂಡ",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_nāḍasenabova.JPG",
+        "answer": "ನಾಡಸೇನಬೋವ",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_prabhugal̤u.JPG",
+        "answer": "ಪ್ರಭುಗಳು",
+        "inscriptionId": 1021342
+    },
+    {
+        "key": "BN24_Ganigarahalli_prajĕ.JPG",
         "answer": "ಪ್ರಜೆ",
-        "inscriptionId": 123
+        "inscriptionId": 1021342
     },
     {
-        "key": "word2.png",
-        "answer": "ಮಾಘ",
-        "inscriptionId": 123
+        "key": "BN24_Ganigarahalli_sāvaṃtā.JPG",
+        "answer": "ಸಾವಂತಾ",
+        "inscriptionId": 1021342
     },
     {
-        "key": "word3.png",
-        "answer": "ನಾಯಕ",
-        "inscriptionId": 123
+        "key": "BN24_Ganigarahalli_tāmiyappa.JPG",
+        "answer": "ತಾಮಿಯಪ್ಪ",
+        "inscriptionId": 1021342
     },
     {
-        "key": "word4.png",
-        "answer": "ಸನಿವಾರ",
-        "inscriptionId": 123
+        "key": "BN24_Ganigarahalli_yĕlahakanāḍa.JPG",
+        "answer": "ಯೆಲಹಕನಾಡ",
+        "inscriptionId": 1021342
     },
     {
-        "key": "word5.png",
+        "key": "Byadarahalli_buvanāsrayaṃ.JPG",
+        "answer": "ಬುವನಾಸ್ರಯಂ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_caladaṃka rāma.JPG",
+        "answer": "ಚಲದಂಕ ರಾಮ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_cūḍāmaṇi.JPG",
         "answer": "ಚೂಡಾಮಣಿ",
-        "inscriptionId": 123
+        "inscriptionId": 115047
     },
     {
-        "key": "",
-        "answer": ""
+        "key": "Byadarahalli_dakṣiṇāmūrti.JPG",
+        "answer": "ದಕ್ಷಿಣಾಮೂರ್ತಿ",
+        "inscriptionId": 115047
     },
     {
-        "key": "",
-        "answer": ""
+        "key": "Byadarahalli_gaṃgĕya.JPG",
+        "answer": "ಗಂಗೆಯ",
+        "inscriptionId": 115047
     },
     {
-        "key": "",
-        "answer": ""
+        "key": "Byadarahalli_kaṃṭīravaṃ.JPG",
+        "answer": "ಕಂಟೀರವಂ",
+        "inscriptionId": 115047
     },
     {
-        "key": "",
-        "answer": ""
+        "key": "Byadarahalli_kukkalanāḍa.JPG",
+        "answer": "ಕುಕ್ಕಲನಾಡ",
+        "inscriptionId": 115047
     },
     {
-        "key": "",
-        "answer": ""
+        "key": "Byadarahalli_maṃgal̤a.JPG",
+        "answer": "ಮಂಗಳ",
+        "inscriptionId": 115047
     },
     {
-        "key": "",
-        "answer": ""
+        "key": "Byadarahalli_muktanātha.JPG",
+        "answer": "ಮುಕ್ತನಾಥ",
+        "inscriptionId": 115047
     },
     {
-        "key": "",
-        "answer": ""
+        "key": "Byadarahalli_māgha.JPG",
+        "answer": "ಮಾಘ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_mānyada.JPG",
+        "answer": "ಮಾನ್ಯದ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_nāyaka.JPG",
+        "answer": "ನಾಯಕ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_puravarādhīsvara.JPG",
+        "answer": "ಪುರವರಾಧೀಸ್ವರ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_sanivāra.JPG",
+        "answer": "ಸನಿವಾರ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_senabova.JPG",
+        "answer": "ಸೇನಬೋವ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_svayaṃbu.JPG",
+        "answer": "ಸ್ವಯಂಬು",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_yiva saṃvatsara.JPG",
+        "answer": "ಯಿವ ಸಂವತ್ಸರ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "Byadarahalli_yādava kulā.JPG",
+        "answer": "ಯಾದವ ಕುಲಾ",
+        "inscriptionId": 115047
+    },
+    {
+        "key": "CP150_Malurpatna_arirāya.JPG",
+        "answer": "ಅರಿರಾಯ",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_durgadalu.JPG",
+        "answer": "ದುರ್ಗದಲು",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_kāveriya.JPG",
+        "answer": "ಕಾವೇರಿಯ",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_kĕl̤alĕnāḍa.JPG",
+        "answer": "ಕೆಳಲೆನಾಡ",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_kŏṃgunāḍa.JPG",
+        "answer": "ಕೊಂಗುನಾಡ",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_rāutara.JPG",
+        "answer": "ರಾಉತರ",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_tividu.JPG",
+        "answer": "ತಿವಿದು",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_tuṟuva.JPG",
+        "answer": "ತುಱುವ",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_vijayaṃṇa.JPG",
+        "answer": "ವಿಜಯಂಣ",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_vīrasvarggava.JPG",
+        "answer": "ವೀರಸ್ವರ್ಗ್ಗವ",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "CP150_Malurpatna_yiralāgi.JPG",
+        "answer": "ಯಿರಲಾಗಿ",
+        "inscriptionId": 1011369
+    },
+    {
+        "key": "DB52_Isturu_bhūjabal̤a.JPG",
+        "answer": "ಭೂಜಬಳ",
+        "inscriptionId": 101306
+    },
+    {
+        "key": "DB52_Isturu_samasta.JPG",
+        "answer": "ಸಮಸ್ತ",
+        "inscriptionId": 101306
+    },
+    {
+        "key": "Doddagubbi_baktana maga.JPG",
+        "answer": "ಬಕ್ತನ ಮಗ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "Doddagubbi_gubiya.JPG",
+        "answer": "ಗುಬಿಯ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "Doddagubbi_guruvāra.JPG",
+        "answer": "ಗುರುವಾರ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "Doddagubbi_svasti śrī.JPG",
+        "answer": "ಸ್ವಸ್ತಿ ಶ್ರೀ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "Doddagubbi_sādāraṇa.JPG",
+        "answer": "ಸಾದಾರಣ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "Doddagubbi_śakābda.JPG",
+        "answer": "ಶಕಾಬ್ದ",
+        "inscriptionId": 1011370
+    },
+    {
+        "key": "IthDar_Kadatanamale_bĕddalanū.JPG",
+        "answer": "ಬೆದ್ದಲನೂ",
+        "inscriptionId": 1011329
+    },
+    {
+        "key": "IthDar_Kadatanamale_gaūḍugal̤ū.JPG",
+        "answer": "ಗಊಡುಗಳೂ",
+        "inscriptionId": 1011329
+    },
+    {
+        "key": "IthDar_Kadatanamale_kaḍitalĕmalli.JPG",
+        "answer": "ಕಡಿತಲೆಮಲ್ಲಿ",
+        "inscriptionId": 1011329
+    },
+    {
+        "key": "IthDar_Kadatanamale_paṭṭaṇadalu.JPG",
+        "answer": "ಪಟ್ಟಣದಲು",
+        "inscriptionId": 1011329
+    },
+    {
+        "key": "IthDar_Kadatanamale_pŏṃnaṇa.JPG",
+        "answer": "ಪೊಂನಣ",
+        "inscriptionId": 1011329
+    },
+    {
+        "key": "IthDar_Kadatanamale_silā śāsana.JPG",
+        "answer": "ಸಿಲಾ ಶಾಸನ",
+        "inscriptionId": 1011329
+    },
+    {
+        "key": "IthDar_Kadatanamale_śīmĕvŏl̤agāda.JPG",
+        "answer": "ಶೀಮೆವೊಳಗಾದ",
+        "inscriptionId": 1011329
+    },
+    {
+        "key": "Jakkur_1265.JPG",
+        "answer": "1265",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_citrabhānu.JPG",
+        "answer": "ಚಿತ್ರಭಾನು",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_pratāpa.JPG",
+        "answer": "ಪ್ರತಾಪ",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_rājya.JPG",
+        "answer": "ರಾಜ್ಯ",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_samasta.JPG",
+        "answer": "ಸಮಸ್ತ",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_svasti śrī.JPG",
+        "answer": "ಸ್ವಸ್ತಿ ಶ್ರೀ",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_vīraballāl̤a.JPG",
+        "answer": "ವೀರಬಲ್ಲಾಳ",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_āśvīja.JPG",
+        "answer": "ಆಶ್ವೀಜ",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_ĕlahka.JPG",
+        "answer": "ಎಲಹ್ಕ",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_śakābda.JPG",
+        "answer": "ಶಕಾಬ್ದ",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jakkur_śrī matu.JPG",
+        "answer": "ಶ್ರೀ ಮತು",
+        "inscriptionId": 1011342
+    },
+    {
+        "key": "Jalige_cāryya.JPG",
+        "answer": "ಚಾರ್ಯ್ಯ",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "Jalige_nāyka.JPG",
+        "answer": "ನಾಯ್ಕ",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "Jalige_tāraṇa.JPG",
+        "answer": "ತಾರಣ",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "Jalige_varuṣa.JPG",
+        "answer": "ವರುಷ",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "Jalige_ādivāra.JPG",
+        "answer": "ಆದಿವಾರ",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "Jalige_śuddha.JPG",
+        "answer": "ಶುದ್ಧ",
+        "inscriptionId": 115050
+    },
+    {
+        "key": "Kalya_HulleLinganaAre_baṃṭa.JPG",
+        "answer": "ಬಂಟ",
+        "inscriptionId": 115056
+    },
+    {
+        "key": "Kalya_HulleLinganaAre_bukkarāya.JPG",
+        "answer": "ಬುಕ್ಕರಾಯ",
+        "inscriptionId": 115056
+    },
+    {
+        "key": "Kalya_HulleLinganaAre_dharmmavāgi.JPG",
+        "answer": "ಧರ್ಮ್ಮವಾಗಿ",
+        "inscriptionId": 115056
+    },
+    {
+        "key": "Kalya_HulleLinganaAre_mārggaśira.JPG",
+        "answer": "ಮಾರ್ಗ್ಗಶಿರ",
+        "inscriptionId": 115056
+    },
+    {
+        "key": "Kalya_HulleLinganaAre_parameśvara.JPG",
+        "answer": "ಪರಮೇಶ್ವರ",
+        "inscriptionId": 115056
+    },
+    {
+        "key": "Kalya_HulleLinganaAre_rājādhirāja.JPG",
+        "answer": "ರಾಜಾಧಿರಾಜ",
+        "inscriptionId": 115056
+    },
+    {
+        "key": "Kalya_HulleLinganaAre_svastiśrī.JPG",
+        "answer": "ಸ್ವಸ್ತಿಶ್ರೀ",
+        "inscriptionId": 115056
+    },
+    {
+        "key": "Kalya_HulleLinganaAre_viṭhalanātha.JPG",
+        "answer": "ವಿಠಲನಾಥ",
+        "inscriptionId": 115056
+    },
+    {
+        "key": "Kalya_HulleLinganaAre_śubha.JPG",
+        "answer": "ಶುಭ",
+        "inscriptionId": 115056
     }
 ]

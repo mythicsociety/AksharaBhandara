@@ -7,6 +7,7 @@ import InnerImageZoom from 'vue-inner-image-zoom';
 import { ModelListSelect } from "vue-search-select"
 import Modal from './SubComponents/Modal.vue'
 import Header from './SubComponents/Header.vue';
+import IAST from './SubComponents/IAST.vue';
 
 </script>
 
@@ -28,7 +29,8 @@ export default {
             totalCharacters: 0,
             selectedShasanaDetails: null,
             searchText: "",
-            isModalOpen: false
+            isModalOpen: false,
+            showIAST: false
         }
     },
     watch: {
@@ -88,6 +90,9 @@ export default {
         },
         printSearchText(searchText) {
             this.searchText = searchText
+        },
+        getShowIAST(data) {
+            this.showIAST = data;
         }
 
     }, mounted() {
@@ -103,7 +108,7 @@ export default {
     <div class="body-padding" style="margin: auto;">
         <div style="position: relative;">
             <!-- Comment  <p class="sub-heading">ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ {{ shasanas.length }} ಶಾಸನಗಳು ವೀಕ್ಷಣೆಗೆ ಲಭ್ಯವಿದೆ</p> replaced with a simpler message by Uday -->
-            <p class="sub-heading">{{ $t("inscription.count",{length:shasanas.length}) }}</p>
+            <p class="sub-heading">{{ $t("inscription.count", { length: shasanas.length }) }}</p>
 
             <button type="button" @click="isModalOpen = true"
                 style="position: absolute; top: 0; right: 0; padding: 5px; display: flex; align-items: center; margin: 10px;">
@@ -131,20 +136,23 @@ export default {
 
             <div v-if="selectedShasana !== null">
                 <button @click="scrollToElement">{{ $t("inscription.txtClickForImage") }}</button>
-                
-                <p>{{ $t("inscription.details",{id:selectedShasanaDetails.id, totalLines:totalLines, totalCharacters:totalCharacters}) }}</p>
-                <!-- <p>ಈ ಶಾಸನದಲ್ಲಿ (ID: {{ selectedShasanaDetails.id }}) {{ totalLines
-                }}
-                    ಸಾಲುಗಳು ಮತ್ತು {{ totalCharacters
-                    }} ಅಕ್ಷರಗಳಿವೆ</p> -->
+
+                <p>{{ $t("inscription.details", {
+                    id: selectedShasanaDetails.id, totalLines: totalLines,
+                    totalCharacters: totalCharacters
+                }) }}</p>
+                <IAST @showIAST="getShowIAST" />
+
             </div>
         </div>
 
-        <div v-for="(group, index) in groupedShasanaDetails" :class="flex-container-parent" style="border: 1px solid; margin-bottom: 10px;">
+        <div v-for="(group, index) in groupedShasanaDetails" :class="flex-container-parent"
+            style="border: 1px solid; margin-bottom: 10px;">
             <p style="background-color: rgba(188, 143, 143, 0.5);">{{ $t("inscription.line") }} {{ index + 1 }}</p>
             <div class="flex-container-no-gap">
                 <BasicLetter v-for="letter in group[1]" :image_src="letter.filePath" :showLetterText="false"
-                    :imageSizePx="50" :showLetterYear="false" :displayText="letter.kannadaWord" :showBackground="false" />
+                    :imageSizePx="50" :showLetterYear="false" :displayText="showIAST ? letter.letter : letter.kannadaWord"
+                    :showBackground="false" />
             </div>
 
         </div>

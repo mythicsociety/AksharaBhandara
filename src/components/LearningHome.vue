@@ -83,6 +83,7 @@ export default {
         nextWord() {
             this.showAnswer = false;
             this.currentIndex = (this.currentIndex + 1) % this.words.length;
+            this.inscriptionId = this.words[this.currentIndex]?.inscriptionId
         },
         nextSentence() {
             this.showAnswer = false;
@@ -173,6 +174,8 @@ export default {
                 <h2>{{ $t("practice.hintWord") }}</h2>
                 <img :src="`${publicPath}./assets/Learning/Words/${words[currentIndex]?.key}`">
                 <h3 v-if="showAnswer" style="color: green">{{ words[currentIndex]?.answer }}</h3>
+                <a v-if="showAnswer" target="_blank"
+                        :href="`https://mythicsociety.github.io/AksharaBhandara/#/learn/Shasanagalu?id=${inscriptionId}`">{{ $t("practice.linkInscription") }}</a>
 
             </div>
             <div v-show="selected === 'three'">

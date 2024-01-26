@@ -20,6 +20,9 @@ export default {
         image_src(newValue, oldValue) {
             this.fileName = getFileNameFromPath(newValue)
             this.updateDisplayText(newValue)
+        },
+        displayText(newValue, oldValue){
+            this.updateDisplayText(newValue)
         }
     },
     data() {

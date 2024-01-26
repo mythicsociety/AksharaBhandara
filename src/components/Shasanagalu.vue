@@ -93,6 +93,12 @@ export default {
         },
         getShowIAST(data) {
             this.showIAST = data;
+        },
+        refreshShasanas(){
+            this.shasanas = [];
+        },
+        getTranslatedShasana(insId){
+            return this.$t("inscriptions." + insId);
         }
 
     }, mounted() {
@@ -131,7 +137,8 @@ export default {
 
             <select style="margin: 15px;" v-model="selectedShasana" @change="printSearchText">
                 <option :value="null" disabled>{{ $t("inscription.hintSelectInsc") }}</option>
-                <option v-for="ins in shasanas" :value="ins.key">{{ ins.displayName }}</option>
+                <option v-for="ins in shasanas" :value="ins.key">
+                    {{getTranslatedShasana(ins.id)}}</option>
             </select>
 
             <div v-if="selectedShasana !== null">

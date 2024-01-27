@@ -99,6 +99,9 @@ export default {
         },
         getTranslatedShasana(insId){
             return this.$t("inscriptions." + insId);
+        },
+        getSelectedInscriptionTranslation(){
+            return this.$t("inscriptions." + this.selectedShasanaDetails.id);
         }
 
     }, mounted() {
@@ -180,7 +183,7 @@ export default {
                 :zoomSrc="`${publicPath}./assets/Shasanas/${selectedShasanaDetails.imagePath[0]}`" :width="500"
                 :height="500" />
 
-            <h2>{{ selectedShasanaDetails.displayName }}</h2>
+            <h2>{{ getSelectedInscriptionTranslation() }}</h2>
         </div>
         <div v-if="selectedShasanaDetails != null">
             <p v-html="selectedShasanaDetails.description"></p>
